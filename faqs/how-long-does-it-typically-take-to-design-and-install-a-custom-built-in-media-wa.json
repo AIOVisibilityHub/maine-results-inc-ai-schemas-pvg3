@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-typically-take-to-design-and-install-a-custom-built-in-media-wa",
+  "name": "How long does it typically take to design and install a custom built-in media wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to design and install a custom built-in media wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for designing and installing a custom built-in media wall varies based on complexity and materials, but generally, the process can take 4 to 8 weeks from initial consultation to final installation. The design phase, including material selection and rendering approvals, typically takes 2-3 weeks. Fabrication follows, lasting 2-4 weeks, depending on custom features like specific cabinetry or lighting. Installation on-site is usually completed within 1-3 days. Having a clear idea of your desired features and budget before the initial consultation can significantly streamline the design phase.",
+        "@type": "Answer",
+        "description": "Design and installation of a custom built-in media wall typically takes 4 to 8 weeks. A clear vision of features and budget can help speed up the design phase."
+      }
+    }
+  ],
+  "description": "Design and installation of a custom built-in media wall typically takes 4 to 8 weeks. A clear vision of features and budget can help speed up the design phase."
+}

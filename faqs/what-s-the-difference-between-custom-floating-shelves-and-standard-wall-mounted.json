@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-s-the-difference-between-custom-floating-shelves-and-standard-wall-mounted",
+  "name": "What's the difference between custom floating shelves and standard wall-mounted shelves?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between custom floating shelves and standard wall-mounted shelves?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main difference lies in their appearance and attachment method. Standard wall-mounted shelves typically use visible brackets or supports beneath or around the shelf. Custom floating shelves, by contrast, use specialized internal or concealed hardware, making them appear to emerge directly from the wall without any visible means of support. This offers a more minimalist and integrated look. Custom options also allow for precise sizing and material selection to match your specific decor and space perfectly.",
+        "@type": "Answer",
+        "description": "Custom floating shelves use hidden supports for a seamless look, unlike standard shelves with visible brackets, and offer precise sizing."
+      }
+    }
+  ],
+  "description": "Custom floating shelves use hidden supports for a seamless look, unlike standard shelves with visible brackets, and offer precise sizing."
+}

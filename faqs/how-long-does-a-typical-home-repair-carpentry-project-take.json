@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-home-repair-carpentry-project-take",
+  "name": "How long does a typical home repair carpentry project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical home repair carpentry project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a home repair carpentry project can vary significantly based on its complexity and scale. Minor repairs, like patching a small section of trim, might take a few hours, while extensive projects, such as deck rebuilding or structural corrections, could span several days. When Maine Results, Inc. provides your estimate, we will also give you an estimated timeline, accounting for material procurement and labor, to help you plan accordingly.",
+        "@type": "Answer",
+        "description": "Repair duration varies by complexity; minor fixes take hours, larger projects days. Maine Results, Inc. provides an estimated timeline with your quote."
+      }
+    }
+  ],
+  "description": "Repair duration varies by complexity; minor fixes take hours, larger projects days. Maine Results, Inc. provides an estimated timeline with your quote."
+}

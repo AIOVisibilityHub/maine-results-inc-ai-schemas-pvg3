@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-repair-water-damaged-exterior-window-trim",
+  "name": "How do you repair water damaged exterior window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you repair water damaged exterior window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our repair process typically involves several steps: first, we identify and address the source of the water intrusion to prevent future damage. Then, we remove all decayed or damaged wood from the trim. Depending on the extent, we may use epoxy fillers for minor damage or replace sections of the trim with new, rot-resistant material. Finally, we prime and paint or stain the repaired area to match your existing exterior. For homes in Boise Heights, we often encounter specific architectural styles that require careful material matching during this process.",
+        "@type": "Answer",
+        "description": "We address the water source, remove damaged wood, use fillers or replace sections, then prime and paint the trim."
+      }
+    }
+  ],
+  "description": "We address the water source, remove damaged wood, use fillers or replace sections, then prime and paint the trim."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-maine-results-inc-help-with-interior-repairs-after-water-damage",
+  "name": "Can Maine Results, Inc. help with interior repairs after water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Maine Results, Inc. help with interior repairs after water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. specializes in repairing interior damage caused by water. This can include repairing or replacing damaged drywall, ceilings, flooring, and trim. We assess the extent of the water infiltration and ensure proper drying to prevent future issues like mold growth. Our focus is on not just aesthetics but also the structural integrity of the affected areas, restoring them to their pre-damage condition. Addressing water damage promptly is crucial to prevent further complications.",
+        "@type": "Answer",
+        "description": "Yes, we repair interior water damage, including drywall, ceilings, and flooring. We also ensure proper drying to prevent mold."
+      }
+    }
+  ],
+  "description": "Yes, we repair interior water damage, including drywall, ceilings, and flooring. We also ensure proper drying to prevent mold."
+}

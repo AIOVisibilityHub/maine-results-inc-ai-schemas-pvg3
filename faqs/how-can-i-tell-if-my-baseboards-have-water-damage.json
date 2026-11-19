@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-tell-if-my-baseboards-have-water-damage",
+  "name": "How can I tell if my baseboards have water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my baseboards have water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of water damage include discoloration, swelling, warping, crumbling, or a musty odor near the baseboards. You might also notice peeling paint or wallpaper on the wall directly above the baseboard. For a more thorough assessment, carefully pressing on the baseboard can reveal soft spots indicating rot. Catching these signs early helps limit the extent of damage and simplifies the repair process.",
+        "@type": "Answer",
+        "description": "Look for discoloration, swelling, warping, crumbling, musty odors, or soft spots in the baseboards to identify water damage."
+      }
+    }
+  ],
+  "description": "Look for discoloration, swelling, warping, crumbling, musty odors, or soft spots in the baseboards to identify water damage."
+}

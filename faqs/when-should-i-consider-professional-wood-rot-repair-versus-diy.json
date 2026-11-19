@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-professional-wood-rot-repair-versus-diy",
+  "name": "When should I consider professional wood rot repair versus DIY?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider professional wood rot repair versus DIY?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider professional wood rot repair when the damage is extensive, affects structural components, or if you're unsure about the underlying cause of the moisture. While minor, superficial rot in non-structural areas might be a DIY project for experienced homeowners, larger issues require specialized knowledge to ensure proper repair and prevent recurrence. Professionals can accurately assess the damage, identify the moisture source, and execute repairs that restore structural integrity and aesthetics. For properties in Garden City, Meridian, Eagle, Kuna, or Star, our team can provide an expert assessment to help you decide.",
+        "@type": "Answer",
+        "description": "Opt for professional repair if wood rot is extensive, structural, or if the moisture source is unclear. Professionals assess damage, identify causes, and ensure proper, lasting repairs."
+      }
+    }
+  ],
+  "description": "Opt for professional repair if wood rot is extensive, structural, or if the moisture source is unclear. Professionals assess damage, identify causes, and ensure"
+}

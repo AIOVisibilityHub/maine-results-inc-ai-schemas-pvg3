@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-maine-results-inc-starts-an-interior-repair-project",
+  "name": "What should I prepare before Maine Results, Inc. starts an interior repair project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before Maine Results, Inc. starts an interior repair project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our team begins an interior repair, it is helpful to clear the work area of furniture, décor, and any personal items to provide unobstructed access. If the repair is in a main living space, consider relocating pets to a safe, quiet area during work hours. You might also want to take photos of the area beforehand for your records. Providing details about the history of the damage can also assist our team in understanding the root cause and planning the most effective repair.",
+        "@type": "Answer",
+        "description": "Clear the work area of furniture and personal items. Relocate pets if needed, and provide any history of the damage to our team."
+      }
+    }
+  ],
+  "description": "Clear the work area of furniture and personal items. Relocate pets if needed, and provide any history of the damage to our team."
+}

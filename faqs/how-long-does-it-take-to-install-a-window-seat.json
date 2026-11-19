@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-install-a-window-seat",
+  "name": "How long does it take to install a window seat?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a window seat?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a window seat installation depends on its complexity and size. A simple, pre-fabricated unit might take a day, while a custom, built-in design with intricate features and finishes could take several days to a week or more for the complete build and installation. This timeline includes planning, fabrication, and on-site work. To provide an accurate estimate, we first need to understand the scope of your project during an initial consultation. Clients in Kuna, for instance, often request detailed storage solutions or custom trim work that extends the project timeline slightly due to the added craftsmanship.",
+        "@type": "Answer",
+        "description": "Installation time varies, from a day for simple units to over a week for complex custom designs. Project scope dictates the timeline."
+      }
+    }
+  ],
+  "description": "Installation time varies, from a day for simple units to over a week for complex custom designs. Project scope dictates the timeline."
+}

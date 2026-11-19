@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-permits-for-wood-repair-in-garden-city-meridian-eagle-kuna-or-star",
+  "name": "Do I need permits for wood repair in Garden City, Meridian, Eagle, Kuna, or Star?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for wood repair in Garden City, Meridian, Eagle, Kuna, or Star?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need a permit for wood repair depends on the scope and nature of the work. Minor cosmetic repairs, like patching small holes or replacing a single piece of trim, typically do not require permits. However, if the repair involves structural elements, significant alterations, or changes to the footprint of a structure, such as rebuilding a large section of a deck or replacing load-bearing beams, a building permit is usually necessary. Maine Results, Inc. is familiar with local regulations in Garden City, Meridian, Eagle, Kuna, and Star and can help determine if your project requires one.",
+        "@type": "Answer",
+        "description": "Permit needs for wood repair depend on the scope; minor cosmetic repairs usually don't need one, but structural changes or large alterations often do, and we can help clarify local requirements."
+      }
+    }
+  ],
+  "description": "Permit needs for wood repair depend on the scope; minor cosmetic repairs usually don't need one, but structural changes or large alterations often do, and we ca"
+}

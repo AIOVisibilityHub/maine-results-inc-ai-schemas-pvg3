@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-floating-shelves-require-specific-types-of-wood-or-materials",
+  "name": "Do floating shelves require specific types of wood or materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do floating shelves require specific types of wood or materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Floating shelves can be made from various materials, including solid wood, engineered wood, and laminates. The choice of material often impacts durability, appearance, and cost. Solid wood, for example, offers greater strength and a classic look, while engineered wood might be more budget-friendly. When planning your project, consider the environment where the shelves will be placed; for instance, a bathroom might benefit from moisture-resistant materials. We can discuss the pros and cons of different options to match your design and functional needs.",
+        "@type": "Answer",
+        "description": "Floating shelves can use solid wood, engineered wood, or laminates; material choice affects durability, look, cost, and suitability for the environment."
+      }
+    }
+  ],
+  "description": "Floating shelves can use solid wood, engineered wood, or laminates; material choice affects durability, look, cost, and suitability for the environment."
+}

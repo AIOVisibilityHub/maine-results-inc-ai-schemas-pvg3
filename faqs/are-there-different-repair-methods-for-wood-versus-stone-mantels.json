@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/are-there-different-repair-methods-for-wood-versus-stone-mantels",
+  "name": "Are there different repair methods for wood versus stone mantels?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different repair methods for wood versus stone mantels?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, the repair methods differ significantly between wood and stone mantels due to their distinct material properties. Wood mantel repairs might involve sanding, filling with wood putty or epoxy, wood joining, and staining or painting. Stone mantel repairs, conversely, often require specialized stone epoxies, patching compounds, grinding, and polishing to blend the repair seamlessly. The tools and expertise required for each material are unique. Maine Results Inc. has experience with both, allowing us to select the appropriate techniques and materials for your specific mantel's construction, ensuring a durable and aesthetically pleasing repair.",
+        "@type": "Answer",
+        "description": "Repair methods vary; wood mantels use sanding, filling, and staining, while stone mantels require specialized epoxies, grinding, and polishing."
+      }
+    }
+  ],
+  "description": "Repair methods vary; wood mantels use sanding, filling, and staining, while stone mantels require specialized epoxies, grinding, and polishing."
+}

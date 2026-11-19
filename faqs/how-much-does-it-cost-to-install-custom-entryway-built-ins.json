@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-it-cost-to-install-custom-entryway-built-ins",
+  "name": "How much does it cost to install custom entryway built-ins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install custom entryway built-ins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of custom entryway built-ins varies significantly based on size, materials, features, and complexity. Basic designs with standard materials will be less expensive than intricate units with premium hardwoods, specialized finishes, or integrated lighting. For a precise estimate, Maine Results, Inc. provides detailed quotes after an on-site consultation to understand your specific requirements and design choices. Considering different material options and design elements is a practical tradeoff to manage project costs while achieving your desired functionality and look.",
+        "@type": "Answer",
+        "description": "Custom entryway built-in costs vary by size, materials, and features. Maine Results, Inc. provides detailed quotes after a consultation."
+      }
+    }
+  ],
+  "description": "Custom entryway built-in costs vary by size, materials, and features. Maine Results, Inc. provides detailed quotes after a consultation."
+}

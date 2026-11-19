@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-a-consultation-for-closet-built-ins",
+  "name": "What should I prepare before a consultation for closet built-ins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a consultation for closet built-ins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your consultation, it's helpful to consider your current closet's shortcomings and what you hope to gain from new built-ins. Think about what items you need to store, how many linear feet of hanging space you require, and if you need specialized storage for shoes, jewelry, or specific clothing types. Gathering inspiration photos of styles you like can also be very beneficial for conveying your vision to our designers.",
+        "@type": "Answer",
+        "description": "Before a consultation, consider current closet issues, desired storage items, hanging space needs, specialized storage, and gather inspiration photos."
+      }
+    }
+  ],
+  "description": "Before a consultation, consider current closet issues, desired storage items, hanging space needs, specialized storage, and gather inspiration photos."
+}

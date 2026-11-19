@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-questions-should-i-ask-a-contractor-when-getting-quotes-for-rotten-wood-rep",
+  "name": "What questions should I ask a contractor when getting quotes for rotten wood replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What questions should I ask a contractor when getting quotes for rotten wood replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When seeking quotes for rotten wood replacement, ask contractors about their experience with similar projects and if they are licensed and insured. Inquire about their process for identifying the cause of the rot and how they prevent recurrence. Ask for a detailed breakdown of costs, including materials, labor, and any potential unforeseen expenses. Clarify the timeline for the project and ask about warranties on their workmanship and materials. Finally, request references from previous clients to gauge their reliability and quality of work.",
+        "@type": "Answer",
+        "description": "Ask contractors about their experience, licensing, insurance, process for identifying and preventing rot, detailed cost breakdowns, project timeline, warranties, and client references."
+      }
+    }
+  ],
+  "description": "Ask contractors about their experience, licensing, insurance, process for identifying and preventing rot, detailed cost breakdowns, project timeline, warranties"
+}

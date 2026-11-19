@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-home-repairs-can-a-carpenter-from-maine-results-inc-handle",
+  "name": "What types of home repairs can a carpenter from Maine Results, Inc. handle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of home repairs can a carpenter from Maine Results, Inc. handle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our carpenters at Maine Results, Inc. can handle a wide range of home repairs, focusing on wood-related issues. This includes fixing damaged trim, repairing sagging decks, replacing rotten siding, mending broken fences, and addressing structural wood problems inside and outside your home. We often see customers needing repairs after weather events or general wear and tear, and our team is equipped to restore integrity and appearance.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. carpenters repair wood damage like trim, decks, siding, and fences, addressing issues from weather or wear."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. carpenters repair wood damage like trim, decks, siding, and fences, addressing issues from weather or wear."
+}

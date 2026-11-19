@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-maine-results-inc-ensure-the-water-damage-won-t-recur-after-trim-repair",
+  "name": "How do Maine Results, Inc. ensure the water damage won't recur after trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do Maine Results, Inc. ensure the water damage won't recur after trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "At Maine Results, Inc., ensuring water damage won't recur after trim repair is a critical part of our process. We start by thoroughly investigating and addressing the original source of the water intrusion, whether it's a leaky pipe, roof issue, or flashing problem. Simply repairing the trim without fixing the underlying cause is a temporary solution. We focus on comprehensive solutions that include identifying and repairing the water source, properly drying affected areas, and then replacing the damaged trim, providing a lasting resolution for homes in areas like Garden City and Meridian.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. prevents recurrence by thoroughly investigating and addressing the original water source before repairing trim, providing lasting solutions."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. prevents recurrence by thoroughly investigating and addressing the original water source before repairing trim, providing lasting solutions."
+}

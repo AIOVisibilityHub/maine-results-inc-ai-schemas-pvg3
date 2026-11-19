@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/does-maine-results-inc-offer-custom-mantel-design-services",
+  "name": "Does Maine Results, Inc. offer custom mantel design services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Maine Results, Inc. offer custom mantel design services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. specializes in custom mantel design to create a unique focal point for your living space. We work closely with you to understand your specific vision, material preferences, and design requirements. Our team can craft mantels to fit unusual fireplace dimensions, incorporate unique details, or match specific architectural elements of your home. This bespoke service ensures your mantel is perfectly tailored to your style and space.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. offers custom mantel design services, working with you to create unique, tailored mantels that fit your specific vision and space."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. offers custom mantel design services, working with you to create unique, tailored mantels that fit your specific vision and space."
+}

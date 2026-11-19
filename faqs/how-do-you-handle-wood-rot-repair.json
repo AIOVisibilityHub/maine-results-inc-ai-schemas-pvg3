@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-handle-wood-rot-repair",
+  "name": "How do you handle wood rot repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle wood rot repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our wood rot repair process begins with identifying the source of moisture causing the rot to prevent recurrence. We then remove all compromised wood until only sound material remains. Depending on the extent, we may use wood consolidants to strengthen existing wood or fill smaller areas with specialized epoxy fillers. For larger sections, we carefully cut and fit new wood, ensuring proper drainage and sealing. The final step involves matching the finish to seamlessly blend the repaired area with the surrounding wood, restoring both appearance and structural integrity.",
+        "@type": "Answer",
+        "description": "We repair wood rot by addressing the moisture source, removing damaged wood, and then either consolidating, filling with epoxy, or replacing sections with new wood."
+      }
+    }
+  ],
+  "description": "We repair wood rot by addressing the moisture source, removing damaged wood, and then either consolidating, filling with epoxy, or replacing sections with new w"
+}

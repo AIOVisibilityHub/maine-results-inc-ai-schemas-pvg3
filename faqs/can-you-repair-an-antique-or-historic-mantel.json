@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-repair-an-antique-or-historic-mantel",
+  "name": "Can you repair an antique or historic mantel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair an antique or historic mantel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing antique or historic mantels requires a delicate approach to preserve their original character and value. Maine Results Inc. evaluates these unique projects carefully, considering the original materials, craftsmanship, and historical context. The process often involves using period-appropriate materials and techniques to ensure the repair is sympathetic to the mantel's age and style. We prioritize conservation where possible, aiming to stabilize and restore without compromising the integrity of the piece. Our team will discuss these considerations with you to ensure your historic mantel receives the respectful attention it deserves.",
+        "@type": "Answer",
+        "description": "Repairing antique mantels involves careful assessment, using period-appropriate materials and techniques to preserve original character and value."
+      }
+    }
+  ],
+  "description": "Repairing antique mantels involves careful assessment, using period-appropriate materials and techniques to preserve original character and value."
+}

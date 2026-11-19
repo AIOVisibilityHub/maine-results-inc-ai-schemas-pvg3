@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-maine-results-inc-services-include-design-consultation-for-pantry-shelving",
+  "name": "Do Maine Results, Inc. services include design consultation for pantry shelving?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do Maine Results, Inc. services include design consultation for pantry shelving?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. includes a comprehensive design consultation as part of our pantry shelving services. During this consultation, our team will visit your home to assess your pantry space, discuss your specific storage requirements, and help you choose the best materials and layout. We aim to understand your vision and practical needs to create a functional and aesthetically pleasing design. This ensures the final installation perfectly matches your expectations and maximizes your pantry's potential.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. provides comprehensive design consultation to assess space, discuss needs, and choose materials for your pantry shelving."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. provides comprehensive design consultation to assess space, discuss needs, and choose materials for your pantry shelving."
+}

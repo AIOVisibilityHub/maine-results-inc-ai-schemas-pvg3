@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-dry-rot-and-how-does-it-damage-my-home",
+  "name": "What is dry rot and how does it damage my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is dry rot and how does it damage my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Dry rot is a wood-decaying fungus that can severely weaken wooden structures in your home. Unlike wet rot, dry rot can spread through masonry and behind plaster, making it particularly destructive. It thrives in damp, poorly ventilated areas, often appearing as a distinctive 'cuboidal' cracking in the wood. If left unaddressed, dry rot compromises structural integrity, leading to costly repairs. Early detection and professional removal are crucial to prevent widespread damage and ensure the safety of your property.",
+        "@type": "Answer",
+        "description": "Dry rot is a wood-decaying fungus that can severely weaken structures in your home by spreading through wood and even masonry."
+      }
+    }
+  ],
+  "description": "Dry rot is a wood-decaying fungus that can severely weaken structures in your home by spreading through wood and even masonry."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-entryway-built-ins-are-available-for-homes-in-the-boise-area",
+  "name": "What types of entryway built-ins are available for homes in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of entryway built-ins are available for homes in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Entryway built-ins can be customized to fit various needs and styles, commonly including mudroom lockers, bench seating with storage underneath, wall-mounted coat racks with shelves, or full-height cabinetry. The best type for your home often depends on the available space, your family's daily routine, and your aesthetic preferences. For smaller entryways, a combination of hooks and a shallow bench might be ideal, while larger spaces can accommodate more extensive units with cubbies for each family member, providing a practical tradeoff between storage capacity and spatial footprint.",
+        "@type": "Answer",
+        "description": "Common entryway built-ins include mudroom lockers, bench seating with storage, coat racks with shelves, and full-height cabinetry, depending on space and family needs."
+      }
+    }
+  ],
+  "description": "Common entryway built-ins include mudroom lockers, bench seating with storage, coat racks with shelves, and full-height cabinetry, depending on space and family"
+}

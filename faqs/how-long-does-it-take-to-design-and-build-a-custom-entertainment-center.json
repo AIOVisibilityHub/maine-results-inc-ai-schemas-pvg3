@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-design-and-build-a-custom-entertainment-center",
+  "name": "How long does it take to design and build a custom entertainment center?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to design and build a custom entertainment center?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for designing and building a custom entertainment center varies based on the complexity of the design, chosen materials, and current project schedule. Generally, the design phase can take a few weeks as we refine your vision and select finishes. Fabrication and installation typically follow, ranging from several weeks to a couple of months. We prioritize clear communication throughout the process, providing a detailed timeline once the design is finalized, ensuring you understand each step.",
+        "@type": "Answer",
+        "description": "Design and build times vary, typically taking a few weeks for design and several weeks to months for fabrication and installation, depending on complexity."
+      }
+    }
+  ],
+  "description": "Design and build times vary, typically taking a few weeks for design and several weeks to months for fabrication and installation, depending on complexity."
+}

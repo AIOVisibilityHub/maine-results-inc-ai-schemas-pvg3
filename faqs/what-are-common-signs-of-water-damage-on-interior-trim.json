@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-of-water-damage-on-interior-trim",
+  "name": "What are common signs of water damage on interior trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of water damage on interior trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of water damage on interior trim include discoloration, staining, swelling, bubbling paint, or a soft, crumbling texture when touched. You might also notice a musty odor near the affected areas. Identifying these signs early can help prevent more extensive damage to your home's structure. If you observe any of these indicators, it's advisable to assess the source of the moisture to determine the best repair approach.",
+        "@type": "Answer",
+        "description": "Common signs of water damage on interior trim are discoloration, swelling, bubbling paint, soft texture, or a musty odor."
+      }
+    }
+  ],
+  "description": "Common signs of water damage on interior trim are discoloration, swelling, bubbling paint, soft texture, or a musty odor."
+}

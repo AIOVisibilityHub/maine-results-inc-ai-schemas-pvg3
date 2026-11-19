@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-weight-can-custom-floating-shelves-hold",
+  "name": "How much weight can custom floating shelves hold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much weight can custom floating shelves hold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The weight capacity of custom floating shelves depends on several factors: the shelf material, its thickness, the length, the quality of the mounting hardware, and, critically, the integrity of the wall structure. Solid wood shelves properly installed into wall studs using robust brackets can support significantly more weight than thinner shelves or those mounted with light-duty anchors. We design and install shelves with appropriate hardware and techniques to meet your storage needs safely, discussing weight limits during planning.",
+        "@type": "Answer",
+        "description": "Weight capacity depends on shelf material, thickness, length, mounting hardware, and wall integrity; proper installation ensures safe load bearing."
+      }
+    }
+  ],
+  "description": "Weight capacity depends on shelf material, thickness, length, mounting hardware, and wall integrity; proper installation ensures safe load bearing."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-install-custom-floating-shelves",
+  "name": "How long does it take to install custom floating shelves?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install custom floating shelves?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for installing custom floating shelves varies depending on the number of shelves, their size, the type of wall construction, and the chosen finish. After the design and material selection are finalized, fabrication typically takes a few weeks. The actual installation itself can range from a few hours for a simple set to a full day for multiple complex units. We will provide a project timeline during the planning phase, setting clear expectations for the process from start to finish.",
+        "@type": "Answer",
+        "description": "Installation time varies based on shelf count, size, wall type, and finish, with fabrication taking weeks and installation a few hours to a day."
+      }
+    }
+  ],
+  "description": "Installation time varies based on shelf count, size, wall type, and finish, with fabrication taking weeks and installation a few hours to a day."
+}

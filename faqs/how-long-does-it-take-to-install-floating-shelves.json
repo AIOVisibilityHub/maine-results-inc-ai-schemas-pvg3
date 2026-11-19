@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-install-floating-shelves",
+  "name": "How long does it take to install floating shelves?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install floating shelves?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for floating shelves can vary based on the number of shelves, their length, wall material, and the complexity of the mounting system. A single floating shelf on a standard drywall stud wall might take an hour or two. Projects involving multiple shelves or challenging wall types, such as masonry, will require more time. Our team provides an estimated timeline after assessing the scope of your specific project.",
+        "@type": "Answer",
+        "description": "Installation time varies by the number of shelves, length, wall material, and mounting system complexity, with a single shelf typically taking one to two hours."
+      }
+    }
+  ],
+  "description": "Installation time varies by the number of shelves, length, wall material, and mounting system complexity, with a single shelf typically taking one to two hours."
+}

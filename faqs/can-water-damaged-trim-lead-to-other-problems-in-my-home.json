@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-water-damaged-trim-lead-to-other-problems-in-my-home",
+  "name": "Can water damaged trim lead to other problems in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can water damaged trim lead to other problems in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, water damaged trim can lead to more significant problems in your home if not addressed promptly. Continuous moisture can encourage mold growth, which may affect indoor air quality. It can also weaken surrounding structural elements like walls, flooring, or framing, potentially leading to costly repairs. Over time, persistent moisture issues can also attract pests. Addressing trim damage early helps prevent these secondary issues, preserving both the aesthetics and structural integrity of your home.",
+        "@type": "Answer",
+        "description": "Unrepaired water damaged trim can cause mold growth, weaken structural elements, and attract pests, leading to more extensive and costly issues."
+      }
+    }
+  ],
+  "description": "Unrepaired water damaged trim can cause mold growth, weaken structural elements, and attract pests, leading to more extensive and costly issues."
+}

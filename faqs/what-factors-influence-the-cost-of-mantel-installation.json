@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-mantel-installation",
+  "name": "What factors influence the cost of mantel installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of mantel installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the overall cost of mantel installation. These include the type of material chosen (e.g., solid wood, custom stone, pre-fabricated), the size and complexity of the mantel design, any necessary modifications to the existing fireplace or wall structure, and the labor involved. Custom designs or installations requiring structural reinforcement typically incur higher costs. We provide transparent estimates tailored to your specific project needs after understanding your preferences and site conditions.",
+        "@type": "Answer",
+        "description": "Cost factors include material, size, design complexity, structural modifications, and labor. Estimates are provided after assessing your specific project."
+      }
+    }
+  ],
+  "description": "Cost factors include material, size, design complexity, structural modifications, and labor. Estimates are provided after assessing your specific project."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-tell-if-my-home-has-wood-rot",
+  "name": "How can I tell if my home has wood rot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my home has wood rot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can often identify wood rot by several signs. Look for discoloration (darkening or lightening), a soft or spongy texture when poked with a screwdriver, or a musty odor. Visible fungal growth, like mycelium or mushrooms, also indicates rot. Common areas to check include window sills, door frames, deck posts, siding near the ground, and areas around leaky pipes or roofs. A thorough inspection, especially in areas prone to moisture, helps determine the extent of the damage.",
+        "@type": "Answer",
+        "description": "Signs of wood rot include discoloration, a soft or spongy texture, a musty odor, and visible fungal growth. Check areas like window sills, door frames, and siding for damage."
+      }
+    }
+  ],
+  "description": "Signs of wood rot include discoloration, a soft or spongy texture, a musty odor, and visible fungal growth. Check areas like window sills, door frames, and sidi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-repair-water-damaged-baseboards",
+  "name": "How long does it take to repair water damaged baseboards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair water damaged baseboards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for water damaged baseboard repair varies based on the extent of the damage, the length of baseboard involved, and the drying time needed for the affected area. Simple repairs might take a few hours to a day, while more extensive projects involving mold remediation or structural drying could take several days. We provide a timeline estimate after assessing the specific conditions at your property in areas like Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "Repair time varies from hours to several days, depending on damage extent and drying needs. We provide estimates after assessment."
+      }
+    }
+  ],
+  "description": "Repair time varies from hours to several days, depending on damage extent and drying needs. We provide estimates after assessment."
+}

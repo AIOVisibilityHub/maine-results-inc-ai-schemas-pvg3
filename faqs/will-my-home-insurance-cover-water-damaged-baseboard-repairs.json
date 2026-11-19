@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/will-my-home-insurance-cover-water-damaged-baseboard-repairs",
+  "name": "Will my home insurance cover water damaged baseboard repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my home insurance cover water damaged baseboard repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home insurance coverage for water damage depends on the cause and your specific policy. Generally, sudden and accidental water damage, such as a burst pipe, may be covered. However, damage resulting from neglect, maintenance issues, or floods typically is not. It's advisable to review your policy or contact your insurance provider to understand your coverage limitations before initiating repairs. We can provide documentation for your claim.",
+        "@type": "Answer",
+        "description": "Coverage depends on the cause of damage and your policy. Sudden events may be covered, but neglect or flood damage usually is not."
+      }
+    }
+  ],
+  "description": "Coverage depends on the cause of damage and your policy. Sudden events may be covered, but neglect or flood damage usually is not."
+}

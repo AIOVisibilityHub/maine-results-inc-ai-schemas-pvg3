@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-do-to-prepare-my-home-for-residential-repair-work",
+  "name": "What should I do to prepare my home for residential repair work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my home for residential repair work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before repair work begins, it is helpful to clear the work area of furniture, valuables, and personal items. Protecting nearby belongings with dust covers is also recommended. If the repair involves plumbing or electrical systems, ensure access to shut-off valves or circuit breakers. Deciding beforehand on specific material preferences, such as paint colors or flooring types, can help streamline the process once our team is on-site.",
+        "@type": "Answer",
+        "description": "Prepare your home by clearing the work area, protecting belongings, and ensuring access to utilities."
+      }
+    }
+  ],
+  "description": "Prepare your home by clearing the work area, protecting belongings, and ensuring access to utilities."
+}

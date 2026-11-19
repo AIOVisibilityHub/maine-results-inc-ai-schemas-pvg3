@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-a-home-repair-project-with-maine-results-inc",
+  "name": "What is the typical process for a home repair project with Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a home repair project with Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for a home repair project with Maine Results, Inc. begins with an initial consultation where we discuss your needs and assess the repair. Following this, we provide a detailed proposal and estimate. Once approved, we schedule the work at your convenience. Our carpenters then execute the repair, keeping you informed of progress. Upon completion, we conduct a final walkthrough to ensure your satisfaction. This structured approach helps ensure clarity and quality throughout the project.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc.'s repair process includes consultation, proposal, scheduling, repair execution, and a final walkthrough for quality assurance."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc.'s repair process includes consultation, proposal, scheduling, repair execution, and a final walkthrough for quality assurance."
+}

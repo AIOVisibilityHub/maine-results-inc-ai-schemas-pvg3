@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/does-maine-results-inc-offer-carpentry-repair-services-in-the-kuna-and-star-area",
+  "name": "Does Maine Results, Inc. offer carpentry repair services in the Kuna and Star areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Maine Results, Inc. offer carpentry repair services in the Kuna and Star areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. proudly offers carpentry repair services throughout the Kuna and Star areas, in addition to Garden City and Meridian. Our team is familiar with the local architectural styles and common repair needs in these communities. We aim to provide consistent, high-quality service across all our service areas, ensuring residents in Kuna and Star receive the same professional attention as those in other parts of our service region.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. provides carpentry repair services in Kuna and Star, maintaining consistent, high-quality service across all our local operating areas."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. provides carpentry repair services in Kuna and Star, maintaining consistent, high-quality service across all our local operating areas."
+}

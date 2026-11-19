@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-mantels-can-maine-results-inc-install",
+  "name": "What types of mantels can Maine Results, Inc. install?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of mantels can Maine Results, Inc. install?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. installs a variety of mantels to match different home styles and preferences. We work with materials such as wood (including reclaimed wood for a rustic look), stone, and custom-built options. Our team can help you select a mantel that complements your fireplace and room décor, whether you're looking for a traditional, contemporary, or unique design. We often advise clients in areas like Meridian and Eagle on how different materials stand up to humidity fluctuations inside homes.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. installs various mantel types, including wood, stone, and custom designs, helping you choose the best fit for your home and local conditions."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. installs various mantel types, including wood, stone, and custom designs, helping you choose the best fit for your home and local conditions"
+}

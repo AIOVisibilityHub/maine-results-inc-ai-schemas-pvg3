@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-tell-if-wood-damage-is-structural-or-just-cosmetic",
+  "name": "How can I tell if wood damage is structural or just cosmetic?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if wood damage is structural or just cosmetic?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Distinguishing between structural and cosmetic wood damage often requires a professional eye. Cosmetic damage typically affects the surface, such as scratches, dents, or minor paint chips, without impacting the wood's strength. Structural damage, however, compromises the integrity of the wood, leading to issues like sagging, instability, or widespread rot that could affect the safety of the structure. Visible signs of structural damage often include significant decay, large cracks that penetrate deep into the wood, or areas that feel soft and spongy when probed. Our assessment includes checking for these critical indicators.",
+        "@type": "Answer",
+        "description": "Cosmetic damage affects the surface, while structural damage impacts the wood's strength and safety, often showing as deep cracks, decay, or soft spots."
+      }
+    }
+  ],
+  "description": "Cosmetic damage affects the surface, while structural damage impacts the wood's strength and safety, often showing as deep cracks, decay, or soft spots."
+}

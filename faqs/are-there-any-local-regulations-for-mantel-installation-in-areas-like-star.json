@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/are-there-any-local-regulations-for-mantel-installation-in-areas-like-star",
+  "name": "Are there any local regulations for mantel installation in areas like Star?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any local regulations for mantel installation in areas like Star?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, mantel installation primarily involves aesthetic and structural considerations rather than specific local building code regulations unless it directly impacts the fireplace's combustion area or structural integrity of the home. However, it's crucial to ensure proper clearances from heat sources for fire safety. We always adhere to general building practices and manufacturer specifications for safe installation. Our team is familiar with the standards and common practices in the Star area to ensure your installation is both beautiful and safe.",
+        "@type": "Answer",
+        "description": "While specific local regulations are uncommon for mantel installation, we ensure proper heat clearances and follow general building practices and safety standards for the Star area."
+      }
+    }
+  ],
+  "description": "While specific local regulations are uncommon for mantel installation, we ensure proper heat clearances and follow general building practices and safety standar"
+}

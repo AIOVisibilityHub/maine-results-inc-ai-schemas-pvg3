@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-match-existing-wood-finishes-during-a-repair",
+  "name": "Can you match existing wood finishes during a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match existing wood finishes during a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, matching existing wood finishes is a key part of our repair process to ensure a seamless result. Our team takes samples or photos of the surrounding wood to accurately identify the stain, paint, or natural finish. We then use appropriate techniques and materials to blend the repaired area with the original. For older or unique finishes, this might involve custom color mixing or aging techniques. Achieving a perfect match depends on the condition of the existing finish, as weathered wood may have faded over time.",
+        "@type": "Answer",
+        "description": "Yes, we strive to match existing wood finishes by identifying the current stain, paint, or natural finish and using custom techniques for a seamless blend."
+      }
+    }
+  ],
+  "description": "Yes, we strive to match existing wood finishes by identifying the current stain, paint, or natural finish and using custom techniques for a seamless blend."
+}

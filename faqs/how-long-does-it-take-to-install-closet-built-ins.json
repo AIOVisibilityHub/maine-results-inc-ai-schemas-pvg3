@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-install-closet-built-ins",
+  "name": "How long does it take to install closet built-ins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install closet built-ins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeline for closet built-ins varies depending on the complexity of the design and the size of your space. Typically, a standard custom closet project, from initial consultation to final installation, can take several weeks. The actual on-site installation usually occurs over a few days once materials are prepared. We provide a detailed project schedule after the design finalization, giving you process clarity on each step and expected completion.",
+        "@type": "Answer",
+        "description": "Installation time for closet built-ins varies by complexity, but most projects are completed within a few weeks from design to final install, with on-site work taking a few days."
+      }
+    }
+  ],
+  "description": "Installation time for closet built-ins varies by complexity, but most projects are completed within a few weeks from design to final install, with on-site work"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-quickly-can-maine-results-inc-start-a-residential-repair-project",
+  "name": "How quickly can Maine Results, Inc. start a residential repair project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can Maine Results, Inc. start a residential repair project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The start time for a residential repair project depends on several factors, including the project's scope, the severity of damage, and current scheduling. For urgent repairs, we prioritize assessment to determine immediate needs. For non-emergency projects, we work with you to find a convenient start date. Providing clear details and photos of the issue when you first contact us can help us give a more accurate timeline for project initiation and completion.",
+        "@type": "Answer",
+        "description": "Project start times vary based on scope, damage severity, and current scheduling. Urgent repairs are prioritized."
+      }
+    }
+  ],
+  "description": "Project start times vary based on scope, damage severity, and current scheduling. Urgent repairs are prioritized."
+}

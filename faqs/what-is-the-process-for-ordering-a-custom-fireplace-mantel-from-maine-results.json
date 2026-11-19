@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-ordering-a-custom-fireplace-mantel-from-maine-results",
+  "name": "What is the process for ordering a custom fireplace mantel from Maine Results?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for ordering a custom fireplace mantel from Maine Results?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for ordering a custom fireplace mantel begins with an initial consultation where we discuss your vision, materials, and budget. Next, our team takes precise measurements of your fireplace area and develops detailed design concepts and renderings for your review. Once you approve the design and material selections, we provide a final quote. Upon agreement, our skilled craftsmen begin the fabrication of your mantel. The final step involves professional installation by our team. Throughout this process, clear communication ensures the project aligns with your expectations.",
+        "@type": "Answer",
+        "description": "Ordering a custom mantel involves an initial consultation, measurements, design approval, fabrication, and professional installation by our team."
+      }
+    }
+  ],
+  "description": "Ordering a custom mantel involves an initial consultation, measurements, design approval, fabrication, and professional installation by our team."
+}

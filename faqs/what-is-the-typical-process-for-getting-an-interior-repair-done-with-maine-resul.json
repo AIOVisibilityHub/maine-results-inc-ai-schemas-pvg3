@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-getting-an-interior-repair-done-with-maine-resul",
+  "name": "What is the typical process for getting an interior repair done with Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for getting an interior repair done with Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins when you contact us to discuss your repair needs. We then schedule a convenient time for an on-site visit to your property in areas like Garden City or Meridian. During this visit, our team assesses the repair, discusses potential solutions, and gathers necessary information to provide a detailed estimate. Once approved, we schedule the work, manage materials, and complete the repair with minimal disruption to your home. We prioritize clear communication throughout the project.",
+        "@type": "Answer",
+        "description": "The process involves an initial contact, an on-site assessment for an estimate, approval, and then scheduling and completing the repair."
+      }
+    }
+  ],
+  "description": "The process involves an initial contact, an on-site assessment for an estimate, approval, and then scheduling and completing the repair."
+}

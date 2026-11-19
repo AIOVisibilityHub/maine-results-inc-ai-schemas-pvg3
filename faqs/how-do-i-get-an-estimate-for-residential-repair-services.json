@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-get-an-estimate-for-residential-repair-services",
+  "name": "How do I get an estimate for residential repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I get an estimate for residential repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To get an estimate for residential repair services, contact Maine Results, Inc. directly. We will schedule a visit to your property to assess the damage or repair needs in person. This on-site evaluation allows us to accurately determine the scope of work, necessary materials, and labor involved. Providing access to all areas requiring repair and clearly explaining your concerns will help us generate a precise and comprehensive estimate.",
+        "@type": "Answer",
+        "description": "Contact Maine Results, Inc. to schedule an on-site visit for an estimate. An in-person assessment ensures accuracy."
+      }
+    }
+  ],
+  "description": "Contact Maine Results, Inc. to schedule an on-site visit for an estimate. An in-person assessment ensures accuracy."
+}

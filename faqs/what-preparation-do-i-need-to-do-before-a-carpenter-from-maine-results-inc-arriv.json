@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-do-i-need-to-do-before-a-carpenter-from-maine-results-inc-arriv",
+  "name": "What preparation do I need to do before a carpenter from Maine Results, Inc. arrives for a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before a carpenter from Maine Results, Inc. arrives for a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our carpenter arrives for a repair, it is helpful to clear the work area of any furniture, valuables, or obstructions to allow easy access and ensure the safety of your belongings. If the repair is outdoors, please ensure any pets are secured. Also, be prepared to discuss any specific concerns or preferences you have regarding the repair. This preparation helps our team from Maine Results, Inc. work efficiently and minimizes disruptions.",
+        "@type": "Answer",
+        "description": "Before a carpenter arrives, clear the work area, secure pets, and be ready to discuss repair specifics to ensure efficient service from Maine Results, Inc."
+      }
+    }
+  ],
+  "description": "Before a carpenter arrives, clear the work area, secure pets, and be ready to discuss repair specifics to ensure efficient service from Maine Results, Inc."
+}

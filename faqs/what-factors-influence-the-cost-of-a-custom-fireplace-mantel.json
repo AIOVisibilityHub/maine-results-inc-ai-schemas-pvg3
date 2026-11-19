@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-a-custom-fireplace-mantel",
+  "name": "What factors influence the cost of a custom fireplace mantel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a custom fireplace mantel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom fireplace mantel is primarily influenced by the chosen material, design complexity, and overall size. Premium materials like exotic hardwoods or rare natural stones will be more expensive than common woods or simpler designs. Elaborate carvings, unique profiles, or integrated shelving will also increase labor costs. Additionally, factors such as the existing fireplace structure, site accessibility, and any necessary modifications to your wall will affect the final price. We provide a detailed quote after understanding your specific design and material preferences, allowing you to compare options based on both aesthetics and budget.",
+        "@type": "Answer",
+        "description": "Cost factors for custom fireplace mantels include material type, design complexity, size, and any required structural modifications to your existing fireplace or wall."
+      }
+    }
+  ],
+  "description": "Cost factors for custom fireplace mantels include material type, design complexity, size, and any required structural modifications to your existing fireplace o"
+}

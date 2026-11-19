@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-a-mantel-repair-consultation",
+  "name": "What should I prepare before a mantel repair consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a mantel repair consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your mantel repair consultation with Maine Results Inc., it's helpful to clear the area around the fireplace and mantel to allow easy access for inspection. Take note of any specific issues or concerns you have about the mantel, such as when the damage occurred or if it has worsened over time. Having photos of the mantel and its damage can also be beneficial, especially if some issues are intermittent or hard to describe. Thinking about your desired outcome, whether it's a simple fix or a complete aesthetic overhaul, can help us provide the most accurate assessment and tailored recommendations.",
+        "@type": "Answer",
+        "description": "Clear the mantel area, note specific damage and its history, have photos ready, and consider your desired repair outcome before the consultation."
+      }
+    }
+  ],
+  "description": "Clear the mantel area, note specific damage and its history, have photos ready, and consider your desired repair outcome before the consultation."
+}

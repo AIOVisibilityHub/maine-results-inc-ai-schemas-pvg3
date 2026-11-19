@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-maine-results-inc-install-a-mantel-over-an-existing-brick-fireplace",
+  "name": "Can Maine Results, Inc. install a mantel over an existing brick fireplace?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Maine Results, Inc. install a mantel over an existing brick fireplace?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. can install a new mantel over an existing brick fireplace. This often involves carefully assessing the brick surface for stability and levelness to ensure proper attachment points. Depending on the mantel's weight and design, we may need to use specific anchoring techniques or even integrate a support structure behind the new mantel. We always ensure the new installation is secure and aesthetically pleasing, preserving the integrity of your fireplace. Clients in Kuna often request this service for older homes.",
+        "@type": "Answer",
+        "description": "Yes, we can install mantels over existing brick fireplaces, assessing the surface for stability and using appropriate anchoring techniques."
+      }
+    }
+  ],
+  "description": "Yes, we can install mantels over existing brick fireplaces, assessing the surface for stability and using appropriate anchoring techniques."
+}

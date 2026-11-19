@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/is-rotten-wood-replacement-covered-by-home-insurance",
+  "name": "Is rotten wood replacement covered by home insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is rotten wood replacement covered by home insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rotten wood replacement is generally not covered by standard home insurance policies, as rot is typically considered a maintenance issue that develops over time due to neglect or gradual deterioration. Home insurance usually covers sudden and accidental damage, such as a burst pipe leading to immediate water damage. However, if the rot is a direct result of a covered peril, like a storm damaging your roof that then led to water intrusion and subsequent rot, parts of the repair might be covered. It is crucial to review your specific policy or consult with your insurance provider for clarification.",
+        "@type": "Answer",
+        "description": "Standard home insurance usually doesn't cover rotten wood replacement, as it's often a maintenance issue. Coverage might apply if the rot resulted directly from a sudden, covered peril, but always confirm with your insurer."
+      }
+    }
+  ],
+  "description": "Standard home insurance usually doesn't cover rotten wood replacement, as it's often a maintenance issue. Coverage might apply if the rot resulted directly from"
+}

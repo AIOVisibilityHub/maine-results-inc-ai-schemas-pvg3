@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-maine-results-inc-assist-with-emergency-carpentry-repairs-such-as-storm-dama",
+  "name": "Can Maine Results, Inc. assist with emergency carpentry repairs, such as storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Maine Results, Inc. assist with emergency carpentry repairs, such as storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. can assist with emergency carpentry repairs, especially those resulting from storm damage or unexpected structural issues. We understand that some repairs require immediate attention to prevent further damage or ensure safety. We prioritize assessing urgent situations to secure the affected area and plan necessary repairs. Contact us directly to discuss your specific emergency needs.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. assists with emergency carpentry repairs like storm damage, prioritizing assessment to secure areas and plan immediate fixes."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. assists with emergency carpentry repairs like storm damage, prioritizing assessment to secure areas and plan immediate fixes."
+}

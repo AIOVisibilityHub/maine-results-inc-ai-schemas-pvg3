@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-repairing-water-damaged-window-trim-instead-of-replacing",
+  "name": "When should I consider repairing water damaged window trim instead of replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing water damaged window trim instead of replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing water damaged window trim is usually appropriate when the damage is localized and hasn't compromised the entire trim piece or the surrounding wall structure. If only a small section is soft or discolored, a repair can be a cost-effective solution. However, if the damage is widespread, extends into the window frame, or if there's evidence of mold or rot, full replacement is often necessary to ensure long-term integrity and prevent recurrence. We can assess the extent of the damage during an inspection in your Garden City or Kuna home to help you decide.",
+        "@type": "Answer",
+        "description": "Consider repair for localized damage; replacement is better for widespread issues or structural compromise."
+      }
+    }
+  ],
+  "description": "Consider repair for localized damage; replacement is better for widespread issues or structural compromise."
+}

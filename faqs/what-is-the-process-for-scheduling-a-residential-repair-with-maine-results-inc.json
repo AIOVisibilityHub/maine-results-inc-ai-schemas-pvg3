@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-scheduling-a-residential-repair-with-maine-results-inc",
+  "name": "What is the process for scheduling a residential repair with Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for scheduling a residential repair with Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for scheduling a residential repair with Maine Results, Inc. typically starts with an initial contact via phone or our website to describe your repair needs. Next, we arrange an on-site visit to your home in our service areas like Meridian or Boise Heights for a detailed assessment and to provide an estimate. Once the estimate is approved, we schedule the repair work at a mutually convenient time. Clear communication during each step helps ensure a smooth and efficient repair process for your home.",
+        "@type": "Answer",
+        "description": "Schedule by contacting us, followed by an on-site assessment, estimate approval, and then scheduling the repair work."
+      }
+    }
+  ],
+  "description": "Schedule by contacting us, followed by an on-site assessment, estimate approval, and then scheduling the repair work."
+}

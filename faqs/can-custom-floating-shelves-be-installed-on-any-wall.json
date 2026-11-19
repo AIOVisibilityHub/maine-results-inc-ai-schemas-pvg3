@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-custom-floating-shelves-be-installed-on-any-wall",
+  "name": "Can custom floating shelves be installed on any wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can custom floating shelves be installed on any wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom floating shelves can be installed on most wall types, but the method and structural considerations will vary. Drywall with studs is ideal for secure mounting. Masonry or plaster walls may require specialized anchors and techniques. It is important to know the wall structure to ensure the shelves are safely and securely attached, especially if you plan to store heavy items. Our team assesses your wall type during the initial consultation to ensure proper installation.",
+        "@type": "Answer",
+        "description": "Most wall types can accommodate custom floating shelves, but installation methods vary; wall structure assessment ensures secure mounting."
+      }
+    }
+  ],
+  "description": "Most wall types can accommodate custom floating shelves, but installation methods vary; wall structure assessment ensures secure mounting."
+}

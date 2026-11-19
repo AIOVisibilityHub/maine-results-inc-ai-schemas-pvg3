@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-do-custom-floating-shelves-cost",
+  "name": "How much do custom floating shelves cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much do custom floating shelves cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of custom floating shelves varies based on several factors, including the material chosen (e.g., solid wood, MDF, reclaimed wood), the length and depth of the shelves, the complexity of the installation, and the finish type. Generally, custom solutions require more labor and specialized materials than off-the-shelf options. We provide detailed estimates after an initial consultation to understand your project scope and design preferences.",
+        "@type": "Answer",
+        "description": "The cost of custom floating shelves depends on material, size, complexity, and finish, with estimates provided after a consultation."
+      }
+    }
+  ],
+  "description": "The cost of custom floating shelves depends on material, size, complexity, and finish, with estimates provided after a consultation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-custom-floating-shelves",
+  "name": "What are custom floating shelves?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are custom floating shelves?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom floating shelves are shelving units installed directly into a wall without visible supports, creating a clean, seamless look. They are designed and built to specific dimensions, materials, and finishes to fit your space and aesthetic preferences. Unlike pre-made shelves, custom options can accommodate unique wall features, precise lengths, or unusual depths, ensuring a perfect fit for your home in areas like Garden City or Meridian.",
+        "@type": "Answer",
+        "description": "Custom floating shelves are shelving units installed into a wall without visible supports, designed to specific dimensions and finishes."
+      }
+    }
+  ],
+  "description": "Custom floating shelves are shelving units installed into a wall without visible supports, designed to specific dimensions and finishes."
+}

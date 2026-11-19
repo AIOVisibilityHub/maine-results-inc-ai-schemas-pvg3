@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-affect-the-cost-of-water-damaged-window-trim-repair",
+  "name": "What factors affect the cost of water damaged window trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the cost of water damaged window trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of water damaged window trim repair varies based on several factors, including the extent of the damage, the type of wood or trim material, and whether the underlying window frame or wall structure has also been affected. Access to the damaged area can also influence labor costs. Minor repairs, such as filling small soft spots, are less expensive than replacing entire sections or multiple windows. During our initial assessment, we provide a detailed estimate reflecting these considerations for your property in areas like Star or Nampa.",
+        "@type": "Answer",
+        "description": "Cost factors include damage extent, trim material, underlying structural issues, and accessibility."
+      }
+    }
+  ],
+  "description": "Cost factors include damage extent, trim material, underlying structural issues, and accessibility."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-the-installation-process-typically-take-for-mudroom-built-ins",
+  "name": "How long does the installation process typically take for mudroom built-ins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the installation process typically take for mudroom built-ins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeline for mudroom built-ins can vary based on the project's complexity, the size of the space, and the materials chosen. After the design phase is complete and materials are ordered, on-site construction and installation typically take anywhere from a few days to two weeks. Factors such as the need for demolition, custom finishes, or integrating with existing home systems can influence the overall duration. We work to clearly communicate timelines and milestones throughout the project.",
+        "@type": "Answer",
+        "description": "Installation of mudroom built-ins usually takes a few days to two weeks, depending on complexity and materials. Custom finishes or demolition can extend the timeline."
+      }
+    }
+  ],
+  "description": "Installation of mudroom built-ins usually takes a few days to two weeks, depending on complexity and materials. Custom finishes or demolition can extend the tim"
+}

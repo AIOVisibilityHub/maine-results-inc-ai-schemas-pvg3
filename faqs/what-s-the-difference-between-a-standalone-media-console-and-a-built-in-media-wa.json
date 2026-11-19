@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-s-the-difference-between-a-standalone-media-console-and-a-built-in-media-wa",
+  "name": "What's the difference between a standalone media console and a built-in media wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a standalone media console and a built-in media wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in integration and customization. A standalone media console is a piece of furniture that can be moved, offering limited customization and often leaving wires exposed. A built-in media wall, however, is permanently integrated into your home's architecture, custom-designed to fit your space precisely. This allows for seamless wire concealment, custom storage tailored to your exact needs, and a cohesive look with your room's decor. While a standalone unit is a quicker, more flexible solution, a built-in provides a higher level of finish, organization, and adds permanent value to your home.",
+        "@type": "Answer",
+        "description": "A standalone media console is movable furniture, while a built-in media wall is custom-integrated into your home's architecture for seamless wire concealment and tailored storage. Built-ins offer higher finish and value."
+      }
+    }
+  ],
+  "description": "A standalone media console is movable furniture, while a built-in media wall is custom-integrated into your home's architecture for seamless wire concealment an"
+}

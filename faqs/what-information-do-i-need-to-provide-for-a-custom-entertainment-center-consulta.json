@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-information-do-i-need-to-provide-for-a-custom-entertainment-center-consulta",
+  "name": "What information do I need to provide for a custom entertainment center consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide for a custom entertainment center consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a custom entertainment center consultation, it's helpful to have an idea of your space's dimensions, the components you plan to house (TV size, soundbar, gaming consoles, media), and any specific design preferences or inspiration photos you may have. Considering your storage needs for books, decor, or hidden components is also beneficial. This initial information helps us understand your vision and allows us to provide more accurate recommendations and initial design concepts tailored to your home in areas like Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "Provide space dimensions, component sizes, design preferences, and storage needs to help us plan your custom entertainment center."
+      }
+    }
+  ],
+  "description": "Provide space dimensions, component sizes, design preferences, and storage needs to help us plan your custom entertainment center."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-wood-repair-project-take",
+  "name": "How long does a typical wood repair project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical wood repair project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a wood repair project varies significantly based on the size and complexity of the damage. A small repair, like fixing a few cracked deck boards, might take a few hours to a day. More extensive projects, such as repairing significant rot in a structural beam or replacing multiple sections of siding, could span several days or even weeks. Weather conditions can also affect the timeline, especially for exterior repairs that require specific temperatures for proper curing of sealants and paints. We aim to provide a realistic timeline after our initial assessment.",
+        "@type": "Answer",
+        "description": "Project duration depends on damage size and complexity, ranging from hours for small repairs to weeks for extensive structural work, with weather also being a factor."
+      }
+    }
+  ],
+  "description": "Project duration depends on damage size and complexity, ranging from hours for small repairs to weeks for extensive structural work, with weather also being a f"
+}

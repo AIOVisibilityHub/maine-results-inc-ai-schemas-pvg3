@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-entryway-built-ins-be-designed-to-match-my-home-s-existing-style",
+  "name": "Can entryway built-ins be designed to match my home's existing style?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can entryway built-ins be designed to match my home's existing style?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, custom entryway built-ins are specifically designed to match or complement your home's existing architectural style, trim work, and color palette. Our design team works with you to select materials, finishes, and hardware that integrate seamlessly, ensuring the new built-ins look like an original part of your home. This attention to detail is a first-party insight we prioritize at Maine Results, Inc., ensuring aesthetic harmony rather than a mismatched addition.",
+        "@type": "Answer",
+        "description": "Custom built-ins are designed to match your home's style through careful selection of materials, finishes, and hardware for seamless integration."
+      }
+    }
+  ],
+  "description": "Custom built-ins are designed to match your home's style through careful selection of materials, finishes, and hardware for seamless integration."
+}

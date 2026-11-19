@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-warranty-or-guarantee-do-you-offer-for-dry-rot-repair-services",
+  "name": "What kind of warranty or guarantee do you offer for dry rot repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty or guarantee do you offer for dry rot repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We stand behind the quality of our dry rot repair services with a specific warranty that covers both the workmanship and the materials used. The duration and specifics of the warranty will be clearly outlined in your service agreement, offering you peace of mind regarding the durability of our repairs. This guarantee reflects our confidence in our remediation process and the high standards we maintain for all projects in areas like Kuna and Star.",
+        "@type": "Answer",
+        "description": "We offer a warranty on our dry rot repair services, covering workmanship and materials, with details outlined in your service agreement for peace of mind."
+      }
+    }
+  ],
+  "description": "We offer a warranty on our dry rot repair services, covering workmanship and materials, with details outlined in your service agreement for peace of mind."
+}

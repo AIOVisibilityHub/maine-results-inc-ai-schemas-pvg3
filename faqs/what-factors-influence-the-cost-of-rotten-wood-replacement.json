@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-rotten-wood-replacement",
+  "name": "What factors influence the cost of rotten wood replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of rotten wood replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of rotten wood replacement is influenced by several factors, including the extent of the rot, the type of wood needing replacement (e.g., framing, trim, decking), and the accessibility of the affected area. For example, replacing a small section of trim is less costly than repairing extensive rot in a structural beam or a hard-to-reach area like a soffit. The need for additional repairs, such as addressing underlying moisture issues or replacing insulation, also impacts the total cost. A detailed assessment provides the most accurate estimate for your specific situation.",
+        "@type": "Answer",
+        "description": "Cost factors include the extent and location of the rot, type of wood, and accessibility. More complex or extensive repairs, especially in structural or hard-to-reach areas, will increase the overall cost."
+      }
+    }
+  ],
+  "description": "Cost factors include the extent and location of the rot, type of wood, and accessibility. More complex or extensive repairs, especially in structural or hard-to"
+}

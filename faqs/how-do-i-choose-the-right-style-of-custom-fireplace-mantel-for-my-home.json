@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-the-right-style-of-custom-fireplace-mantel-for-my-home",
+  "name": "How do I choose the right style of custom fireplace mantel for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right style of custom fireplace mantel for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right style for your custom fireplace mantel involves considering several key elements of your home's architecture and interior design. Think about whether your home has a traditional, modern, rustic, or transitional aesthetic. A simple, clean-lined mantel might suit a modern home, while an ornate, carved wood mantel would complement a traditional space. Also, consider the scale of your room and fireplace; a large, grand mantel can be a focal point in a spacious room, while a more understated design might be better for a smaller area. Gathering images of mantels you admire can be a great starting point.",
+        "@type": "Answer",
+        "description": "Choose your mantel style by considering your home's existing architecture and interior design, whether it's modern, traditional, or rustic, and the scale of your room and fireplace."
+      }
+    }
+  ],
+  "description": "Choose your mantel style by considering your home's existing architecture and interior design, whether it's modern, traditional, or rustic, and the scale of you"
+}

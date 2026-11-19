@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-mantel-repair-usually-take",
+  "name": "How long does a mantel repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a mantel repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for a mantel repair varies significantly based on the extent of the damage, the material of the mantel, and the specific repair techniques needed. Simple repairs, like filling a minor chip and refinishing, might only take a few hours to a day. More extensive work, such as repairing significant structural damage, replacing sections of wood, or addressing widespread water damage, could extend over several days. Drying and curing times for certain materials or finishes also contribute to the overall project timeline. We provide an estimated completion time with our project proposal after assessing your specific mantel in locations like Kuna or Star.",
+        "@type": "Answer",
+        "description": "Mantel repair time depends on damage and material, ranging from a few hours for minor fixes to several days for extensive repairs, including drying times."
+      }
+    }
+  ],
+  "description": "Mantel repair time depends on damage and material, ranging from a few hours for minor fixes to several days for extensive repairs, including drying times."
+}

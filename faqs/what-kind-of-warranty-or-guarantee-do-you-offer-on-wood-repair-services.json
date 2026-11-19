@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-warranty-or-guarantee-do-you-offer-on-wood-repair-services",
+  "name": "What kind of warranty or guarantee do you offer on wood repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty or guarantee do you offer on wood repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. stands behind the quality of our wood repair services. We offer a warranty on our workmanship, ensuring that the repairs are performed to industry standards and designed for durability. The specific terms and duration of the warranty can vary depending on the type and scope of the repair, as well as the materials used. We provide all warranty details in writing with your project estimate, so you have a clear understanding of the coverage. Our goal is your complete satisfaction with the longevity and integrity of our repairs.",
+        "@type": "Answer",
+        "description": "We offer a workmanship warranty on our wood repair services, with specific terms depending on the repair type, scope, and materials, provided in writing with your estimate."
+      }
+    }
+  ],
+  "description": "We offer a workmanship warranty on our wood repair services, with specific terms depending on the repair type, scope, and materials, provided in writing with yo"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-install-floating-shelves-myself-or-should-i-hire-a-professional",
+  "name": "Can I install floating shelves myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install floating shelves myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's possible to install floating shelves as a DIY project, hiring a professional ensures proper installation, especially for heavier shelves or complex arrangements. Professionals have specialized tools to locate studs and avoid utilities, ensuring the shelves are level, secure, and can support the intended weight without damaging your walls. For homeowners in areas like Garden City or Meridian, Maine Results, Inc. provides expert installation that guarantees safety and stability.",
+        "@type": "Answer",
+        "description": "Hiring a professional ensures proper, safe, and secure floating shelf installation, especially for complex projects or heavier items, avoiding potential wall damage."
+      }
+    }
+  ],
+  "description": "Hiring a professional ensures proper, safe, and secure floating shelf installation, especially for complex projects or heavier items, avoiding potential wall da"
+}

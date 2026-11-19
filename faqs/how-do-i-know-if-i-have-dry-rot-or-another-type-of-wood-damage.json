@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-i-have-dry-rot-or-another-type-of-wood-damage",
+  "name": "How do I know if I have dry rot or another type of wood damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I have dry rot or another type of wood damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Distinguishing dry rot from other wood damage, like wet rot or termite damage, often requires a professional assessment. Dry rot typically causes wood to crack and crumble into cubes, known as cuboidal cracking, even when the wood appears dry. Wet rot usually makes wood feel soft and spongy. Our team can perform a thorough inspection to accurately identify the specific type of damage and recommend the most effective repair strategy, which is crucial for a lasting solution.",
+        "@type": "Answer",
+        "description": "Dry rot causes wood to crack and crumble into cubes, unlike the soft, spongy texture of wet rot. A professional inspection helps accurately identify the damage."
+      }
+    }
+  ],
+  "description": "Dry rot causes wood to crack and crumble into cubes, unlike the soft, spongy texture of wet rot. A professional inspection helps accurately identify the damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-wood-structures-can-maine-results-inc-repair-from-water-damage",
+  "name": "What types of wood structures can Maine Results, Inc. repair from water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood structures can Maine Results, Inc. repair from water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. can repair water damage to a wide range of wood structures, including flooring, subflooring, wall studs, ceiling joists, roof decking, exterior siding, decks, and trim. Our services cover both interior and exterior wood components affected by moisture, leaks, or flooding. As a general construction company, we have the capabilities to handle various scopes of damage, from isolated sections to more extensive structural repairs, serving clients in Garden City, Meridian, Eagle, Kuna, and Star.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. repairs water damage to various wood structures including flooring, walls, ceilings, siding, decks, and trim, both interior and exterior."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. repairs water damage to various wood structures including flooring, walls, ceilings, siding, decks, and trim, both interior and exterior."
+}

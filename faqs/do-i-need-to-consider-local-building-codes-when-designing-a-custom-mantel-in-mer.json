@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-consider-local-building-codes-when-designing-a-custom-mantel-in-mer",
+  "name": "Do I need to consider local building codes when designing a custom mantel in Meridian?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to consider local building codes when designing a custom mantel in Meridian?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, when designing a custom fireplace mantel in areas like Meridian, it's crucial to consider local building codes, especially regarding clearances from the firebox opening. These codes are in place to ensure fire safety and prevent combustible materials from being too close to the heat source. Our team at Maine Results is knowledgeable about local regulations and will ensure your custom mantel design complies with all necessary safety requirements. We handle the technical specifications so you don't have to manage the details of specific code measurements, but it's a critical element that affects design parameters.",
+        "@type": "Answer",
+        "description": "Yes, local building codes regarding clearances from the firebox opening are crucial for custom mantels in Meridian to ensure fire safety, and our team will ensure compliance."
+      }
+    }
+  ],
+  "description": "Yes, local building codes regarding clearances from the firebox opening are crucial for custom mantels in Meridian to ensure fire safety, and our team will ensu"
+}

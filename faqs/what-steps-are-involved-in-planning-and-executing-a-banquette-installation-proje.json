@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-steps-are-involved-in-planning-and-executing-a-banquette-installation-proje",
+  "name": "What steps are involved in planning and executing a banquette installation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in planning and executing a banquette installation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process of a banquette installation typically begins with an initial consultation to discuss your vision, space, and functional needs. This is followed by design and measurement, where detailed plans are drawn up and precise measurements of your space are taken. After design approval, materials are ordered, and the banquette frame is constructed. Finally, upholstery is applied, and the unit is installed in your home. Providing clear expectations for space utilization and desired aesthetic during the initial consultation can significantly streamline the planning and execution phases.",
+        "@type": "Answer",
+        "description": "The process includes consultation, design, measurement, construction, upholstery, and final installation."
+      }
+    }
+  ],
+  "description": "The process includes consultation, design, measurement, construction, upholstery, and final installation."
+}

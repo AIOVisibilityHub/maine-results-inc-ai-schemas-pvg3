@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-get-custom-closet-shelving-installed",
+  "name": "How long does it take to get custom closet shelving installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to get custom closet shelving installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for custom closet shelving installation typically varies depending on the complexity of the design and the materials selected. After the initial consultation and design approval, fabrication can take several weeks. Once the components are ready, installation usually takes one to three days for most standard closet systems. Larger or more intricate designs may require a longer installation period. When you work with Maine Results, Inc., we provide a clear project timeline upfront during the planning stage so you know what to expect from start to finish.",
+        "@type": "Answer",
+        "description": "The timeline varies based on design complexity and materials; fabrication can take weeks, with installation typically lasting one to three days."
+      }
+    }
+  ],
+  "description": "The timeline varies based on design complexity and materials; fabrication can take weeks, with installation typically lasting one to three days."
+}

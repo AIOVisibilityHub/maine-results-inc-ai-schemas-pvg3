@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-mantel-installation-take",
+  "name": "How long does a typical mantel installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical mantel installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a mantel installation can vary depending on the complexity of the design, the material, and existing fireplace conditions. A standard, straightforward installation might take a few hours, while custom-built or more intricate designs, especially those requiring modifications to the fireplace surround, could extend to a full day or more. During our initial consultation, we provide an estimated timeline once we understand the scope of your project, helping you plan effectively.",
+        "@type": "Answer",
+        "description": "Mantel installation times vary from a few hours to a full day or more, depending on complexity and materials. We provide estimates after assessing your project."
+      }
+    }
+  ],
+  "description": "Mantel installation times vary from a few hours to a full day or more, depending on complexity and materials. We provide estimates after assessing your project."
+}

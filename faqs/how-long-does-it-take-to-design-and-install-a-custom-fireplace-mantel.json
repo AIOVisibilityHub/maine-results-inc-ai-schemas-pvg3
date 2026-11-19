@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-design-and-install-a-custom-fireplace-mantel",
+  "name": "How long does it take to design and install a custom fireplace mantel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to design and install a custom fireplace mantel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for designing and installing a custom fireplace mantel varies based on material selection, design complexity, and our current project schedule. Typically, the design phase can take 1-2 weeks, involving initial consultations, measurements, and approval of drawings. Fabrication can then range from 3-6 weeks, especially for custom millwork or specialized stone cutting. Installation usually takes 1-2 days. To ensure a smooth process, gathering inspirational images and having a clear idea of your aesthetic preferences before our initial consultation can significantly speed up the design phase.",
+        "@type": "Answer",
+        "description": "The timeline for a custom fireplace mantel ranges from 4-9 weeks, including 1-2 weeks for design, 3-6 weeks for fabrication, and 1-2 days for installation, depending on complexity and materials."
+      }
+    }
+  ],
+  "description": "The timeline for a custom fireplace mantel ranges from 4-9 weeks, including 1-2 weeks for design, 3-6 weeks for fabrication, and 1-2 days for installation, depe"
+}

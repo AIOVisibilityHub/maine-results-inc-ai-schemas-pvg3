@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-repair-dry-rot-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair dry rot myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair dry rot myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface dry rot might seem manageable for a DIY enthusiast, extensive dry rot, especially when it affects structural elements, typically requires professional expertise. Proper remediation involves not only removing visible decay but also identifying and eliminating the moisture source, treating affected areas to prevent recurrence, and often replacing structural components. Hiring a professional ensures a thorough and lasting repair, preventing potential future complications that could arise from incomplete work.",
+        "@type": "Answer",
+        "description": "Extensive dry rot, especially structural damage, requires professional repair to ensure thorough remediation and prevent recurrence. Incomplete DIY work can lead to future complications."
+      }
+    }
+  ],
+  "description": "Extensive dry rot, especially structural damage, requires professional repair to ensure thorough remediation and prevent recurrence. Incomplete DIY work can lea"
+}

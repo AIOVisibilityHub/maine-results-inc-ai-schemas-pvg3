@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/does-water-damaged-wood-always-lead-to-mold",
+  "name": "Does water damaged wood always lead to mold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does water damaged wood always lead to mold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damaged wood does not always immediately lead to mold, but it creates the ideal conditions for mold growth if not addressed promptly and thoroughly. Mold spores are ubiquitous and only need moisture, a food source (like wood), and a suitable temperature to proliferate. If water damage is dried out completely and quickly (within 24-48 hours), the risk of mold growth is significantly reduced. However, if moisture persists, mold is highly likely to develop. Our construction experts prioritize rapid drying to mitigate mold risks in all repair projects.",
+        "@type": "Answer",
+        "description": "Water damaged wood provides ideal conditions for mold, but if dried completely within 24-48 hours, the risk of mold growth is significantly reduced."
+      }
+    }
+  ],
+  "description": "Water damaged wood provides ideal conditions for mold, but if dried completely within 24-48 hours, the risk of mold growth is significantly reduced."
+}

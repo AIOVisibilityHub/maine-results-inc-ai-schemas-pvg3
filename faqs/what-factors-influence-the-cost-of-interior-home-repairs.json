@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-interior-home-repairs",
+  "name": "What factors influence the cost of interior home repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of interior home repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of interior home repairs is influenced by several key factors, including the type of repair needed, the extent of the damage, and the materials required. For example, a simple drywall patch will cost less than extensive water damage remediation. Labor hours, specialized tools, and the need for any permits (though less common for minor interior work) also contribute to the overall price. We provide detailed, itemized estimates so you understand all components of the cost.",
+        "@type": "Answer",
+        "description": "Cost factors include repair type, extent of damage, material costs, labor hours, and specialized tools. We provide itemized estimates."
+      }
+    }
+  ],
+  "description": "Cost factors include repair type, extent of damage, material costs, labor hours, and specialized tools. We provide itemized estimates."
+}

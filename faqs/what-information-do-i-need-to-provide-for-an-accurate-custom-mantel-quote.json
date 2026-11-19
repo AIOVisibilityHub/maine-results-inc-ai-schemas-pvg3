@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-information-do-i-need-to-provide-for-an-accurate-custom-mantel-quote",
+  "name": "What information do I need to provide for an accurate custom mantel quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide for an accurate custom mantel quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To receive an accurate quote for a custom fireplace mantel, you should be prepared to provide several pieces of information. This includes approximate dimensions of your fireplace opening and the surrounding wall space where the mantel will be installed. It's also helpful to have an idea of your preferred materials, such as wood species or stone type, and any specific design elements or styles you are interested in. Photos of your existing fireplace and the room can also be very beneficial. The more details you can share about your vision and requirements during the initial consultation, the more precise our estimate will be.",
+        "@type": "Answer",
+        "description": "For an accurate quote, provide approximate fireplace and wall dimensions, preferred materials and design styles, and photos of your existing fireplace and room."
+      }
+    }
+  ],
+  "description": "For an accurate quote, provide approximate fireplace and wall dimensions, preferred materials and design styles, and photos of your existing fireplace and room."
+}

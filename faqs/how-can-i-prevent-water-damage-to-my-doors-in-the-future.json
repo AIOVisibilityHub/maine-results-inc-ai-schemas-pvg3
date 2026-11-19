@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-prevent-water-damage-to-my-doors-in-the-future",
+  "name": "How can I prevent water damage to my doors in the future?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent water damage to my doors in the future?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future water damage to your doors, regular maintenance and attention to potential water sources are key. Ensure exterior doors have proper weatherstripping and door sweeps that are in good condition to seal out moisture. Regularly inspect and maintain your home's gutters, downspouts, and landscaping to ensure water drains away from the foundation and door thresholds. Promptly repair any roof leaks or plumbing issues. For wooden doors, applying a protective paint or stain and ensuring it's well-maintained offers a barrier against moisture. In our service areas like Garden City and Kuna, harsh weather can necessitate more frequent inspections.",
+        "@type": "Answer",
+        "description": "Prevent water damage by maintaining weatherstripping, ensuring proper drainage around your home, promptly fixing leaks, and regularly protecting wooden doors with paint or stain."
+      }
+    }
+  ],
+  "description": "Prevent water damage by maintaining weatherstripping, ensuring proper drainage around your home, promptly fixing leaks, and regularly protecting wooden doors wi"
+}

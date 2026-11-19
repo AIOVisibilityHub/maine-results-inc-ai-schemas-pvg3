@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-maine-results-inc-ensure-the-quality-and-durability-of-rotten-wood-repair",
+  "name": "How do Maine Results, Inc. ensure the quality and durability of rotten wood repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do Maine Results, Inc. ensure the quality and durability of rotten wood repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "At Maine Results, Inc., we ensure quality and durability in rotten wood repairs by first conducting a thorough assessment to identify the full extent of the damage and its underlying cause. We use only high-grade, appropriate materials, including pressure-treated lumber where necessary, to match or exceed original structural integrity. Our skilled craftsmen meticulously remove all compromised material and replace it with precision, adhering to best practices and local building standards for our service areas like Eagle and Kuna. We also focus on addressing the root cause of moisture to prevent future issues, providing a lasting solution for your home.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. ensures quality by thoroughly assessing damage, identifying root causes, using high-grade materials, and employing skilled craftsmen for precise, lasting repairs that meet local standards and prevent future rot."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. ensures quality by thoroughly assessing damage, identifying root causes, using high-grade materials, and employing skilled craftsmen for pre"
+}

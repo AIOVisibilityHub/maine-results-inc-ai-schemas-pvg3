@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-ensure-wood-rot-doesn-t-return-after-repair",
+  "name": "How do you ensure wood rot doesn't return after repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure wood rot doesn't return after repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing wood rot from returning after repair involves thoroughly addressing the root cause of the moisture. Our process includes identifying and resolving the primary moisture source, whether it's a leaky roof, clogged gutters, faulty plumbing, or inadequate drainage. We also apply fungicides to inhibit new growth and use appropriate flashing, sealants, and often recommend improved ventilation or drainage solutions to maintain a dry environment. Using rot-resistant materials for replacements further ensures the longevity of the repair.",
+        "@type": "Answer",
+        "description": "We prevent rot recurrence by resolving the moisture source, applying fungicides, improving ventilation, and using rot-resistant materials. Addressing the root cause is crucial."
+      }
+    }
+  ],
+  "description": "We prevent rot recurrence by resolving the moisture source, applying fungicides, improving ventilation, and using rot-resistant materials. Addressing the root c"
+}

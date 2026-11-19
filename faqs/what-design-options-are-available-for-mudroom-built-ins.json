@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-design-options-are-available-for-mudroom-built-ins",
+  "name": "What design options are available for mudroom built-ins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What design options are available for mudroom built-ins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. offers a wide range of design options for mudroom built-ins, tailored to complement your home's style and your family's needs. We can incorporate elements such as custom cabinetry, open shelving, closed lockers, integrated benches, and various hooks and cubbies. Material choices include different wood types, finishes, and hardware, allowing for a personalized look from rustic to modern. During the design phase, we'll review examples and collaborate to create a layout that maximizes both functionality and aesthetic appeal for your space.",
+        "@type": "Answer",
+        "description": "Design options for mudroom built-ins include custom cabinetry, shelving, lockers, benches, and various materials, all tailored to your home's style."
+      }
+    }
+  ],
+  "description": "Design options for mudroom built-ins include custom cabinetry, shelving, lockers, benches, and various materials, all tailored to your home's style."
+}

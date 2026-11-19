@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-banquette-installation",
+  "name": "What factors influence the cost of banquette installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of banquette installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of banquette installation is influenced by several key factors. These include the size and complexity of the design, the types of materials chosen for both the frame and upholstery, and any custom features like integrated storage or unique shapes. For example, a simple, straight bench will generally be less expensive than a curved, L-shaped, or U-shaped unit with built-in drawers. To help us provide an accurate quote for your project, consider your budget range and design preferences, as these details guide the material and design options we can suggest.",
+        "@type": "Answer",
+        "description": "Banquette installation cost depends on design complexity, size, materials, and custom features."
+      }
+    }
+  ],
+  "description": "Banquette installation cost depends on design complexity, size, materials, and custom features."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-water-damaged-door-repair-typically-take",
+  "name": "How long does water-damaged door repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does water-damaged door repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of water-damaged door repair varies based on the severity of the damage and whether a repair or replacement is performed. Minor repairs, such as sanding and repainting small swollen areas, might be completed in a single day. More extensive repairs involving wood reconstruction or addressing significant rot could take several days, accounting for drying times and multiple application layers. If a full door replacement is required, the timeline includes removing the old door, preparing the frame, installing the new door, and finishing work, which can often be done within one to two days once the new door is on-site. Scheduling depends on our current workload and material availability.",
+        "@type": "Answer",
+        "description": "Repair time varies from a single day for minor issues to several days for extensive repairs or replacement, factoring in drying times and installation. Complex jobs take longer."
+      }
+    }
+  ],
+  "description": "Repair time varies from a single day for minor issues to several days for extensive repairs or replacement, factoring in drying times and installation. Complex"
+}

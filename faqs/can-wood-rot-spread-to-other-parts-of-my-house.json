@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-wood-rot-spread-to-other-parts-of-my-house",
+  "name": "Can wood rot spread to other parts of my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can wood rot spread to other parts of my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, wood rot can spread. The fungi responsible for wood decay require consistent moisture. If the source of moisture is not resolved, the rot will continue to spread to adjacent wood, compromising more of your home's structure. It is vital to identify and eliminate the moisture problem promptly. Left unaddressed, rot can weaken structural elements, leading to costly and extensive repairs. Early intervention is key to containing the problem and protecting your property.",
+        "@type": "Answer",
+        "description": "Yes, wood rot can spread if the moisture source is not resolved, compromising more of your home's structure. Prompt intervention is crucial to contain the problem."
+      }
+    }
+  ],
+  "description": "Yes, wood rot can spread if the moisture source is not resolved, compromising more of your home's structure. Prompt intervention is crucial to contain the probl"
+}

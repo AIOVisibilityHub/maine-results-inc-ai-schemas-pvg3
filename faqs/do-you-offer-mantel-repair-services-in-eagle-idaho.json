@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-mantel-repair-services-in-eagle-idaho",
+  "name": "Do you offer mantel repair services in Eagle, Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer mantel repair services in Eagle, Idaho?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results Inc. proudly offers mantel repair services in Eagle, Idaho, as well as surrounding communities like Garden City, Meridian, Kuna, and Star. Our team is equipped to address a variety of mantel repair needs, from minor cosmetic fixes to more extensive structural restorations for both residential and commercial properties in the Eagle area. When you contact us, we can schedule an on-site visit to accurately assess your mantel's condition and provide a detailed repair plan tailored to your specific situation and location.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results Inc. provides mantel repair services in Eagle, Idaho, and nearby areas, with on-site assessments available."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results Inc. provides mantel repair services in Eagle, Idaho, and nearby areas, with on-site assessments available."
+}

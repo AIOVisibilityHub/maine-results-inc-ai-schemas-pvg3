@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-complete-an-entryway-built-in-project",
+  "name": "How long does it take to complete an entryway built-in project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete an entryway built-in project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for entryway built-in projects typically ranges from a few weeks to several months, depending on the scope and complexity of the design, material availability, and current project schedule. Simpler designs with readily available materials will naturally take less time than elaborate, custom-fabricated units. During your initial consultation, we can provide a more accurate estimate based on your specific project details, allowing you to plan accordingly and understand the timing involved for your unique built-in solution.",
+        "@type": "Answer",
+        "description": "Project timelines range from weeks to months, depending on design complexity and material availability. A specific estimate is provided during consultation."
+      }
+    }
+  ],
+  "description": "Project timelines range from weeks to months, depending on design complexity and material availability. A specific estimate is provided during consultation."
+}

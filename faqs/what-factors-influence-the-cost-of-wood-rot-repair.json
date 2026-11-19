@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-wood-rot-repair",
+  "name": "What factors influence the cost of wood rot repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of wood rot repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of wood rot repair is influenced by several factors: the amount of damaged wood, the accessibility of the affected area, the type of wood needing replacement, and the complexity of addressing the moisture source. Structural repairs typically cost more than cosmetic ones due to the need for specific materials and specialized techniques. Additionally, costs can vary based on whether the repair requires matching historical architectural details or integrating with existing custom finishes. We provide detailed estimates after a site visit to account for these specific project variables.",
+        "@type": "Answer",
+        "description": "Cost factors include damage extent, accessibility, wood type, and moisture source complexity. Structural repairs and custom finishes often increase the price."
+      }
+    }
+  ],
+  "description": "Cost factors include damage extent, accessibility, wood type, and moisture source complexity. Structural repairs and custom finishes often increase the price."
+}

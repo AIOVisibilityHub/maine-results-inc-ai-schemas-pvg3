@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/are-there-specific-building-codes-or-considerations-for-wood-rot-repair-in-garde",
+  "name": "Are there specific building codes or considerations for wood rot repair in Garden City or Meridian?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific building codes or considerations for wood rot repair in Garden City or Meridian?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When undertaking wood rot repair, especially if it involves structural components, specific building codes may apply to ensure safety and integrity. In areas like Garden City and Meridian, repairs that alter structural elements or significantly change existing construction may require permits and inspections. While wood rot repair itself is a restoration task, the replacement of beams, joists, or wall framing must meet current local codes. We handle the necessary permits and ensure all repairs comply with the specific requirements for your property's location.",
+        "@type": "Answer",
+        "description": "Structural wood rot repair in Garden City or Meridian may require permits and inspections to ensure compliance with local building codes. We manage the permitting process for your project."
+      }
+    }
+  ],
+  "description": "Structural wood rot repair in Garden City or Meridian may require permits and inspections to ensure compliance with local building codes. We manage the permitti"
+}

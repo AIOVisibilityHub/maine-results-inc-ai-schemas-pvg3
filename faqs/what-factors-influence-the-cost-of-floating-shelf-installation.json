@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-floating-shelf-installation",
+  "name": "What factors influence the cost of floating shelf installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of floating shelf installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of floating shelf installation is influenced by several factors, including the number and size of shelves, the type of material (e.g., wood, laminate, custom-built), the complexity of the mounting system, and the wall material. For example, installing into plaster or masonry typically requires more effort and specialized hardware than drywall. We provide transparent quotes after understanding your specific project requirements, ensuring you know exactly what to expect.",
+        "@type": "Answer",
+        "description": "Cost factors include the number and size of shelves, material type, mounting system complexity, and wall material, all of which are considered for our transparent quotes."
+      }
+    }
+  ],
+  "description": "Cost factors include the number and size of shelves, material type, mounting system complexity, and wall material, all of which are considered for our transpare"
+}

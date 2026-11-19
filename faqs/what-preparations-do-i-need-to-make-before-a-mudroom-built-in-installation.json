@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparations-do-i-need-to-make-before-a-mudroom-built-in-installation",
+  "name": "What preparations do I need to make before a mudroom built-in installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations do I need to make before a mudroom built-in installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the installation of your mudroom built-ins, it's helpful to clear the designated area of any existing furniture, decor, or personal items. This provides our team with a clear workspace and ensures a smoother, more efficient installation process. Consider what you plan to store in the new built-ins, as this can help finalize small details like hook placement or shelf spacing. We will confirm any specific requirements or adjustments needed during the final planning stages.",
+        "@type": "Answer",
+        "description": "Before installation, clear the mudroom area of existing items. Considering storage needs can also help finalize design details."
+      }
+    }
+  ],
+  "description": "Before installation, clear the mudroom area of existing items. Considering storage needs can also help finalize design details."
+}

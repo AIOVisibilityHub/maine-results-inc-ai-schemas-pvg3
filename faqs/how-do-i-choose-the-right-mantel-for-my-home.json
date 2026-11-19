@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-the-right-mantel-for-my-home",
+  "name": "How do I choose the right mantel for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right mantel for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right mantel involves considering your home's architectural style, the existing fireplace, and your personal aesthetic. Think about the material (wood, stone), finish, and size that will complement your room without overpowering it. We recommend looking at examples of mantels in different settings to determine what appeals to you. Our team provides guidance during the design phase, helping you visualize options and make an informed decision that suits your space and budget.",
+        "@type": "Answer",
+        "description": "Consider your home's style, fireplace, and personal aesthetic regarding material, finish, and size to choose the right mantel. Our team offers design guidance."
+      }
+    }
+  ],
+  "description": "Consider your home's style, fireplace, and personal aesthetic regarding material, finish, and size to choose the right mantel. Our team offers design guidance."
+}

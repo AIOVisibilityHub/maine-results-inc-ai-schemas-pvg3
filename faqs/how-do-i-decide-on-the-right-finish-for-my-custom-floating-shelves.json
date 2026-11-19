@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-decide-on-the-right-finish-for-my-custom-floating-shelves",
+  "name": "How do I decide on the right finish for my custom floating shelves?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I decide on the right finish for my custom floating shelves?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding on the right finish involves considering your existing decor, the room's color palette, and the intended use of the shelves. Options range from clear coats that highlight natural wood grain, to stains that alter wood color, or paints for a solid color match or contrast. A durable finish is important for high-traffic areas or shelves holding items that might scratch the surface. We can provide samples and discuss how different finishes will complement your home and stand up to daily use in areas like Nampa or Caldwell.",
+        "@type": "Answer",
+        "description": "Choose a finish based on existing decor, room color, and intended use, considering options like clear coats, stains, or paint for durability and style."
+      }
+    }
+  ],
+  "description": "Choose a finish based on existing decor, room color, and intended use, considering options like clear coats, stains, or paint for durability and style."
+}

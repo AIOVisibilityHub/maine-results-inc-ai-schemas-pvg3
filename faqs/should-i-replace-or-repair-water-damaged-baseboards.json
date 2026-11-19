@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-replace-or-repair-water-damaged-baseboards",
+  "name": "Should I replace or repair water damaged baseboards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace or repair water damaged baseboards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to replace or repair depends on the extent of the water damage. If the damage is localized, minor, and only affects the paint or a small section of wood, repair might be possible. However, if the baseboard is warped, crumbling, or shows signs of mold, replacement is usually the better option to ensure structural integrity and prevent further issues. Assessing the material, like wood versus MDF, also helps determine the most effective approach as different materials react to moisture differently.",
+        "@type": "Answer",
+        "description": "Repair minor, localized water damage; replace baseboards that are warped, crumbling, or moldy. The material also influences the best approach."
+      }
+    }
+  ],
+  "description": "Repair minor, localized water damage; replace baseboards that are warped, crumbling, or moldy. The material also influences the best approach."
+}

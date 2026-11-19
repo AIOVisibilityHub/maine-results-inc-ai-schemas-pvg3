@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-residential-repair-services-in-eagle-idaho",
+  "name": "Do you offer residential repair services in Eagle, Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer residential repair services in Eagle, Idaho?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. proudly offers residential repair services in Eagle, Idaho, along with other communities such as Garden City, Meridian, Kuna, and Star. Our team is familiar with the local building standards and common residential construction types in the Eagle area. When requesting service, specify your location so we can confirm it falls within our service zone and dispatch the appropriate team efficiently.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. serves Eagle, Idaho for residential repairs, among other cities."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. serves Eagle, Idaho for residential repairs, among other cities."
+}

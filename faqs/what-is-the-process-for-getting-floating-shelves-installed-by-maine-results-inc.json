@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-getting-floating-shelves-installed-by-maine-results-inc",
+  "name": "What is the process for getting floating shelves installed by Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting floating shelves installed by Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation where we discuss your needs, assess the installation area, and help you choose the right type of shelves and mounting for your space. Following this, we provide a detailed estimate. Once approved, our team schedules the installation, handles all necessary preparations, and performs the installation with precision and care, cleaning up afterward. We aim for clear communication and a smooth process from start to finish.",
+        "@type": "Answer",
+        "description": "Our process involves an initial consultation, detailed estimate, and professional installation, ensuring clear communication and a smooth project completion."
+      }
+    }
+  ],
+  "description": "Our process involves an initial consultation, detailed estimate, and professional installation, ensuring clear communication and a smooth project completion."
+}

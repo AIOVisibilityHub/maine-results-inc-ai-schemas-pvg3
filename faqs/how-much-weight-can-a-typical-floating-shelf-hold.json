@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-weight-can-a-typical-floating-shelf-hold",
+  "name": "How much weight can a typical floating shelf hold?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much weight can a typical floating shelf hold?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The weight capacity of a floating shelf depends on several factors, including the shelf material, its length and depth, the type of mounting hardware used, and the strength of the wall attachment. Generally, a properly installed floating shelf can hold between 15 to 50 pounds per linear foot when mounted directly into studs. We can advise on specific weight capacities based on your chosen shelf and wall conditions during the consultation, helping you select the right solution for your needs.",
+        "@type": "Answer",
+        "description": "Weight capacity depends on shelf material, size, mounting hardware, and wall attachment, typically ranging from 15 to 50 pounds per linear foot when mounted into studs."
+      }
+    }
+  ],
+  "description": "Weight capacity depends on shelf material, size, mounting hardware, and wall attachment, typically ranging from 15 to 50 pounds per linear foot when mounted int"
+}

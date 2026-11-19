@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-dry-rot-repair",
+  "name": "What is the typical process for dry rot repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for dry rot repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The dry rot repair process begins with containing the affected area and removing all decayed wood and any visible fungal growth. We then treat surrounding healthy wood with fungicidal agents to prevent recurrence. Finally, the removed sections are replaced with new, treated timber or appropriate structural materials. The specific approach can vary significantly based on the extent of the damage and the structural role of the affected wood, which we assess during our initial consultation.",
+        "@type": "Answer",
+        "description": "The typical process involves removing decayed wood, treating surrounding areas, and replacing damaged sections with new materials. The approach varies by damage extent."
+      }
+    }
+  ],
+  "description": "The typical process involves removing decayed wood, treating surrounding areas, and replacing damaged sections with new materials. The approach varies by damage"
+}

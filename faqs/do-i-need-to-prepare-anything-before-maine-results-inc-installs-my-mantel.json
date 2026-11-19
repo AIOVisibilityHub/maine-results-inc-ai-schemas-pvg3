@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-prepare-anything-before-maine-results-inc-installs-my-mantel",
+  "name": "Do I need to prepare anything before Maine Results, Inc. installs my mantel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to prepare anything before Maine Results, Inc. installs my mantel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a few preparations can help ensure a smooth installation. We recommend clearing the area around the fireplace of furniture, décor, and any valuable items. If you have an existing mantel, please inform us if you plan to remove it yourself or if you'd like us to include its removal in our service. Having a clear pathway for our team to access the work area is also helpful. We will confirm specific requirements during your project consultation, ensuring everything is ready.",
+        "@type": "Answer",
+        "description": "Before installation, clear the fireplace area, consider existing mantel removal, and ensure a clear pathway for our team."
+      }
+    }
+  ],
+  "description": "Before installation, clear the fireplace area, consider existing mantel removal, and ensure a clear pathway for our team."
+}

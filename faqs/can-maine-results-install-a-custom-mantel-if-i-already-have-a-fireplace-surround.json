@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-maine-results-install-a-custom-mantel-if-i-already-have-a-fireplace-surround",
+  "name": "Can Maine Results install a custom mantel if I already have a fireplace surround?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Maine Results install a custom mantel if I already have a fireplace surround?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results can absolutely install a custom mantel even if you already have an existing fireplace surround. Our team will assess your current setup to determine how the new mantel can best integrate with or replace parts of the existing surround. We'll take precise measurements to ensure a seamless fit and discuss any modifications that might be necessary. It's helpful to know the materials and construction of your current surround beforehand, as this can influence the installation method and any required preparation steps, such as structural reinforcement.",
+        "@type": "Answer",
+        "description": "Yes, we can install a custom mantel with an existing fireplace surround; our team will assess your current setup, take measurements, and discuss necessary modifications for seamless integration."
+      }
+    }
+  ],
+  "description": "Yes, we can install a custom mantel with an existing fireplace surround; our team will assess your current setup, take measurements, and discuss necessary modif"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-typically-take-to-install-new-pantry-shelving",
+  "name": "How long does it typically take to install new pantry shelving?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to install new pantry shelving?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of pantry shelving installation varies based on the complexity and size of your pantry, as well as the chosen shelving system. A simple wire shelving system in a small pantry might take a few hours, while a custom, solid wood build with multiple sections and accessories could require a full day or more. Maine Results, Inc. aims to complete most standard installations efficiently, often within a single workday. We provide a time estimate during the initial consultation once we understand your specific project scope.",
+        "@type": "Answer",
+        "description": "Installation time varies, from a few hours for simple systems to a full day or more for custom builds, depending on pantry size and shelving complexity."
+      }
+    }
+  ],
+  "description": "Installation time varies, from a few hours for simple systems to a full day or more for custom builds, depending on pantry size and shelving complexity."
+}

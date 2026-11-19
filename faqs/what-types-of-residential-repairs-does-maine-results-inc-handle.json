@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-residential-repairs-does-maine-results-inc-handle",
+  "name": "What types of residential repairs does Maine Results, Inc. handle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of residential repairs does Maine Results, Inc. handle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. provides a range of residential repair services. This includes addressing issues with framing, drywall, flooring, and interior and exterior finishes. We focus on restoring the integrity and appearance of your home after damage or general wear. Understanding the specific nature of the damage and its extent is crucial for us to determine the right approach and scope of work for your repair project.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. handles residential repairs including framing, drywall, flooring, and interior/exterior finishes."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. handles residential repairs including framing, drywall, flooring, and interior/exterior finishes."
+}

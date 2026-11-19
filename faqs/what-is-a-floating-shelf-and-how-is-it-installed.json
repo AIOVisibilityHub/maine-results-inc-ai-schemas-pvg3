@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-a-floating-shelf-and-how-is-it-installed",
+  "name": "What is a floating shelf and how is it installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a floating shelf and how is it installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A floating shelf is a type of shelf that appears to be integrated directly into the wall without visible supports. Installation typically involves securing a mounting bracket or rod system directly to wall studs, and then sliding the shelf over these supports. The process requires accurate measurements and secure anchoring to ensure stability, especially if the shelf will hold significant weight. Maine Results, Inc. ensures the correct anchors and methods are used for your specific wall type.",
+        "@type": "Answer",
+        "description": "A floating shelf appears to be integrated into the wall without visible supports, installed by securing a bracket to wall studs and sliding the shelf over it."
+      }
+    }
+  ],
+  "description": "A floating shelf appears to be integrated into the wall without visible supports, installed by securing a bracket to wall studs and sliding the shelf over it."
+}

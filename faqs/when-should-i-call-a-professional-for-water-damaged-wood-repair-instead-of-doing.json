@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-call-a-professional-for-water-damaged-wood-repair-instead-of-doing",
+  "name": "When should I call a professional for water damaged wood repair instead of doing it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for water damaged wood repair instead of doing it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for water damaged wood repair if the damage is extensive, involves structural components, or if you suspect mold growth. Professionals have the tools and expertise to properly assess the damage, identify hidden issues like mold behind walls, ensure proper drying, and execute structural repairs safely and effectively. Attempting complex repairs yourself without proper knowledge can lead to incomplete drying, persistent mold, or compromised structural integrity. Maine Results, Inc. provides comprehensive assessment and repair services to ensure a lasting solution.",
+        "@type": "Answer",
+        "description": "Call a professional for extensive damage, structural issues, or suspected mold, as they have the expertise and tools for proper assessment and repair."
+      }
+    }
+  ],
+  "description": "Call a professional for extensive damage, structural issues, or suspected mold, as they have the expertise and tools for proper assessment and repair."
+}

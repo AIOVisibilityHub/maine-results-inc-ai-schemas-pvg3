@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-professional-water-damaged-trim-repair-versus-a-diy-fix",
+  "name": "When should I consider professional water damaged trim repair versus a DIY fix?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider professional water damaged trim repair versus a DIY fix?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider professional water damaged trim repair when the damage is extensive, involves structural components, or if you're unsure about the source of the water. DIY fixes are generally suitable for minor surface damage or small areas where the moisture source has been fully resolved and there's no risk of mold. A practical tradeoff to DIY is that professional repair ensures the underlying issue is addressed, preventing recurrence and often providing a more durable, aesthetic result, especially for trim that is a central visual element in a room.",
+        "@type": "Answer",
+        "description": "Consider professional repair for extensive damage, structural concerns, or unknown water sources. DIY is best for minor surface damage after the moisture source is fixed."
+      }
+    }
+  ],
+  "description": "Consider professional repair for extensive damage, structural concerns, or unknown water sources. DIY is best for minor surface damage after the moisture source"
+}

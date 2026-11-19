@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-rotten-wood-replacement-in-homes",
+  "name": "What is the typical process for rotten wood replacement in homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for rotten wood replacement in homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for rotten wood replacement begins with a thorough inspection to determine the extent of the damage. Next, the affected area is carefully deconstructed, removing all rotted material and ensuring the surrounding healthy wood is not compromised. New, appropriately treated wood is then cut and installed to match the original structure and dimensions. Finally, the repaired area is sealed, primed, and painted or stained to protect it from future moisture and blend seamlessly with your home's exterior or interior finish. This careful process ensures a lasting repair.",
+        "@type": "Answer",
+        "description": "The process involves inspection, careful removal of rotted material, installation of new treated wood, and then sealing and finishing the repair to protect it and blend with your home."
+      }
+    }
+  ],
+  "description": "The process involves inspection, careful removal of rotted material, installation of new treated wood, and then sealing and finishing the repair to protect it a"
+}

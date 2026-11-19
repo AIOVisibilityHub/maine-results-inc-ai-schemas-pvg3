@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/does-dry-rot-affect-indoor-air-quality-or-health",
+  "name": "Does dry rot affect indoor air quality or health?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does dry rot affect indoor air quality or health?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While dry rot primarily damages wood, the fungus can release microscopic spores into the air. For some individuals, particularly those with allergies or respiratory sensitivities, exposure to these spores might cause mild allergic reactions or exacerbate existing conditions. However, dry rot is not typically associated with the severe health risks posed by certain types of mold. Addressing dry rot promptly also prevents structural deterioration, which is the primary concern for most homeowners.",
+        "@type": "Answer",
+        "description": "Dry rot can release spores, potentially causing mild allergic reactions in sensitive individuals, but its main concern is structural damage to wood."
+      }
+    }
+  ],
+  "description": "Dry rot can release spores, potentially causing mild allergic reactions in sensitive individuals, but its main concern is structural damage to wood."
+}

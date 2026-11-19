@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-involved-in-the-process-of-repairing-water-damaged-wood",
+  "name": "What is involved in the process of repairing water damaged wood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of repairing water damaged wood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process of repairing water damaged wood typically begins with identifying and stopping the water source, followed by drying out the affected area. Next, damaged sections are removed. Depending on the extent, repairs may involve applying wood hardeners, filling gaps with epoxy, or replacing compromised sections with new wood, ensuring structural integrity and a seamless finish. The final steps include sanding, priming, and painting or staining to match existing aesthetics. For projects in areas like Eagle or Kuna, we ensure all new wood is properly sealed to prevent future moisture issues.",
+        "@type": "Answer",
+        "description": "The repair process involves stopping the water source, drying, removing damaged sections, applying hardeners or replacing wood, then finishing to match."
+      }
+    }
+  ],
+  "description": "The repair process involves stopping the water source, drying, removing damaged sections, applying hardeners or replacing wood, then finishing to match."
+}

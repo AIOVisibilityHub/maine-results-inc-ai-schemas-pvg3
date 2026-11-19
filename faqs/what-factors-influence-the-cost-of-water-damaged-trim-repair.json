@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-water-damaged-trim-repair",
+  "name": "What factors influence the cost of water damaged trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of water damaged trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of water damaged trim repair is influenced by several factors, including the extent of the damage, the type of trim material, and the need for additional repairs to the underlying structure. The square footage of affected trim, whether the damage is superficial or structural, and if mold remediation is required will all impact the overall price. The complexity of matching intricate trim profiles or custom finishes can also affect the cost. Understanding these elements can help you prepare for the potential investment.",
+        "@type": "Answer",
+        "description": "Cost factors for water damaged trim repair include damage extent, trim type, need for underlying structural repairs, and complexity of matching existing finishes."
+      }
+    }
+  ],
+  "description": "Cost factors for water damaged trim repair include damage extent, trim type, need for underlying structural repairs, and complexity of matching existing finishe"
+}

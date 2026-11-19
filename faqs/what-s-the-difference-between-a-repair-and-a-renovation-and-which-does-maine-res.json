@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-s-the-difference-between-a-repair-and-a-renovation-and-which-does-maine-res",
+  "name": "What's the difference between a repair and a renovation, and which does Maine Results, Inc. perform?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a repair and a renovation, and which does Maine Results, Inc. perform?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A repair focuses on restoring something to its original or good working condition after damage or wear, like patching a hole in drywall or fixing a leaky faucet. A renovation, however, involves making significant changes to a space to improve its appearance, function, or layout, often involving demolition and new construction. Maine Results, Inc. primarily focuses on repairs, addressing specific issues to maintain your home. While repairs can improve aesthetics, their main goal is restoration rather than extensive redesign or overhaul.",
+        "@type": "Answer",
+        "description": "Repairs restore existing damage, while renovations make significant changes. Maine Results, Inc. primarily performs repairs."
+      }
+    }
+  ],
+  "description": "Repairs restore existing damage, while renovations make significant changes. Maine Results, Inc. primarily performs repairs."
+}

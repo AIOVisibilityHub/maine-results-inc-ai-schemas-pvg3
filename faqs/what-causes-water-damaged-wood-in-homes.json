@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-causes-water-damaged-wood-in-homes",
+  "name": "What causes water damaged wood in homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes water damaged wood in homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damaged wood in homes is commonly caused by leaks from roofs, plumbing, windows, or appliances, as well as foundation issues allowing moisture intrusion, or even high humidity levels if not properly managed. Severe weather events, like heavy rain and snowmelt, can also contribute, especially in areas with poor drainage. Understanding the source is crucial for effective repair and prevention. Our experience across Garden City, Meridian, Eagle, Kuna, and Star shows that unaddressed leaks are a primary culprit.",
+        "@type": "Answer",
+        "description": "Common causes include leaks from roofs, plumbing, and windows, foundation moisture intrusion, high humidity, and severe weather events."
+      }
+    }
+  ],
+  "description": "Common causes include leaks from roofs, plumbing, and windows, foundation moisture intrusion, high humidity, and severe weather events."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-do-i-need-to-do-before-wood-repair-services-begin",
+  "name": "What preparation do I need to do before wood repair services begin?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before wood repair services begin?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our team arrives for wood repair services, you can prepare by clearing the work area of any obstructions like furniture, plants, or decorative items. For interior repairs, covering nearby items to protect them from dust is helpful. If the repair involves exterior elements like siding or a deck, ensuring access for our equipment and crew, such as unlocking gates, is appreciated. Providing clear communication about any specific concerns or historical issues with the wood will also aid our technicians in delivering the most effective repair.",
+        "@type": "Answer",
+        "description": "Clear the work area of obstructions, cover nearby items for interior repairs, and ensure access for exterior work; communicate any specific concerns."
+      }
+    }
+  ],
+  "description": "Clear the work area of obstructions, cover nearby items for interior repairs, and ensure access for exterior work; communicate any specific concerns."
+}

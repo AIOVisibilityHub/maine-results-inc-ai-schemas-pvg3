@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-a-floating-mantel-and-a-full-fireplace-mantel",
+  "name": "What is the difference between a floating mantel and a full fireplace mantel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a floating mantel and a full fireplace mantel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A floating mantel is a shelf-like structure that appears to extend directly from the wall without visible supports, offering a minimalist and modern look. A full fireplace mantel, on the other hand, typically includes a mantel shelf along with legs or pillars that extend to the floor, often framing the firebox opening. The choice depends on your desired aesthetic and fireplace design. Floating mantels work well in contemporary settings, while full mantels provide a more traditional or grand presence. We can discuss which option best suits your space and structural needs during our consultation.",
+        "@type": "Answer",
+        "description": "A floating mantel is a shelf without visible supports, while a full mantel includes a shelf and legs framing the fireplace, offering different aesthetic and structural considerations."
+      }
+    }
+  ],
+  "description": "A floating mantel is a shelf without visible supports, while a full mantel includes a shelf and legs framing the fireplace, offering different aesthetic and str"
+}

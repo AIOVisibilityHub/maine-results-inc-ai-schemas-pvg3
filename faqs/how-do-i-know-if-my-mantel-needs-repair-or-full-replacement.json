@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-mantel-needs-repair-or-full-replacement",
+  "name": "How do I know if my mantel needs repair or full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my mantel needs repair or full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining whether to repair or replace your mantel depends on the extent of the damage, the material, and your desired outcome. Minor cosmetic issues like small chips, scratches, or faded finishes are typically good candidates for repair. However, if your mantel has significant structural damage, extensive rot, large cracks compromising its stability, or widespread irreparable water damage, a full replacement might be more cost-effective and safer in the long run. We can provide a professional assessment in areas like Garden City or Meridian to help you decide the best course of action based on the specific condition of your mantel.",
+        "@type": "Answer",
+        "description": "Assess if damage is cosmetic (repair) or structural (replacement). Significant rot, large cracks, or extensive water damage often necessitate replacement."
+      }
+    }
+  ],
+  "description": "Assess if damage is cosmetic (repair) or structural (replacement). Significant rot, large cracks, or extensive water damage often necessitate replacement."
+}

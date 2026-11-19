@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-wood-are-most-resistant-to-rot",
+  "name": "What types of wood are most resistant to rot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood are most resistant to rot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Certain types of wood offer higher natural resistance to rot due to their density and natural compounds. These include cedar, redwood, cypress, and pressure-treated lumber. Pressure-treated wood, often used for outdoor applications or ground contact, is infused with chemicals that deter fungal growth and insects. When planning a repair, considering these materials, especially in moisture-prone areas, can significantly extend the lifespan of the repaired section and reduce future maintenance. We often recommend pressure-treated lumber for external repairs in our service areas of Meridian, Eagle, and Kuna.",
+        "@type": "Answer",
+        "description": "Cedar, redwood, cypress, and pressure-treated lumber are most rot-resistant. Using these materials, especially pressure-treated lumber for external repairs, extends longevity."
+      }
+    }
+  ],
+  "description": "Cedar, redwood, cypress, and pressure-treated lumber are most rot-resistant. Using these materials, especially pressure-treated lumber for external repairs, ext"
+}

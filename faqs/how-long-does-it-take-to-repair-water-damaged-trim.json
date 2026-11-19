@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-repair-water-damaged-trim",
+  "name": "How long does it take to repair water damaged trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair water damaged trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to repair water damaged trim varies significantly depending on the scope and severity of the damage. A small, superficial repair might only take a few hours, while extensive damage requiring drying time, structural reinforcement, or custom trim matching could extend to several days or even longer. Factors like the drying period for wet areas, availability of matching materials, and the need for multiple finish coats will influence the timeline. We provide an estimated timeline after a thorough assessment of your specific situation.",
+        "@type": "Answer",
+        "description": "Repair time depends on damage scope, severity, and drying needs. Small jobs take hours, while extensive damage can take several days or more."
+      }
+    }
+  ],
+  "description": "Repair time depends on damage scope, severity, and drying needs. Small jobs take hours, while extensive damage can take several days or more."
+}

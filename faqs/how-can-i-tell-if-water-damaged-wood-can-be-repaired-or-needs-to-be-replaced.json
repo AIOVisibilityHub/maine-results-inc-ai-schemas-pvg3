@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-tell-if-water-damaged-wood-can-be-repaired-or-needs-to-be-replaced",
+  "name": "How can I tell if water damaged wood can be repaired or needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if water damaged wood can be repaired or needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining whether water damaged wood needs repair or replacement depends on the extent and type of damage. Minor surface discoloration, warping, or slight softening can often be repaired through sanding, drying, and refinishing, or with wood hardeners. However, if the wood is extensively rotted, crumbling, structurally compromised, or severely molded, replacement is typically the safer and more durable solution. Our team at Maine Results, Inc. can assess the damage and provide an expert recommendation based on structural integrity and long-term viability.",
+        "@type": "Answer",
+        "description": "Minor damage might be repairable with drying and refinishing, but severe rot, crumbling, or structural compromise usually requires replacement."
+      }
+    }
+  ],
+  "description": "Minor damage might be repairable with drying and refinishing, but severe rot, crumbling, or structural compromise usually requires replacement."
+}

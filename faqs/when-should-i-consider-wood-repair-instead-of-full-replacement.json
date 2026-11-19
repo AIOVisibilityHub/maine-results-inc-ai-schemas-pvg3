@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-wood-repair-instead-of-full-replacement",
+  "name": "When should I consider wood repair instead of full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider wood repair instead of full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider wood repair when the damage is localized and hasn't compromised the overall structural integrity of the component. For example, if only a section of a deck board or siding panel is rotted, repairing that specific area can be more cost-effective and less disruptive than replacing the entire structure. Our team evaluates the extent of the damage, considering factors like material type and the impact on surrounding elements. We'll provide an assessment to help you decide whether repair or replacement offers the best long-term solution for your property.",
+        "@type": "Answer",
+        "description": "Consider wood repair for localized damage that hasn't compromised the overall structural integrity, often saving costs and disruption."
+      }
+    }
+  ],
+  "description": "Consider wood repair for localized damage that hasn't compromised the overall structural integrity, often saving costs and disruption."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-water-damaged-baseboard-repair",
+  "name": "What is the typical process for water damaged baseboard repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for water damaged baseboard repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process involves first identifying and stopping the water source. Next, the damaged baseboard is carefully removed, and the affected area, including the wall behind it, is thoroughly dried. Any mold is remediated. New baseboard material is then cut, fitted, primed, and installed, followed by caulking and painting to match the existing trim. This systematic process ensures the repair is durable and prevents future issues.",
+        "@type": "Answer",
+        "description": "The process involves stopping the water source, removing damaged baseboards, drying and remediating the area, then installing and finishing new baseboards."
+      }
+    }
+  ],
+  "description": "The process involves stopping the water source, removing damaged baseboards, drying and remediating the area, then installing and finishing new baseboards."
+}

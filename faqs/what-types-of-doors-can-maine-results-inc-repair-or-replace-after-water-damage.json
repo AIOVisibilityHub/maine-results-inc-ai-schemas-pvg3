@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-doors-can-maine-results-inc-repair-or-replace-after-water-damage",
+  "name": "What types of doors can Maine Results, Inc. repair or replace after water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of doors can Maine Results, Inc. repair or replace after water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. has expertise in repairing and replacing various types of doors commonly found in homes, including interior and exterior doors. This includes solid wood doors, hollow-core doors, fiberglass doors, and some metal doors. Our experience spans different styles, such as entry doors, patio doors, and interior passage doors. We assess the specific material and construction of your damaged door to determine the most effective repair strategy or recommend a suitable replacement option that aligns with your home's aesthetic and functional needs. This comprehensive approach ensures a durable and appealing outcome.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. repairs and replaces various interior and exterior doors, including solid wood, hollow-core, fiberglass, and some metal doors. We match the repair or replacement to your door's material and style."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. repairs and replaces various interior and exterior doors, including solid wood, hollow-core, fiberglass, and some metal doors. We match the"
+}

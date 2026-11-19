@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-do-immediately-after-discovering-water-damage-on-my-door",
+  "name": "What should I do immediately after discovering water damage on my door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after discovering water damage on my door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after discovering water damage on your door, your first step should be to stop the source of water intrusion to prevent further damage. Then, ventilate the area thoroughly by opening windows and using fans or dehumidifiers to help dry out the door and surrounding environment. Avoid pressing or disturbing swollen areas, as this can worsen the damage. Document the damage with photos, as this can be helpful for insurance purposes. Contact a professional like Maine Results, Inc. promptly for an assessment; early intervention can often limit the extent of repairs needed and prevent secondary issues like mold.",
+        "@type": "Answer",
+        "description": "First, stop the water source, then dry and ventilate the area. Document the damage with photos and contact a professional immediately for assessment to prevent further issues."
+      }
+    }
+  ],
+  "description": "First, stop the water source, then dry and ventilate the area. Document the damage with photos and contact a professional immediately for assessment to prevent"
+}

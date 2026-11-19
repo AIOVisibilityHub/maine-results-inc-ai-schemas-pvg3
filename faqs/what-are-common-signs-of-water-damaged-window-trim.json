@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-of-water-damaged-window-trim",
+  "name": "What are common signs of water damaged window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of water damaged window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for visible discoloration, peeling paint, soft or crumbling wood, and warping or swelling of the trim around your windows. These signs often indicate moisture intrusion. For homes in areas like Meridian or Eagle, where weather can fluctuate, it's especially important to inspect trim regularly, as early detection can prevent more extensive and costly repairs. If you notice any of these issues, it's best to address them promptly to avoid further structural damage.",
+        "@type": "Answer",
+        "description": "Common signs include discoloration, peeling paint, soft wood, and warping around window trim."
+      }
+    }
+  ],
+  "description": "Common signs include discoloration, peeling paint, soft wood, and warping around window trim."
+}

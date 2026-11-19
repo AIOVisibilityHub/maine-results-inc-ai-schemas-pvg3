@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-all-water-damaged-doors-be-repaired-or-do-some-need-replacement",
+  "name": "Can all water-damaged doors be repaired, or do some need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can all water-damaged doors be repaired, or do some need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not all water-damaged doors can be repaired; the severity and type of damage determine if repair or replacement is needed. Minor issues like surface swelling or peeling paint on solid wood doors might be repairable if the core structure is sound and moisture hasn't penetrated deeply. However, extensively warped doors, doors with significant rot, or those with compromised structural integrity typically require full replacement. For hollow-core doors, even moderate water damage often necessitates replacement as the internal structure can break down. Maine Results, Inc. assesses the damage to recommend the most cost-effective and durable solution for your specific door.",
+        "@type": "Answer",
+        "description": "Minor water damage on solid doors can sometimes be repaired, but extensive warping, rot, or damage to hollow-core doors usually requires replacement. We assess the damage to recommend the best solution."
+      }
+    }
+  ],
+  "description": "Minor water damage on solid doors can sometimes be repaired, but extensive warping, rot, or damage to hollow-core doors usually requires replacement. We assess"
+}

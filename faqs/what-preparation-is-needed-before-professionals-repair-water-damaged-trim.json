@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-is-needed-before-professionals-repair-water-damaged-trim",
+  "name": "What preparation is needed before professionals repair water damaged trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before professionals repair water damaged trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before professionals repair water damaged trim, you can help by clearing the work area of furniture, decorative items, and any personal belongings to allow easy access. If the water source is identified, ensure it has been stopped and that the area is as dry as possible. Documenting the damage with photos can also be useful for your records. Providing access to our team and discussing any preferences for trim material or finish helps us streamline the repair process.",
+        "@type": "Answer",
+        "description": "Before professional repair, clear the work area, ensure the water source is stopped, and document the damage. Discuss trim material and finish preferences."
+      }
+    }
+  ],
+  "description": "Before professional repair, clear the work area, ensure the water source is stopped, and document the damage. Discuss trim material and finish preferences."
+}

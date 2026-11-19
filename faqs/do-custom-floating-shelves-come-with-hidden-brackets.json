@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-custom-floating-shelves-come-with-hidden-brackets",
+  "name": "Do custom floating shelves come with hidden brackets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do custom floating shelves come with hidden brackets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, custom floating shelves are designed to appear as if they are 'floating' due to their hidden bracket system. The brackets are typically mounted directly to the wall studs, and the shelf itself is then fitted over these supports, concealing them completely. This design aesthetic is a primary reason clients choose custom floating shelves, as it provides a sleek, modern look without visible supports. We ensure secure and aesthetically pleasing hidden bracket installation.",
+        "@type": "Answer",
+        "description": "Yes, custom floating shelves use hidden brackets mounted into wall studs to create a 'floating' appearance with no visible supports."
+      }
+    }
+  ],
+  "description": "Yes, custom floating shelves use hidden brackets mounted into wall studs to create a 'floating' appearance with no visible supports."
+}

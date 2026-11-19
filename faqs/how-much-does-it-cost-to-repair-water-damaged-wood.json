@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-it-cost-to-repair-water-damaged-wood",
+  "name": "How much does it cost to repair water damaged wood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair water damaged wood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair water damaged wood varies significantly based on the extent of the damage, the type of wood, the location of the damage (e.g., floor, wall, ceiling, framing), and whether structural elements are affected. Minor surface repairs might be relatively inexpensive, while extensive damage requiring structural replacement and mold remediation can be considerably more. Getting a thorough inspection to determine the scope is the best way to receive an accurate estimate. For projects in Star or Nampa, we provide detailed, transparent quotes after a complete assessment.",
+        "@type": "Answer",
+        "description": "Cost varies widely depending on damage extent, wood type, location, and structural impact. A detailed inspection is needed for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Cost varies widely depending on damage extent, wood type, location, and structural impact. A detailed inspection is needed for an accurate estimate."
+}

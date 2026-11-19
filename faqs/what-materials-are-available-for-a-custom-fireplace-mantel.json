@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-available-for-a-custom-fireplace-mantel",
+  "name": "What materials are available for a custom fireplace mantel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are available for a custom fireplace mantel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results offers a variety of materials for custom fireplace mantels, including solid wood such as oak, maple, and cherry, as well as reclaimed wood for a rustic look. Other options can include natural stone like limestone or marble, and even concrete for a modern aesthetic. The choice of material often depends on your home's existing style, your budget, and the desired maintenance level. For example, some woods may require more regular conditioning than stone, while reclaimed wood offers unique character without extensive finishing. Considering the overall weight and structural support needed for heavier materials is also an important preparation step.",
+        "@type": "Answer",
+        "description": "Custom fireplace mantels are available in materials like solid wood, reclaimed wood, natural stone (limestone, marble), and concrete, with selection depending on style, budget, and maintenance."
+      }
+    }
+  ],
+  "description": "Custom fireplace mantels are available in materials like solid wood, reclaimed wood, natural stone (limestone, marble), and concrete, with selection depending o"
+}

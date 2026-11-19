@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-mantel-installation-with-maine-results-inc",
+  "name": "What is the process for mantel installation with Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for mantel installation with Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our mantel installation process begins with an initial consultation to discuss your vision, material preferences, and site specifics. We then provide a detailed estimate. Once approved, we schedule the installation. Our skilled team prepares the area, installs the mantel securely, and ensures a clean finish. We emphasize clear communication throughout, from the initial design discussion to project completion, keeping you informed about each step, especially if your project involves custom work in areas like Garden City.",
+        "@type": "Answer",
+        "description": "The process involves consultation, estimate, scheduling, installation, and a final cleanup, with clear communication at every stage."
+      }
+    }
+  ],
+  "description": "The process involves consultation, estimate, scheduling, installation, and a final cleanup, with clear communication at every stage."
+}

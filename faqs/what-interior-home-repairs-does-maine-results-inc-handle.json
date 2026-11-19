@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-interior-home-repairs-does-maine-results-inc-handle",
+  "name": "What interior home repairs does Maine Results, Inc. handle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What interior home repairs does Maine Results, Inc. handle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. addresses a wide range of interior home repairs to maintain and improve your living space. We commonly handle issues such as drywall repair, patching holes or cracks, fixing water damage on ceilings or walls, and repairing trim or molding. Additionally, we assist with minor carpentry work, door and window adjustments, and addressing general wear and tear that impacts your home's appearance or function. Our team focuses on restoring your home's integrity and aesthetic.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. handles interior home repairs including drywall, water damage, trim, molding, and minor carpentry."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. handles interior home repairs including drywall, water damage, trim, molding, and minor carpentry."
+}

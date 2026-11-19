@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-causes-baseboards-to-sustain-water-damage",
+  "name": "What causes baseboards to sustain water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes baseboards to sustain water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage to baseboards often results from leaks in plumbing behind walls, overflowing sinks or toilets, spills, or issues with exterior drainage that allow water to seep into the home's foundation. Over time, moisture can warp, rot, or discolor the baseboard material, and may lead to mold growth. Identifying the source of the water is crucial before starting any repairs to prevent recurrence, as addressing the leak itself is the first step in a lasting solution.",
+        "@type": "Answer",
+        "description": "Baseboards sustain water damage from plumbing leaks, overflows, spills, or exterior drainage issues that allow moisture intrusion."
+      }
+    }
+  ],
+  "description": "Baseboards sustain water damage from plumbing leaks, overflows, spills, or exterior drainage issues that allow moisture intrusion."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-quickly-does-rotten-wood-need-to-be-replaced-once-discovered",
+  "name": "How quickly does rotten wood need to be replaced once discovered?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly does rotten wood need to be replaced once discovered?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rotten wood should be addressed promptly once discovered, as it can spread and compromise the structural integrity of your home. The speed required depends on the extent of the rot and its location. If it's in a critical structural component, immediate action is necessary. For less critical areas, addressing it within a few weeks to a couple of months is generally advisable to prevent further damage and increased repair costs. Delaying can lead to more extensive repairs, as rot thrives in moist conditions and can quickly deteriorate surrounding materials.",
+        "@type": "Answer",
+        "description": "Rotten wood should be replaced promptly to prevent spread and structural compromise. The urgency depends on the rot's location and extent; delays can lead to more extensive and costly repairs."
+      }
+    }
+  ],
+  "description": "Rotten wood should be replaced promptly to prevent spread and structural compromise. The urgency depends on the rot's location and extent; delays can lead to mo"
+}

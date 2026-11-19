@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-best-for-custom-floating-shelves",
+  "name": "What materials are best for custom floating shelves?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are best for custom floating shelves?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best materials for custom floating shelves depend on your desired aesthetic, durability needs, and budget. Popular choices include solid hardwoods like oak, maple, or walnut for strength and natural beauty, or MDF for painting and a more uniform look. Reclaimed wood can offer a unique, rustic character. Considering the intended use, such as displaying heavy items or light decor, helps determine the most suitable and long-lasting material for your project.",
+        "@type": "Answer",
+        "description": "Best materials depend on aesthetics and durability, with solid hardwoods, MDF, and reclaimed wood being popular choices for custom floating shelves."
+      }
+    }
+  ],
+  "description": "Best materials depend on aesthetics and durability, with solid hardwoods, MDF, and reclaimed wood being popular choices for custom floating shelves."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-wood-are-used-for-replacement-and-are-they-treated",
+  "name": "What types of wood are used for replacement, and are they treated?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood are used for replacement, and are they treated?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For rotten wood replacement, new wood is typically selected based on its application and exposure to moisture. Often, pressure-treated lumber is used for exterior applications or areas prone to moisture, as it contains preservatives that resist rot and insect damage. For interior or less exposed areas, durable species like cedar or redwood, or even untreated lumber, might be used if properly sealed and painted. The goal is to choose a material that will stand up to the environmental conditions and match the existing structure's performance. The choice of wood also depends on local availability in areas like Boise.",
+        "@type": "Answer",
+        "description": "Replacement wood types vary by application; pressure-treated lumber is common for exterior use due to its rot resistance. Other options include durable species for less exposed areas, chosen to match conditions and local availability."
+      }
+    }
+  ],
+  "description": "Replacement wood types vary by application; pressure-treated lumber is common for exterior use due to its rot resistance. Other options include durable species"
+}

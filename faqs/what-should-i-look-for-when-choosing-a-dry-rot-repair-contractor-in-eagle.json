@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-look-for-when-choosing-a-dry-rot-repair-contractor-in-eagle",
+  "name": "What should I look for when choosing a dry rot repair contractor in Eagle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a dry rot repair contractor in Eagle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a dry rot repair contractor in Eagle, look for a company with proven experience in identifying and remediating dry rot specific to the region's climate challenges. Verify they are licensed and insured, and ask for references or examples of similar projects. A reputable contractor will offer a clear, detailed proposal outlining the scope of work, materials, and timeline. Our local expertise ensures we understand common issues found in Eagle homes.",
+        "@type": "Answer",
+        "description": "When choosing a contractor in Eagle, look for proven experience, licensing, insurance, and clear proposals. Local expertise helps with regional climate challenges."
+      }
+    }
+  ],
+  "description": "When choosing a contractor in Eagle, look for proven experience, licensing, insurance, and clear proposals. Local expertise helps with regional climate challeng"
+}

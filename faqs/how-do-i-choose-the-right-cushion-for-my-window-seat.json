@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-the-right-cushion-for-my-window-seat",
+  "name": "How do I choose the right cushion for my window seat?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right cushion for my window seat?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right cushion for your window seat involves considering comfort, durability, and aesthetic appeal. For comfort, look at foam density; a higher density foam will offer more support and longevity. For durability, especially in sunny spots, choose fabrics that are fade-resistant and easy to clean. Outdoor fabrics or performance fabrics are good options for high-traffic areas or spaces prone to sunlight exposure. Aesthetically, select colors and patterns that complement your room's decor. During our design consultation, we can advise on cushion thickness and fabric types that suit both your comfort preferences and the specific environment, ensuring it holds up well in areas like Southwest Boise.",
+        "@type": "Answer",
+        "description": "Choose cushions based on foam density for comfort, durable and fade-resistant fabrics for longevity, and colors/patterns that match your decor."
+      }
+    }
+  ],
+  "description": "Choose cushions based on foam density for comfort, durable and fade-resistant fabrics for longevity, and colors/patterns that match your decor."
+}

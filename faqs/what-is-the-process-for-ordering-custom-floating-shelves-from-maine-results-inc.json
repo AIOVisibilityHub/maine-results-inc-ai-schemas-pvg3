@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-ordering-custom-floating-shelves-from-maine-results-inc",
+  "name": "What is the process for ordering custom floating shelves from Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for ordering custom floating shelves from Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for custom floating shelves begins with an initial consultation where we discuss your vision, space, and functional needs. We then take measurements and offer design recommendations, including material and finish options suitable for your home in Eagle or Kuna. Following design approval, we provide a detailed quote. Once approved, fabrication begins, followed by professional installation at your convenience. Communication is key throughout, ensuring the final product meets your expectations.",
+        "@type": "Answer",
+        "description": "The process involves an initial consultation, measurements, design recommendations, quote, fabrication, and professional installation."
+      }
+    }
+  ],
+  "description": "The process involves an initial consultation, measurements, design recommendations, quote, fabrication, and professional installation."
+}

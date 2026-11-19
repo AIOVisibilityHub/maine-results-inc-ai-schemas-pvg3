@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-match-a-new-custom-mantel-to-my-existing-home-decor-in-garden-city",
+  "name": "Can you match a new custom mantel to my existing home decor in Garden City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match a new custom mantel to my existing home decor in Garden City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results specializes in creating custom fireplace mantels that seamlessly integrate with your existing home decor in areas like Garden City. During our initial consultation, we will assess your current interior design, including architectural style, color palettes, and furniture. We'll discuss material finishes, wood stains, and design elements to ensure the new mantel complements your space. Bringing photos of your room and any elements you wish to match, such as existing trim or flooring, will greatly assist us in achieving a cohesive look.",
+        "@type": "Answer",
+        "description": "Yes, we can match a new custom mantel to your existing home decor, considering architectural style, colors, and furniture to ensure seamless integration. Providing photos of your space helps us match elements like trim or flooring."
+      }
+    }
+  ],
+  "description": "Yes, we can match a new custom mantel to your existing home decor, considering architectural style, colors, and furniture to ensure seamless integration. Provid"
+}

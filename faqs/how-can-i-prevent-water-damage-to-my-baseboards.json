@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-prevent-water-damage-to-my-baseboards",
+  "name": "How can I prevent water damage to my baseboards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent water damage to my baseboards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing water damage involves regular home maintenance, such as routinely checking for plumbing leaks under sinks and behind appliances, ensuring proper exterior drainage away from your foundation, and promptly cleaning up spills. Additionally, maintaining proper indoor humidity levels can help. Addressing minor issues like leaky faucets or clogged gutters quickly can prevent them from escalating into significant water damage affecting your baseboards and other home components.",
+        "@type": "Answer",
+        "description": "Prevent water damage by checking for leaks, ensuring proper drainage, cleaning spills, and maintaining indoor humidity."
+      }
+    }
+  ],
+  "description": "Prevent water damage by checking for leaks, ensuring proper drainage, cleaning spills, and maintaining indoor humidity."
+}

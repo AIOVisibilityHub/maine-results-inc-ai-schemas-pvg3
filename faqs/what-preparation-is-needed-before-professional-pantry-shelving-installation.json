@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-is-needed-before-professional-pantry-shelving-installation",
+  "name": "What preparation is needed before professional pantry shelving installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before professional pantry shelving installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before professional pantry shelving installation, it is helpful to completely empty your pantry of all contents. This allows our installers clear access to the walls and ensures a smoother, more efficient process. It's also beneficial to have a general idea of how you want to organize your items afterward, as this can inform decisions about shelf spacing and special features during the design phase. Consider any existing damage to the walls that might need repair before installation. We'll handle the actual installation, but clear access is key.",
+        "@type": "Answer",
+        "description": "Before installation, clear out your pantry completely and have an idea of your desired organization for efficient service."
+      }
+    }
+  ],
+  "description": "Before installation, clear out your pantry completely and have an idea of your desired organization for efficient service."
+}

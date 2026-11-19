@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-carpenters-estimate-the-cost-of-home-repair-projects",
+  "name": "How do carpenters estimate the cost of home repair projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do carpenters estimate the cost of home repair projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Carpenters estimate repair costs based on several factors: the scope of work, the type and quantity of materials needed, and the estimated labor time. For Maine Results, Inc., a project assessment typically involves an on-site visit to accurately gauge the damage or requirements, allowing us to provide a detailed and transparent quote. Factors like the age of the home or accessibility to the repair area can also influence the overall cost.",
+        "@type": "Answer",
+        "description": "Carpenters estimate repair costs considering work scope, materials, and labor. An on-site visit helps Maine Results, Inc. provide an accurate quote, with accessibility also a factor."
+      }
+    }
+  ],
+  "description": "Carpenters estimate repair costs considering work scope, materials, and labor. An on-site visit helps Maine Results, Inc. provide an accurate quote, with access"
+}

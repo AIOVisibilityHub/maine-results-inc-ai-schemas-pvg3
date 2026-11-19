@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-before-choosing-a-location-for-floating-shelves",
+  "name": "What should I consider before choosing a location for floating shelves?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before choosing a location for floating shelves?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before choosing a location, consider the wall material, the presence of electrical wiring or plumbing within the wall, and the desired function of the shelves. For instance, shelves in a kitchen might need to be near outlets, while those in a living room might frame a window. Maine Results, Inc. recommends measuring the available space carefully and considering potential obstructions. We can help identify optimal placements that avoid utilities and maximize both aesthetics and utility.",
+        "@type": "Answer",
+        "description": "Consider wall material, utility lines, and shelf function before choosing a location. Measure available space and potential obstructions for optimal placement."
+      }
+    }
+  ],
+  "description": "Consider wall material, utility lines, and shelf function before choosing a location. Measure available space and potential obstructions for optimal placement."
+}

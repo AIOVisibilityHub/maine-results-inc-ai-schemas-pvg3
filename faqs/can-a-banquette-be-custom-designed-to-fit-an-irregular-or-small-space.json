@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-a-banquette-be-custom-designed-to-fit-an-irregular-or-small-space",
+  "name": "Can a banquette be custom-designed to fit an irregular or small space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a banquette be custom-designed to fit an irregular or small space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, banquettes are highly adaptable and can be custom-designed to fit almost any space, including irregular corners, small nooks, or unique architectural features. Customization allows for maximizing seating in challenging layouts where standard furniture might not fit efficiently. When considering a custom banquette for a unique space, it's beneficial to think about how you want the space to function and what existing elements need to be accounted for. This input helps create a design that is both practical and aesthetically integrated into your home.",
+        "@type": "Answer",
+        "description": "Banquettes can be custom-designed for irregular or small spaces, maximizing seating and fitting unique layouts."
+      }
+    }
+  ],
+  "description": "Banquettes can be custom-designed for irregular or small spaces, maximizing seating and fitting unique layouts."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-i-need-carpentry-repairs-in-my-home",
+  "name": "What are common signs that I need carpentry repairs in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that I need carpentry repairs in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that you need carpentry repairs include visible wood rot, soft spots in wood, cracked or splitting trim, loose or unstable railings, or difficulty operating wooden windows and doors. These issues can indicate water damage, pest infestation, or natural wear and tear. Addressing these signs early with a professional from Maine Results, Inc. can prevent more extensive and costly damage down the line.",
+        "@type": "Answer",
+        "description": "Signs needing carpentry repairs include wood rot, soft spots, cracked trim, loose railings, or sticky windows and doors, indicating damage or wear."
+      }
+    }
+  ],
+  "description": "Signs needing carpentry repairs include wood rot, soft spots, cracked trim, loose railings, or sticky windows and doors, indicating damage or wear."
+}

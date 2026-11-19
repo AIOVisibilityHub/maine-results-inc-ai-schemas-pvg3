@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-first-step-when-i-discover-water-damaged-wood",
+  "name": "What is the first step when I discover water damaged wood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the first step when I discover water damaged wood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When you find water damaged wood, the immediate first step is to stop the water source to prevent further damage. Once the source is controlled, thoroughly dry the affected area using fans, dehumidifiers, or professional drying equipment. Prompt drying can limit the extent of the damage and prevent mold growth. As a construction company serving areas like Garden City and Meridian, we often see that delaying this initial step can significantly increase repair costs and complexity.",
+        "@type": "Answer",
+        "description": "The first step is to stop the water source and thoroughly dry the affected area to prevent further damage and mold growth."
+      }
+    }
+  ],
+  "description": "The first step is to stop the water source and thoroughly dry the affected area to prevent further damage and mold growth."
+}

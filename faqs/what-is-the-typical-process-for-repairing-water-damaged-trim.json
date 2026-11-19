@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-repairing-water-damaged-trim",
+  "name": "What is the typical process for repairing water damaged trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for repairing water damaged trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for repairing water damaged trim begins with identifying and stopping the water source. Next, the damaged trim is carefully removed, and the underlying wall or sub-structure is inspected for moisture and potential mold. Any wet or compromised materials are dried or replaced. New trim is then cut, fitted, primed, painted, or stained to match existing finishes. This process often involves carpentry, painting, and sometimes drywall repair. Understanding this process helps set expectations for the scope and timeline of the project.",
+        "@type": "Answer",
+        "description": "The repair process involves stopping the water source, removing damaged trim, inspecting and drying underlying structures, and installing new, matched trim."
+      }
+    }
+  ],
+  "description": "The repair process involves stopping the water source, removing damaged trim, inspecting and drying underlying structures, and installing new, matched trim."
+}

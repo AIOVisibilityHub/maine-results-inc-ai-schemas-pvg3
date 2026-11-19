@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-wood-rot-repair-usually-take",
+  "name": "How long does wood rot repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does wood rot repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of wood rot repair varies significantly depending on the extent of the damage, the location of the rot, and whether the underlying moisture issue needs to be addressed. Minor repairs might take a few hours to a day, while extensive structural rot could require several days or even weeks. For example, repairing a small section of a window frame is quicker than replacing a rotted sill plate. A detailed assessment by our team can provide a more accurate timeline based on your specific project needs in the Boise area.",
+        "@type": "Answer",
+        "description": "Repair time depends on rot extent, location, and the underlying moisture issue. Minor repairs are quick, but extensive structural rot can take days to weeks."
+      }
+    }
+  ],
+  "description": "Repair time depends on rot extent, location, and the underlying moisture issue. Minor repairs are quick, but extensive structural rot can take days to weeks."
+}

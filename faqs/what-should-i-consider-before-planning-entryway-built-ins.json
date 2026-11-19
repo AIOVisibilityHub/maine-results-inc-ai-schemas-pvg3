@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-before-planning-entryway-built-ins",
+  "name": "What should I consider before planning entryway built-ins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before planning entryway built-ins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before planning entryway built-ins, consider the primary function you need them to serve, such as coat storage, shoe organization, seating, or display space. Measure your available area accurately, including wall dimensions and any existing obstacles like outlets or vents. Also, think about the architectural style of your home to ensure the built-ins complement it. Gathering these details beforehand allows for a more efficient design process and helps us create a solution that truly meets your needs and enhances your entryway.",
+        "@type": "Answer",
+        "description": "Consider the function, measure available space, and note your home's architectural style before planning. This preparation helps with design efficiency."
+      }
+    }
+  ],
+  "description": "Consider the function, measure available space, and note your home's architectural style before planning. This preparation helps with design efficiency."
+}

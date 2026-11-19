@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-water-damaged-baseboard-repair",
+  "name": "What factors influence the cost of water damaged baseboard repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of water damaged baseboard repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of water damaged baseboard repair is influenced by several factors, including the linear footage of baseboard needing repair or replacement, the type of material used (e.g., MDF, solid wood), the extent of underlying wall damage or mold, and the need to identify and fix the water source. Labor costs for removal, installation, and finishing also contribute. Getting a detailed quote based on an on-site assessment provides the most accurate cost estimate.",
+        "@type": "Answer",
+        "description": "Cost factors include linear footage, material type, underlying damage, mold remediation, water source repair, and labor."
+      }
+    }
+  ],
+  "description": "Cost factors include linear footage, material type, underlying damage, mold remediation, water source repair, and labor."
+}

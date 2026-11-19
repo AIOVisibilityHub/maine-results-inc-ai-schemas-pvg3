@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-pantry-shelving-be-customized-to-fit-unique-pantry-dimensions",
+  "name": "Can pantry shelving be customized to fit unique pantry dimensions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can pantry shelving be customized to fit unique pantry dimensions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, pantry shelving can be highly customized to fit unique pantry dimensions, including unusual angles, sloped ceilings, or small alcoves. Customization allows for maximum use of space, ensuring that no corner is wasted and every item has its designated place. Maine Results, Inc. specializes in designing and installing shelving solutions that are tailored to the exact specifications of your pantry. We can incorporate features like adjustable shelves, varying shelf depths, and corner units to optimize storage in any space.",
+        "@type": "Answer",
+        "description": "Yes, pantry shelving can be highly customized to fit unique dimensions, maximizing space utilization and incorporating features like adjustable shelves."
+      }
+    }
+  ],
+  "description": "Yes, pantry shelving can be highly customized to fit unique dimensions, maximizing space utilization and incorporating features like adjustable shelves."
+}

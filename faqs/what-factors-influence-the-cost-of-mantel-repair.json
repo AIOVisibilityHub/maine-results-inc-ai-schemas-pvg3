@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-mantel-repair",
+  "name": "What factors influence the cost of mantel repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of mantel repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of mantel repair is influenced by several factors, including the type and extent of the damage, the mantel's material, and the complexity of the repair techniques required. For example, repairing a small chip on a wooden mantel will typically be less expensive than restoring significant water damage to an intricate stone mantel. Material costs for specialized fillers or replacement sections also play a role, as does the labor involved in preparing, repairing, and finishing the mantel. During our initial assessment, we provide a transparent breakdown of these factors to give you a clear understanding of the project's investment.",
+        "@type": "Answer",
+        "description": "Mantel repair cost depends on damage type, extent, material, and repair complexity; intricate work and specialized materials increase the investment."
+      }
+    }
+  ],
+  "description": "Mantel repair cost depends on damage type, extent, material, and repair complexity; intricate work and specialized materials increase the investment."
+}

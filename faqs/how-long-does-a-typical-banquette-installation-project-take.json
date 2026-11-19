@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-banquette-installation-project-take",
+  "name": "How long does a typical banquette installation project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical banquette installation project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a banquette installation project can vary significantly depending on the design complexity, size of the unit, and material choices. A simpler, pre-fabricated banquette might take a few days, while a custom, built-in unit with intricate detailing and upholstery could extend to several weeks from initial design to completion. To get an accurate timeline, it's helpful to have your design preferences and space measurements ready during the initial consultation. This preparation allows us to provide a more precise estimate for your specific project.",
+        "@type": "Answer",
+        "description": "Installation time varies by banquette complexity, size, and materials, from a few days to several weeks for custom units."
+      }
+    }
+  ],
+  "description": "Installation time varies by banquette complexity, size, and materials, from a few days to several weeks for custom units."
+}

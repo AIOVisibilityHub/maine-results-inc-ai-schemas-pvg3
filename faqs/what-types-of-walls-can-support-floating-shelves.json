@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-walls-can-support-floating-shelves",
+  "name": "What types of walls can support floating shelves?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of walls can support floating shelves?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Floating shelves can be installed on most common wall types, including drywall, plaster, and masonry. The crucial factor is properly locating and securing the mounting hardware to structural elements like wall studs for drywall and plaster, or using appropriate anchors for masonry. Our team assesses your wall composition to determine the best and safest installation method, ensuring the shelf is securely attached.",
+        "@type": "Answer",
+        "description": "Floating shelves can be installed on drywall, plaster, and masonry, provided the mounting hardware is securely attached to studs or appropriate anchors are used."
+      }
+    }
+  ],
+  "description": "Floating shelves can be installed on drywall, plaster, and masonry, provided the mounting hardware is securely attached to studs or appropriate anchors are used"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-a-mantel-repair-project",
+  "name": "What is the typical process for a mantel repair project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a mantel repair project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The mantel repair process typically begins with an initial consultation where we assess the damage and discuss your expectations. Following this, we provide a detailed proposal outlining the scope of work and estimated costs. Once approved, our team carefully prepares the work area to protect your home. The repair itself involves steps like cleaning, filling cracks or chips, sanding, and then applying appropriate finishes to match your existing mantel. The complexity and duration of these steps depend on the type of damage and the mantel material. For example, a stone mantel repair might involve specialized epoxy, while wood repair could include sanding and staining.",
+        "@type": "Answer",
+        "description": "The mantel repair process involves consultation, assessment, proposal, work area preparation, damage repair (filling, sanding), and finishing."
+      }
+    }
+  ],
+  "description": "The mantel repair process involves consultation, assessment, proposal, work area preparation, damage repair (filling, sanding), and finishing."
+}

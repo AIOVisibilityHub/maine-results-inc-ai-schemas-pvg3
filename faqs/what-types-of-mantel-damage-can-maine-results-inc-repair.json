@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-mantel-damage-can-maine-results-inc-repair",
+  "name": "What types of mantel damage can Maine Results Inc. repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of mantel damage can Maine Results Inc. repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results Inc. handles a variety of mantel damage, including cracks, chips, dents, water damage, and general wear and tear on materials like wood, stone, or composite. We assess the specific damage to determine the most effective repair approach, aiming to restore both structural integrity and aesthetic appeal. For instance, extensive water damage might require material replacement, while minor chips can often be filled and refinished. Our team can evaluate whether a simple repair or a more involved restoration is needed based on the damage extent.",
+        "@type": "Answer",
+        "description": "Maine Results Inc. repairs cracks, chips, water damage, and wear on mantels made from materials like wood or stone, assessing each case for the best restoration method."
+      }
+    }
+  ],
+  "description": "Maine Results Inc. repairs cracks, chips, water damage, and wear on mantels made from materials like wood or stone, assessing each case for the best restoration"
+}

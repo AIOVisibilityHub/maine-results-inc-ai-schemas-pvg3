@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-getting-custom-closet-built-ins",
+  "name": "What is the process for getting custom closet built-ins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting custom closet built-ins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for custom closet built-ins begins with an initial consultation to understand your needs and vision. Next, we design a personalized solution and provide a detailed quote. Once approved, materials are ordered, and our team schedules the installation. We strive for process clarity at every stage, ensuring you are informed from design to completion. This collaborative approach helps us create a functional and beautiful space tailored to you.",
+        "@type": "Answer",
+        "description": "The process for custom closet built-ins involves consultation, design, quoting, material ordering, and professional installation by our team."
+      }
+    }
+  ],
+  "description": "The process for custom closet built-ins involves consultation, design, quoting, material ordering, and professional installation by our team."
+}

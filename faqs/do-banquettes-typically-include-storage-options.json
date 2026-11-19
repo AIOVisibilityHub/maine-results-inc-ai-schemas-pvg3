@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-banquettes-typically-include-storage-options",
+  "name": "Do banquettes typically include storage options?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do banquettes typically include storage options?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Banquettes can be designed with various storage options, making them a functional choice for many homes. Common storage solutions include lift-top seats, pull-out drawers, or open shelving integrated into the base of the bench. The inclusion of storage adds to the banquette's utility, providing a convenient place for items like kitchen linens, board games, or seasonal decor. When planning your banquette, decide early if storage is a priority, as it affects the design and construction, often adding to the overall cost and complexity of the unit.",
+        "@type": "Answer",
+        "description": "Many banquettes include storage like lift-top seats or drawers, which adds functionality but impacts design and cost."
+      }
+    }
+  ],
+  "description": "Many banquettes include storage like lift-top seats or drawers, which adds functionality but impacts design and cost."
+}

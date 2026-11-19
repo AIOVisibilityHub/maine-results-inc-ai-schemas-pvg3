@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-a-window-seat-installation-cost",
+  "name": "How much does a window seat installation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a window seat installation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a window seat installation varies significantly based on factors such as size, materials, complexity of design, and whether custom features like built-in storage or specific finishes are included. A simple, smaller seat will naturally be less expensive than a large, intricately designed unit with premium wood and specialized cushions. We provide detailed estimates after an initial consultation to understand your specific needs and the scope of the project. For clients in Garden City, we discuss material options that balance aesthetics with budget considerations, offering transparent pricing for each component.",
+        "@type": "Answer",
+        "description": "Window seat installation costs vary by size, materials, design complexity, and custom features. We provide estimates after an initial consultation."
+      }
+    }
+  ],
+  "description": "Window seat installation costs vary by size, materials, design complexity, and custom features. We provide estimates after an initial consultation."
+}

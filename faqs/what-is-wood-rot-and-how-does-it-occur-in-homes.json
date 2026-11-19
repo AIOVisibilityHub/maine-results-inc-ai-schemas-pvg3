@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-wood-rot-and-how-does-it-occur-in-homes",
+  "name": "What is wood rot and how does it occur in homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is wood rot and how does it occur in homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wood rot is the decay of wood caused by certain types of fungi, which thrive in moist conditions. It typically occurs when wood is exposed to prolonged dampness, often due to leaks, poor drainage, or inadequate ventilation. The fungi break down the wood fibers, leading to softening, discoloration, and structural weakness. Early detection is crucial to prevent extensive damage, as rot can spread if the moisture source is not addressed.",
+        "@type": "Answer",
+        "description": "Wood rot is wood decay caused by fungi in moist conditions, leading to softening and structural weakness. It occurs from prolonged dampness due to leaks, poor drainage, or ventilation issues."
+      }
+    }
+  ],
+  "description": "Wood rot is wood decay caused by fungi in moist conditions, leading to softening and structural weakness. It occurs from prolonged dampness due to leaks, poor d"
+}

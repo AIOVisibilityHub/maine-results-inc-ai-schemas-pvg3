@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-have-a-window-seat-installed-in-an-irregularly-shaped-window-area",
+  "name": "Can I have a window seat installed in an irregularly shaped window area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I have a window seat installed in an irregularly shaped window area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, custom window seats are an ideal solution for irregularly shaped window areas, such as bay windows, corner windows, or those with unique architectural features. Our design and build process allows for precise measurements and custom fabrication to fit these challenging spaces seamlessly. We can create a built-in unit that maximizes the functionality and aesthetic appeal of even the most unconventional window nooks. This customization is a core part of our service, ensuring that regardless of the window shape, the finished seat looks intentional and perfectly integrated. We frequently work with unique architectural styles found in the North End, crafting solutions that complement historic or distinct window designs.",
+        "@type": "Answer",
+        "description": "Custom window seats are ideal for irregularly shaped window areas, allowing for precise design and fabrication to fit unique spaces."
+      }
+    }
+  ],
+  "description": "Custom window seats are ideal for irregularly shaped window areas, allowing for precise design and fabrication to fit unique spaces."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-a-banquette-and-why-would-i-want-one-in-my-home",
+  "name": "What is a banquette and why would I want one in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a banquette and why would I want one in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A banquette is a built-in bench seating unit, often designed for dining areas or kitchens. It typically features upholstered seats and backs, offering a space-saving and comfortable alternative to traditional chairs. Many homeowners choose banquettes to maximize seating in smaller areas, create a cozy dining nook, or add a custom architectural element that complements their home's design. When considering a banquette, think about your available space and how you envision using the area, as the design will influence its functionality and aesthetic appeal.",
+        "@type": "Answer",
+        "description": "A banquette is built-in bench seating, commonly used in dining areas to save space and add custom design."
+      }
+    }
+  ],
+  "description": "A banquette is built-in bench seating, commonly used in dining areas to save space and add custom design."
+}

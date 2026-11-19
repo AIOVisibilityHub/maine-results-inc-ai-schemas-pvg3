@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-of-rotten-wood-that-indicate-a-need-for-replacement",
+  "name": "What are common signs of rotten wood that indicate a need for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of rotten wood that indicate a need for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of rotten wood include discoloration, softness to the touch, crumbling, or a musty odor. You might also notice visible mold or mildew, splintering, or paint peeling excessively in specific areas. Inspecting areas exposed to moisture, like window sills, door frames, deck boards, or fascia, is crucial. If you suspect rot, a simple poke test with a screwdriver can reveal softness, confirming the need for professional assessment and potential replacement.",
+        "@type": "Answer",
+        "description": "Signs of rotten wood include discoloration, softness, crumbling, or a musty odor. Visible mold, splintering, or peeling paint can also indicate rot, especially in moisture-prone areas."
+      }
+    }
+  ],
+  "description": "Signs of rotten wood include discoloration, softness, crumbling, or a musty odor. Visible mold, splintering, or peeling paint can also indicate rot, especially"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-replace-my-window-before-installing-a-window-seat",
+  "name": "Do I need to replace my window before installing a window seat?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace my window before installing a window seat?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You generally do not need to replace your window before installing a window seat, especially if the existing window is in good condition and functions properly. The window seat installation typically involves building a structure around or beneath the existing window frame. However, if your window is old, leaky, or inefficient, this might be a good opportunity to consider replacement. Replacing a window beforehand can improve energy efficiency and comfort, particularly if you plan to spend a lot of time by the window. This decision can be discussed during our initial site visit, especially for older homes in areas like the East End, where window integrity is often a consideration.",
+        "@type": "Answer",
+        "description": "Window replacement before a window seat is usually unnecessary if the window is in good condition, but consider it for old, leaky, or inefficient windows."
+      }
+    }
+  ],
+  "description": "Window replacement before a window seat is usually unnecessary if the window is in good condition, but consider it for old, leaky, or inefficient windows."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-clear-out-my-closet-before-the-installation-of-new-shelving",
+  "name": "Do I need to clear out my closet before the installation of new shelving?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to clear out my closet before the installation of new shelving?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, preparing your closet for installation is an important step to ensure a smooth and efficient process. We require that your closet be completely empty and clear of all items before our installation team arrives. This includes removing all clothing, shoes, accessories, existing shelving, and any other personal belongings. This preparation allows our installers unimpeded access to the space, helping them complete the project efficiently and safely. Considering what you want to keep, donate, or discard during this decluttering phase can also help refine your new custom design.",
+        "@type": "Answer",
+        "description": "Yes, your closet must be completely empty of all items before our installation team arrives to ensure a smooth and efficient process."
+      }
+    }
+  ],
+  "description": "Yes, your closet must be completely empty of all items before our installation team arrives to ensure a smooth and efficient process."
+}

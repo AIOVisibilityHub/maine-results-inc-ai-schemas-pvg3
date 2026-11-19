@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-a-water-damaged-door-instead-of-repairing-it",
+  "name": "When should I consider replacing a water-damaged door instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing a water-damaged door instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing a water-damaged door instead of repairing it when the damage is extensive, such as significant warping that prevents proper closing and sealing, widespread rot, or compromised structural integrity. If the cost of repair approaches or exceeds the cost of a new door installation, replacement is often the more economical and long-lasting solution. Additionally, replacing an old, damaged door can improve energy efficiency, security, and curb appeal, especially for exterior doors. Maine Results, Inc. helps homeowners in areas like Meridian and Eagle weigh these factors to make an informed decision.",
+        "@type": "Answer",
+        "description": "Replace a water-damaged door if there's extensive warping, widespread rot, compromised structure, or if repair costs are similar to replacement. A new door can also improve efficiency and security."
+      }
+    }
+  ],
+  "description": "Replace a water-damaged door if there's extensive warping, widespread rot, compromised structure, or if repair costs are similar to replacement. A new door can"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-involved-in-a-custom-window-seat-installation",
+  "name": "What is involved in a custom window seat installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a custom window seat installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom window seat installation involves several steps, beginning with a consultation to discuss your vision and measure the space. We then design the seat, considering factors like dimensions, materials, storage needs, and integration with existing aesthetics. Once the design is approved, our team precisely builds and installs the window seat, ensuring it fits seamlessly and securely. We can incorporate features such as built-in storage, custom cushions, or electrical outlets. For example, for homes in Meridian or Eagle, we often find clients prefer designs that maximize natural light and complement open-concept living spaces, which guides our material and finish recommendations.",
+        "@type": "Answer",
+        "description": "Custom window seat installation involves design, material selection, and professional construction to fit your space and preferences."
+      }
+    }
+  ],
+  "description": "Custom window seat installation involves design, material selection, and professional construction to fit your space and preferences."
+}

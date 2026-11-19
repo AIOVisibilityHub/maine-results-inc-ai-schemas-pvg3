@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-do-typical-residential-repair-projects-take-to-complete",
+  "name": "How long do typical residential repair projects take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do typical residential repair projects take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of residential repair projects varies greatly depending on their complexity and scope. Minor repairs, such as small drywall patches or door adjustments, might take a day or two. Larger projects involving structural work or multiple room renovations could extend to several weeks. To get an accurate timeline for your specific project, discuss the details with our team during the initial assessment, as unexpected issues found during the repair can sometimes affect the completion schedule.",
+        "@type": "Answer",
+        "description": "Project length depends on complexity; minor repairs take days, larger ones weeks. Assessment provides an accurate timeline."
+      }
+    }
+  ],
+  "description": "Project length depends on complexity; minor repairs take days, larger ones weeks. Assessment provides an accurate timeline."
+}

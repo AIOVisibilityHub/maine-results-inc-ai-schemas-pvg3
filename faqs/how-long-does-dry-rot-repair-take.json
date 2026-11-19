@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-dry-rot-repair-take",
+  "name": "How long does dry rot repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does dry rot repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of dry rot repair depends largely on the severity and accessibility of the affected areas. Small, localized dry rot issues might be resolved within a few days, while extensive structural repairs across multiple areas could take several weeks. We prioritize efficient project management to minimize disruption. Our team provides an estimated timeline after assessing the scope of work during the initial inspection, helping you plan accordingly.",
+        "@type": "Answer",
+        "description": "Repair time depends on the severity and accessibility of the dry rot; small issues may take days, large ones weeks. We provide an estimated timeline after inspection."
+      }
+    }
+  ],
+  "description": "Repair time depends on the severity and accessibility of the dry rot; small issues may take days, large ones weeks. We provide an estimated timeline after inspe"
+}

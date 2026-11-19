@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-commonly-used-for-entryway-built-ins",
+  "name": "What materials are commonly used for entryway built-ins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for entryway built-ins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for entryway built-ins include various types of wood such as maple, oak, birch, or MDF (medium-density fiberboard) for painted finishes. For countertops or benches, options range from solid wood to laminate, quartz, or even durable composites. The choice of material impacts both the aesthetic appeal and the long-term durability of the unit. Considering the wear and tear associated with an entryway, selecting materials that balance aesthetics with resilience is a practical tradeoff for lasting quality.",
+        "@type": "Answer",
+        "description": "Materials include various woods (maple, oak, MDF) and countertop options like solid wood, laminate, or quartz, balancing aesthetics and durability."
+      }
+    }
+  ],
+  "description": "Materials include various woods (maple, oak, MDF) and countertop options like solid wood, laminate, or quartz, balancing aesthetics and durability."
+}

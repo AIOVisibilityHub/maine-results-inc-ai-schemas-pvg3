@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-wood-damage-can-maine-results-inc-repair",
+  "name": "What types of wood damage can Maine Results, Inc. repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood damage can Maine Results, Inc. repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. can repair various types of wood damage, including rot, insect infestation, cracks, dents, and weathering. We address structural issues in framing, siding, decks, and trim, as well as cosmetic damage to interior wood features. Our approach involves assessing the extent of the damage to determine if repair or replacement of a section is the most effective and durable solution. We focus on restoring the integrity and appearance of the wood while preventing future issues.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. repairs wood rot, insect damage, cracks, dents, and weathering on various structures like siding, decks, and trim."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. repairs wood rot, insect damage, cracks, dents, and weathering on various structures like siding, decks, and trim."
+}

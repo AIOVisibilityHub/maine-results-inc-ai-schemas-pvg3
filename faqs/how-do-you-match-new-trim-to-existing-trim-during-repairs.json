@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-match-new-trim-to-existing-trim-during-repairs",
+  "name": "How do you match new trim to existing trim during repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you match new trim to existing trim during repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Matching new trim to existing trim during repairs involves several steps to ensure a seamless look. First, the profile and dimensions of the existing trim are carefully measured and photographed. We then source new trim that either exactly matches the existing profile or is custom-milled to replicate it. For painted trim, color matching is crucial, often requiring samples. For stained or natural wood trim, considerations include wood species, grain, and finish. Our team pays close attention to these details, ensuring the repairs blend in with your home's current style.",
+        "@type": "Answer",
+        "description": "New trim is matched to existing by carefully measuring profiles, sourcing identical materials, and precisely matching paint or stain colors for a seamless finish."
+      }
+    }
+  ],
+  "description": "New trim is matched to existing by carefully measuring profiles, sourcing identical materials, and precisely matching paint or stain colors for a seamless finis"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-happens-during-the-initial-consultation-for-a-custom-media-wall-project",
+  "name": "What happens during the initial consultation for a custom media wall project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during the initial consultation for a custom media wall project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During the initial consultation for a custom media wall project, a representative from Maine Results, Inc. will visit your home to discuss your vision, assess the space, and understand your needs. We'll measure the wall, identify electrical outlets, and consider existing architectural features. We'll ask about your aesthetic preferences, the types of media equipment you have, and your storage requirements. This meeting is an opportunity for you to ask questions and for us to gather all necessary information to prepare a preliminary design concept and a detailed estimate. We encourage clients to share any inspiration images or ideas they have beforehand.",
+        "@type": "Answer",
+        "description": "During the initial consultation, we visit your home to discuss your vision, measure the space, assess electrical and architectural features, and understand your equipment and storage needs to prepare a preliminary design and estimate."
+      }
+    }
+  ],
+  "description": "During the initial consultation, we visit your home to discuss your vision, measure the space, assess electrical and architectural features, and understand your"
+}

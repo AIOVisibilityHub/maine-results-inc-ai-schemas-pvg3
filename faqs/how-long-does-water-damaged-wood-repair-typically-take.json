@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-water-damaged-wood-repair-typically-take",
+  "name": "How long does water damaged wood repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does water damaged wood repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of water damaged wood repair is highly dependent on the severity and location of the damage, as well as the drying time required. Minor repairs might take a few days, including drying and finishing. More extensive projects involving structural replacement or mold remediation can take several weeks. Key factors impacting the timeline include the time it takes to fully dry the area and the complexity of the reconstruction. Our team focuses on efficient and thorough work to minimize disruption in your home or business in regions like Meridian or Garden City.",
+        "@type": "Answer",
+        "description": "Repair time depends on damage severity, location, and drying needs; minor repairs take days, while extensive projects can take weeks."
+      }
+    }
+  ],
+  "description": "Repair time depends on damage severity, location, and drying needs; minor repairs take days, while extensive projects can take weeks."
+}

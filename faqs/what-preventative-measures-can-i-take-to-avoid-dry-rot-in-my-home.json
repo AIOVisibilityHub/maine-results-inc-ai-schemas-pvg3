@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preventative-measures-can-i-take-to-avoid-dry-rot-in-my-home",
+  "name": "What preventative measures can I take to avoid dry rot in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preventative measures can I take to avoid dry rot in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing dry rot primarily involves controlling moisture levels in and around your home. Ensure proper ventilation in basements, crawl spaces, and attics, and promptly repair any leaks in plumbing or roofing. Maintaining good drainage around your foundation and regularly inspecting your home for signs of excess moisture or condensation are also crucial. These steps are particularly important in regions like Meridian, where varying seasonal conditions can contribute to moisture issues.",
+        "@type": "Answer",
+        "description": "Prevent dry rot by controlling moisture, ensuring good ventilation, and promptly fixing leaks. Regular inspections are vital, especially in areas like Meridian."
+      }
+    }
+  ],
+  "description": "Prevent dry rot by controlling moisture, ensuring good ventilation, and promptly fixing leaks. Regular inspections are vital, especially in areas like Meridian."
+}
