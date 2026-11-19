@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-materials-are-used-for-fascia-board-repair",
+  "name": "What types of materials are used for fascia board repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are used for fascia board repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fascia boards are commonly made from wood, vinyl, or composite materials. Wood, typically pine or cedar, is traditional and allows for painting to match your home's exterior, but requires regular maintenance. Vinyl and composite options offer greater durability, resistance to rot and pests, and often come in pre-finished colors, reducing long-term maintenance. Maine Results, Inc. can discuss the benefits of each material type, helping you choose the best option based on your budget, aesthetic preferences, and desired maintenance level for homes in areas like Garden City or Meridian.",
+        "@type": "Answer",
+        "description": "Common fascia materials include wood, vinyl, and composite, each offering different durability and maintenance needs. We help you choose the best option for your home's style and longevity."
+      }
+    }
+  ],
+  "description": "Common fascia materials include wood, vinyl, and composite, each offering different durability and maintenance needs. We help you choose the best option for you"
+}

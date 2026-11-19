@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-exterior-door-frame-repair-improve-my-home-s-energy-efficiency",
+  "name": "Can exterior door frame repair improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can exterior door frame repair improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, exterior door frame repair can significantly improve your home's energy efficiency. A damaged door frame, whether from cracks, rot, or warping, can create gaps that allow conditioned air to escape and unconditioned air to enter, leading to drafts and increased energy bills. Repairing or sealing these imperfections restores the frame's integrity, ensuring a tighter seal for your door. This helps maintain consistent indoor temperatures, reducing the workload on your heating and cooling systems and ultimately lowering energy consumption.",
+        "@type": "Answer",
+        "description": "Yes, repairing cracks, rot, or warping in a door frame eliminates drafts, improving your home's seal and energy efficiency."
+      }
+    }
+  ],
+  "description": "Yes, repairing cracks, rot, or warping in a door frame eliminates drafts, improving your home's seal and energy efficiency."
+}

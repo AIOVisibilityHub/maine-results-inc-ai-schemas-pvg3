@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-exterior-wood-repair-project-take",
+  "name": "How long does a typical exterior wood repair project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical exterior wood repair project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an exterior wood repair project varies significantly based on the scope and complexity of the damage. Minor repairs, like replacing a few feet of trim, might take a day or two. More extensive projects, such as repairing a large section of siding or a deck, could take several days to over a week. Factors like weather conditions, material availability, and the specific location of the repair (e.g., elevated areas) can also influence the timeline. We provide an estimated timeline after our initial assessment.",
+        "@type": "Answer",
+        "description": "Repair time depends on damage scope, from a day for minor fixes to over a week for extensive projects, influenced by weather and location."
+      }
+    }
+  ],
+  "description": "Repair time depends on damage scope, from a day for minor fixes to over a week for extensive projects, influenced by weather and location."
+}

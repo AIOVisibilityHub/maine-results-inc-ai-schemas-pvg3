@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-do-you-use-for-window-frame-rot-repair",
+  "name": "What materials do you use for window frame rot repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials do you use for window frame rot repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For window frame rot repair, we primarily use high-quality wood epoxies, wood consolidants, and specific lumber types like cedar or treated wood for replacement sections, chosen for their durability and resistance to moisture. The choice of material depends on the extent of the damage, the type of wood already present in your window frame, and the desired aesthetic. We select materials that ensure the repaired section is structurally sound, weather-resistant, and can be seamlessly finished to match your existing windows. This approach ensures a long-lasting and visually appealing repair.",
+        "@type": "Answer",
+        "description": "We use high-quality wood epoxies, consolidants, and durable lumber like cedar or treated wood for repairs, chosen based on damage and existing frame."
+      }
+    }
+  ],
+  "description": "We use high-quality wood epoxies, consolidants, and durable lumber like cedar or treated wood for repairs, chosen based on damage and existing frame."
+}

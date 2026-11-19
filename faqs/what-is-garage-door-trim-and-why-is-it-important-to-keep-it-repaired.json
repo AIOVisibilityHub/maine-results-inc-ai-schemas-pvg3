@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-garage-door-trim-and-why-is-it-important-to-keep-it-repaired",
+  "name": "What is garage door trim and why is it important to keep it repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is garage door trim and why is it important to keep it repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Garage door trim is the molding or frame around the garage door opening. It serves both aesthetic and functional purposes. Functionally, it helps seal the gap between the garage door and the wall, protecting your garage from weather elements like rain, wind, and pests. Properly maintained trim prevents moisture intrusion that can lead to wood rot or damage to your home's structure. Keeping it repaired also contributes to your home's curb appeal and can improve insulation, potentially saving on energy costs. Neglecting trim issues can lead to more extensive and costly repairs later.",
+        "@type": "Answer",
+        "description": "Garage door trim frames the opening, protecting your garage from weather and pests, and enhancing curb appeal. Repairing it prevents larger structural damage and improves insulation."
+      }
+    }
+  ],
+  "description": "Garage door trim frames the opening, protecting your garage from weather and pests, and enhancing curb appeal. Repairing it prevents larger structural damage an"
+}

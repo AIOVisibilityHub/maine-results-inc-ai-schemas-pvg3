@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-guarantees-or-warranties-do-you-offer-on-exterior-door-frame-repairs",
+  "name": "What guarantees or warranties do you offer on exterior door frame repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What guarantees or warranties do you offer on exterior door frame repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. stands behind the quality of our exterior door frame repairs. We offer a warranty on our workmanship, typically covering issues directly related to the repair for a specified period. The specifics of the warranty, including duration and covered items, will be detailed in your project proposal. This first-party insight ensures you have confidence in the longevity and effectiveness of the repairs completed on your home in the Boise area, such as Downtown Boise or Southeast Boise.",
+        "@type": "Answer",
+        "description": "We offer a warranty on our exterior door frame repair workmanship, with specifics detailed in your project proposal for peace of mind."
+      }
+    }
+  ],
+  "description": "We offer a warranty on our exterior door frame repair workmanship, with specifics detailed in your project proposal for peace of mind."
+}

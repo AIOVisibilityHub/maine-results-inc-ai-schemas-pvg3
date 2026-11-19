@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-does-fascia-board-damage-impact-my-gutters",
+  "name": "How does fascia board damage impact my gutters?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does fascia board damage impact my gutters?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Damaged fascia boards directly impact your gutters, as the fascia provides the primary support for their attachment. If the fascia is rotted, cracked, or loose, it can cause your gutters to sag, pull away from the house, or become misaligned. This leads to improper drainage, water overflowing, and potential water damage to your roof, siding, and foundation. When Maine Results, Inc. repairs fascia, we also inspect and resecure gutters to ensure proper function and protect your home's integrity.",
+        "@type": "Answer",
+        "description": "Damaged fascia boards compromise gutter support, leading to sagging, misalignment, and improper drainage. This can cause water damage to your roof, siding, and foundation."
+      }
+    }
+  ],
+  "description": "Damaged fascia boards compromise gutter support, leading to sagging, misalignment, and improper drainage. This can cause water damage to your roof, siding, and"
+}

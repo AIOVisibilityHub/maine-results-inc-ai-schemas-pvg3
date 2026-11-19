@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-exterior-trim-repair-with-maine-results-inc",
+  "name": "What is the process for exterior trim repair with Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for exterior trim repair with Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our exterior trim repair process typically begins with a thorough inspection of your property to assess the damage and identify the best repair or replacement strategy. Following the assessment, we provide a detailed estimate outlining the scope of work, materials, and costs. Once approved, our skilled team prepares the area, removes damaged trim, performs necessary repairs or installs new trim, and finishes with painting or sealing to match your home's exterior. We communicate updates throughout the project, ensuring you are informed every step of the way, which helps set clear expectations for the project timeline and outcome.",
+        "@type": "Answer",
+        "description": "Our process involves inspection, detailed estimate, preparation, repair/replacement, and finishing, with continuous communication."
+      }
+    }
+  ],
+  "description": "Our process involves inspection, detailed estimate, preparation, repair/replacement, and finishing, with continuous communication."
+}

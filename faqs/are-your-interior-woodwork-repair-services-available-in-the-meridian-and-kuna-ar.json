@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/are-your-interior-woodwork-repair-services-available-in-the-meridian-and-kuna-ar",
+  "name": "Are your interior woodwork repair services available in the Meridian and Kuna areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are your interior woodwork repair services available in the Meridian and Kuna areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, our interior woodwork repair services are available in Meridian and Kuna, as well as in Garden City, Eagle, and Star. We provide professional repair solutions for various types of interior woodwork, including doors, trim, and built-ins, across these communities. When you contact us for service, we will confirm your location within our service area and schedule an assessment to discuss your specific repair needs. This ensures we can efficiently plan and execute your project.",
+        "@type": "Answer",
+        "description": "Yes, our interior woodwork repair services cover Meridian, Kuna, Garden City, Eagle, and Star. We confirm location and assess needs."
+      }
+    }
+  ],
+  "description": "Yes, our interior woodwork repair services cover Meridian, Kuna, Garden City, Eagle, and Star. We confirm location and assess needs."
+}

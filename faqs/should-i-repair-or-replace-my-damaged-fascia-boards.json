@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-repair-or-replace-my-damaged-fascia-boards",
+  "name": "Should I repair or replace my damaged fascia boards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my damaged fascia boards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement depends on the extent of the damage. If only small sections exhibit minor rot or cracks, repair is often sufficient. However, if the damage is widespread, structural, or indicative of persistent water issues, full replacement is usually the more durable and cost-effective long-term solution. Maine Results, Inc. will provide an honest assessment, detailing the pros and cons of each option for your specific situation. Consider the age of the existing fascia and overall condition of your roofline when making this decision.",
+        "@type": "Answer",
+        "description": "Repair minor damage, but choose replacement for widespread, structural, or recurring issues. Maine Results, Inc. helps assess the best long-term solution for your specific home."
+      }
+    }
+  ],
+  "description": "Repair minor damage, but choose replacement for widespread, structural, or recurring issues. Maine Results, Inc. helps assess the best long-term solution for yo"
+}

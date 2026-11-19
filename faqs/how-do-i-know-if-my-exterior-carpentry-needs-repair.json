@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-exterior-carpentry-needs-repair",
+  "name": "How do I know if my exterior carpentry needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my exterior carpentry needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for visible signs of damage such as cracked, peeling, or blistering paint, soft or crumbling wood, discolored areas, or gaps and holes. Rotting wood is a common indicator, often found near rooflines, window frames, or where wood meets the ground. Early detection of these issues can prevent more extensive and costly repairs down the line. A thorough visual inspection of your home's exterior can help you identify areas needing attention.",
+        "@type": "Answer",
+        "description": "Check for cracked paint, soft wood, discoloration, or gaps, especially near rooflines and windows. Early detection helps prevent bigger problems."
+      }
+    }
+  ],
+  "description": "Check for cracked paint, soft wood, discoloration, or gaps, especially near rooflines and windows. Early detection helps prevent bigger problems."
+}

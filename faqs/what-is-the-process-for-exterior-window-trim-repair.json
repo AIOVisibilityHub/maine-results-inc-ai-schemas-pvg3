@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-exterior-window-trim-repair",
+  "name": "What is the process for exterior window trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for exterior window trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for exterior window trim repair begins with an assessment of the damage to determine the necessary scope of work. Next, the affected areas are cleaned, and any loose or rotten material is removed. Depending on the damage, this might involve sanding, filling with epoxy, or replacing sections of trim. Finally, the repaired or new trim is primed, painted, and sealed to protect it from the elements. This systematic approach ensures a durable and aesthetically pleasing finish.",
+        "@type": "Answer",
+        "description": "The process involves damage assessment, cleaning, removing damaged material, repairing or replacing trim, then priming, painting, and sealing."
+      }
+    }
+  ],
+  "description": "The process involves damage assessment, cleaning, removing damaged material, repairing or replacing trim, then priming, painting, and sealing."
+}

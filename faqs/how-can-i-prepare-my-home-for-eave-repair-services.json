@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-prepare-my-home-for-eave-repair-services",
+  "name": "How can I prepare my home for eave repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for eave repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your home for eave repair services, it's helpful to clear the area directly beneath the eaves. This includes moving outdoor furniture, potted plants, and any decorative items that might be in the way. Ensure there's clear access for ladders and equipment around the perimeter of your home. If you have sprinklers, ensure they are turned off on the repair day. Discuss with your contractor any specific concerns, such as delicate landscaping or pet access, to ensure a smooth and safe process for both parties.",
+        "@type": "Answer",
+        "description": "Prepare for eave repair by clearing the area below the eaves, ensuring access for equipment, and discussing any specific concerns with your contractor."
+      }
+    }
+  ],
+  "description": "Prepare for eave repair by clearing the area below the eaves, ensuring access for equipment, and discussing any specific concerns with your contractor."
+}

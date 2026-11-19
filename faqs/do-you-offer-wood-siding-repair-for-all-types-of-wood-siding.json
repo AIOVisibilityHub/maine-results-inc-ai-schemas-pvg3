@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-wood-siding-repair-for-all-types-of-wood-siding",
+  "name": "Do you offer wood siding repair for all types of wood siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer wood siding repair for all types of wood siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, our team is equipped to repair various types of wood siding commonly found on homes, including clapboard, cedar shakes, board and batten, and tongue and groove siding. Our expertise allows us to work with different wood species and styles to ensure a seamless repair that matches your home's existing aesthetic. When contacting us, it can be helpful for homeowners in areas like Southeast Boise or Veterans Park to specify the type of wood siding they have, or provide a photo, so we can better prepare for the assessment and discuss the appropriate repair techniques and materials required.",
+        "@type": "Answer",
+        "description": "Yes, we repair various wood siding types like clapboard, cedar shakes, and board and batten. Providing your siding type or a photo helps us prepare for assessment."
+      }
+    }
+  ],
+  "description": "Yes, we repair various wood siding types like clapboard, cedar shakes, and board and batten. Providing your siding type or a photo helps us prepare for assessme"
+}

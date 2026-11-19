@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-commonly-used-for-siding-trim-repair",
+  "name": "What materials are commonly used for siding trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for siding trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials include wood (such as cedar or pine), composite materials like fiber cement, and cellular PVC. Each material offers different advantages in terms of durability, maintenance requirements, and aesthetic appeal. For instance, PVC is highly resistant to rot and insects, making it a popular choice for long-term solutions in our service areas. The best material choice can be influenced by your existing siding and local climate conditions.",
+        "@type": "Answer",
+        "description": "Common materials are wood, fiber cement, and cellular PVC, each offering different durability and aesthetic benefits for repair."
+      }
+    }
+  ],
+  "description": "Common materials are wood, fiber cement, and cellular PVC, each offering different durability and aesthetic benefits for repair."
+}

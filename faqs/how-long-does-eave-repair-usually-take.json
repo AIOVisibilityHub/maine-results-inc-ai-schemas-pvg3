@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-eave-repair-usually-take",
+  "name": "How long does eave repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does eave repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of eave repair depends significantly on the extent and complexity of the damage. Minor repairs, such as replacing a small section of fascia or soffit, might only take a few hours to a day. More extensive damage, perhaps involving multiple sections, underlying structural issues, or gutter replacement, could extend to several days. Factors like weather conditions and material availability can also affect the timeline. Our team at Maine Results, Inc. provides an estimated timeframe after a thorough on-site assessment.",
+        "@type": "Answer",
+        "description": "Minor eave repairs can take a few hours to a day, while extensive damage might require several days, depending on complexity and weather."
+      }
+    }
+  ],
+  "description": "Minor eave repairs can take a few hours to a day, while extensive damage might require several days, depending on complexity and weather."
+}

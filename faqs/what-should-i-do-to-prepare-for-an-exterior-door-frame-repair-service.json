@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-do-to-prepare-for-an-exterior-door-frame-repair-service",
+  "name": "What should I do to prepare for an exterior door frame repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare for an exterior door frame repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for an exterior door frame repair, you should clear the area around the door, both inside and out, removing any obstacles like furniture, plants, or decor. Ensure there's adequate space for technicians to work. If the repair involves painting, consider selecting your desired paint color beforehand. You may also need to secure pets. Providing access to power outlets and discussing any specific concerns or observations you've made about the frame with our team can also help streamline the process.",
+        "@type": "Answer",
+        "description": "Clear the area around the door, ensure access, secure pets, and discuss concerns with technicians to prepare for service."
+      }
+    }
+  ],
+  "description": "Clear the area around the door, ensure access, secure pets, and discuss concerns with technicians to prepare for service."
+}

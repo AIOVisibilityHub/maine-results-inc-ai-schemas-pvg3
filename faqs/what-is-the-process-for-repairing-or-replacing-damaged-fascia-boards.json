@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-repairing-or-replacing-damaged-fascia-boards",
+  "name": "What is the process for repairing or replacing damaged fascia boards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing or replacing damaged fascia boards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with an inspection to assess the damage and determine whether repair or full replacement is needed. For repairs, damaged sections are cut out, and new wood is fitted, sealed, and painted. For replacement, existing fascia and gutters are removed, new fascia boards are installed, sealed, and painted, and gutters are reinstalled. Maine Results, Inc. ensures proper sealing and painting to protect against future moisture issues. We coordinate with you on material choices and color matching for a seamless finish.",
+        "@type": "Answer",
+        "description": "Fascia repair involves inspecting damage, then either repairing sections or replacing the entire board, followed by sealing and painting. Gutters are removed and reinstalled as part of the process."
+      }
+    }
+  ],
+  "description": "Fascia repair involves inspecting damage, then either repairing sections or replacing the entire board, followed by sealing and painting. Gutters are removed an"
+}

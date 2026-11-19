@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-warranties-on-window-frame-rot-repair-services",
+  "name": "Do you offer warranties on window frame rot repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer warranties on window frame rot repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. stands behind the quality of our workmanship for window frame rot repair. We offer a warranty on our repair services to provide you with peace of mind. The specific terms and duration of the warranty will be outlined in your service agreement. This commitment reflects our confidence in using durable materials and proven techniques to ensure a lasting repair. We aim for complete customer satisfaction in every project we undertake, from Garden City to Star.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. offers a warranty on our window frame rot repair services, with terms specified in your service agreement."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. offers a warranty on our window frame rot repair services, with terms specified in your service agreement."
+}

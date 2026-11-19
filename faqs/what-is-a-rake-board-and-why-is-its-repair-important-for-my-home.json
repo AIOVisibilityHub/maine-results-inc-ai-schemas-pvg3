@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-a-rake-board-and-why-is-its-repair-important-for-my-home",
+  "name": "What is a rake board and why is its repair important for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a rake board and why is its repair important for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A rake board is the trim board that runs along the slanted edge of a gable roof, covering the ends of the roof sheathing and providing a finished appearance. Its repair is important because it protects the underlying roof structure and fascia from weather damage, including rain, snow, and UV exposure. Damage to rake boards can lead to more extensive issues like rot in the roof framing or attic, which can be costly to fix. Prompt repair maintains your home's structural integrity and aesthetic appeal.",
+        "@type": "Answer",
+        "description": "A rake board is a roof trim board protecting the roof structure; its repair prevents weather damage and maintains your home's appearance."
+      }
+    }
+  ],
+  "description": "A rake board is a roof trim board protecting the roof structure; its repair prevents weather damage and maintains your home's appearance."
+}

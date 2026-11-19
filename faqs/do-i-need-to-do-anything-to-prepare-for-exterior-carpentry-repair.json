@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-do-anything-to-prepare-for-exterior-carpentry-repair",
+  "name": "Do I need to do anything to prepare for exterior carpentry repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to do anything to prepare for exterior carpentry repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for exterior carpentry repairs, please clear the work area around your home. This includes moving outdoor furniture, potted plants, and any decorative items away from the foundation and walls. Ensuring clear access allows our team to work efficiently and safely. If the repair involves areas near windows, you might consider securing valuable items inside those rooms. We will advise you of any specific preparations needed for your project.",
+        "@type": "Answer",
+        "description": "Please clear the work area around your home by moving outdoor furniture and other items to allow for safe and efficient work."
+      }
+    }
+  ],
+  "description": "Please clear the work area around your home by moving outdoor furniture and other items to allow for safe and efficient work."
+}

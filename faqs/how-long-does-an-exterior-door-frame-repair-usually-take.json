@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-an-exterior-door-frame-repair-usually-take",
+  "name": "How long does an exterior door frame repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an exterior door frame repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an exterior door frame repair depends on the severity and nature of the damage. Minor repairs, such as patching small areas of rot or sealing minor cracks, can often be completed within a few hours to a day. More extensive repairs involving structural elements or significant rebuilding may take one to two days. Factors like weather conditions can also influence the timeline. Our team works efficiently in locations like Kuna and Star to complete repairs with minimal disruption.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours for minor damage to one to two days for extensive repairs, depending on severity and conditions."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours for minor damage to one to two days for extensive repairs, depending on severity and conditions."
+}

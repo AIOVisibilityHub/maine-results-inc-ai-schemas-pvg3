@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-exterior-home-repair-project-take",
+  "name": "How long does a typical exterior home repair project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical exterior home repair project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an exterior home repair project depends on its scope and complexity. Small repairs, such as mending a section of fence or fixing a minor siding issue, might take a single day. Larger projects, like full roof replacements or extensive deck builds, can span several days to a few weeks, influenced by factors like weather conditions and material availability. During the planning phase, we provide a projected timeline and keep you informed of progress, especially for projects in our service areas like Star and Kuna, where local material availability can sometimes affect scheduling.",
+        "@type": "Answer",
+        "description": "Project duration varies by scope; small repairs take a day, larger projects can take weeks, influenced by weather and materials."
+      }
+    }
+  ],
+  "description": "Project duration varies by scope; small repairs take a day, larger projects can take weeks, influenced by weather and materials."
+}

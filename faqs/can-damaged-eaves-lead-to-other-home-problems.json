@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-damaged-eaves-lead-to-other-home-problems",
+  "name": "Can damaged eaves lead to other home problems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can damaged eaves lead to other home problems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, damaged eaves can lead to a cascade of other significant problems for your home. Without proper diversion, rainwater can seep behind siding, causing wood rot in the walls, mold growth, and structural damage. Water pooling near the foundation can compromise its integrity, leading to costly repairs. Additionally, compromised eaves can provide entry points for pests like rodents, birds, and insects into your attic or walls, creating further issues. Early repair prevents these secondary, often more severe, damages.",
+        "@type": "Answer",
+        "description": "Damaged eaves can cause wood rot, mold, foundation issues, and pest infestations by directing water into your home's structure."
+      }
+    }
+  ],
+  "description": "Damaged eaves can cause wood rot, mold, foundation issues, and pest infestations by directing water into your home's structure."
+}

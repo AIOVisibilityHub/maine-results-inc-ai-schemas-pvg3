@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-match-existing-wood-siding-or-trim-during-repairs",
+  "name": "Can you match existing wood siding or trim during repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match existing wood siding or trim during repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, matching existing wood siding or trim during repairs is a common practice and a priority for Maine Results, Inc. Our goal is to ensure the repaired section blends seamlessly with your home's current exterior appearance. We take great care to source materials that match the species, profile, and texture of your existing wood. While exact age and weathering can create subtle differences, our skilled craftsmen work to minimize these through careful installation, sanding, and finishing. This meticulous approach helps maintain your home's uniform aesthetic.",
+        "@type": "Answer",
+        "description": "Yes, we prioritize matching existing wood siding or trim by sourcing similar materials and using skilled craftsmanship for a seamless blend."
+      }
+    }
+  ],
+  "description": "Yes, we prioritize matching existing wood siding or trim by sourcing similar materials and using skilled craftsmanship for a seamless blend."
+}

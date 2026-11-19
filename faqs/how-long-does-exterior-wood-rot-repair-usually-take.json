@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-exterior-wood-rot-repair-usually-take",
+  "name": "How long does exterior wood rot repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does exterior wood rot repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of exterior wood rot repair depends directly on the scope and severity of the damage. Small, isolated areas of rot might be completed in a few hours or a single day. More extensive repairs involving multiple sections of siding, trim, or structural components could take several days. We provide an estimated timeline during our initial assessment once we fully understand the project's complexity and requirements. Timely repairs are crucial to prevent further damage and additional costs.",
+        "@type": "Answer",
+        "description": "Repair time depends on damage scope; small areas take hours, while extensive repairs can take several days. An estimated timeline is provided after assessment."
+      }
+    }
+  ],
+  "description": "Repair time depends on damage scope; small areas take hours, while extensive repairs can take several days. An estimated timeline is provided after assessment."
+}

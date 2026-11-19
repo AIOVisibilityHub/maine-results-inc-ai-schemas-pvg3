@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-perform-soffit-repair-myself-or-should-i-hire-a-professional",
+  "name": "Can I perform soffit repair myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform soffit repair myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor cosmetic repairs like patching small holes might seem manageable for a homeowner, most soffit repairs involve working at heights and require specialized tools and knowledge. Improper installation or repair can lead to recurring problems, inadequate ventilation, and potentially greater damage to your roof and attic. For structural issues, extensive rot, or any repair involving electrical components or pest infestations, hiring experienced professionals like Maine Results, Inc. ensures the work is done safely, correctly, and up to local building standards, providing lasting results.",
+        "@type": "Answer",
+        "description": "Minor repairs might be DIY, but most soffit work requires professionals due to safety, specialized tools, and potential for greater damage."
+      }
+    }
+  ],
+  "description": "Minor repairs might be DIY, but most soffit work requires professionals due to safety, specialized tools, and potential for greater damage."
+}

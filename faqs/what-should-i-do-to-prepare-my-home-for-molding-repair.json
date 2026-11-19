@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-do-to-prepare-my-home-for-molding-repair",
+  "name": "What should I do to prepare my home for molding repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my home for molding repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for molding repair, we recommend clearing the work area of furniture, decor, and personal items to provide our team with unobstructed access. Covering nearby flooring and furniture with drop cloths can also help protect them from dust and paint. If the molding is heavily soiled or has loose debris, a quick clean can be helpful. However, our team will handle any necessary taping, sanding, or specific surface preparation. These steps help ensure a smooth and efficient repair process.",
+        "@type": "Answer",
+        "description": "Clear the work area of furniture, cover nearby items with drop cloths, and consider a quick clean to prepare your home for molding repair."
+      }
+    }
+  ],
+  "description": "Clear the work area of furniture, cover nearby items with drop cloths, and consider a quick clean to prepare your home for molding repair."
+}

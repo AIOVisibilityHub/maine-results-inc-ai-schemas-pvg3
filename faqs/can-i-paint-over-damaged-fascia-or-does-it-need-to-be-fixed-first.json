@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-paint-over-damaged-fascia-or-does-it-need-to-be-fixed-first",
+  "name": "Can I paint over damaged fascia, or does it need to be fixed first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint over damaged fascia, or does it need to be fixed first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Painting over damaged fascia without addressing the underlying issues is generally not recommended. While it might temporarily improve the appearance, it won't fix structural problems like rot or moisture damage. In fact, it could trap moisture and accelerate decay. Before any painting, ensure that all damaged sections are properly repaired or replaced, and the surface is dry and prepared. Maine Results, Inc. prioritizes fixing the root cause of the damage to ensure a lasting repair and proper protection for your home.",
+        "@type": "Answer",
+        "description": "Do not paint over damaged fascia without fixing the underlying issues first, as this can trap moisture and worsen decay. Always repair or replace damaged sections before painting."
+      }
+    }
+  ],
+  "description": "Do not paint over damaged fascia without fixing the underlying issues first, as this can trap moisture and worsen decay. Always repair or replace damaged sectio"
+}

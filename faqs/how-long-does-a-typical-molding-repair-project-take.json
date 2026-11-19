@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-molding-repair-project-take",
+  "name": "How long does a typical molding repair project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical molding repair project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a molding repair project varies based on the scope of work. Minor repairs, such as filling small dents or cracks, might only take a few hours. More extensive projects involving multiple sections of molding, custom fabrication, or significant prep work, like addressing underlying moisture issues, can take several days. We provide an estimated timeline during the initial consultation once we understand the full extent of the work required.",
+        "@type": "Answer",
+        "description": "Molding repair time varies from a few hours for minor issues to several days for extensive projects, depending on the scope of work."
+      }
+    }
+  ],
+  "description": "Molding repair time varies from a few hours for minor issues to several days for extensive projects, depending on the scope of work."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-exterior-carpentry-repair",
+  "name": "What is the typical process for exterior carpentry repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for exterior carpentry repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process typically begins with an assessment to identify the extent of the damage and determine the best repair method. We then remove the compromised materials, prepare the area, and install new, matching carpentry components. Finally, we finish the repaired area to blend seamlessly with your home's existing exterior, including painting or sealing as needed. The specific steps can vary based on the repair's complexity and the type of material involved.",
+        "@type": "Answer",
+        "description": "The process includes assessment, removal of damaged material, installation of new components, and finishing to match your home's exterior."
+      }
+    }
+  ],
+  "description": "The process includes assessment, removal of damaged material, installation of new components, and finishing to match your home's exterior."
+}

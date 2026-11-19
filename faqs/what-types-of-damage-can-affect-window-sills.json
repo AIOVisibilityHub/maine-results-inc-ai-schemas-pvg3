@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-damage-can-affect-window-sills",
+  "name": "What types of damage can affect window sills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of damage can affect window sills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window sills can experience various types of damage, most commonly from exposure to weather, moisture, and UV rays. This includes wood rot, which occurs when moisture seeps into the wood, causing it to decay and soften. Other issues include cracking, splitting, chipping, and peeling paint, often due to expansion and contraction from temperature changes, or simply wear and tear over time. In areas with high humidity or frequent precipitation, sills are more prone to moisture-related damage. Identifying the specific type of damage helps determine the most effective repair method.",
+        "@type": "Answer",
+        "description": "Common window sill damage includes wood rot, cracking, splitting, chipping, and peeling paint, usually from weather exposure and moisture."
+      }
+    }
+  ],
+  "description": "Common window sill damage includes wood rot, cracking, splitting, chipping, and peeling paint, usually from weather exposure and moisture."
+}

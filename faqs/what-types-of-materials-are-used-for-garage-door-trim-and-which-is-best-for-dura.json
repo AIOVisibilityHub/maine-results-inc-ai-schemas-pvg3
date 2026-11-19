@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-materials-are-used-for-garage-door-trim-and-which-is-best-for-dura",
+  "name": "What types of materials are used for garage door trim, and which is best for durability?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are used for garage door trim, and which is best for durability?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Garage door trim can be made from various materials, including wood, PVC, fiber cement, and composite. Wood is traditional but requires regular maintenance and is prone to rot. PVC trim is a popular choice for durability; it's waterproof, resistant to insects, and never needs painting. Fiber cement offers excellent durability and fire resistance but can be heavier and more difficult to install. Composite trim combines wood fibers with plastic for a balance of appearance and resilience. For properties in the Boise metro area and surrounding communities, PVC and fiber cement often offer the best long-term durability and resistance to local weather conditions, reducing maintenance needs.",
+        "@type": "Answer",
+        "description": "Common garage door trim materials include wood, PVC, fiber cement, and composite. PVC and fiber cement offer superior durability and weather resistance, especially for our region."
+      }
+    }
+  ],
+  "description": "Common garage door trim materials include wood, PVC, fiber cement, and composite. PVC and fiber cement offer superior durability and weather resistance, especia"
+}

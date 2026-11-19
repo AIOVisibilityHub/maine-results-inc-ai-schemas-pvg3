@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-repair-or-replace-my-exterior-trim",
+  "name": "Should I repair or replace my exterior trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my exterior trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace exterior trim depends on the severity and extent of the damage. Minor issues like small cracks or paint chips can often be repaired with patching and repainting. However, if the trim is extensively rotted, warped, or damaged in multiple sections, replacement is usually the more durable and cost-effective long-term solution. Our team can assess the condition during an inspection and recommend the best course of action. This assessment helps you make an informed decision based on the specific condition of your home's trim.",
+        "@type": "Answer",
+        "description": "Repair minor damage, but replace trim that is extensively rotted or warped for a more durable solution after an assessment."
+      }
+    }
+  ],
+  "description": "Repair minor damage, but replace trim that is extensively rotted or warped for a more durable solution after an assessment."
+}

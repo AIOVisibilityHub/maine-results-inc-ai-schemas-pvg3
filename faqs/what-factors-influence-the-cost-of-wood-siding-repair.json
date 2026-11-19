@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-wood-siding-repair",
+  "name": "What factors influence the cost of wood siding repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of wood siding repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of wood siding repair is influenced by several factors, including the type of wood siding, the extent of the damage, and the accessibility of the affected area. For instance, repairing a few loose planks might be less involved than addressing an entire section with dry rot. Additionally, the type of wood, such as cedar or redwood, can affect material costs. When preparing for an estimate with Maine Results, Inc., homeowners might consider documenting the visible damage and noting any specific concerns, as this can help our team provide a more accurate initial assessment during a site visit.",
+        "@type": "Answer",
+        "description": "Cost factors include wood type, damage extent, and accessibility. Documenting visible damage can help prepare for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Cost factors include wood type, damage extent, and accessibility. Documenting visible damage can help prepare for an accurate estimate."
+}

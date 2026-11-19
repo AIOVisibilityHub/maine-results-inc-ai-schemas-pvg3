@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-exterior-wood-rot-repair",
+  "name": "What is the typical process for exterior wood rot repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for exterior wood rot repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with a thorough inspection to identify all affected areas and the underlying cause of the rot. Next, all rotted wood is carefully removed, ensuring no compromised material remains. Depending on the extent, the area is either prepared for a patch repair using epoxies or new, pre-treated wood is cut and fitted precisely. After installation, the new or repaired wood is primed and painted to match the existing exterior, protecting it from future moisture. Maine Results, Inc. focuses on addressing the root cause during this process to ensure a lasting repair.",
+        "@type": "Answer",
+        "description": "The process involves inspection, removal of rotted wood, repair or replacement with new material, and then priming and painting for protection."
+      }
+    }
+  ],
+  "description": "The process involves inspection, removal of rotted wood, repair or replacement with new material, and then priming and painting for protection."
+}

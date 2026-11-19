@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-is-it-better-to-repair-a-front-door-frame-versus-replacing-the-entire-door",
+  "name": "When is it better to repair a front door frame versus replacing the entire door unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it better to repair a front door frame versus replacing the entire door unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and full replacement depends on the extent of the damage. Repair is often sufficient if the damage is localized to one section of the frame, such as a small area of rot or a minor crack, and the rest of the door and frame are in good condition. However, if the frame has extensive rot, structural integrity issues, or if the door itself is also heavily damaged or outdated, a full replacement of the door and frame unit might be a more cost-effective and beneficial long-term solution. A professional assessment can help determine the best approach for your specific situation in areas like Star or Kuna.",
+        "@type": "Answer",
+        "description": "Repair is best for localized frame damage; full replacement is better for extensive rot, structural issues, or when the door itself is also severely damaged."
+      }
+    }
+  ],
+  "description": "Repair is best for localized frame damage; full replacement is better for extensive rot, structural issues, or when the door itself is also severely damaged."
+}

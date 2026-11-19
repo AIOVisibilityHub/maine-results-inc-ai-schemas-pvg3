@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-before-hiring-a-contractor-for-wood-rot-repair-in-the-boi",
+  "name": "What should I consider before hiring a contractor for wood rot repair in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before hiring a contractor for wood rot repair in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for wood rot repair in the Boise area, look for companies with experience specific to exterior work and a strong understanding of local weather challenges. Ask for references and examples of similar projects. It's also important to confirm they are licensed and insured. Maine Results, Inc. specializes in addressing exterior issues in the Treasure Valley and provides comprehensive solutions, including identifying the root cause of rot to prevent future occurrences, which is a key part of our service.",
+        "@type": "Answer",
+        "description": "Before hiring, check for experience in exterior work, local weather understanding, references, and proper licensing/insurance. Confirm they address root causes of rot."
+      }
+    }
+  ],
+  "description": "Before hiring, check for experience in exterior work, local weather understanding, references, and proper licensing/insurance. Confirm they address root causes"
+}

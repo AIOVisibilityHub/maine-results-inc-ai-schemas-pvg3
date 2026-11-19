@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-used-for-soffit-repair",
+  "name": "What materials are used for soffit repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for soffit repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Soffits are typically made from vinyl, aluminum, wood, or fiber cement. The choice of material for repair often depends on your existing soffit type to maintain a consistent appearance and performance. Vinyl and aluminum are popular for their durability, low maintenance, and resistance to moisture and pests. Wood soffits may require more maintenance but offer a classic aesthetic. When choosing a material, consider factors like climate, budget, and desired lifespan. Our team in Meridian can help you select the best material match for your home.",
+        "@type": "Answer",
+        "description": "Soffits use vinyl, aluminum, wood, or fiber cement; material choice depends on existing type, durability, and budget."
+      }
+    }
+  ],
+  "description": "Soffits use vinyl, aluminum, wood, or fiber cement; material choice depends on existing type, durability, and budget."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-my-garage-door-trim-instead-of-just-repairing-i",
+  "name": "When should I consider replacing my garage door trim instead of just repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my garage door trim instead of just repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing garage door trim when the damage is extensive, such as significant wood rot, widespread cracks, or warping that compromises its structural integrity. While minor issues like small cracks or peeling paint can often be repaired, deep-seated rot often requires full replacement to prevent recurrence. A good indicator for replacement is when more than 25% of a trim piece is visibly damaged or soft to the touch. Maine Results, Inc. can assess the extent of the damage during an initial consultation and advise whether repair or replacement is the more cost-effective and durable solution for your property in areas like Garden City or Meridian.",
+        "@type": "Answer",
+        "description": "Consider replacing garage door trim if damage like wood rot or warping is extensive, especially if over 25% of a piece is affected, rather than just repairing minor issues."
+      }
+    }
+  ],
+  "description": "Consider replacing garage door trim if damage like wood rot or warping is extensive, especially if over 25% of a piece is affected, rather than just repairing m"
+}

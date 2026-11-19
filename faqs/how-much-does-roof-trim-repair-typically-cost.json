@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-roof-trim-repair-typically-cost",
+  "name": "How much does roof trim repair typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does roof trim repair typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of roof trim repair varies significantly depending on the extent of the damage, the type of materials needed, and the accessibility of the affected areas. Minor repairs like repainting or replacing small sections of fascia or soffit will be less expensive than extensive rot that requires structural repairs. We provide detailed estimates after a thorough inspection of your specific situation. Gathering details about the areas you've noticed damage can help us prepare for our initial assessment.",
+        "@type": "Answer",
+        "description": "Repair costs depend on damage extent, material type, and accessibility; we provide estimates after inspection."
+      }
+    }
+  ],
+  "description": "Repair costs depend on damage extent, material type, and accessibility; we provide estimates after inspection."
+}

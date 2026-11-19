@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-my-eaves-instead-of-just-repairing-them",
+  "name": "When should I consider replacing my eaves instead of just repairing them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my eaves instead of just repairing them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your eaves rather than just repairing them when the damage is widespread, severe, or indicative of systemic issues. If most of the eave structure is rotten, compromised by pests, or repeatedly fails after minor repairs, a full replacement often offers a more cost-effective and durable long-term solution. While repairs can be a good short-term fix, a full replacement ensures consistency in material and construction, eliminating future patchwork and providing comprehensive protection for your home. This is a common decision factor that homeowners face when balancing immediate cost versus future maintenance.",
+        "@type": "Answer",
+        "description": "Consider replacing eaves if damage is widespread, severe, or recurring, as full replacement can be more cost-effective long-term."
+      }
+    }
+  ],
+  "description": "Consider replacing eaves if damage is widespread, severe, or recurring, as full replacement can be more cost-effective long-term."
+}

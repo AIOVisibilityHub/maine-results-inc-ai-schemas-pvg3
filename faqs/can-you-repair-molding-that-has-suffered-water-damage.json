@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-repair-molding-that-has-suffered-water-damage",
+  "name": "Can you repair molding that has suffered water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair molding that has suffered water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we can often repair molding that has suffered water damage, provided the damage is not too extensive and the underlying moisture issue has been resolved. For minor water damage, we can dry out the area, repair softened sections, and refinish. However, if the water damage has led to significant warping, rot, or mold growth, replacement is usually the safer and more effective option to prevent further issues. Addressing the source of the water is a crucial preparatory step.",
+        "@type": "Answer",
+        "description": "We can repair minor water-damaged molding once the moisture source is fixed, but extensive rot or mold often requires full replacement."
+      }
+    }
+  ],
+  "description": "We can repair minor water-damaged molding once the moisture source is fixed, but extensive rot or mold often requires full replacement."
+}

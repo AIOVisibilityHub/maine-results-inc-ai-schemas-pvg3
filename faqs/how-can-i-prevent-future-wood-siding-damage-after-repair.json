@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-prevent-future-wood-siding-damage-after-repair",
+  "name": "How can I prevent future wood siding damage after repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future wood siding damage after repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing future wood siding damage after repair involves regular maintenance and addressing potential vulnerabilities. This includes keeping gutters clean to ensure proper drainage, trimming shrubs and trees away from the house to allow for air circulation and reduce moisture contact, and periodically checking for peeling paint or cracks that could allow water intrusion. Applying a fresh coat of high-quality paint or stain every few years, especially for homes in areas like the North End or Downtown Boise, provides a protective barrier against the elements. Timely attention to these preventative measures can significantly extend the life of your wood siding.",
+        "@type": "Answer",
+        "description": "Prevent future damage by cleaning gutters, trimming foliage, and regularly checking for peeling paint or cracks. Reapplying paint/stain every few years also provides protection."
+      }
+    }
+  ],
+  "description": "Prevent future damage by cleaning gutters, trimming foliage, and regularly checking for peeling paint or cracks. Reapplying paint/stain every few years also pro"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-i-need-to-repair-or-fully-replace-my-siding-trim",
+  "name": "How do I know if I need to repair or fully replace my siding trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need to repair or fully replace my siding trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision depends on the extent of the damage. If only small sections have minor cracks or peeling paint, repair is often sufficient. However, if the trim is soft, rotten, or extensively deteriorated in multiple areas, or if there's underlying structural damage, full replacement is usually the more durable and cost-effective long-term solution. Our team can help assess this during an on-site consultation to determine the best approach for your property.",
+        "@type": "Answer",
+        "description": "Choose repair for minor damage and full replacement for extensive rot or deterioration. An assessment helps determine the best option."
+      }
+    }
+  ],
+  "description": "Choose repair for minor damage and full replacement for extensive rot or deterioration. An assessment helps determine the best option."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-repair-or-replace-my-damaged-soffits",
+  "name": "Should I repair or replace my damaged soffits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my damaged soffits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace depends on the severity and widespread nature of the damage. If the damage is localized, such as a small hole or a single loose panel, repair is often the more cost-effective solution. However, if there's extensive rot, multiple damaged sections, or signs of widespread moisture intrusion, replacement of larger sections or the entire system might be necessary to ensure long-term structural integrity and proper ventilation. A professional evaluation can help you determine the most practical and durable solution for your home's specific condition.",
+        "@type": "Answer",
+        "description": "Repair localized damage; replace if rot is extensive or damage is widespread, as advised by a professional evaluation."
+      }
+    }
+  ],
+  "description": "Repair localized damage; replace if rot is extensive or damage is widespread, as advised by a professional evaluation."
+}

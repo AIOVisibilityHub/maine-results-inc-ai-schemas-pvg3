@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-before-getting-my-exterior-window-trim-repaired",
+  "name": "What should I consider before getting my exterior window trim repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before getting my exterior window trim repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before repairing your exterior window trim, consider the age of your windows, the overall condition of your home's exterior, and your budget. If your windows are very old or showing other signs of failure, it might be more cost-effective in the long term to combine trim repair with full window replacement. Also, think about material choices that offer better durability and lower maintenance for the climate in locations like Caldwell or Middleton. We can discuss these factors during an initial consultation.",
+        "@type": "Answer",
+        "description": "Before repair, consider window age, overall exterior condition, budget, and if full window replacement or more durable materials are better options."
+      }
+    }
+  ],
+  "description": "Before repair, consider window age, overall exterior condition, budget, and if full window replacement or more durable materials are better options."
+}

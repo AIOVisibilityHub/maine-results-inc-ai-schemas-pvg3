@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/why-is-proper-ventilation-important-for-roof-repair-and-longevity",
+  "name": "Why is proper ventilation important for roof repair and longevity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is proper ventilation important for roof repair and longevity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper ventilation is crucial for your roof's health and longevity because it regulates attic temperature and moisture levels. Without adequate airflow, heat can build up in the attic, causing shingles to prematurely age and buckle, reducing your roof's lifespan. Poor ventilation also leads to moisture accumulation, which can cause wood rot, mold growth, and ice dams in colder months. A well-ventilated attic helps maintain a consistent temperature, reducing energy costs and extending the life of your roofing materials. We assess your current ventilation during any roofing project to ensure optimal performance.",
+        "@type": "Answer",
+        "description": "Proper roof ventilation prevents heat and moisture buildup, which can damage shingles, cause rot, and shorten roof lifespan."
+      }
+    }
+  ],
+  "description": "Proper roof ventilation prevents heat and moisture buildup, which can damage shingles, cause rot, and shorten roof lifespan."
+}

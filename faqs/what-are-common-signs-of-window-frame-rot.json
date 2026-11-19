@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-of-window-frame-rot",
+  "name": "What are common signs of window frame rot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of window frame rot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of window frame rot include soft or crumbling wood when probed, visible discoloration or dark spots, and cracked or peeling paint around the window frame. You might also notice a musty odor, or increased drafts and difficulty opening or closing the window, indicating structural compromise. Early detection is crucial to prevent the rot from spreading and requiring more extensive repairs or full window replacement. Inspecting your windows annually, especially after heavy rain or snow, can help identify these issues promptly.",
+        "@type": "Answer",
+        "description": "Common signs of window frame rot include soft wood, discoloration, peeling paint, drafts, and difficulty operating the window."
+      }
+    }
+  ],
+  "description": "Common signs of window frame rot include soft wood, discoloration, peeling paint, drafts, and difficulty operating the window."
+}

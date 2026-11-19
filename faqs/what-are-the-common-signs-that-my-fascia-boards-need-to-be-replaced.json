@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-common-signs-that-my-fascia-boards-need-to-be-replaced",
+  "name": "What are the common signs that my fascia boards need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my fascia boards need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your fascia boards need replacement include visible rot, cracks, peeling paint, or soft spots when pressed. You might also notice sagging gutters, evidence of pest infestation, or water stains on your exterior walls, which can indicate water damage originating from compromised fascia. Regular inspection, especially after heavy rain or during routine exterior maintenance, can help you identify these issues early. Addressing these signs promptly can prevent further deterioration to your roofline and structural components.",
+        "@type": "Answer",
+        "description": "Look for rot, cracks, peeling paint, soft spots, sagging gutters, or water stains on your home's exterior as signs your fascia boards need replacement."
+      }
+    }
+  ],
+  "description": "Look for rot, cracks, peeling paint, soft spots, sagging gutters, or water stains on your home's exterior as signs your fascia boards need replacement."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/will-new-soffits-improve-my-home-s-energy-efficiency",
+  "name": "Will new soffits improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will new soffits improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, correctly installed new soffits can significantly improve your home's energy efficiency. Soffits are crucial for attic ventilation, allowing hot, moist air to escape and drawing in cooler, drier air. This prevents heat buildup in the attic during summer, reducing the strain on your air conditioning system. In winter, proper ventilation helps prevent moisture accumulation that can lead to insulation damage and ice dams. Enhancing this airflow contributes to a more stable indoor temperature and potentially lower energy bills.",
+        "@type": "Answer",
+        "description": "Properly installed new soffits improve home energy efficiency by optimizing attic ventilation, which reduces HVAC load and prevents moisture issues."
+      }
+    }
+  ],
+  "description": "Properly installed new soffits improve home energy efficiency by optimizing attic ventilation, which reduces HVAC load and prevents moisture issues."
+}

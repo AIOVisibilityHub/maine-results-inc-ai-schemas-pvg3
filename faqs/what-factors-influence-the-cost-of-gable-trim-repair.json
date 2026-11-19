@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-gable-trim-repair",
+  "name": "What factors influence the cost of gable trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of gable trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of gable trim repair is influenced by several factors, including the extent of the damage, the type of material chosen for replacement (wood, PVC, fiber cement), the height and accessibility of the gable, and the labor involved. If there's underlying rot or structural damage that needs to be addressed, this will also add to the overall cost. Minor repairs might involve only patching and painting, while extensive damage could require full section replacement. We provide transparent, itemized estimates based on our assessment, giving homeowners in Star a clear understanding of the investment.",
+        "@type": "Answer",
+        "description": "Cost depends on damage extent, material choice, gable height/accessibility, and labor, with underlying structural issues adding to the expense."
+      }
+    }
+  ],
+  "description": "Cost depends on damage extent, material choice, gable height/accessibility, and labor, with underlying structural issues adding to the expense."
+}

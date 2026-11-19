@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-soffit-replacement-take",
+  "name": "How long does soffit replacement take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does soffit replacement take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of soffit replacement depends on several factors, including the size of your home, the extent of existing damage, and the type of material being installed. A typical residential soffit replacement project can take anywhere from a few days to a week. For instance, a small, straightforward job in Kuna might be completed faster than a larger home with significant structural repairs needed. We can provide a more accurate timeline after an initial assessment of your property.",
+        "@type": "Answer",
+        "description": "Soffit replacement time varies based on home size, damage extent, and material, usually taking a few days to a week."
+      }
+    }
+  ],
+  "description": "Soffit replacement time varies based on home size, damage extent, and material, usually taking a few days to a week."
+}

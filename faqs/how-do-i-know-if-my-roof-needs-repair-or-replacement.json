@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-roof-needs-repair-or-replacement",
+  "name": "How do I know if my roof needs repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my roof needs repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can identify the need for roof repair or replacement by looking for several key indicators. Common signs include missing, cracked, or curled shingles, granular loss from asphalt shingles, water stains on ceilings, or visible leaks in your attic. A roof that is over 20 years old may also be nearing the end of its lifespan. We offer inspections to assess the extent of the damage and recommend whether a targeted repair or a full replacement is the most cost-effective and protective solution for your home in areas like Eagle and Kuna.",
+        "@type": "Answer",
+        "description": "Look for missing or damaged shingles, leaks, or water stains. Older roofs often need replacement."
+      }
+    }
+  ],
+  "description": "Look for missing or damaged shingles, leaks, or water stains. Older roofs often need replacement."
+}

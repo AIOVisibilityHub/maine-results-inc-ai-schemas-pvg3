@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-repair-or-replace-all-my-rake-boards-if-only-a-few-sections-are-damaged",
+  "name": "Should I repair or replace all my rake boards if only a few sections are damaged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace all my rake boards if only a few sections are damaged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or fully replace rake boards depends on the overall condition of all the boards. If only isolated sections show minor damage, targeted repairs can be a cost-effective solution. However, if multiple boards exhibit widespread rot, significant splitting, or if your home's rake boards are older and nearing the end of their lifespan, a full replacement may offer a more durable and long-term solution. A professional assessment can help you compare the cost-effectiveness and longevity of repair versus full replacement, guiding you to the best option for your home's protection and appearance.",
+        "@type": "Answer",
+        "description": "Repair isolated minor damage, but consider full replacement if multiple boards have widespread issues or are at the end of their lifespan for a durable solution."
+      }
+    }
+  ],
+  "description": "Repair isolated minor damage, but consider full replacement if multiple boards have widespread issues or are at the end of their lifespan for a durable solution"
+}

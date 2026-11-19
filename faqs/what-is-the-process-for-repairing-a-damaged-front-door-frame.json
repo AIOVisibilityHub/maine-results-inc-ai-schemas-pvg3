@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-repairing-a-damaged-front-door-frame",
+  "name": "What is the process for repairing a damaged front door frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a damaged front door frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with an assessment to determine the type and extent of damage. For rot, damaged wood is removed, and the area is treated to prevent further decay. New wood sections are then precisely cut, fitted, and secured, followed by sanding, priming, and painting to match the existing frame. If structural components are compromised, more complex work, potentially involving temporary support, may be necessary. Effective communication throughout this process ensures you understand each step and its impact on your home, particularly in older homes found in Boise Heights or the North End.",
+        "@type": "Answer",
+        "description": "The process involves damage assessment, removal of damaged material, replacement with new components, and finishing to match the existing frame."
+      }
+    }
+  ],
+  "description": "The process involves damage assessment, removal of damaged material, replacement with new components, and finishing to match the existing frame."
+}

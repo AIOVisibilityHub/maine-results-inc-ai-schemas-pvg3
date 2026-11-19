@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-my-home-s-exterior-trim-needs-repair-or-replacement",
+  "name": "What are common signs that my home's exterior trim needs repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my home's exterior trim needs repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for visible cracks, peeling paint, soft or rotting wood when probed, or gaps where trim meets siding or windows. Water stains, mold, or mildew near trim can also indicate underlying issues. Addressing these signs early can prevent more extensive and costly damage to your home's structure. For homes in areas like Meridian or Eagle, where weather can vary, regular inspections are key to spotting problems early.",
+        "@type": "Answer",
+        "description": "Common signs include cracks, peeling paint, soft wood, gaps, and water stains, especially in varying climates like Meridian and Eagle."
+      }
+    }
+  ],
+  "description": "Common signs include cracks, peeling paint, soft wood, gaps, and water stains, especially in varying climates like Meridian and Eagle."
+}

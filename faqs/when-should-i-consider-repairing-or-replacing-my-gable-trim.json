@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-repairing-or-replacing-my-gable-trim",
+  "name": "When should I consider repairing or replacing my gable trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing or replacing my gable trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repair or replacement if you notice peeling paint, cracks, rot, soft spots, missing sections, or signs of pest infestations along your gable trim. Water stains on exterior walls below the gables or recurring leaks in the attic can also indicate trim failure. Addressing these issues promptly is crucial to prevent further damage to your roof structure, siding, and interior. We can assess the extent of the damage during an inspection and recommend the best course of action.",
+        "@type": "Answer",
+        "description": "Consider repair or replacement for peeling paint, cracks, rot, missing sections, or signs of pests on your gable trim."
+      }
+    }
+  ],
+  "description": "Consider repair or replacement for peeling paint, cracks, rot, missing sections, or signs of pests on your gable trim."
+}

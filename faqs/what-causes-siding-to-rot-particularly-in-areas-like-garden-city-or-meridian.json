@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-causes-siding-to-rot-particularly-in-areas-like-garden-city-or-meridian",
+  "name": "What causes siding to rot, particularly in areas like Garden City or Meridian?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes siding to rot, particularly in areas like Garden City or Meridian?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Siding rot is primarily caused by prolonged exposure to moisture, often due to poor drainage, leaky gutters, or insufficient protection from rain and snow. In areas like Garden City or Meridian, fluctuating temperatures can also contribute as freeze-thaw cycles can expand and contract wood, creating tiny cracks where moisture can seep in. Lack of proper ventilation behind the siding can trap moisture, accelerating decay. We often find issues stemming from inadequate flashing around windows and doors, which directs water behind the siding. Addressing these underlying causes during repair is crucial for preventing future problems.",
+        "@type": "Answer",
+        "description": "Siding rot is caused by prolonged moisture exposure from poor drainage, leaky gutters, or inadequate flashing. Fluctuating temperatures in local areas can also contribute."
+      }
+    }
+  ],
+  "description": "Siding rot is caused by prolonged moisture exposure from poor drainage, leaky gutters, or inadequate flashing. Fluctuating temperatures in local areas can also"
+}

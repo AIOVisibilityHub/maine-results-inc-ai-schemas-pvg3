@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-front-door-frame-repair-typically-cost-in-the-boise-area",
+  "name": "How much does front door frame repair typically cost in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does front door frame repair typically cost in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of front door frame repair in the Boise area varies significantly based on the extent of the damage, the type of material, and whether the repair involves structural components or just cosmetic fixes. Simple repairs like filling small cracks or replacing a small section of trim will be less expensive than addressing widespread rot or structural damage requiring partial or full frame replacement. Getting an on-site assessment from a local professional in areas like Kuna or Eagle can provide an accurate estimate tailored to your specific situation.",
+        "@type": "Answer",
+        "description": "Repair costs depend on the damage's extent, material, and structural involvement; minor repairs are less costly than extensive rot or full frame replacement."
+      }
+    }
+  ],
+  "description": "Repair costs depend on the damage's extent, material, and structural involvement; minor repairs are less costly than extensive rot or full frame replacement."
+}

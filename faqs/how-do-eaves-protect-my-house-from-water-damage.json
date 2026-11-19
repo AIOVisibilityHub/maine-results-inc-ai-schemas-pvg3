@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-eaves-protect-my-house-from-water-damage",
+  "name": "How do eaves protect my house from water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do eaves protect my house from water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Eaves are the parts of your roof that extend beyond the walls of your house, providing essential protection by directing rainwater away from the foundation and siding. They work in conjunction with gutters and downspouts to ensure water runoff doesn't pool around your home, which can cause erosion, basement flooding, or structural issues. When eaves are damaged, water can penetrate the roof structure, rot fascia boards, and compromise the integrity of your home's exterior envelope. This continuous function is vital in areas with significant rainfall, like parts of our service area, such as Meridian and Eagle.",
+        "@type": "Answer",
+        "description": "Eaves extend from your roof to direct rainwater away from your foundation and siding, preventing water damage and erosion."
+      }
+    }
+  ],
+  "description": "Eaves extend from your roof to direct rainwater away from your foundation and siding, preventing water damage and erosion."
+}

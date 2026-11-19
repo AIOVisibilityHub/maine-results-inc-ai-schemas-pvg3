@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/is-it-better-to-repair-or-replace-a-whole-section-of-siding-if-only-a-part-is-ro",
+  "name": "Is it better to repair or replace a whole section of siding if only a part is rotted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to repair or replace a whole section of siding if only a part is rotted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repairing a section and replacing an entire siding panel depends on the extent of the rot and the siding material. If the rot is localized and confined to a small, non-structural area, a targeted repair can be cost-effective and maintain the existing aesthetic. However, if the rot has spread, compromises the integrity of the board, or if matching new siding to aged material is difficult, replacing the entire panel might be a better long-term solution. A professional assessment can help weigh the pros and cons, considering both durability and appearance.",
+        "@type": "Answer",
+        "description": "Repair localized rot, but consider replacing entire panels if rot is extensive, structural, or if matching new siding is challenging. A professional can advise."
+      }
+    }
+  ],
+  "description": "Repair localized rot, but consider replacing entire panels if rot is extensive, structural, or if matching new siding is challenging. A professional can advise."
+}

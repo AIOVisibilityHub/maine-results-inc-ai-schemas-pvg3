@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-siding-trim-repair",
+  "name": "What is the typical process for siding trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for siding trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process usually begins with an inspection to assess the extent of the damage. Minor issues might involve scraping, sanding, priming, and repainting. For more significant damage, we carefully remove the compromised sections, prepare the underlying surface, install new trim materials, and then finish to match your home's existing aesthetic. For projects in Kuna, we prioritize matching materials and colors to ensure a seamless look.",
+        "@type": "Answer",
+        "description": "The process involves inspection, removing damaged sections, preparing surfaces, installing new trim, and finishing to match your home."
+      }
+    }
+  ],
+  "description": "The process involves inspection, removing damaged sections, preparing surfaces, installing new trim, and finishing to match your home."
+}

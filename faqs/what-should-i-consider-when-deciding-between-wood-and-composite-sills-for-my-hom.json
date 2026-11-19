@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-when-deciding-between-wood-and-composite-sills-for-my-hom",
+  "name": "What should I consider when deciding between wood and composite sills for my home in Garden City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when deciding between wood and composite sills for my home in Garden City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When deciding between wood and composite sills for your Garden City home, consider factors such as maintenance, durability, and aesthetic preference. Wood sills offer a traditional look and can be painted to match your home, but require regular painting and can be susceptible to rot if not maintained. Composite sills, on the other hand, are highly durable, resistant to rot, insects, and moisture, and require minimal maintenance, making them a good choice for longevity. The decision factor here often comes down to balancing the authentic look of wood with the lower maintenance benefits and extended lifespan of composite materials, especially given Garden City's varied weather conditions.",
+        "@type": "Answer",
+        "description": "Consider maintenance, durability, and aesthetics when choosing between wood and composite sills for your Garden City home."
+      }
+    }
+  ],
+  "description": "Consider maintenance, durability, and aesthetics when choosing between wood and composite sills for your Garden City home."
+}

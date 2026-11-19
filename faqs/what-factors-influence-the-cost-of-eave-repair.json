@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-eave-repair",
+  "name": "What factors influence the cost of eave repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of eave repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of eave repair is primarily influenced by the type and extent of the damage, the materials required for replacement, and the accessibility of the affected area. For example, repairing simple rot on a small section of wood fascia will be less expensive than replacing a large, intricate soffit and its supporting structure. The choice of new materials, such as vinyl, aluminum, or different wood types, also plays a role in the total cost. Homeowners need to consider these material choices as a practical tradeoff between initial cost and long-term durability.",
+        "@type": "Answer",
+        "description": "Cost factors include damage extent, material type (wood, vinyl, aluminum), and accessibility. More complex repairs and premium materials increase the price."
+      }
+    }
+  ],
+  "description": "Cost factors include damage extent, material type (wood, vinyl, aluminum), and accessibility. More complex repairs and premium materials increase the price."
+}

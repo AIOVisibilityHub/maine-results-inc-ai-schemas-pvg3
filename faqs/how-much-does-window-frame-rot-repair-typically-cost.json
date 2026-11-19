@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-window-frame-rot-repair-typically-cost",
+  "name": "How much does window frame rot repair typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does window frame rot repair typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of window frame rot repair varies significantly based on the severity and location of the rot, the type of window, and whether the underlying cause of moisture also needs addressing. A small, localized repair might be relatively inexpensive, while extensive damage requiring partial frame replacement or addressing issues within the wall can incur higher costs. We provide detailed, transparent quotes after an on-site inspection, ensuring you understand all aspects of the work needed. For properties in areas like Meridian or Eagle, specific material choices suitable for the local climate can also influence the total investment.",
+        "@type": "Answer",
+        "description": "Repair costs depend on rot severity, window type, and underlying moisture issues. An on-site inspection provides an accurate quote."
+      }
+    }
+  ],
+  "description": "Repair costs depend on rot severity, window type, and underlying moisture issues. An on-site inspection provides an accurate quote."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-a-soffit-and-why-is-it-important-to-replace-it",
+  "name": "What is a soffit and why is it important to replace it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a soffit and why is it important to replace it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A soffit is the finished surface underneath the eave of your roof. It protects the eaves and rafters from weather damage, pests, and allows for proper attic ventilation. Replacing a damaged soffit is crucial because it prevents water intrusion, which can lead to rot and mold in your roof structure, and keeps pests like insects and rodents from nesting in your attic. A well-maintained soffit also contributes to your home's energy efficiency by facilitating airflow, which can be particularly important for managing attic temperatures in areas like Garden City.",
+        "@type": "Answer",
+        "description": "A soffit is the underside of your roof's eave; replacing it protects your home from weather, pests, and maintains attic ventilation."
+      }
+    }
+  ],
+  "description": "A soffit is the underside of your roof's eave; replacing it protects your home from weather, pests, and maintains attic ventilation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-repair-a-rotting-front-door-frame-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair a rotting front door frame myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a rotting front door frame myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface rot might be manageable with DIY solutions like wood hardeners and fillers, extensive rot or structural damage requires professional attention. A professional can accurately assess the extent of the damage, identify underlying causes like moisture intrusion, and perform repairs that ensure the frame's structural integrity and longevity. Improper DIY repairs can lead to recurring issues or compromise your home's security and insulation. For properties in Garden City or Meridian, we often find underlying water damage contributing to rot that needs expert assessment.",
+        "@type": "Answer",
+        "description": "Minor rot might be DIY, but extensive damage or structural issues typically require a professional to ensure proper repair and structural integrity."
+      }
+    }
+  ],
+  "description": "Minor rot might be DIY, but extensive damage or structural issues typically require a professional to ensure proper repair and structural integrity."
+}

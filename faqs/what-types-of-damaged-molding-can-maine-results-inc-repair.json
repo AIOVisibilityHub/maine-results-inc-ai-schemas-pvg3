@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-damaged-molding-can-maine-results-inc-repair",
+  "name": "What types of damaged molding can Maine Results, Inc. repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of damaged molding can Maine Results, Inc. repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. repairs various types of damaged molding, including baseboards, crown molding, door and window casings, and chair rails. Damage can range from minor chips and cracks to significant water damage or pet-related wear. Our approach involves assessing the material, whether wood, MDF, or composite, to determine the most effective repair or replacement strategy. This helps ensure a seamless match with your existing trim and prevents future issues.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. repairs various damaged molding types, including baseboards, crown molding, and door casings, addressing issues from chips to water damage."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. repairs various damaged molding types, including baseboards, crown molding, and door casings, addressing issues from chips to water damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-cost-range-for-exterior-window-sill-replacement-in-the-boise",
+  "name": "What is the typical cost range for exterior window sill replacement in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for exterior window sill replacement in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of exterior window sill replacement in the Boise area can vary widely based on factors such as the material chosen (wood, composite, or PVC), the size of the window sill, the complexity of the installation, and whether any structural repairs are needed due to rot or water damage. Simple replacements for standard sills might be less, while custom sizes or significant rot repair will increase the cost. To get an accurate estimate, we recommend a detailed on-site assessment to understand the specific requirements of your project. This allows us to provide a transparent quote tailored to your home in Garden City, Meridian, Eagle, or Kuna.",
+        "@type": "Answer",
+        "description": "Costs for exterior window sill replacement in the Boise area vary based on material, size, complexity, and needed repairs."
+      }
+    }
+  ],
+  "description": "Costs for exterior window sill replacement in the Boise area vary based on material, size, complexity, and needed repairs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-commonly-used-for-eave-repair-and-replacement",
+  "name": "What materials are commonly used for eave repair and replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for eave repair and replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials used for eave repair and replacement include wood (often cedar or treated lumber), vinyl, and aluminum. Wood provides a classic aesthetic and can be painted, but requires more maintenance. Vinyl and aluminum are highly durable, low-maintenance options that resist rot and pests, and come in various colors. The choice of material often depends on your home's style, budget, and local climate considerations. Maine Results, Inc. works with clients across Garden City, Meridian, Eagle, Kuna, and Star to select the best materials for their specific needs.",
+        "@type": "Answer",
+        "description": "Common eave materials include wood (cedar, treated lumber), vinyl, and aluminum, each offering different aesthetics, durability, and maintenance levels."
+      }
+    }
+  ],
+  "description": "Common eave materials include wood (cedar, treated lumber), vinyl, and aluminum, each offering different aesthetics, durability, and maintenance levels."
+}

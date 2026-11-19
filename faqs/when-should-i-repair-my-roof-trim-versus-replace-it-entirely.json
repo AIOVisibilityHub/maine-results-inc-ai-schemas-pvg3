@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-repair-my-roof-trim-versus-replace-it-entirely",
+  "name": "When should I repair my roof trim versus replace it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair my roof trim versus replace it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should repair roof trim when the damage is localized and hasn't compromised the structural integrity of the entire section, such as minor rot or small cracks. Replacement is generally recommended when there is widespread deterioration, significant structural damage, or if the trim has been extensively compromised by pests. During our initial inspection, we can help you understand the extent of the damage and weigh the practical tradeoffs between repairing existing sections and undertaking a full replacement, considering both longevity and cost.",
+        "@type": "Answer",
+        "description": "Repair localized damage; replace trim with widespread deterioration or significant structural compromise. We can assess the best option."
+      }
+    }
+  ],
+  "description": "Repair localized damage; replace trim with widespread deterioration or significant structural compromise. We can assess the best option."
+}

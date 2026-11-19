@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-rake-board-damage-lead-to-other-problems-with-my-roof-or-home-structure",
+  "name": "Can rake board damage lead to other problems with my roof or home structure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can rake board damage lead to other problems with my roof or home structure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, damaged rake boards can definitely lead to more significant problems for your roof and overall home structure. When rake boards are compromised, they no longer effectively protect the ends of your roof sheathing and fascia. This allows moisture to penetrate, potentially causing wood rot in the eaves, rafters, or even the attic. Left unaddressed, this can compromise the structural integrity of your roof and lead to costly interior water damage, mold growth, or pest infestations. Early repair prevents these cascading issues.",
+        "@type": "Answer",
+        "description": "Damaged rake boards can allow moisture intrusion, leading to wood rot in eaves, rafters, or attic, potentially causing structural damage, mold, or pest issues."
+      }
+    }
+  ],
+  "description": "Damaged rake boards can allow moisture intrusion, leading to wood rot in eaves, rafters, or attic, potentially causing structural damage, mold, or pest issues."
+}

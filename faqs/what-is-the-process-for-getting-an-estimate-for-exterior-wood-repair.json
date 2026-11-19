@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-getting-an-estimate-for-exterior-wood-repair",
+  "name": "What is the process for getting an estimate for exterior wood repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting an estimate for exterior wood repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for obtaining an estimate for exterior wood repair with Maine Results, Inc. begins when you contact us to schedule an on-site consultation. During this visit, our team will thoroughly inspect the damaged wood, assess the extent of the issues, and discuss your specific needs and expectations. Following the inspection, we will provide a detailed proposal outlining the recommended repairs, materials to be used, and a transparent cost estimate. This comprehensive approach ensures you understand the scope of work and associated investment.",
+        "@type": "Answer",
+        "description": "To get an estimate, contact us for an on-site consultation where we inspect damage, discuss needs, and provide a detailed proposal with costs."
+      }
+    }
+  ],
+  "description": "To get an estimate, contact us for an on-site consultation where we inspect damage, discuss needs, and provide a detailed proposal with costs."
+}

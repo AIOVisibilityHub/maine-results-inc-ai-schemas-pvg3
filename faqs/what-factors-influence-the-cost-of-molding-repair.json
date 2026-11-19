@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-molding-repair",
+  "name": "What factors influence the cost of molding repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of molding repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of molding repair is influenced by several factors, including the type and material of the molding, the extent of the damage, and the complexity of the repair. Intricate profiles or custom-milled pieces will generally cost more than standard profiles. Additionally, the need for color matching or specific finishes can impact the overall price. We provide detailed estimates after assessing your specific repair needs.",
+        "@type": "Answer",
+        "description": "Molding repair costs depend on molding type, material, damage extent, and repair complexity, with intricate profiles or custom finishes affecting the final price."
+      }
+    }
+  ],
+  "description": "Molding repair costs depend on molding type, material, damage extent, and repair complexity, with intricate profiles or custom finishes affecting the final pric"
+}

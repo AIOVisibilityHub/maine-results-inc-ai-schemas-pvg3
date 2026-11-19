@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-repairing-my-window-sills",
+  "name": "When should I consider repairing my window sills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing my window sills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repairing your window sills if you notice any signs of damage such as cracking, peeling paint, rot, soft spots, or water stains. Early repair can prevent minor issues from escalating into more significant and costly problems, protecting the structural integrity of your windows and home. For example, delaying a repair on a rotted sill could lead to water infiltration into your wall cavities, potentially causing mold growth or damage to the wall structure itself. Addressing these issues promptly helps maintain your home's energy efficiency and appearance.",
+        "@type": "Answer",
+        "description": "Repair window sills when you see cracking, rot, soft spots, or water stains to prevent further damage and maintain home integrity."
+      }
+    }
+  ],
+  "description": "Repair window sills when you see cracking, rot, soft spots, or water stains to prevent further damage and maintain home integrity."
+}

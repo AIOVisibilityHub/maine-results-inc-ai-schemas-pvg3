@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-interior-woodwork-repair-project-take",
+  "name": "How long does a typical interior woodwork repair project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical interior woodwork repair project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an interior woodwork repair project varies significantly based on the size and complexity of the repair. Simple repairs like filling small dents or scratches might take only a few hours. More extensive work, such as repairing multiple pieces of trim, addressing significant water damage, or custom color matching, could take several days to a week or more. The drying time for fillers, stains, and finishes also adds to the overall timeline. Understanding the scope upfront helps set accurate expectations for project completion.",
+        "@type": "Answer",
+        "description": "Project duration varies by repair size and complexity. Simple repairs take hours, while extensive work with drying times can take days to over a week."
+      }
+    }
+  ],
+  "description": "Project duration varies by repair size and complexity. Simple repairs take hours, while extensive work with drying times can take days to over a week."
+}

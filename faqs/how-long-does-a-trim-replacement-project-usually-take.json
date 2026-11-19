@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-trim-replacement-project-usually-take",
+  "name": "How long does a trim replacement project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a trim replacement project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a trim replacement project depends on its scope and complexity. A small project, such as replacing trim around a few windows, might take a day or two. A larger project involving all exterior trim on a house, or extensive interior baseboard and casing replacement, could take several days to over a week. Factors like weather conditions for exterior work, drying times for paints and sealants, and the need for any underlying structural repairs can also impact the timeline. Setting clear expectations for project timing with your contractor is a key step.",
+        "@type": "Answer",
+        "description": "Project duration varies by scope, from a day for small jobs to over a week for large, complex replacements."
+      }
+    }
+  ],
+  "description": "Project duration varies by scope, from a day for small jobs to over a week for large, complex replacements."
+}

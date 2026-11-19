@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-my-siding-is-rotting",
+  "name": "What are common signs that my siding is rotting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my siding is rotting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of rotten siding include visible discoloration, soft or spongy areas when pressed, crumbling wood, and a musty odor, especially after rain. You might also notice peeling paint, cracks, or gaps where water can penetrate. Early detection is key, as addressing small areas of rot can prevent it from spreading and causing more extensive damage to your home's structure. Regular inspection, particularly after heavy weather, can help you identify these issues. If you're unsure, our team can provide an assessment to identify areas needing attention.",
+        "@type": "Answer",
+        "description": "Visible discoloration, soft spots, crumbling wood, and a musty smell are common signs of rotten siding. Early detection prevents widespread damage."
+      }
+    }
+  ],
+  "description": "Visible discoloration, soft spots, crumbling wood, and a musty smell are common signs of rotten siding. Early detection prevents widespread damage."
+}

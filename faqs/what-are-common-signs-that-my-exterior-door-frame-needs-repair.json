@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-my-exterior-door-frame-needs-repair",
+  "name": "What are common signs that my exterior door frame needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my exterior door frame needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs your exterior door frame needs repair include visible rot, cracks, warping, or insect damage. You might also notice drafts around the door, difficulty opening or closing it, or signs of water intrusion near the frame. Addressing these issues promptly can prevent further damage to your home's envelope and maintain energy efficiency. Maine Results, Inc. specializes in identifying these subtle and obvious signs, ensuring a thorough assessment of your door frame's condition to recommend the most effective repair.",
+        "@type": "Answer",
+        "description": "Look for rot, cracks, warping, insect damage, drafts, or difficulty operating the door. Early detection prevents further damage."
+      }
+    }
+  ],
+  "description": "Look for rot, cracks, warping, insect damage, drafts, or difficulty operating the door. Early detection prevents further damage."
+}

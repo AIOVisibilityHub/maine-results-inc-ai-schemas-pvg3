@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-rotten-siding-lead-to-other-problems-in-my-home",
+  "name": "Can rotten siding lead to other problems in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can rotten siding lead to other problems in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, rotten siding can lead to several other significant problems if left unaddressed. The primary concern is that it compromises your home's protective barrier, allowing moisture to penetrate beyond the siding itself. This can lead to rot in the underlying sheathing, wall studs, and even interior drywall, potentially causing structural damage. Prolonged moisture can also foster mold and mildew growth inside your walls, which can impact indoor air quality. Additionally, gaps created by rotting siding can become entry points for pests like insects or rodents. Addressing rotten siding promptly prevents these cascading issues.",
+        "@type": "Answer",
+        "description": "Rotten siding can lead to structural damage from moisture, mold growth within walls, and pest infestation. Prompt repair prevents these serious secondary issues."
+      }
+    }
+  ],
+  "description": "Rotten siding can lead to structural damage from moisture, mold growth within walls, and pest infestation. Prompt repair prevents these serious secondary issues"
+}

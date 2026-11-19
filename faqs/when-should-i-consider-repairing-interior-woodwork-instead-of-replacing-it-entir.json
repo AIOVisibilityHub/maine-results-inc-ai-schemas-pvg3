@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-repairing-interior-woodwork-instead-of-replacing-it-entir",
+  "name": "When should I consider repairing interior woodwork instead of replacing it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing interior woodwork instead of replacing it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider repairing interior woodwork when the damage is localized and hasn't compromised the structural integrity of the piece. Repair is often more cost-effective and preserves the original character of your home, especially with older or custom millwork. Replacement is usually necessary for extensive rot, severe warping, or damage that affects a large proportion of the component. A consultation can help you understand the extent of the damage and weigh the practical tradeoffs between repair costs and the benefits of maintaining original features versus the expense and effort of full replacement.",
+        "@type": "Answer",
+        "description": "Repair when damage is localized and structural integrity is intact to save costs and preserve character. Replace for extensive rot or severe warping."
+      }
+    }
+  ],
+  "description": "Repair when damage is localized and structural integrity is intact to save costs and preserve character. Replace for extensive rot or severe warping."
+}

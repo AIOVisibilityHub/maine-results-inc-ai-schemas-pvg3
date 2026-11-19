@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-repair-a-damaged-window-sill",
+  "name": "How do you repair a damaged window sill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you repair a damaged window sill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process for a damaged window sill depends on the extent and type of damage. For minor issues like small cracks or chips, a professional might use wood filler or epoxy to patch and then sand the area smooth before repainting. If there's significant rot or structural damage, sections of the sill may need to be cut out and replaced with new wood, or the entire sill might require replacement. Our approach often involves assessing the material and matching it to ensure a seamless repair, which can be critical for maintaining the architectural style of homes in areas like Boise Heights or North End.",
+        "@type": "Answer",
+        "description": "Window sill repair involves patching minor damage with filler or replacing sections for severe rot, followed by sanding and painting."
+      }
+    }
+  ],
+  "description": "Window sill repair involves patching minor damage with filler or replacing sections for severe rot, followed by sanding and painting."
+}

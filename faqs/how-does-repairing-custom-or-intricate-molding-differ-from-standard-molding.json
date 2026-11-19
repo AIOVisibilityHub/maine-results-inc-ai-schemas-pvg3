@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-does-repairing-custom-or-intricate-molding-differ-from-standard-molding",
+  "name": "How does repairing custom or intricate molding differ from standard molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does repairing custom or intricate molding differ from standard molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing custom or intricate molding often requires specialized techniques and more time compared to standard profiles. Custom molding may require precise measurements, custom milling to replicate the exact profile, or careful hand-sculpting to match existing details. This contrasts with standard molding, which can often be repaired using readily available materials and simpler techniques. The main practical tradeoff is typically increased labor time and material costs for custom work versus quicker, more straightforward repairs for standard trim.",
+        "@type": "Answer",
+        "description": "Custom molding repair requires specialized techniques like custom milling or hand-sculpting, often taking more time and costing more than standard molding repairs."
+      }
+    }
+  ],
+  "description": "Custom molding repair requires specialized techniques like custom milling or hand-sculpting, often taking more time and costing more than standard molding repai"
+}

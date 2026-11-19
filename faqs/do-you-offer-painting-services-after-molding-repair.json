@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-painting-services-after-molding-repair",
+  "name": "Do you offer painting services after molding repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer painting services after molding repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. includes painting services as part of our molding repair projects to ensure a seamless finish. After the repair work is completed, the newly repaired or replaced molding will be primed and painted to match your existing trim or to your desired color. This comprehensive approach ensures that the repaired section integrates perfectly with your home's aesthetic, eliminating the need for you to coordinate a separate painting contractor.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. includes painting services after molding repair, priming and painting the repaired sections to match your home's trim."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. includes painting services after molding repair, priming and painting the repaired sections to match your home's trim."
+}

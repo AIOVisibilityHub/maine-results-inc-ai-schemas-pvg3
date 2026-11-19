@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-wood-siding-repair-take",
+  "name": "How long does a typical wood siding repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical wood siding repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a typical wood siding repair depends largely on the scope and complexity of the damage. Minor repairs, such as replacing a few planks or patching small holes, might take a few hours to a day. More extensive repairs involving larger sections, custom matching of materials, or addressing underlying issues like water damage could extend over several days. Our team in areas like Eagle and Kuna strives to complete projects efficiently while ensuring high-quality workmanship. Weather conditions can also affect the timeline, as certain repairs require dry conditions for proper material application and curing.",
+        "@type": "Answer",
+        "description": "Repair time varies based on damage scope and complexity; minor fixes take hours, while extensive projects can take several days. Weather can also affect the timeline."
+      }
+    }
+  ],
+  "description": "Repair time varies based on damage scope and complexity; minor fixes take hours, while extensive projects can take several days. Weather can also affect the tim"
+}

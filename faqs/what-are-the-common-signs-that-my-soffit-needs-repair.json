@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-common-signs-that-my-soffit-needs-repair",
+  "name": "What are the common signs that my soffit needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my soffit needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for visible damage such as cracks, holes, peeling paint, or sagging sections on the underside of your eaves. Other indicators include water stains on interior walls or ceilings near the roofline, an increase in utility bills due to poor attic insulation, or evidence of pests entering your attic. If you notice birds, insects, or rodents congregating near your eaves, it often means they've found an entry point through damaged soffits. Early detection of these signs can prevent more extensive and costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Common signs include cracks, holes, sagging, peeling paint, water stains, higher utility bills, or pests entering your attic."
+      }
+    }
+  ],
+  "description": "Common signs include cracks, holes, sagging, peeling paint, water stains, higher utility bills, or pests entering your attic."
+}

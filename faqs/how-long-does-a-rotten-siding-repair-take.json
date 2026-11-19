@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-rotten-siding-repair-take",
+  "name": "How long does a rotten siding repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a rotten siding repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a rotten siding repair project varies significantly based on the scope of the damage. A small, localized repair might only take a day or two, while more extensive rot affecting multiple areas or requiring replacement of larger sections could extend to several days or even a week. Factors like weather conditions, the type of siding material, and the complexity of accessing the damaged area also play a role. Our team provides an estimated timeline after assessing your specific situation, aiming to complete the work efficiently while maintaining our quality standards.",
+        "@type": "Answer",
+        "description": "Repair duration depends on damage scope; small repairs take 1-2 days, extensive work takes several days to a week. Weather and material type also affect the timeline."
+      }
+    }
+  ],
+  "description": "Repair duration depends on damage scope; small repairs take 1-2 days, extensive work takes several days to a week. Weather and material type also affect the tim"
+}

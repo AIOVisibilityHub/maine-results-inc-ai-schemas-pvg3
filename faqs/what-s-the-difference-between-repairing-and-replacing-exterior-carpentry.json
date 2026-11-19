@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-s-the-difference-between-repairing-and-replacing-exterior-carpentry",
+  "name": "What's the difference between repairing and replacing exterior carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between repairing and replacing exterior carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing involves fixing specific damaged sections, often when the overall structure is sound and only isolated areas need attention. This is typically more cost-effective for smaller, localized issues. Replacement, conversely, involves removing and installing entirely new sections or components, usually necessary for extensive rot, severe structural damage, or when matching existing materials perfectly is critical. The decision between repair and replacement depends on the extent of the damage, the material's condition, and your budget, which we assess during our initial consultation.",
+        "@type": "Answer",
+        "description": "Repairing fixes specific damaged sections, while replacement involves installing entirely new components for extensive damage or perfect matching."
+      }
+    }
+  ],
+  "description": "Repairing fixes specific damaged sections, while replacement involves installing entirely new components for extensive damage or perfect matching."
+}

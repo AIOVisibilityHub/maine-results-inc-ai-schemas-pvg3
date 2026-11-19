@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-is-it-better-to-repair-exterior-wood-rather-than-replace-it-completely",
+  "name": "When is it better to repair exterior wood rather than replace it completely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it better to repair exterior wood rather than replace it completely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing exterior wood is generally more cost-effective and efficient when the damage is localized and hasn't compromised the overall structural integrity of the component. If only a small section of a board is rotted or damaged, a patch or partial replacement can be a practical solution. However, if the damage is widespread, involves significant structural components, or recurring due to underlying issues like poor drainage, replacement might be the better long-term investment. Consider the extent of the damage; minor issues are suitable for repair.",
+        "@type": "Answer",
+        "description": "Repairing exterior wood is better for localized damage, while widespread structural issues often necessitate complete replacement."
+      }
+    }
+  ],
+  "description": "Repairing exterior wood is better for localized damage, while widespread structural issues often necessitate complete replacement."
+}

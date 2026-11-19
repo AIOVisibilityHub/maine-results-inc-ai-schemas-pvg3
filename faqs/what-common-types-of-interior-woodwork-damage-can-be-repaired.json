@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-common-types-of-interior-woodwork-damage-can-be-repaired",
+  "name": "What common types of interior woodwork damage can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common types of interior woodwork damage can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior woodwork, including trim, doors, cabinets, and built-ins, often sustains damage such as scratches, dents, chips, water stains, or cracks. These issues can be caused by everyday wear, accidental impacts, or moisture exposure. When deciding whether to repair or replace, consider the extent of the damage. Minor surface imperfections are typically good candidates for repair, while severe structural damage or widespread rot might necessitate replacement to ensure long-term integrity.",
+        "@type": "Answer",
+        "description": "Common interior woodwork damage includes scratches, dents, chips, water stains, and cracks. Most can be repaired, but severe structural issues may require replacement."
+      }
+    }
+  ],
+  "description": "Common interior woodwork damage includes scratches, dents, chips, water stains, and cracks. Most can be repaired, but severe structural issues may require repla"
+}

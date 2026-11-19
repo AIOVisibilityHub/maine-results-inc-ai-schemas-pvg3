@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-replace-only-a-section-of-my-soffit-or-do-i-need-to-replace-it-all",
+  "name": "Can I replace only a section of my soffit, or do I need to replace it all?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace only a section of my soffit, or do I need to replace it all?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can replace only a section of your soffit or need a full replacement depends on the extent of the damage. If the damage is localized and hasn't compromised adjacent sections or the underlying structure, a partial repair might be sufficient. However, if the damage is widespread, due to factors like prolonged moisture exposure or extensive pest activity, a full replacement often proves more cost-effective and provides better long-term protection. We assess your soffits to recommend the most appropriate and durable solution for your specific situation.",
+        "@type": "Answer",
+        "description": "You can replace a section if damage is localized, but a full replacement is often better for widespread issues, providing long-term protection."
+      }
+    }
+  ],
+  "description": "You can replace a section if damage is localized, but a full replacement is often better for widespread issues, providing long-term protection."
+}

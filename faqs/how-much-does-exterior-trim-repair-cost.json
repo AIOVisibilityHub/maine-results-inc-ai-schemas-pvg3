@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-exterior-trim-repair-cost",
+  "name": "How much does exterior trim repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does exterior trim repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of exterior trim repair varies widely, influenced by factors such as the extent of the damage, the type of trim material, the accessibility of the repair area, and the labor involved. Small repairs might be relatively inexpensive, while extensive replacement projects can incur higher costs. We provide detailed estimates after a thorough inspection of your property to ensure transparency. This helps you understand the investment required before any work begins, as exact pricing depends on the specific details of your project.",
+        "@type": "Answer",
+        "description": "Cost varies based on damage extent, material, accessibility, and labor. We provide detailed estimates after inspection."
+      }
+    }
+  ],
+  "description": "Cost varies based on damage extent, material, accessibility, and labor. We provide detailed estimates after inspection."
+}

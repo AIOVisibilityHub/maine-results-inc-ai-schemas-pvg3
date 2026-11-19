@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-when-preparing-for-siding-trim-repair-service",
+  "name": "What should I consider when preparing for siding trim repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when preparing for siding trim repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our team arrives, consider clearing any obstacles around the repair areas, such as patio furniture, plants, or decorative items, to ensure easy access for our crew. If the repair involves painting, you may also want to have an idea of your desired color or finish to expedite the project. Providing clear access allows us to work efficiently and safely.",
+        "@type": "Answer",
+        "description": "Clear obstacles around repair areas and consider desired paint colors or finishes to help streamline the service."
+      }
+    }
+  ],
+  "description": "Clear obstacles around repair areas and consider desired paint colors or finishes to help streamline the service."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-repair-rotten-siding-versus-replacing-an-entire-section-or-wall",
+  "name": "When should I repair rotten siding versus replacing an entire section or wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair rotten siding versus replacing an entire section or wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace depends on the extent of the rot and the overall condition of the surrounding siding. If the rot is localized to a few boards and hasn't compromised the structural integrity of the wall, a targeted repair is often sufficient. However, if the rot is widespread, affects multiple layers, or has penetrated the sheathing underneath, replacing a larger section or even an entire wall of siding might be a more cost-effective and durable solution in the long run. We assess the damage thoroughly to recommend the most appropriate and lasting approach for your home.",
+        "@type": "Answer",
+        "description": "Repair localized rot if limited to a few boards; replace larger sections or walls if rot is widespread or affects structural integrity. Assessment helps determine the best approach."
+      }
+    }
+  ],
+  "description": "Repair localized rot if limited to a few boards; replace larger sections or walls if rot is widespread or affects structural integrity. Assessment helps determi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-a-professional-rake-board-repair-service",
+  "name": "What should I prepare before a professional rake board repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a professional rake board repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before professional rake board repair, it's helpful to ensure clear access to the areas around your home's foundation and under the eaves. This means moving any obstacles like patio furniture, grills, or potted plants away from the work zones. If there are plants or landscaping directly against the house, consider covering them to protect them from debris or paint. Also, noting any specific concerns or observations about the damage you've made will help our team focus on all relevant areas during the initial assessment and repair process.",
+        "@type": "Answer",
+        "description": "Before repair, ensure clear access around your home's foundation and under eaves by moving obstacles, covering plants, and noting specific concerns."
+      }
+    }
+  ],
+  "description": "Before repair, ensure clear access around your home's foundation and under eaves by moving obstacles, covering plants, and noting specific concerns."
+}

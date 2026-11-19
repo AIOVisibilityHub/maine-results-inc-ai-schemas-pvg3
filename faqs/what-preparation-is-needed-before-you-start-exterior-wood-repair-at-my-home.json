@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-is-needed-before-you-start-exterior-wood-repair-at-my-home",
+  "name": "What preparation is needed before you start exterior wood repair at my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before you start exterior wood repair at my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before we begin exterior wood repair, we typically ask homeowners to clear the immediate work area of any obstructions such as potted plants, patio furniture, or decorative items. We will handle protecting nearby landscaping and surfaces, but ensuring clear access helps our team work efficiently. It's also helpful to discuss any concerns you have about specific areas or unique property features during our initial consultation so we can plan accordingly. This preparation ensures a smooth and efficient repair process.",
+        "@type": "Answer",
+        "description": "Before repair, please clear the work area of obstructions; we will protect landscaping. Discuss specific concerns during consultation."
+      }
+    }
+  ],
+  "description": "Before repair, please clear the work area of obstructions; we will protect landscaping. Discuss specific concerns during consultation."
+}

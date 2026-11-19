@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-do-exterior-carpentry-repairs-usually-take",
+  "name": "How long do exterior carpentry repairs usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do exterior carpentry repairs usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of exterior carpentry repairs depends on the scope and complexity of the project. Minor repairs, such as replacing a small section of trim, might take a few hours to a day. Larger projects involving extensive siding replacement or structural repairs could take several days or even weeks. Weather conditions can also influence timelines, particularly in areas like Meridian or Eagle, where we plan work carefully around seasonal changes. We provide an estimated timeline after our initial assessment.",
+        "@type": "Answer",
+        "description": "Repair times vary; minor work can be hours, while larger projects may take days or weeks, depending on scope and weather conditions."
+      }
+    }
+  ],
+  "description": "Repair times vary; minor work can be hours, while larger projects may take days or weeks, depending on scope and weather conditions."
+}

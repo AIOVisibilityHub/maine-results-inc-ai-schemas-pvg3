@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-fascia-board-replacement-typically-cost",
+  "name": "How much does fascia board replacement typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does fascia board replacement typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of fascia board replacement varies based on the material used, the linear footage requiring replacement, and the complexity of the job, such as existing damage or accessibility. Materials can range from wood to vinyl or composite, each with different price points and durability. For instance, using a more durable material like composite may have a higher upfront cost but could offer better longevity in Idaho's climate. Getting a detailed estimate from a local contractor like Maine Results, Inc. in the Meridian area is the best way to understand the specific costs for your project.",
+        "@type": "Answer",
+        "description": "Fascia replacement cost varies by material, linear footage, and job complexity. Obtain a detailed estimate from a local contractor for accurate pricing."
+      }
+    }
+  ],
+  "description": "Fascia replacement cost varies by material, linear footage, and job complexity. Obtain a detailed estimate from a local contractor for accurate pricing."
+}

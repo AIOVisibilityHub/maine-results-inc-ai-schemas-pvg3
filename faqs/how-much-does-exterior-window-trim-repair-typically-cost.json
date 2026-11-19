@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-exterior-window-trim-repair-typically-cost",
+  "name": "How much does exterior window trim repair typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does exterior window trim repair typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of exterior window trim repair varies widely depending on the extent of the damage, the type of materials used, and the number of windows requiring service. Minor repairs might involve caulking and painting, while extensive rot could necessitate full trim replacement per window. It's important to get a detailed estimate that outlines labor and material costs. Maine Results, Inc. provides transparent quotes after assessing the specific needs of your project in areas like Garden City or Kuna.",
+        "@type": "Answer",
+        "description": "Costs for exterior window trim repair vary based on damage severity, materials, and the number of windows, so a detailed estimate is essential."
+      }
+    }
+  ],
+  "description": "Costs for exterior window trim repair vary based on damage severity, materials, and the number of windows, so a detailed estimate is essential."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-common-issues-indicate-that-my-exterior-wood-needs-repair",
+  "name": "What common issues indicate that my exterior wood needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common issues indicate that my exterior wood needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that exterior wood needs repair include rot, extensive cracking, soft spots when probed, or a general deterioration of the finish. If you notice persistent moisture retention, peeling paint, or warped boards, these are also strong indicators. Addressing these issues early can prevent more extensive damage and maintain the structural integrity and appearance of your home. We often see these issues on siding, trim, and decks in the Boise area due to varying weather conditions.",
+        "@type": "Answer",
+        "description": "Rot, cracking, soft spots, peeling paint, or warped boards are common signs that exterior wood requires repair."
+      }
+    }
+  ],
+  "description": "Rot, cracking, soft spots, peeling paint, or warped boards are common signs that exterior wood requires repair."
+}

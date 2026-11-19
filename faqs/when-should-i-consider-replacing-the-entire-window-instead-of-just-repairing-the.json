@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-the-entire-window-instead-of-just-repairing-the",
+  "name": "When should I consider replacing the entire window instead of just repairing the frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing the entire window instead of just repairing the frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing the entire window if the rot is extensive, has compromised the structural integrity of the window, or if multiple components beyond the frame are damaged, such as the sash or sill. Replacing is also often more cost-effective if your current windows are old, inefficient, and contributing to high energy bills. A thorough inspection by Maine Results, Inc. will help determine if repairing the frame is sufficient or if a full replacement offers better long-term value, energy efficiency, and overall home improvement. We can help you weigh the practical tradeoffs between a repair and a full replacement.",
+        "@type": "Answer",
+        "description": "Replace the window if rot is extensive, structural, or if current windows are old and inefficient. An inspection helps decide between repair and replacement."
+      }
+    }
+  ],
+  "description": "Replace the window if rot is extensive, structural, or if current windows are old and inefficient. An inspection helps decide between repair and replacement."
+}

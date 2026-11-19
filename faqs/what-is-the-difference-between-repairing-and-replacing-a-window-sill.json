@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-repairing-and-replacing-a-window-sill",
+  "name": "What is the difference between repairing and replacing a window sill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between repairing and replacing a window sill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a window sill typically involves fixing localized damage, such as filling cracks, patching small rotted areas, or repainting. This approach is more cost-effective and less invasive when the damage is superficial or limited to a small section. Replacing a window sill means removing the entire old sill and installing a new one. This is necessary when the damage is extensive, affecting the structural integrity, or if there's widespread rot that compromises the entire component. A key decision factor is the overall condition: if more than 25-30% of the sill is compromised, replacement is usually the more durable solution.",
+        "@type": "Answer",
+        "description": "Repair fixes localized damage, while replacement involves installing a new sill, necessary when damage is extensive or structural."
+      }
+    }
+  ],
+  "description": "Repair fixes localized damage, while replacement involves installing a new sill, necessary when damage is extensive or structural."
+}

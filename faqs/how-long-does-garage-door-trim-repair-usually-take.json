@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-garage-door-trim-repair-usually-take",
+  "name": "How long does garage door trim repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does garage door trim repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of garage door trim repair depends significantly on the scope of the work. Minor repairs, such as patching small areas or repainting, might only take a few hours. More extensive repairs, like replacing multiple sections of trim or a full perimeter replacement, could take a full day or potentially two days if custom cutting or extensive finishing is required. The type of material also plays a role, as some materials like fiber cement require more specialized cutting tools. When scheduling, discussing the project scope with Maine Results, Inc. will help you understand the estimated timeline for your specific repair in Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "Minor garage door trim repairs take a few hours, while extensive replacements can take one to two days depending on the scope and materials used."
+      }
+    }
+  ],
+  "description": "Minor garage door trim repairs take a few hours, while extensive replacements can take one to two days depending on the scope and materials used."
+}

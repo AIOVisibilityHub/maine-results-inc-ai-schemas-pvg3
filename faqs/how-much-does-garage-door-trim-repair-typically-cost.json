@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-garage-door-trim-repair-typically-cost",
+  "name": "How much does garage door trim repair typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does garage door trim repair typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of garage door trim repair varies widely depending on the extent of the damage, the type of material used, and the labor involved. Minor repairs like patching small holes or repainting are generally less expensive than replacing entire sections due to extensive rot. Material costs for PVC or fiber cement can be higher upfront than basic wood but often save money long-term due to their durability and low maintenance. When considering options, understand that getting a detailed quote that outlines material and labor for your specific situation is crucial. Maine Results, Inc. provides clear estimates after assessing the damage at your Eagle or Kuna home.",
+        "@type": "Answer",
+        "description": "Garage door trim repair costs depend on damage extent, material, and labor. Extensive rot costs more than minor fixes. Get a detailed quote for your specific needs."
+      }
+    }
+  ],
+  "description": "Garage door trim repair costs depend on damage extent, material, and labor. Extensive rot costs more than minor fixes. Get a detailed quote for your specific ne"
+}

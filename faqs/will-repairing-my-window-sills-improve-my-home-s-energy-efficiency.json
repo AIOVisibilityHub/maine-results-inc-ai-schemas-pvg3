@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/will-repairing-my-window-sills-improve-my-home-s-energy-efficiency",
+  "name": "Will repairing my window sills improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will repairing my window sills improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, repairing damaged window sills can contribute to improved home energy efficiency. A compromised window sill, especially one with cracks, gaps, or rot, can create pathways for air leakage. This allows conditioned air to escape and unconditioned air to enter, increasing heating and cooling costs. By repairing or replacing a damaged sill, you effectively seal these openings, preventing drafts and maintaining a more consistent indoor temperature. This can be particularly beneficial for older homes in areas like the North End or Highlands, where original sills may have deteriorated over time.",
+        "@type": "Answer",
+        "description": "Repairing damaged window sills can improve energy efficiency by sealing air leaks, preventing drafts, and maintaining indoor temperatures."
+      }
+    }
+  ],
+  "description": "Repairing damaged window sills can improve energy efficiency by sealing air leaks, preventing drafts, and maintaining indoor temperatures."
+}

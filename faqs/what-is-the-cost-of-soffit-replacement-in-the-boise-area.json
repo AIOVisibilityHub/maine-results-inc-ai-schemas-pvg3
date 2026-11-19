@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-cost-of-soffit-replacement-in-the-boise-area",
+  "name": "What is the cost of soffit replacement in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of soffit replacement in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of soffit replacement in the Boise area, including places like Eagle, varies depending on factors such as the linear footage of soffit needed, the material chosen (vinyl, aluminum, fiber cement), and the complexity of the installation. For example, homes with intricate rooflines or significant underlying damage will incur higher labor and material costs. We provide detailed, transparent quotes after a thorough inspection, allowing you to understand all factors influencing the project's price without hidden fees. We focus on providing solutions tailored to your specific needs and budget.",
+        "@type": "Answer",
+        "description": "Soffit replacement cost in the Boise area varies by linear footage, material, and installation complexity; we provide detailed quotes after inspection."
+      }
+    }
+  ],
+  "description": "Soffit replacement cost in the Boise area varies by linear footage, material, and installation complexity; we provide detailed quotes after inspection."
+}

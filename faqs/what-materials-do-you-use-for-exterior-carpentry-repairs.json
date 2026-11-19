@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-do-you-use-for-exterior-carpentry-repairs",
+  "name": "What materials do you use for exterior carpentry repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials do you use for exterior carpentry repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We use a variety of materials suitable for exterior conditions, including treated lumber, cedar, fiber cement, and engineered wood products. The choice of material depends on the existing structure, the specific repair needed, and your aesthetic preferences. We prioritize materials known for their durability, weather resistance, and ability to seamlessly match your home's current exterior. We can discuss suitable options during your project assessment.",
+        "@type": "Answer",
+        "description": "We use treated lumber, cedar, fiber cement, and engineered wood, selecting durable, weather-resistant materials to match your home."
+      }
+    }
+  ],
+  "description": "We use treated lumber, cedar, fiber cement, and engineered wood, selecting durable, weather-resistant materials to match your home."
+}

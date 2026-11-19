@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-siding-trim-repair",
+  "name": "What factors influence the cost of siding trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of siding trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of siding trim repair is influenced by the type of material (wood, PVC, fiber cement), the extent of the damage, the accessibility of the affected areas, and the complexity of the trim profiles. More intricate designs or hard-to-reach spots will typically increase labor time and material costs. During our estimates for projects in Star, we detail these factors so you understand the scope and investment.",
+        "@type": "Answer",
+        "description": "Cost factors include material type, damage extent, accessibility, and trim complexity. Detailed estimates clarify these influences."
+      }
+    }
+  ],
+  "description": "Cost factors include material type, damage extent, accessibility, and trim complexity. Detailed estimates clarify these influences."
+}

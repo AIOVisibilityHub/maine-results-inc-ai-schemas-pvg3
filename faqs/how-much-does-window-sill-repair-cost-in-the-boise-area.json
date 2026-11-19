@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-window-sill-repair-cost-in-the-boise-area",
+  "name": "How much does window sill repair cost in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does window sill repair cost in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of window sill repair in the Boise area varies significantly based on the extent of the damage, the type of material, and whether a repair or full replacement is needed. Minor repairs, like patching and painting, will be less expensive than addressing extensive rot that requires structural replacement. Factors such as the number of sills needing repair and accessibility also influence the final price. Maine Results, Inc. offers detailed estimates after an on-site assessment, ensuring you understand the scope of work and associated costs before any project begins.",
+        "@type": "Answer",
+        "description": "Window sill repair costs in the Boise area vary by damage extent, material, and whether it's a repair or replacement, requiring an on-site estimate."
+      }
+    }
+  ],
+  "description": "Window sill repair costs in the Boise area vary by damage extent, material, and whether it's a repair or replacement, requiring an on-site estimate."
+}

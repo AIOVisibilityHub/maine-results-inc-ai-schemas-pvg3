@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-my-fascia-boards-need-repair",
+  "name": "What are common signs that my fascia boards need repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my fascia boards need repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of fascia damage include peeling paint, rot, cracks, discoloration, or sagging sections. You might also notice water overflowing from your gutters, which can indicate that the fascia is no longer providing adequate support or has become compromised. Rust stains below the fascia can also be a sign of water damage. When inspecting your home's exterior, pay close attention to these indicators, especially after heavy rain or during routine maintenance checks, as early detection can prevent more significant issues.",
+        "@type": "Answer",
+        "description": "Signs of damaged fascia include peeling paint, rot, cracks, discoloration, sagging, or water overflowing from gutters. Early identification helps prevent larger problems."
+      }
+    }
+  ],
+  "description": "Signs of damaged fascia include peeling paint, rot, cracks, discoloration, sagging, or water overflowing from gutters. Early identification helps prevent larger"
+}

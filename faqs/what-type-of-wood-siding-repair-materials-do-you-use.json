@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-type-of-wood-siding-repair-materials-do-you-use",
+  "name": "What type of wood siding repair materials do you use?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of wood siding repair materials do you use?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We use high-quality repair materials chosen for their durability and compatibility with your existing wood siding, ensuring a long-lasting and aesthetically pleasing result. This often includes specific wood species like cedar, pine, or redwood, as well as exterior-grade primers, paints, stains, and sealants designed to withstand local weather conditions in areas like Caldwell and Middleton. The selection of materials also considers the existing siding type, age, and finish to ensure a seamless match. Homeowners preparing for a repair project might consider if they have any remaining original siding pieces or paint codes, which can assist us in sourcing the best matching materials.",
+        "@type": "Answer",
+        "description": "We use durable, compatible wood species, exterior-grade primers, paints, stains, and sealants. Providing original siding pieces or paint codes can aid in material matching."
+      }
+    }
+  ],
+  "description": "We use durable, compatible wood species, exterior-grade primers, paints, stains, and sealants. Providing original siding pieces or paint codes can aid in materi"
+}

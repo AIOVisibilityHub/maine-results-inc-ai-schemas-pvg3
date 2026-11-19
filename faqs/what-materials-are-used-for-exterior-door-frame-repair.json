@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-used-for-exterior-door-frame-repair",
+  "name": "What materials are used for exterior door frame repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for exterior door frame repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials used for exterior door frame repair include durable wood species resistant to rot (like cedar or treated lumber), wood epoxies for filling and patching, and composite materials for sections requiring high resistance to moisture and insects. Sealants, primers, and exterior-grade paints are also essential for protection and finish. The choice of material is a practical tradeoff; wood offers traditional aesthetics, while epoxies and composites provide enhanced durability and resistance to future damage.",
+        "@type": "Answer",
+        "description": "Materials include rot-resistant wood, wood epoxies, composites, sealants, primers, and exterior-grade paints, chosen for durability and protection."
+      }
+    }
+  ],
+  "description": "Materials include rot-resistant wood, wood epoxies, composites, sealants, primers, and exterior-grade paints, chosen for durability and protection."
+}

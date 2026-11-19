@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-fascia-and-soffit-repair",
+  "name": "What is the difference between fascia and soffit repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between fascia and soffit repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fascia and soffit are both critical components of roof trim, but they serve different functions. Fascia is the long, straight board that runs along the lower edge of the roof, directly supporting the bottom row of roof tiles or shingles and often where gutters are attached. Soffit is the material that forms the underside of your roof's overhang, closing the gap between the siding and the roof edge, typically perforated for attic ventilation. Repairing fascia usually involves addressing issues with the structural board or its protective covering, while soffit repair focuses on ventilation and aesthetics. We assess both independently to ensure comprehensive protection.",
+        "@type": "Answer",
+        "description": "Fascia is the board supporting the roof edge and gutters, while soffit forms the underside of the roof overhang, providing attic ventilation."
+      }
+    }
+  ],
+  "description": "Fascia is the board supporting the roof edge and gutters, while soffit forms the underside of the roof overhang, providing attic ventilation."
+}

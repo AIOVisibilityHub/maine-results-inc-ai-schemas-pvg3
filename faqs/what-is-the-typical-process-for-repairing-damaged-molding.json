@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-repairing-damaged-molding",
+  "name": "What is the typical process for repairing damaged molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for repairing damaged molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for repairing damaged molding begins with an initial assessment to understand the damage and material. We then prepare the area, which may involve cleaning and removing loose debris. Depending on the damage, we might use wood fillers, epoxy, or matching wood pieces to restore the profile. This is followed by sanding, priming, and painting to blend the repair seamlessly. The final step involves a quality check to ensure the repair is durable and visually consistent with the surrounding trim.",
+        "@type": "Answer",
+        "description": "The process involves assessing damage, preparing the area, repairing with fillers or wood, sanding, priming, painting, and a final quality check."
+      }
+    }
+  ],
+  "description": "The process involves assessing damage, preparing the area, repairing with fillers or wood, sanding, priming, painting, and a final quality check."
+}

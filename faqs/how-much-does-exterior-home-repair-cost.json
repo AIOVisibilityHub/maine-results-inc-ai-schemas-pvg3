@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-exterior-home-repair-cost",
+  "name": "How much does exterior home repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does exterior home repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of exterior home repair varies significantly based on the type of repair, the extent of the damage, the materials chosen, and the size of the area needing work. Minor repairs, like patching siding or replacing a few shingles, will be less expensive than a full roof or siding replacement. For example, the cost of replacing a window can vary greatly depending on the window type and energy efficiency features. We provide detailed, transparent estimates after a thorough inspection of your property, ensuring you understand the scope and cost before any work begins.",
+        "@type": "Answer",
+        "description": "Cost varies by repair type, damage extent, materials, and area size. Estimates are provided after inspection."
+      }
+    }
+  ],
+  "description": "Cost varies by repair type, damage extent, materials, and area size. Estimates are provided after inspection."
+}

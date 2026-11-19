@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-rake-board-repair",
+  "name": "What is the typical process for rake board repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for rake board repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The rake board repair process typically begins with an inspection to assess the damage and determine whether sections can be repaired or if full replacement is necessary. Damaged sections are carefully removed, ensuring no further harm to the roof or siding. New, prepped lumber, often primed and painted, is then cut to size and securely fastened in place. Finally, the repaired or replaced boards are sealed and painted to match your home's exterior, ensuring weather protection and a seamless finish. The specific approach will vary based on the extent and location of the damage.",
+        "@type": "Answer",
+        "description": "Rake board repair involves inspection, removal of damaged sections, installation of new lumber, and final sealing and painting."
+      }
+    }
+  ],
+  "description": "Rake board repair involves inspection, removal of damaged sections, installation of new lumber, and final sealing and painting."
+}

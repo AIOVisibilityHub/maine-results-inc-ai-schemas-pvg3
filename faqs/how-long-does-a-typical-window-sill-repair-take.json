@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-window-sill-repair-take",
+  "name": "How long does a typical window sill repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical window sill repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a window sill repair varies based on the extent of the damage and the complexity of the repair. Minor repairs, such as filling small cracks and repainting, might take a few hours. More extensive repairs involving partial replacement of wood or addressing significant rot could take a full day or sometimes two, especially if drying times for fillers or paints are involved. Maine Results, Inc. will provide an estimated timeline after assessing the damage during an initial consultation in your home in areas like Kuna or Star, allowing you to plan accordingly.",
+        "@type": "Answer",
+        "description": "Window sill repair time varies from a few hours for minor issues to a full day or two for extensive damage, depending on complexity."
+      }
+    }
+  ],
+  "description": "Window sill repair time varies from a few hours for minor issues to a full day or two for extensive damage, depending on complexity."
+}

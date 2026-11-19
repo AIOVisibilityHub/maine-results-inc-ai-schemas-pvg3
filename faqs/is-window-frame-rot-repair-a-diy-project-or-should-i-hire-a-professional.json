@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/is-window-frame-rot-repair-a-diy-project-or-should-i-hire-a-professional",
+  "name": "Is window frame rot repair a DIY project, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is window frame rot repair a DIY project, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window frame rot repair can range from simple to complex, depending on the extent of the damage. Minor, superficial rot might be manageable for an experienced DIYer with the right tools and knowledge. However, if the rot is extensive, affects the structural integrity of the frame, or has spread to the wall framing, professional intervention is strongly recommended. Maine Results, Inc. specializes in assessing the full scope of damage to ensure a lasting repair, which often involves more than just patching the visible rot. A professional can also identify and address the source of moisture causing the rot.",
+        "@type": "Answer",
+        "description": "Minor window frame rot may be a DIY project, but extensive or structural rot requires a professional for proper assessment and repair."
+      }
+    }
+  ],
+  "description": "Minor window frame rot may be a DIY project, but extensive or structural rot requires a professional for proper assessment and repair."
+}

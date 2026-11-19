@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-used-for-roof-trim-repair",
+  "name": "What materials are used for roof trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for roof trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials used for roof trim repair include wood (cedar, pine, or treated lumber), PVC, and fiber cement. The choice of material often depends on your home's existing trim, local climate considerations, and your budget. Wood offers a classic look but requires regular maintenance. PVC and fiber cement are highly durable, resistant to rot and pests, and require less upkeep. We can discuss the benefits and considerations of each option to help you select the best material for your repair needs, ensuring it matches or complements your existing exterior.",
+        "@type": "Answer",
+        "description": "Common materials include wood, PVC, and fiber cement; the best choice depends on existing trim, climate, and budget."
+      }
+    }
+  ],
+  "description": "Common materials include wood, PVC, and fiber cement; the best choice depends on existing trim, climate, and budget."
+}

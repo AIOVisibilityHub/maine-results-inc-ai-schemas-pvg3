@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-my-roof-trim-needs-repair",
+  "name": "What are common signs that my roof trim needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my roof trim needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your roof trim needs repair include visible rotting wood, peeling paint, cracked or missing sections, and signs of pest infestation like holes or nests. Water stains on your siding or foundation near the roofline can also indicate that the trim is no longer effectively directing water away. Catching these issues early can prevent more extensive damage to your home's structure. Before contacting us, consider documenting these signs with photos, as this can help us understand the scope of the potential repair and discuss appropriate solutions during a consultation.",
+        "@type": "Answer",
+        "description": "Look for rotting wood, peeling paint, cracks, missing sections, pest activity, or water stains near the roofline."
+      }
+    }
+  ],
+  "description": "Look for rotting wood, peeling paint, cracks, missing sections, pest activity, or water stains near the roofline."
+}

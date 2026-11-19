@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-used-for-front-door-frame-repair",
+  "name": "What materials are used for front door frame repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for front door frame repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials used for front door frame repair include durable wood species, composite materials, and sometimes PVC. The choice of material often depends on the original frame material, the extent of the damage, and the desired longevity and maintenance requirements. For instance, rot-resistant wood or composite materials are frequently chosen for areas prone to moisture. We prioritize using high-quality, weather-resistant materials suitable for the local climate in Garden City, ensuring the repair withstands environmental factors and provides lasting protection.",
+        "@type": "Answer",
+        "description": "Materials include durable wood, composite, or PVC, chosen based on original frame, damage extent, and desired longevity."
+      }
+    }
+  ],
+  "description": "Materials include durable wood, composite, or PVC, chosen based on original frame, damage extent, and desired longevity."
+}

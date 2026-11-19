@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-soffit-repair",
+  "name": "What is the process for soffit repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for soffit repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The soffit repair process typically begins with an inspection to assess the damage and determine the best course of action. Next, the damaged sections are carefully removed, ensuring no further harm to surrounding structures. New materials are then cut to size, installed securely, and finished to match your home's aesthetic, which may involve painting or sealing. The process ensures proper ventilation is restored and that your home is protected from the elements and pests. Our team ensures the work area is clean and safe throughout the project.",
+        "@type": "Answer",
+        "description": "The process involves inspection, removal of damaged sections, installation of new materials, and finishing, ensuring proper ventilation and protection."
+      }
+    }
+  ],
+  "description": "The process involves inspection, removal of damaged sections, installation of new materials, and finishing, ensuring proper ventilation and protection."
+}

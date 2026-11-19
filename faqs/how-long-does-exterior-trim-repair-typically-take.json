@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-exterior-trim-repair-typically-take",
+  "name": "How long does exterior trim repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does exterior trim repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of exterior trim repair varies significantly based on the extent of the damage, the type of trim material, and the size of the area needing attention. Minor repairs, like patching small cracks, might take a few hours. Extensive projects involving full trim replacement around an entire home could span several days. We assess each project individually to provide an accurate timeline. For example, a full house trim replacement in Garden City might take longer due to architectural details.",
+        "@type": "Answer",
+        "description": "Repair time varies from hours for minor issues to several days for extensive replacement, depending on damage, material, and project scope."
+      }
+    }
+  ],
+  "description": "Repair time varies from hours for minor issues to several days for extensive replacement, depending on damage, material, and project scope."
+}

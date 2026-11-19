@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-replace-only-a-portion-of-a-damaged-exterior-window-sill",
+  "name": "Can I replace only a portion of a damaged exterior window sill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace only a portion of a damaged exterior window sill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it might seem possible to replace only a damaged section of an exterior window sill, we generally recommend full sill replacement when damage is significant. Patching a portion can be a temporary fix, but often the underlying cause of the damage (like water intrusion) may affect other parts of the sill or frame, leading to future problems. A full replacement ensures a complete and lasting solution, addressing potential hidden damage and providing a consistent aesthetic. This approach offers a practical tradeoff: a slightly larger initial project for greater long-term durability and peace of mind.",
+        "@type": "Answer",
+        "description": "We typically recommend full sill replacement over partial repairs to ensure a lasting solution and address hidden damage."
+      }
+    }
+  ],
+  "description": "We typically recommend full sill replacement over partial repairs to ensure a lasting solution and address hidden damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-getting-a-wood-siding-repair-estimate",
+  "name": "What is the process for getting a wood siding repair estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting a wood siding repair estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for getting a wood siding repair estimate with Maine Results, Inc. typically begins with you contacting us to describe the issue. We then schedule a convenient time for our team to visit your property, such as in Central Bench or West Boise. During this on-site visit, our professionals will thoroughly inspect the damaged areas, assess the extent of the repair needed, and identify any underlying causes. We will discuss our findings with you and provide a detailed written estimate outlining the scope of work, materials required, and the estimated cost. This initial assessment helps us understand the full scope before providing a tailored solution.",
+        "@type": "Answer",
+        "description": "The estimate process involves contacting us, an on-site inspection by our team, assessment of damage, and a detailed written estimate outlining work scope and costs."
+      }
+    }
+  ],
+  "description": "The estimate process involves contacting us, an on-site inspection by our team, assessment of damage, and a detailed written estimate outlining work scope and c"
+}

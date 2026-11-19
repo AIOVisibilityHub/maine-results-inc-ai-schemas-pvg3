@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-is-needed-before-interior-woodwork-repair-can-begin",
+  "name": "What preparation is needed before interior woodwork repair can begin?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before interior woodwork repair can begin?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before interior woodwork repair begins, some preparation is typically needed from the homeowner. This includes clearing the work area of furniture, décor, and any personal items to allow technicians unobstructed access. It's also helpful to clean the surface of the woodwork to remove dust or grime, providing a clear view of the damage. If pets or children are present, making arrangements for them to be away from the immediate work zone ensures safety and prevents interruptions during the repair process.",
+        "@type": "Answer",
+        "description": "Prepare by clearing the work area, removing items, and cleaning the woodwork surface. Also, ensure pets and children are away from the zone."
+      }
+    }
+  ],
+  "description": "Prepare by clearing the work area, removing items, and cleaning the woodwork surface. Also, ensure pets and children are away from the zone."
+}

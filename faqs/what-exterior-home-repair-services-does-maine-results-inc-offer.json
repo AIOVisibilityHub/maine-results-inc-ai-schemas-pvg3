@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-exterior-home-repair-services-does-maine-results-inc-offer",
+  "name": "What exterior home repair services does Maine Results, Inc. offer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What exterior home repair services does Maine Results, Inc. offer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. provides a range of exterior home repair services to address various needs for your property. This includes siding repair or replacement, roofing maintenance and installation, window and door repair, and deck construction or refurbishment. We focus on durable solutions that protect your home from the elements and enhance its appearance. When assessing your project, we consider the specific weather conditions in areas like Garden City and Meridian to recommend the most suitable materials and methods for long-term resilience.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. offers siding, roofing, window, door, and deck repair and replacement services."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. offers siding, roofing, window, door, and deck repair and replacement services."
+}

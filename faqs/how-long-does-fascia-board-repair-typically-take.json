@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-fascia-board-repair-typically-take",
+  "name": "How long does fascia board repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does fascia board repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of fascia board repair varies based on the severity and scope of the damage. Small, localized repairs might only take a few hours, while replacing multiple sections of fascia around an entire home could take several days. Factors like weather conditions, material availability, and the complexity of removing existing gutters also influence the timeline. Maine Results, Inc. aims for efficient completion while ensuring quality, and we will provide a clear project timeline after an initial assessment.",
+        "@type": "Answer",
+        "description": "Fascia repair time depends on damage extent; small jobs may take hours, while larger projects can span several days. Weather and material availability also affect the timeline."
+      }
+    }
+  ],
+  "description": "Fascia repair time depends on damage extent; small jobs may take hours, while larger projects can span several days. Weather and material availability also affe"
+}

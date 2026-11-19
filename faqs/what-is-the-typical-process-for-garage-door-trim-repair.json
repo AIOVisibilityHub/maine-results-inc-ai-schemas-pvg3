@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-garage-door-trim-repair",
+  "name": "What is the typical process for garage door trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for garage door trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for garage door trim repair begins with an assessment of the damage to determine if repair or replacement is needed. If repairing, the damaged sections are carefully removed and replaced with new material, or smaller imperfections are filled and sanded smooth. For replacement, old trim is fully detached, the underlying surface is cleaned and prepared, and new trim is precisely cut and installed. The new trim is then sealed, caulked, and often painted to match your home's exterior. The process concludes with a thorough cleanup and inspection. Maine Results, Inc. ensures proper sealing and finishing to protect your home from weather in locations like Star and Garden City.",
+        "@type": "Answer",
+        "description": "The repair process involves damage assessment, removing damaged sections, installing new material or filling imperfections, then sealing, caulking, and painting the trim."
+      }
+    }
+  ],
+  "description": "The repair process involves damage assessment, removing damaged sections, installing new material or filling imperfections, then sealing, caulking, and painting"
+}

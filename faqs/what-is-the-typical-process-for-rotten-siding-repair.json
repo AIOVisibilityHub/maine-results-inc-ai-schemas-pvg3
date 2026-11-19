@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-rotten-siding-repair",
+  "name": "What is the typical process for rotten siding repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for rotten siding repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for rotten siding repair typically begins with a thorough inspection to determine the extent of the damage. We then carefully remove the compromised siding and any affected underlying materials, such as sheathing or insulation. After ensuring the area is dry and free of mold, we treat the remaining wood to prevent future rot and then install new siding materials that match your existing exterior as closely as possible. Proper sealing and painting complete the repair, ensuring a seamless and durable finish. Our team aims to minimize disruption and restore your home's protective barrier efficiently.",
+        "@type": "Answer",
+        "description": "The process involves inspecting, removing damaged siding and underlying materials, treating for prevention, installing new matching siding, then sealing and painting."
+      }
+    }
+  ],
+  "description": "The process involves inspecting, removing damaged siding and underlying materials, treating for prevention, installing new matching siding, then sealing and pai"
+}

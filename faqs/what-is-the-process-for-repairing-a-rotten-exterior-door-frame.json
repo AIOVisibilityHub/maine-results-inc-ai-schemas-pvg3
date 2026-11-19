@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-repairing-a-rotten-exterior-door-frame",
+  "name": "What is the process for repairing a rotten exterior door frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a rotten exterior door frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for repairing a rotten exterior door frame typically involves removing the damaged wood, cleaning the area thoroughly, and then applying a wood hardener. New wood or a durable wood epoxy filler is then used to rebuild the affected section, shaped to match the existing frame. Finally, the repaired area is sanded, primed, and painted to match your home's exterior, ensuring a seamless finish and protection against future moisture. Our repair process focuses on addressing the root cause of the rot to prevent recurrence.",
+        "@type": "Answer",
+        "description": "Repairing a rotten frame involves removing damaged wood, hardening the remaining wood, rebuilding with new material or epoxy, then sanding and painting."
+      }
+    }
+  ],
+  "description": "Repairing a rotten frame involves removing damaged wood, hardening the remaining wood, rebuilding with new material or epoxy, then sanding and painting."
+}

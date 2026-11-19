@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-do-anything-to-prepare-my-home-before-gable-trim-repair-work-begins",
+  "name": "Do I need to do anything to prepare my home before gable trim repair work begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to do anything to prepare my home before gable trim repair work begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your home for gable trim repair, we recommend clearing the area directly below the gables of any outdoor furniture, potted plants, or decorations to allow our team unobstructed access. Trimming back any overgrown bushes or tree branches near the work area can also be helpful. If we need access to your attic for internal inspection, please ensure a clear path. Discussing exterior paint colors with us in advance can also streamline the process, ensuring we have the right materials ready for your home in West Boise or the surrounding communities.",
+        "@type": "Answer",
+        "description": "Clear the work area below the gables, trim overgrown foliage, and ensure attic access if needed to prepare for repair work."
+      }
+    }
+  ],
+  "description": "Clear the work area below the gables, trim overgrown foliage, and ensure attic access if needed to prepare for repair work."
+}

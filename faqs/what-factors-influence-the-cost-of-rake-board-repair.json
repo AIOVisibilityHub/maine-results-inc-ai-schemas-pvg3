@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-rake-board-repair",
+  "name": "What factors influence the cost of rake board repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of rake board repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of rake board repair is influenced by several factors, including the linear footage of boards needing attention, the type of material used for replacement (e.g., wood, composite), and the complexity of accessing the damaged areas. If underlying rot or structural issues are discovered during the repair, additional labor and materials may be required, impacting the final cost. Geographic location, such as whether your property is in Garden City or Meridian, can also play a minor role in labor rates and material sourcing. We offer detailed estimates after a thorough inspection to provide clarity on pricing.",
+        "@type": "Answer",
+        "description": "Cost factors for rake board repair include linear footage, material type, accessibility, additional underlying damage, and local labor/material rates."
+      }
+    }
+  ],
+  "description": "Cost factors for rake board repair include linear footage, material type, accessibility, additional underlying damage, and local labor/material rates."
+}

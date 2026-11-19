@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-professionals-repair-scratches-and-dents-in-interior-wood-trim",
+  "name": "How do professionals repair scratches and dents in interior wood trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals repair scratches and dents in interior wood trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professionals repair scratches and dents in interior wood trim using techniques tailored to the damage type. Minor scratches can often be buffed out or filled with wood markers. Deeper dents may require wood filler or putty, carefully matched to the wood's grain and color, followed by sanding and refinishing. The quality of the repair depends significantly on proper color matching and blending to integrate seamlessly with the existing finish. This attention to detail helps ensure the repair is virtually invisible.",
+        "@type": "Answer",
+        "description": "Scratches are buffed or filled, while deeper dents use wood filler and careful color matching. The key is seamless blending for an invisible repair."
+      }
+    }
+  ],
+  "description": "Scratches are buffed or filled, while deeper dents use wood filler and careful color matching. The key is seamless blending for an invisible repair."
+}

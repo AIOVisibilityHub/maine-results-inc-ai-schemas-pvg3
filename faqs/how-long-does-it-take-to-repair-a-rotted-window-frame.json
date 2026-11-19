@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-repair-a-rotted-window-frame",
+  "name": "How long does it take to repair a rotted window frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a rotted window frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a window frame rot repair project depends on the extent of the damage and the number of windows affected. A single window with minor rot might be repaired within a few hours to a day. More severe rot, requiring frame section replacement or repairs to adjacent wall structures, could take several days. During our assessment, we will provide an estimated timeline for your specific project. Weather conditions in our service areas like Kuna or Star can also influence scheduling and project completion, especially for exterior work, so we plan accordingly.",
+        "@type": "Answer",
+        "description": "Repair time varies; minor rot takes hours to a day, while severe damage can take several days depending on scope and weather."
+      }
+    }
+  ],
+  "description": "Repair time varies; minor rot takes hours to a day, while severe damage can take several days depending on scope and weather."
+}

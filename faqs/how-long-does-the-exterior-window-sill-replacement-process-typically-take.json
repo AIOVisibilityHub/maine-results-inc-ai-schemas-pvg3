@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-the-exterior-window-sill-replacement-process-typically-take",
+  "name": "How long does the exterior window sill replacement process typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the exterior window sill replacement process typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an exterior window sill replacement project can vary depending on the number of sills, the type of material being used, and the extent of any underlying damage that needs repair. For a single window, the process might take a few hours. For multiple windows or if significant rot has spread into the window frame or wall, it could extend to a full day or more. Understanding this process clarity helps set expectations; our team assesses the scope upfront to provide an accurate timeline, ensuring minimal disruption to your daily routine.",
+        "@type": "Answer",
+        "description": "The replacement time varies from a few hours for a single sill to a full day or more for multiple sills or extensive damage."
+      }
+    }
+  ],
+  "description": "The replacement time varies from a few hours for a single sill to a full day or more for multiple sills or extensive damage."
+}

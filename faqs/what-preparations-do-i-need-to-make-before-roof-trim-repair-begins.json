@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparations-do-i-need-to-make-before-roof-trim-repair-begins",
+  "name": "What preparations do I need to make before roof trim repair begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations do I need to make before roof trim repair begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before roof trim repair begins, you may need to clear the immediate area around your home's perimeter to provide our team with unobstructed access. This includes moving outdoor furniture, potted plants, or any decorative items that might be in the way. If you have concerns about landscaping, please mention them during the consultation so we can take extra precautions. Ensuring access to power outlets might also be helpful, depending on the tools required. Our team will communicate any specific preparation needs tailored to your project during the scheduling phase.",
+        "@type": "Answer",
+        "description": "Clear the area around your home for access, move outdoor items, and discuss any landscape concerns or power outlet needs with our team."
+      }
+    }
+  ],
+  "description": "Clear the area around your home for access, move outdoor items, and discuss any landscape concerns or power outlet needs with our team."
+}

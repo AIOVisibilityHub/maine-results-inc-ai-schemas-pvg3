@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-siding-trim-repair-typically-take",
+  "name": "How long does siding trim repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does siding trim repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of siding trim repair varies significantly based on the scale of the damage and the number of affected areas. Minor spot repairs might take a few hours to a day, while extensive trim replacement around an entire home could take several days. We provide a projected timeline during our initial assessment once we understand the full scope of work required.",
+        "@type": "Answer",
+        "description": "Repair time depends on damage scale; minor repairs take hours, while extensive replacement can take several days."
+      }
+    }
+  ],
+  "description": "Repair time depends on damage scale; minor repairs take hours, while extensive replacement can take several days."
+}

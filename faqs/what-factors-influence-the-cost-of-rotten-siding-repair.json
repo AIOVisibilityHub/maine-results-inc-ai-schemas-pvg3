@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-rotten-siding-repair",
+  "name": "What factors influence the cost of rotten siding repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of rotten siding repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of rotten siding repair is influenced by several factors, including the extent and location of the rot, the type of siding material being repaired or replaced (e.g., wood, fiber cement, vinyl), and the accessibility of the damaged area. Hidden damage to underlying sheathing or structural elements will also increase the repair's complexity and cost. We provide detailed estimates after a comprehensive inspection, ensuring transparency. Choosing to address rot early can often lead to lower repair costs compared to letting the issue spread and require more extensive work.",
+        "@type": "Answer",
+        "description": "Cost factors include rot extent and location, siding material type, and accessibility. Hidden damage to underlying structures can also increase expenses. Early repair saves money."
+      }
+    }
+  ],
+  "description": "Cost factors include rot extent and location, siding material type, and accessibility. Hidden damage to underlying structures can also increase expenses. Early"
+}

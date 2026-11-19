@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-contacting-maine-results-inc-for-an-exterior-repair",
+  "name": "What should I prepare before contacting Maine Results, Inc. for an exterior repair estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting Maine Results, Inc. for an exterior repair estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting us for an exterior repair estimate, it is helpful to have a clear understanding of the specific issues you've observed, such as locations of leaks, visible damage, or areas of concern. Gathering any photos of the damage, along with your preferred timeline for the project, can also be beneficial. Knowing the approximate age of your home and any previous repair history can help us provide a more accurate initial assessment. This preparation allows us to tailor our consultation more effectively to your needs.",
+        "@type": "Answer",
+        "description": "Before an estimate, prepare details of issues, photos of damage, preferred timeline, and home's repair history."
+      }
+    }
+  ],
+  "description": "Before an estimate, prepare details of issues, photos of damage, preferred timeline, and home's repair history."
+}

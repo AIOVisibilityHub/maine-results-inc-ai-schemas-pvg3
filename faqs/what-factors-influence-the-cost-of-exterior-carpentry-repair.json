@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-exterior-carpentry-repair",
+  "name": "What factors influence the cost of exterior carpentry repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of exterior carpentry repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repair costs are influenced by the extent of the damage, the type of materials required, and the accessibility of the affected area. For example, repairing intricate trim work often costs more than straightforward siding replacement due to increased labor and specialized materials. Hidden damage, like rot behind a wall, can also increase costs once discovered. We provide a detailed estimate after assessing the specific needs of your project.",
+        "@type": "Answer",
+        "description": "Costs depend on damage extent, material type (e.g., intricate trim vs. siding), and accessibility. Hidden damage can also impact the final price."
+      }
+    }
+  ],
+  "description": "Costs depend on damage extent, material type (e.g., intricate trim vs. siding), and accessibility. Hidden damage can also impact the final price."
+}

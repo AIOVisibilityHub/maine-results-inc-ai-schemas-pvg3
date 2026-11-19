@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-eave-repair",
+  "name": "What is the typical process for eave repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for eave repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The eave repair process typically begins with an inspection to assess the extent of the damage, identifying whether the issue is cosmetic, structural, or related to water infiltration. Our team will then remove damaged sections, including fascia boards, soffits, and sometimes parts of the underlying roof decking. We replace these with new, durable materials, ensuring proper ventilation and water diversion. We prioritize using materials that match your home's existing aesthetic and provide long-term protection against the elements, often requiring decisions about material type and finish.",
+        "@type": "Answer",
+        "description": "Eave repair involves inspecting damage, removing compromised sections, and replacing them with new materials to restore protection and appearance."
+      }
+    }
+  ],
+  "description": "Eave repair involves inspecting damage, removing compromised sections, and replacing them with new materials to restore protection and appearance."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-a-rotten-siding-repair-service",
+  "name": "What should I prepare before a rotten siding repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a rotten siding repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our team arrives for rotten siding repair, it's helpful if you clear the immediate work area around your home. This includes moving any patio furniture, potted plants, grills, or other personal belongings away from the affected walls to allow us clear access. If the work is near delicate landscaping, you might consider covering plants or small shrubs. Also, ensuring that children and pets are kept away from the work zone during the repair process helps maintain safety for everyone. Our team will handle the rest, protecting your property during the repair.",
+        "@type": "Answer",
+        "description": "Before siding repair, clear the work area of furniture and belongings. If needed, cover delicate landscaping and keep children and pets away for safety."
+      }
+    }
+  ],
+  "description": "Before siding repair, clear the work area of furniture and belongings. If needed, cover delicate landscaping and keep children and pets away for safety."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-fascia-board-replacement-project-take",
+  "name": "How long does a typical fascia board replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical fascia board replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a fascia board replacement project depends on the scope of work, the extent of damage, and the linear footage to be replaced. A small, localized repair might take a day, while a full-house replacement could span several days. Weather conditions can also influence the timeline, as installation often requires dry conditions for proper sealing and painting. Our team at Maine Results, Inc. in Kuna aims for efficient completion while ensuring quality craftsmanship. We provide a projected timeline after assessing your specific needs.",
+        "@type": "Answer",
+        "description": "Project duration varies based on the damage extent and linear footage. Small repairs take a day, while full replacements can take several days, influenced by weather."
+      }
+    }
+  ],
+  "description": "Project duration varies based on the damage extent and linear footage. Small repairs take a day, while full replacements can take several days, influenced by we"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-wood-are-best-for-exterior-repair-to-prevent-future-rot",
+  "name": "What types of wood are best for exterior repair to prevent future rot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood are best for exterior repair to prevent future rot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For exterior repairs, materials with natural resistance to rot and insects are often preferred, such as cedar, redwood, or pressure-treated lumber. Composites and PVC trim boards are also excellent options as they are impervious to moisture. The best choice depends on the specific application, desired aesthetic, and budget. When replacing wood components, Maine Results, Inc. recommends using materials and finishes that offer enhanced protection against the elements, helping to extend the lifespan of your exterior.",
+        "@type": "Answer",
+        "description": "Cedar, redwood, pressure-treated lumber, composites, or PVC are good choices for exterior repair due to their rot resistance."
+      }
+    }
+  ],
+  "description": "Cedar, redwood, pressure-treated lumber, composites, or PVC are good choices for exterior repair due to their rot resistance."
+}

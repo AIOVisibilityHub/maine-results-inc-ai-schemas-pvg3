@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-causes-exterior-wood-rot-around-homes-in-areas-like-garden-city-or-meridian",
+  "name": "What causes exterior wood rot around homes in areas like Garden City or Meridian?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes exterior wood rot around homes in areas like Garden City or Meridian?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exterior wood rot is primarily caused by prolonged moisture exposure combined with fungal growth. Common culprits include leaky gutters, inadequate drainage, untreated wood in contact with soil, and poor ventilation that traps moisture against siding or trim. In Idaho's climate, fluctuating temperatures can also contribute, as thawing and freezing cycles can create cracks in wood, allowing water to penetrate more easily. Understanding the source of moisture is key to effective repair and preventing recurrence, as simply replacing rotted wood without addressing the underlying water issue often leads to repeat problems.",
+        "@type": "Answer",
+        "description": "Exterior wood rot is caused by prolonged moisture exposure and fungal growth, often due to leaky gutters, poor drainage, or inadequate ventilation."
+      }
+    }
+  ],
+  "description": "Exterior wood rot is caused by prolonged moisture exposure and fungal growth, often due to leaky gutters, poor drainage, or inadequate ventilation."
+}

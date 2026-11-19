@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/does-front-door-frame-repair-include-matching-the-existing-paint-or-stain",
+  "name": "Does front door frame repair include matching the existing paint or stain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does front door frame repair include matching the existing paint or stain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a comprehensive front door frame repair service typically includes matching the existing paint or stain as part of the finishing process. After structural repairs are completed and new materials are installed, the repaired section is sanded, primed, and then painted or stained to seamlessly blend with the rest of your door frame and home's exterior. This attention to detail ensures that the repair is not only functional but also aesthetically pleasing, maintaining your home's curb appeal. We prioritize a seamless finish to ensure the repair is virtually unnoticeable.",
+        "@type": "Answer",
+        "description": "Yes, front door frame repair typically includes matching the existing paint or stain to ensure a seamless and aesthetically pleasing finish."
+      }
+    }
+  ],
+  "description": "Yes, front door frame repair typically includes matching the existing paint or stain to ensure a seamless and aesthetically pleasing finish."
+}

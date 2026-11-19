@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-my-front-door-frame-needs-repair",
+  "name": "What are common signs that my front door frame needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my front door frame needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs your front door frame needs repair include visible cracks, rot, softness when pressed, drafts, difficulty opening or closing the door, and compromised security. If you notice gaps between the door and the frame, or if the door no longer seals properly, it’s often an indication of frame damage. Ignoring these issues can lead to increased energy costs, security vulnerabilities, and further deterioration of the door system. Addressing these problems early can prevent more extensive and costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Visible cracks, rot, drafts, or difficulty opening/closing the door are common signs of a damaged front door frame."
+      }
+    }
+  ],
+  "description": "Visible cracks, rot, drafts, or difficulty opening/closing the door are common signs of a damaged front door frame."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-gable-trim-repair-typically-take",
+  "name": "How long does gable trim repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does gable trim repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of gable trim repair depends on the extent of the damage, the size of the gable, and the materials being used. Minor repairs, such as patching small sections or repainting, might take a few hours to a day. More extensive projects involving full trim replacement, especially if structural damage needs addressing, could take several days. Factors like weather conditions can also influence the timeline. During our initial assessment, we provide a detailed project timeline, setting clear expectations for homeowners in the Meridian area.",
+        "@type": "Answer",
+        "description": "Gable trim repair duration varies from a few hours for minor fixes to several days for extensive replacements, depending on damage and materials."
+      }
+    }
+  ],
+  "description": "Gable trim repair duration varies from a few hours for minor fixes to several days for extensive replacements, depending on damage and materials."
+}

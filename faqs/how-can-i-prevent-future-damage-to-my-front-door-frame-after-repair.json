@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-prevent-future-damage-to-my-front-door-frame-after-repair",
+  "name": "How can I prevent future damage to my front door frame after repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future damage to my front door frame after repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future damage, ensure proper drainage around your doorway to avoid water pooling near the frame. Regularly inspect and maintain your exterior paint or sealant to protect the wood from moisture and UV exposure. Also, check that your gutters and downspouts are effectively directing water away from the foundation and door area. Proper ventilation can also help prevent moisture buildup. We often recommend using durable, rot-resistant materials for repairs in areas known for significant weather changes, like those experienced in Boise during winter months.",
+        "@type": "Answer",
+        "description": "Prevent future damage by ensuring proper drainage, maintaining paint/sealant, checking gutters, and ensuring good ventilation around the door frame."
+      }
+    }
+  ],
+  "description": "Prevent future damage by ensuring proper drainage, maintaining paint/sealant, checking gutters, and ensuring good ventilation around the door frame."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-happens-during-the-fascia-board-replacement-process",
+  "name": "What happens during the fascia board replacement process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during the fascia board replacement process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The fascia board replacement process typically begins with an assessment of the existing damage, followed by the careful removal of the old fascia and any affected underlying components. Next, the area is cleaned and prepared, which may involve treating for rot or pests. New fascia boards are then cut to size, primed, and installed securely, often with a drip edge to direct water away. Finally, the new fascia is painted or sealed to match your home's exterior. Throughout the process, our team ensures the worksite is kept tidy and safe. We also inspect for any hidden issues during removal to ensure a comprehensive repair.",
+        "@type": "Answer",
+        "description": "The process involves assessing damage, removing old fascia, preparing the area, installing new boards with a drip edge, and finishing with paint or sealant."
+      }
+    }
+  ],
+  "description": "The process involves assessing damage, removing old fascia, preparing the area, installing new boards with a drip edge, and finishing with paint or sealant."
+}

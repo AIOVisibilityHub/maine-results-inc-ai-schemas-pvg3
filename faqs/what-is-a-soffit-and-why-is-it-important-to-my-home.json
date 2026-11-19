@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-a-soffit-and-why-is-it-important-to-my-home",
+  "name": "What is a soffit and why is it important to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a soffit and why is it important to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A soffit is the finished surface on the underside of the eaves, which are the parts of the roof that extend beyond the walls of your home. Soffits are crucial for attic ventilation, helping to regulate temperature and moisture to prevent issues like mold, mildew, and wood rot. They also protect your home's framing and attic from weather elements, pests, and insects. Maintaining healthy soffits is essential for the longevity of your roof structure and overall home integrity, especially in areas like Meridian where temperature fluctuations can impact attic conditions.",
+        "@type": "Answer",
+        "description": "A soffit is the underside of your roof's eaves, important for attic ventilation and protecting your home from weather and pests."
+      }
+    }
+  ],
+  "description": "A soffit is the underside of your roof's eaves, important for attic ventilation and protecting your home from weather and pests."
+}

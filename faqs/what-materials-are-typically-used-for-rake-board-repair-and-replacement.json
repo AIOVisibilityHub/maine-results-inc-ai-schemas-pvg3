@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-typically-used-for-rake-board-repair-and-replacement",
+  "name": "What materials are typically used for rake board repair and replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are typically used for rake board repair and replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for rake board repair and replacement include various types of wood, such as cedar or treated lumber, chosen for their durability and resistance to moisture. For a longer-lasting, lower-maintenance option, composite materials or PVC trim boards are also frequently used. These synthetic alternatives are highly resistant to rot, insects, and warping, offering excellent longevity. The choice of material often depends on existing architectural style, budget, and desired maintenance level. We can discuss the pros and cons of each option during your consultation to align with your specific needs.",
+        "@type": "Answer",
+        "description": "Rake boards are repaired with durable woods like cedar or treated lumber, or with low-maintenance composite/PVC trim for enhanced resistance to rot and insects."
+      }
+    }
+  ],
+  "description": "Rake boards are repaired with durable woods like cedar or treated lumber, or with low-maintenance composite/PVC trim for enhanced resistance to rot and insects."
+}

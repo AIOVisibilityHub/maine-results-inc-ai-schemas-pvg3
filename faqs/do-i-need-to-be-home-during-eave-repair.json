@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-be-home-during-eave-repair",
+  "name": "Do I need to be home during eave repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during eave repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not always strictly necessary for you to be home for the entire duration of the eave repair, especially for exterior work, it is beneficial to be available at the start to discuss any last-minute details or questions. For significant projects, or if interior access is needed for inspection or specific repairs (e.g., related to attic ventilation), your presence would be required. Maine Results, Inc. will coordinate with you to establish the best schedule and clarify any specific access needs for your project.",
+        "@type": "Answer",
+        "description": "You don't always need to be home for eave repair, but being available at the start and for any necessary interior access is helpful."
+      }
+    }
+  ],
+  "description": "You don't always need to be home for eave repair, but being available at the start and for any necessary interior access is helpful."
+}

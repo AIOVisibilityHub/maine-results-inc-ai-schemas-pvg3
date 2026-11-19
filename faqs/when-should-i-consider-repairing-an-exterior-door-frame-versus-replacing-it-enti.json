@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-repairing-an-exterior-door-frame-versus-replacing-it-enti",
+  "name": "When should I consider repairing an exterior door frame versus replacing it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing an exterior door frame versus replacing it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider repairing an exterior door frame if the damage is localized and hasn't compromised the frame's structural integrity or the door's weather seal. Minor rot at the bottom, small cracks, or cosmetic issues can often be repaired. Replacement is typically necessary when there is extensive rot, significant structural damage, or if the frame is severely warped, which can affect security and energy efficiency. Evaluating the extent of the damage is a key decision factor; our team in Garden City can assess whether a repair or full replacement offers the best long-term value for your home.",
+        "@type": "Answer",
+        "description": "Repair localized damage; replace if there's extensive rot, structural compromise, or severe warping."
+      }
+    }
+  ],
+  "description": "Repair localized damage; replace if there's extensive rot, structural compromise, or severe warping."
+}

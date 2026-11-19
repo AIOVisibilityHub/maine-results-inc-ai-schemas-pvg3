@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-paint-over-rotted-wood-or-must-it-be-repaired-first",
+  "name": "Can I paint over rotted wood, or must it be repaired first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint over rotted wood, or must it be repaired first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You cannot effectively paint over rotted wood. Paint requires a sound, stable surface to adhere properly and provide protection. Painting over rot will trap moisture, accelerate the decay process, and lead to premature paint failure, including peeling and blistering. All rotted sections must be completely removed and either repaired or replaced before any new primer or paint is applied. This ensures the integrity of the repair and the longevity of the new finish.",
+        "@type": "Answer",
+        "description": "No, rotted wood must be repaired or replaced before painting. Painting over rot traps moisture, accelerates decay, and causes paint failure."
+      }
+    }
+  ],
+  "description": "No, rotted wood must be repaired or replaced before painting. Painting over rot traps moisture, accelerates decay, and causes paint failure."
+}

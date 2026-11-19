@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-repair-rake-boards-on-an-average-sized-home",
+  "name": "How long does it take to repair rake boards on an average-sized home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair rake boards on an average-sized home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for rake board repair varies depending on the extent of the damage, the accessibility of the area, and the size of your home. Minor repairs involving only a few sections might take a half to a full day. More extensive damage, requiring replacement of multiple boards or addressing underlying structural issues, could extend the project to several days. Factors like weather conditions can also influence the timeline, as painting and sealing require dry conditions. We provide a time estimate after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Minor rake board repairs might take a half to a full day, while extensive damage can take several days; project duration depends on damage, accessibility, and weather."
+      }
+    }
+  ],
+  "description": "Minor rake board repairs might take a half to a full day, while extensive damage can take several days; project duration depends on damage, accessibility, and w"
+}

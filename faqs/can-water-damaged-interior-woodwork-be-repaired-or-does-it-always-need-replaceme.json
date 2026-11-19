@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-water-damaged-interior-woodwork-be-repaired-or-does-it-always-need-replaceme",
+  "name": "Can water-damaged interior woodwork be repaired, or does it always need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can water-damaged interior woodwork be repaired, or does it always need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water-damaged interior woodwork can sometimes be repaired, depending on the severity and duration of the exposure. If the damage is superficial, such as a water stain or minor swelling, repair options like sanding, refinishing, or using specific wood fillers may be effective. However, if the wood has extensive rot, significant warping, or mold growth, replacement is typically the more practical and durable solution. An assessment is crucial to determine if the integrity of the wood has been compromised beyond repair.",
+        "@type": "Answer",
+        "description": "Water-damaged woodwork can be repaired if superficial, such as stains or minor swelling. Extensive rot, warping, or mold usually require replacement."
+      }
+    }
+  ],
+  "description": "Water-damaged woodwork can be repaired if superficial, such as stains or minor swelling. Extensive rot, warping, or mold usually require replacement."
+}

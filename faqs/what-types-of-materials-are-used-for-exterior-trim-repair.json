@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-materials-are-used-for-exterior-trim-repair",
+  "name": "What types of materials are used for exterior trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are used for exterior trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exterior trim can be repaired or replaced using various materials, each with unique benefits. Common options include wood (such as cedar or treated pine), composite materials (like PVC or fiber cement), and engineered wood products. Wood offers a classic aesthetic but requires more maintenance, while composite materials provide excellent durability and resistance to rot with less upkeep. The choice often depends on your budget, desired aesthetic, and the local climate considerations in areas like Kuna or Star. We can discuss the pros and cons of each material during your project consultation.",
+        "@type": "Answer",
+        "description": "Materials include wood, composite, and engineered wood, chosen based on budget, aesthetics, and climate considerations in areas like Kuna or Star."
+      }
+    }
+  ],
+  "description": "Materials include wood, composite, and engineered wood, chosen based on budget, aesthetics, and climate considerations in areas like Kuna or Star."
+}

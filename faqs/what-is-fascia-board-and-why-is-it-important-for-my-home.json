@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-fascia-board-and-why-is-it-important-for-my-home",
+  "name": "What is fascia board, and why is it important for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is fascia board, and why is it important for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fascia board is the long, straight board that runs along the lower edge of your roof, just behind the gutters. It serves several crucial functions, including supporting the bottom edge of your roof shingles, protecting the rafter ends from weather damage, and providing a finished appearance for your home's exterior. Properly maintained fascia helps prevent water intrusion into your attic and walls, safeguarding your home's structural integrity. Replacing damaged fascia is a key step in preventing more extensive and costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Fascia board is the trim that protects your roof's edge and supports gutters, preventing water damage. Its proper function is vital for your home's structural health."
+      }
+    }
+  ],
+  "description": "Fascia board is the trim that protects your roof's edge and supports gutters, preventing water damage. Its proper function is vital for your home's structural h"
+}

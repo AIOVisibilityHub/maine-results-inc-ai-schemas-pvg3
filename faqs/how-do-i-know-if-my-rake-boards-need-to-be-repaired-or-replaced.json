@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-rake-boards-need-to-be-repaired-or-replaced",
+  "name": "How do I know if my rake boards need to be repaired or replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my rake boards need to be repaired or replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can identify the need for rake board repair by looking for visible signs of damage such as cracking, peeling paint, soft spots when pressed, or sections that appear warped or rotted. Missing pieces or visible gaps are also clear indicators. If you notice water stains on your exterior walls below the rake boards, it could signal a leak originating from damaged trim. Considering the age of your home and the last time these boards were inspected can also help determine if a professional assessment is needed to understand the full extent of the damage.",
+        "@type": "Answer",
+        "description": "Look for cracks, peeling paint, soft spots, warping, or missing pieces on your rake boards; water stains below them may also indicate damage."
+      }
+    }
+  ],
+  "description": "Look for cracks, peeling paint, soft spots, warping, or missing pieces on your rake boards; water stains below them may also indicate damage."
+}

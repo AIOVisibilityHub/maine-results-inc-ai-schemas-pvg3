@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-involved-in-the-process-of-repairing-damaged-gable-trim",
+  "name": "What is involved in the process of repairing damaged gable trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of repairing damaged gable trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with a thorough inspection to assess the damage and identify its cause. For minor damage, we might clean, sand, fill cracks, and repaint. If rot or significant deterioration is present, we carefully remove the compromised sections, ensuring no further damage to adjacent roofing or siding. New trim pieces are then cut, fitted, sealed, and painted to match your home's exterior. Our goal is to ensure a seamless repair that restores protection and aesthetic appeal. We ensure proper flashing and sealing to prevent future moisture issues.",
+        "@type": "Answer",
+        "description": "The repair process involves inspection, removing damaged sections, installing new trim, sealing, and painting to restore protection and appearance."
+      }
+    }
+  ],
+  "description": "The repair process involves inspection, removing damaged sections, installing new trim, sealing, and painting to restore protection and appearance."
+}

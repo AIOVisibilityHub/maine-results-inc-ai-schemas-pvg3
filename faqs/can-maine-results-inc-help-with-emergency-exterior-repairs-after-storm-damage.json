@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-maine-results-inc-help-with-emergency-exterior-repairs-after-storm-damage",
+  "name": "Can Maine Results, Inc. help with emergency exterior repairs after storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Maine Results, Inc. help with emergency exterior repairs after storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. can assist with emergency exterior repairs, particularly after storm damage. We understand that severe weather can cause immediate and significant damage to roofs, siding, and windows, requiring prompt attention to prevent further issues like water intrusion. Our team can assess the damage, provide temporary solutions to secure your home, and then plan for permanent repairs. We prioritize these situations to help protect your property quickly and efficiently, especially in our service areas of Garden City, Meridian, Eagle, and Kuna.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. helps with emergency exterior repairs after storm damage, securing your home and planning permanent fixes."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. helps with emergency exterior repairs after storm damage, securing your home and planning permanent fixes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-gable-trim-and-why-is-it-important-for-my-home",
+  "name": "What is gable trim and why is it important for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is gable trim and why is it important for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gable trim, also known as rake trim or fascia, is the protective finishing material installed along the edges of your roof's gables. It covers the ends of the roof sheathing and rafters, shielding them from weather, pests, and moisture intrusion. Proper gable trim helps maintain the structural integrity of your roof and attic, prevents water damage, and contributes significantly to your home's exterior appearance. Neglecting damaged trim can lead to more extensive and costly repairs down the line, affecting your home in areas like Garden City, Meridian, Eagle, Kuna, or Star.",
+        "@type": "Answer",
+        "description": "Gable trim protects your roof edges from weather and pests, maintaining structural integrity and appearance."
+      }
+    }
+  ],
+  "description": "Gable trim protects your roof edges from weather and pests, maintaining structural integrity and appearance."
+}

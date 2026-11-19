@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-signs-that-my-wood-siding-needs-repair",
+  "name": "What are the signs that my wood siding needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my wood siding needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your wood siding needs repair include visible cracking, splitting, peeling paint, or discoloration, which can indicate moisture problems. Soft spots, rot, or fungal growth are also critical indicators of damage that require immediate attention to prevent further deterioration. Another sign is pest activity, such as woodpecker holes or insect infestations, which can compromise the siding's integrity. For homeowners in areas like Star or Nampa, regular inspections, especially after severe weather, can help identify these issues early. We recommend addressing these signs quickly to protect your home's structure and maintain its aesthetic appeal.",
+        "@type": "Answer",
+        "description": "Signs include cracking, splitting, peeling paint, soft spots, rot, or pest activity. Regular inspections help identify issues early."
+      }
+    }
+  ],
+  "description": "Signs include cracking, splitting, peeling paint, soft spots, rot, or pest activity. Regular inspections help identify issues early."
+}

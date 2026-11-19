@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-roof-trim-repair",
+  "name": "What is the process for roof trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for roof trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our roof trim repair process typically begins with an inspection to assess the damage and identify the underlying cause. Once we understand the scope, we provide a detailed estimate. Upon approval, our team will prepare the area, remove the damaged trim sections, address any underlying issues like wood rot, install new trim materials, and finish the area to match your home's exterior. The specific steps may vary based on the type of trim (fascia, soffit, rake boards) and the severity of the damage. We strive to complete repairs efficiently while maintaining high quality.",
+        "@type": "Answer",
+        "description": "The process includes inspection, estimate, removal of damaged trim, addressing underlying issues, installation of new trim, and finishing."
+      }
+    }
+  ],
+  "description": "The process includes inspection, estimate, removal of damaged trim, addressing underlying issues, installation of new trim, and finishing."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-exterior-siding-replacement",
+  "name": "What is the typical process for exterior siding replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for exterior siding replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for exterior siding replacement typically begins with an initial consultation and assessment of your current siding and home structure. We then provide material options, such as vinyl, fiber cement, or wood, tailored to your aesthetic preferences and budget. After material selection, the old siding is carefully removed, any necessary structural repairs to the sheathing are made, and new insulation or house wrap is installed. Finally, the new siding is installed according to manufacturer specifications and local building codes. We ensure proper disposal of old materials and a thorough cleanup of the site.",
+        "@type": "Answer",
+        "description": "Siding replacement involves assessment, material selection, old siding removal, structural repairs, and new siding installation."
+      }
+    }
+  ],
+  "description": "Siding replacement involves assessment, material selection, old siding removal, structural repairs, and new siding installation."
+}

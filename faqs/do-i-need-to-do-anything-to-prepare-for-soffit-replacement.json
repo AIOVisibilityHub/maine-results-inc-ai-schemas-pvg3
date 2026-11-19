@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-do-anything-to-prepare-for-soffit-replacement",
+  "name": "Do I need to do anything to prepare for soffit replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to do anything to prepare for soffit replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for soffit replacement, it's helpful to clear the area around your home's foundation where our team will be working. This includes moving outdoor furniture, potted plants, and any decorative items away from the perimeter. Ensuring clear access to all sides of your house helps us work efficiently and safely. If you have concerns about landscaping or specific property features, please discuss them with us during the initial consultation so we can plan accordingly and protect your belongings. Clear preparation allows for a smoother, faster installation.",
+        "@type": "Answer",
+        "description": "Before soffit replacement, clear the area around your home's foundation, moving outdoor furniture and other items for clear access and safety."
+      }
+    }
+  ],
+  "description": "Before soffit replacement, clear the area around your home's foundation, moving outdoor furniture and other items for clear access and safety."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-my-siding-trim-needs-repair-or-replacement",
+  "name": "What are common signs that my siding trim needs repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my siding trim needs repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for visible cracks, peeling paint, softness to the touch, or evidence of rot, especially near the bottom edges or around windows and doors. Gaps where the trim meets the siding or other surfaces are also critical indicators of needed repair, as these allow water to enter. When we conduct inspections in areas like Garden City, we often find that early detection of these issues can prevent more costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Common signs include cracks, peeling paint, softness, rot, or gaps where trim meets siding, indicating a need for repair."
+      }
+    }
+  ],
+  "description": "Common signs include cracks, peeling paint, softness, rot, or gaps where trim meets siding, indicating a need for repair."
+}

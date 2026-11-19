@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-exterior-carpentry-repairs-do-you-perform",
+  "name": "What types of exterior carpentry repairs do you perform?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of exterior carpentry repairs do you perform?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We address a range of exterior carpentry repairs, including damaged siding, trim, fascia, soffits, and decking. This often involves replacing rotten or deteriorated wood, reattaching loose components, or repairing structural elements affected by water damage or wear. We assess the specific damage to determine the most effective repair strategy, ensuring a durable outcome. Understanding the type and extent of damage helps us plan the appropriate materials and techniques.",
+        "@type": "Answer",
+        "description": "We repair damaged siding, trim, fascia, soffits, and decking, addressing issues like rot, deterioration, and structural compromise."
+      }
+    }
+  ],
+  "description": "We repair damaged siding, trim, fascia, soffits, and decking, addressing issues like rot, deterioration, and structural compromise."
+}

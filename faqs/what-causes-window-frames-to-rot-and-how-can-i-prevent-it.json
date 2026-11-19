@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-causes-window-frames-to-rot-and-how-can-i-prevent-it",
+  "name": "What causes window frames to rot, and how can I prevent it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes window frames to rot, and how can I prevent it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window frames primarily rot due to prolonged exposure to moisture, often from leaks, condensation, or poor drainage around the window. Common causes include failed paint, cracked caulk, clogged gutters, or even sprinkler systems hitting the window directly. To prevent rot, ensure proper caulking and sealing around your windows, maintain a good paint finish, and keep gutters clean. Addressing interior condensation and ensuring proper exterior drainage are also key. Regular inspections of your windows, especially after harsh weather, can help you identify and resolve potential issues before rot sets in, a crucial step for homeowners in Garden City and surrounding areas.",
+        "@type": "Answer",
+        "description": "Window frames rot from moisture due to leaks, condensation, or poor drainage. Prevent it with proper caulking, paint maintenance, and clean gutters."
+      }
+    }
+  ],
+  "description": "Window frames rot from moisture due to leaks, condensation, or poor drainage. Prevent it with proper caulking, paint maintenance, and clean gutters."
+}

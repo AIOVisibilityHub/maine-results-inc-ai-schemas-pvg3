@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-molding-needs-repair-or-full-replacement",
+  "name": "How do I know if my molding needs repair or full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my molding needs repair or full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace molding depends on the extent of the damage. Minor issues like small cracks, dents, or paint chips can often be repaired by filling and sanding. However, significant water damage, extensive rot, or large sections missing typically necessitate replacement to maintain structural integrity and appearance. We can help you assess the damage to determine the most cost-effective and durable solution for your home in areas like Boise or Meridian.",
+        "@type": "Answer",
+        "description": "Assess if damage is minor (repairable cracks, dents) or extensive (water damage, rot, large missing sections) to decide between repair or replacement."
+      }
+    }
+  ],
+  "description": "Assess if damage is minor (repairable cracks, dents) or extensive (water damage, rot, large missing sections) to decide between repair or replacement."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-exterior-window-trim-repair-take",
+  "name": "How long does exterior window trim repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does exterior window trim repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of exterior window trim repair depends on the scope of work. Simple repairs, such as sealing small cracks or repainting, might take a few hours per window. More extensive damage, involving wood replacement or custom-cut trim, can extend the process to a full day or several days for multiple windows. Weather conditions can also affect the timeline, especially for painting and sealing, requiring dry periods for proper application and curing. We plan projects carefully to minimize disruption.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours for minor fixes to several days for extensive work or multiple windows, influenced by weather conditions."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours for minor fixes to several days for extensive work or multiple windows, influenced by weather conditions."
+}

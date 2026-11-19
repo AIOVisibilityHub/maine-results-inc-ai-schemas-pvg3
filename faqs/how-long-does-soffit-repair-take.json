@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-soffit-repair-take",
+  "name": "How long does soffit repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does soffit repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of soffit repair depends on the scale and complexity of the damage. Small, localized repairs might only take a few hours to a full day. More extensive damage involving multiple sections or structural issues could require several days, especially if flashing or fascia also needs attention. Weather conditions, particularly rain or high winds, can also impact the timeline, as work needs to be performed safely and effectively. We prioritize efficient service to minimize disruption to your home in areas like Garden City.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours to several days, depending on damage extent, complexity, and weather conditions."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours to several days, depending on damage extent, complexity, and weather conditions."
+}

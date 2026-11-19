@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-the-wood-on-my-home-needs-repair-or-full-replacement",
+  "name": "How do I know if the wood on my home needs repair or full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if the wood on my home needs repair or full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can identify wood rot by looking for discoloration, softness to the touch, or a crumbly texture. If you can easily push a screwdriver into the wood, it's likely rotten. Small, superficial areas of rot might be repairable by removing the damaged section and filling it with epoxy or wood filler. However, if the rot is extensive, compromises structural integrity, or affects a large section of a board, full replacement is generally recommended. A professional assessment can determine the extent of the damage and the most cost-effective solution for your specific situation.",
+        "@type": "Answer",
+        "description": "Check for discoloration, softness, or crumbly texture. Small rot can be repaired; extensive rot usually requires replacement. A professional can assess the damage."
+      }
+    }
+  ],
+  "description": "Check for discoloration, softness, or crumbly texture. Small rot can be repaired; extensive rot usually requires replacement. A professional can assess the dama"
+}

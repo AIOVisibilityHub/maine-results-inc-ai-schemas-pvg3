@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-exterior-wood-repair-services-does-maine-results-inc-offer",
+  "name": "What kind of exterior wood repair services does Maine Results, Inc. offer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of exterior wood repair services does Maine Results, Inc. offer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. provides comprehensive exterior wood repair services, including fixing dry rot, replacing damaged siding boards, repairing deck components, and restoring trim and fascia. Our team assesses the specific damage and recommends the most effective repair methods, whether it's patching, partial replacement, or reinforcing existing structures. We focus on durable solutions that blend seamlessly with your home's existing exterior. Our work ensures your home is protected and looks its best.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. offers exterior wood repair for dry rot, damaged siding, decks, trim, and fascia, focusing on durable and seamless solutions."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. offers exterior wood repair for dry rot, damaged siding, decks, trim, and fascia, focusing on durable and seamless solutions."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-replace-just-a-section-of-trim-or-do-i-need-to-replace-the-entire-piece",
+  "name": "Can I replace just a section of trim, or do I need to replace the entire piece?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace just a section of trim, or do I need to replace the entire piece?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can replace just a section of trim depends on the extent of the damage and the type of trim. If the damage is localized and the remaining trim is in excellent condition, a partial replacement might be feasible. However, it's often challenging to seamlessly match old and new materials, especially with wood trim that has weathered over time. For a consistent appearance and long-term durability, replacing the entire piece, or even an entire side of a window or door frame, is often recommended. This is a practical tradeoff to consider between cost savings and aesthetic consistency.",
+        "@type": "Answer",
+        "description": "Partial replacement is possible for localized damage, but replacing the entire piece often ensures a better match and durability."
+      }
+    }
+  ],
+  "description": "Partial replacement is possible for localized damage, but replacing the entire piece often ensures a better match and durability."
+}

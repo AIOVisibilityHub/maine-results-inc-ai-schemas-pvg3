@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-roof-trim-repair-take",
+  "name": "How long does roof trim repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does roof trim repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of roof trim repair depends on the scope and complexity of the damage. Small, isolated repairs might take a few hours to a single day. More extensive projects involving multiple sections, underlying structural issues, or custom material matching could take several days. We provide an estimated timeline with your repair quote after our initial assessment. Factors like weather conditions, especially in areas like Garden City, Meridian, Eagle, Kuna, and Star, can also influence the project schedule.",
+        "@type": "Answer",
+        "description": "Repair time varies from hours to several days depending on damage scope and complexity, with weather also impacting the schedule."
+      }
+    }
+  ],
+  "description": "Repair time varies from hours to several days depending on damage scope and complexity, with weather also impacting the schedule."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-repair-rotted-window-frames-on-any-type-of-window",
+  "name": "Can you repair rotted window frames on any type of window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair rotted window frames on any type of window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. has extensive experience repairing rotted window frames on various types of windows, including double-hung, casement, and picture windows. Our capabilities extend to different frame materials like wood and clad-wood. The feasibility and approach to repair depend on the window's construction, age, and the severity of the rot. During an initial consultation, we can assess your specific window type and the extent of the damage to advise on the best repair strategy. We serve homes across Garden City, Meridian, Eagle, Kuna, and Star.",
+        "@type": "Answer",
+        "description": "Yes, we can repair rotted frames on various window types and materials like wood and clad-wood; repair feasibility depends on window construction and rot severity."
+      }
+    }
+  ],
+  "description": "Yes, we can repair rotted frames on various window types and materials like wood and clad-wood; repair feasibility depends on window construction and rot severi"
+}

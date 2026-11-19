@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-is-wood-siding-repair-necessary-versus-replacement",
+  "name": "When is wood siding repair necessary versus replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is wood siding repair necessary versus replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wood siding repair is typically necessary when damage is localized, such as small cracks, holes, or areas of rot. Repair is a cost-effective solution for maintaining the siding's integrity and appearance without undertaking a full replacement. We often find that addressing issues like moisture intrusion promptly can prevent minor damage from escalating. If the damage is extensive, affecting large sections of your home, or if the siding is severely compromised by widespread rot, pest infestations, or structural issues, replacement might be the more practical and durable option. Our team in areas like Garden City and Meridian can assess the extent of the damage to help you determine the best course of action for your property.",
+        "@type": "Answer",
+        "description": "Repair is suitable for localized damage like small cracks or rot; replacement is needed for widespread issues or severe structural compromise."
+      }
+    }
+  ],
+  "description": "Repair is suitable for localized damage like small cracks or rot; replacement is needed for widespread issues or severe structural compromise."
+}
