@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-my-door-hardware",
+  "name": "When should I consider replacing my door hardware?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my door hardware?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your door hardware if it's showing signs of wear and tear, not functioning correctly, or if you're looking to upgrade security or enhance your home's aesthetics. For security upgrades, especially if you've moved into a new home or experienced a security incident, replacing locks is highly recommended. Maine Results can help assess the condition of your existing hardware and advise on whether a repair or full replacement is the most cost-effective and secure option for your property.",
+        "@type": "Answer",
+        "description": "Replace door hardware due to wear, malfunction, or if upgrading security or aesthetics. Consider replacements for security after moving or an incident. Maine Results advises on repair versus replacement options."
+      }
+    }
+  ],
+  "description": "Replace door hardware due to wear, malfunction, or if upgrading security or aesthetics. Consider replacements for security after moving or an incident. Maine Re"
+}

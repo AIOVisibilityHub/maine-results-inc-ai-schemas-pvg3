@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-repairing-rotten-exterior-door-trim",
+  "name": "What is the process for repairing rotten exterior door trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing rotten exterior door trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for repairing rotten exterior door trim typically begins with an inspection to assess the extent of the damage. For minor rot, our technicians will remove the decayed wood, treat the area with a wood hardener, and then fill it with an exterior-grade wood filler or epoxy. For extensive rot, the damaged trim sections are carefully removed and replaced with new, pre-primed, and often more durable material. After installation, the new trim is properly sealed with exterior caulk and then painted to match your home's exterior, ensuring a seamless finish. Maine Results, Inc. prioritizes thorough preparation and sealing to prevent future issues.",
+        "@type": "Answer",
+        "description": "Process involves assessing rot, removing decayed wood, treating/filling for minor damage, or replacing extensively rotted trim, then sealing and painting."
+      }
+    }
+  ],
+  "description": "Process involves assessing rot, removing decayed wood, treating/filling for minor damage, or replacing extensively rotted trim, then sealing and painting."
+}

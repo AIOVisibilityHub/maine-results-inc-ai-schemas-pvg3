@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-water-damaged-door-repair",
+  "name": "What factors influence the cost of water-damaged door repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of water-damaged door repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of water-damaged door repair depends on several factors, including the extent of the damage, the type of door (e.g., solid wood, hollow-core, fiberglass), and whether repair or full replacement is necessary. Repairing surface-level damage is generally less expensive than addressing deep rot or structural issues. Labor costs, material expenses for replacement sections, and any necessary refinishing or painting also contribute to the total. For replacement projects, the choice of a new door and its installation complexity will influence the final price. We provide detailed estimates for homes in Garden City, Meridian, Eagle, and Kuna after assessing your specific situation.",
+        "@type": "Answer",
+        "description": "Repair cost depends on damage extent, door type, and whether repair or full replacement is needed. Material and labor for refinishing or new door installation also impact the price."
+      }
+    }
+  ],
+  "description": "Repair cost depends on damage extent, door type, and whether repair or full replacement is needed. Material and labor for refinishing or new door installation a"
+}

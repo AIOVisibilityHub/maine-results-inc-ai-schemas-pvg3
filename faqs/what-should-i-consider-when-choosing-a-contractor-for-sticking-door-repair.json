@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-when-choosing-a-contractor-for-sticking-door-repair",
+  "name": "What should I consider when choosing a contractor for sticking door repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing a contractor for sticking door repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor, consider their experience, their ability to diagnose various causes (from minor adjustments to structural issues), and their commitment to clear communication. Look for a company that provides detailed estimates, explains the repair process, and offers solutions tailored to the specific problem. For lasting results, choose a contractor like Maine Results, Inc. with a strong background in general construction, as door issues can often stem from broader structural concerns.",
+        "@type": "Answer",
+        "description": "Choose a contractor based on experience, diagnostic ability for all causes, clear communication, and detailed estimates, especially one with general construction expertise."
+      }
+    }
+  ],
+  "description": "Choose a contractor based on experience, diagnostic ability for all causes, clear communication, and detailed estimates, especially one with general constructio"
+}

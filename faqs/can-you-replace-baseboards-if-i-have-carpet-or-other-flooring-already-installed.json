@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-replace-baseboards-if-i-have-carpet-or-other-flooring-already-installed",
+  "name": "Can you replace baseboards if I have carpet or other flooring already installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you replace baseboards if I have carpet or other flooring already installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, baseboards can be replaced even if you have existing carpet, hardwood, tile, or other flooring installed. Our skilled technicians take care to protect your current flooring during the removal of old baseboards and the installation of new ones. For carpeted rooms, new baseboards are typically installed just above the carpet line, ensuring a neat finish without damaging the carpet. It's important to communicate any specific concerns about your flooring type before the project begins so we can take appropriate precautions. Our process prioritizes minimizing disruption and protecting your home's existing features.",
+        "@type": "Answer",
+        "description": "Yes, baseboards can be replaced with existing flooring. We protect your floors and install new baseboards carefully above the floor line."
+      }
+    }
+  ],
+  "description": "Yes, baseboards can be replaced with existing flooring. We protect your floors and install new baseboards carefully above the floor line."
+}

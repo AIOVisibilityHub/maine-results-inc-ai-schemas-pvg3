@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-steps-should-i-take-before-a-door-rot-repair-specialist-visits",
+  "name": "What steps should I take before a door rot repair specialist visits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps should I take before a door rot repair specialist visits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a door rot repair specialist from Maine Results, Inc. visits, it's helpful to clear the area around the affected door, both inside and out, to allow easy access. Remove any potted plants, furniture, or decor that might obstruct the assessment. If possible, note when you first observed the rot or any contributing factors, such as persistent moisture sources, as this information can aid in diagnosing the problem. Having these details ready allows our specialists to conduct a thorough and efficient inspection, leading to a more accurate repair plan.",
+        "@type": "Answer",
+        "description": "Before a specialist visits, clear the area around the door and note any observations about the rot's origin or appearance."
+      }
+    }
+  ],
+  "description": "Before a specialist visits, clear the area around the door and note any observations about the rot's origin or appearance."
+}

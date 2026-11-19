@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-crown-molding-damage-requires-professional-repair",
+  "name": "How do I know if my crown molding damage requires professional repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my crown molding damage requires professional repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider professional crown molding repair if you notice significant cracks, large gaps between the molding and the wall/ceiling, visible water damage like rot or widespread staining, or sections that are loose or falling off. While small caulk cracks or minor paint chips might be DIY fixes, extensive damage often indicates underlying issues or requires specialized tools and expertise to ensure a proper, long-lasting repair. Getting a professional assessment can help prevent further damage and ensure the aesthetic integrity of your home.",
+        "@type": "Answer",
+        "description": "Professional repair is needed for significant cracks, large gaps, water damage like rot, or loose sections that go beyond minor DIY fixes."
+      }
+    }
+  ],
+  "description": "Professional repair is needed for significant cracks, large gaps, water damage like rot, or loose sections that go beyond minor DIY fixes."
+}

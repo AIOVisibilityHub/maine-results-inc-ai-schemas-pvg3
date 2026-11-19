@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-crown-molding-installation-typically-take",
+  "name": "How long does crown molding installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does crown molding installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of crown molding installation varies based on the size of the room, the complexity of the molding profile, and the number of corners. A standard rectangular room with a straightforward molding design might take a day or two. More intricate designs, taller ceilings, or multiple rooms will naturally extend the timeline. Before starting, we assess the space and provide an estimated schedule. Preparing the room by clearing furniture can help streamline the process once our team arrives.",
+        "@type": "Answer",
+        "description": "Installation time depends on room size, molding complexity, and corners, typically ranging from one to several days. We provide an estimate after assessing your specific project."
+      }
+    }
+  ],
+  "description": "Installation time depends on room size, molding complexity, and corners, typically ranging from one to several days. We provide an estimate after assessing your"
+}

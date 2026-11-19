@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-sagging-door-needs-professional-repair-or-if-i-can-fix-it-my",
+  "name": "How do I know if my sagging door needs professional repair or if I can fix it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my sagging door needs professional repair or if I can fix it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You might be able to fix minor sagging caused by loose hinge screws with a screwdriver. However, if the screws are stripped, the door frame is visibly warped, or the door is dragging significantly, professional repair is usually necessary. Maine Results, Inc. technicians can diagnose underlying issues like foundation settlement or water damage, which often require specialized tools and expertise to address properly. Attempting complex repairs without experience can worsen the problem or damage the door or frame further, leading to more costly fixes.",
+        "@type": "Answer",
+        "description": "Minor sagging from loose screws might be DIY, but warped frames, stripped screws, or significant dragging require professional assessment and repair to avoid further damage."
+      }
+    }
+  ],
+  "description": "Minor sagging from loose screws might be DIY, but warped frames, stripped screws, or significant dragging require professional assessment and repair to avoid fu"
+}

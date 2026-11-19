@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-ceiling-trim-are-available-for-installation",
+  "name": "What types of ceiling trim are available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of ceiling trim are available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are various types of ceiling trim, including crown molding, cove molding, and picture rails, each offering a distinct aesthetic. Crown molding is often elaborate and bridges the wall and ceiling, while cove molding has a simpler, concave curve. Picture rails, though less common now, allow for hanging art without wall damage. We can discuss the different styles and materials, such as wood, MDF, or polyurethane, to find the best fit for your home's design in areas like Garden City or Meridian.",
+        "@type": "Answer",
+        "description": "Common types of ceiling trim include crown molding, cove molding, and picture rails, each with unique styles and materials."
+      }
+    }
+  ],
+  "description": "Common types of ceiling trim include crown molding, cove molding, and picture rails, each with unique styles and materials."
+}

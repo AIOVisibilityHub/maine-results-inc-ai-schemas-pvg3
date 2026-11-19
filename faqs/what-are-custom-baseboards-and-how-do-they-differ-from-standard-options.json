@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-custom-baseboards-and-how-do-they-differ-from-standard-options",
+  "name": "What are custom baseboards and how do they differ from standard options?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are custom baseboards and how do they differ from standard options?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom baseboards are architectural trim elements tailored to specific design preferences, materials, and dimensions for a home. Unlike standard, pre-fabricated options that come in limited profiles and heights, custom baseboards offer unique designs, higher-quality woods, and precise sizing to match a room's aesthetic. This allows for seamless integration with existing architecture or the creation of a distinct new style, enhancing the overall finish and value of your home.",
+        "@type": "Answer",
+        "description": "Custom baseboards are tailored trim elements designed to specific preferences, offering unique designs and precise sizing unlike standard pre-fabricated options."
+      }
+    }
+  ],
+  "description": "Custom baseboards are tailored trim elements designed to specific preferences, offering unique designs and precise sizing unlike standard pre-fabricated options"
+}

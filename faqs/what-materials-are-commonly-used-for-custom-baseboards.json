@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-commonly-used-for-custom-baseboards",
+  "name": "What materials are commonly used for custom baseboards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for custom baseboards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom baseboards are typically crafted from various wood species such as pine, oak, maple, or MDF (medium-density fiberboard). Each material offers distinct characteristics regarding durability, grain pattern, and paintability. For example, solid wood provides a rich, natural look and can be stained, while MDF offers a smooth finish ideal for painting and is often more budget-friendly. Your choice can impact both the aesthetic and longevity of the baseboards.",
+        "@type": "Answer",
+        "description": "Common materials include pine, oak, maple, or MDF, each offering distinct characteristics for durability, grain, and finish, impacting aesthetic and longevity."
+      }
+    }
+  ],
+  "description": "Common materials include pine, oak, maple, or MDF, each offering distinct characteristics for durability, grain, and finish, impacting aesthetic and longevity."
+}

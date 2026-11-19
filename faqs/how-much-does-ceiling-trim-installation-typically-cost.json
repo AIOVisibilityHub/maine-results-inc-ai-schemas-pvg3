@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-ceiling-trim-installation-typically-cost",
+  "name": "How much does ceiling trim installation typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does ceiling trim installation typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of ceiling trim installation varies based on the type of trim, material, complexity of the room, and the total linear footage. Custom profiles or intricate designs, for example, will generally be more expensive than standard pre-fabricated options. We provide detailed estimates after an on-site assessment to accurately quote your project, ensuring transparency whether you're in Eagle or Kuna.",
+        "@type": "Answer",
+        "description": "Installation costs depend on trim type, material, room complexity, and linear footage; estimates are provided after an on-site assessment."
+      }
+    }
+  ],
+  "description": "Installation costs depend on trim type, material, room complexity, and linear footage; estimates are provided after an on-site assessment."
+}

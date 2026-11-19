@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-rotten-door-jamb-repair-cost",
+  "name": "How much does rotten door jamb repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does rotten door jamb repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of rotten door jamb repair varies significantly based on the severity of the rot, the type of door jamb (e.g., single door, double door, exterior, interior), and the materials required. Minor repairs might be less costly, while extensive rot requiring partial or full replacement will incur higher expenses due to increased labor and material costs. Maine Results, Inc. provides a detailed, transparent estimate after a thorough inspection of the damage at your property in Garden City, Meridian, Eagle, Kuna, or Star.",
+        "@type": "Answer",
+        "description": "Repair costs depend on rot severity, jamb type, and materials. Minor repairs are less expensive, while extensive damage costs more due to labor and material. We offer detailed estimates after inspection."
+      }
+    }
+  ],
+  "description": "Repair costs depend on rot severity, jamb type, and materials. Minor repairs are less expensive, while extensive damage costs more due to labor and material. We"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-antique-or-historic-doors-be-restored",
+  "name": "Can antique or historic doors be restored?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can antique or historic doors be restored?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, antique and historic doors can often be restored, preserving their original character and historical value. Restoration for these doors frequently involves specialized techniques and materials to ensure historical accuracy and integrity. A key practical tradeoff is balancing authentic preservation with modern durability, as some historic materials may not offer the same longevity as contemporary alternatives. We prioritize methods that maintain the door's unique heritage while enhancing its lifespan.",
+        "@type": "Answer",
+        "description": "Antique and historic doors can be restored using specialized techniques to preserve their character and value, balancing authenticity with durability."
+      }
+    }
+  ],
+  "description": "Antique and historic doors can be restored using specialized techniques to preserve their character and value, balancing authenticity with durability."
+}

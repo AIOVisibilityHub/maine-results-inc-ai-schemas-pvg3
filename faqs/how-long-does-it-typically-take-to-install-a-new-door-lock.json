@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-typically-take-to-install-a-new-door-lock",
+  "name": "How long does it typically take to install a new door lock?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to install a new door lock?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to install a new door lock can vary depending on the lock type and whether it's a new installation or a replacement. A standard deadbolt or knob lock replacement on an existing pre-drilled door might take 30 minutes to an hour. Installing a new lock where no existing holes are present, or installing a complex smart lock system, can take longer, potentially two to four hours, as it involves precise drilling and calibration. Our team at Maine Results, Inc. can provide a more accurate time estimate after understanding your specific lock choice and current door setup.",
+        "@type": "Answer",
+        "description": "Standard lock replacements often take 30 minutes to an hour, while new installations or smart locks can take two to four hours due to precise drilling and calibration."
+      }
+    }
+  ],
+  "description": "Standard lock replacements often take 30 minutes to an hour, while new installations or smart locks can take two to four hours due to precise drilling and calib"
+}

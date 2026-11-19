@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-prepare-my-home-for-a-door-lock-installation-appointment",
+  "name": "How can I prepare my home for a door lock installation appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for a door lock installation appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a door lock installation appointment, ensure the area around the door is clear and accessible for our technicians. This means removing any furniture, decorations, or other items that might obstruct their workspace. If you are replacing an existing lock, ensure you have chosen the new lock and have it readily available if you are supplying it yourself. You might also want to identify any specific concerns you have regarding the door or the installation process. Maine Results, Inc. appreciates clients who provide a clear and safe working environment, allowing for a smooth and efficient installation.",
+        "@type": "Answer",
+        "description": "Prepare for installation by clearing the area around the door, having your new lock ready if self-supplied, and noting any specific concerns."
+      }
+    }
+  ],
+  "description": "Prepare for installation by clearing the area around the door, having your new lock ready if self-supplied, and noting any specific concerns."
+}

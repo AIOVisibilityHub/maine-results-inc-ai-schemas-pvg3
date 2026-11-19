@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/will-custom-crown-molding-increase-my-home-s-value",
+  "name": "Will custom crown molding increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will custom crown molding increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom crown molding can certainly enhance the perceived value and appeal of your home. It adds a touch of sophistication and craftsmanship that distinguishes a property, often signaling attention to detail in construction. While it's difficult to put an exact figure on the return on investment, potential buyers often appreciate these types of architectural enhancements. This addition contributes to a more polished and finished look, which can be a significant factor in how a home is perceived on the market, especially in competitive areas like Garden City.",
+        "@type": "Answer",
+        "description": "Custom crown molding can increase your home's perceived value and appeal by adding sophistication and craftsmanship, which potential buyers often appreciate."
+      }
+    }
+  ],
+  "description": "Custom crown molding can increase your home's perceived value and appeal by adding sophistication and craftsmanship, which potential buyers often appreciate."
+}

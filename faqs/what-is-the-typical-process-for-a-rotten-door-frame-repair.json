@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-a-rotten-door-frame-repair",
+  "name": "What is the typical process for a rotten door frame repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a rotten door frame repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for rotten door frame repair begins with a thorough inspection to determine the extent of the damage and identify the moisture source. Next, the affected wood is carefully removed. Depending on the damage, this might involve cutting out a section or entirely replacing a jamb. New, treated wood is then cut to fit and secured in place, often with waterproof adhesive and fasteners. The repaired area is sealed, primed, and painted to match the existing frame and protect against future moisture. Our process includes verifying the door still operates smoothly after the repair.",
+        "@type": "Answer",
+        "description": "The repair process involves inspecting damage, removing rotted wood, installing new treated wood sections, and then sealing and painting the frame to protect it."
+      }
+    }
+  ],
+  "description": "The repair process involves inspecting damage, removing rotted wood, installing new treated wood sections, and then sealing and painting the frame to protect it"
+}

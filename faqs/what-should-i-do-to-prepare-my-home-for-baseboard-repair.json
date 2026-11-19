@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-do-to-prepare-my-home-for-baseboard-repair",
+  "name": "What should I do to prepare my home for baseboard repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my home for baseboard repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your home for baseboard repair, clear the work area by moving furniture away from the walls and removing any wall hangings near the baseboards. Covering nearby items with drop cloths can protect them from dust and paint. If the baseboards are severely damaged by moisture, addressing the water source and ensuring the area is dry before we begin work can help streamline the repair process. This preparation allows our team to work efficiently and safely, minimizing disruption to your daily routine.",
+        "@type": "Answer",
+        "description": "Prepare for baseboard repair by clearing furniture, covering items, and ensuring the work area is dry, especially if moisture damage is present."
+      }
+    }
+  ],
+  "description": "Prepare for baseboard repair by clearing furniture, covering items, and ensuring the work area is dry, especially if moisture damage is present."
+}

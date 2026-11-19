@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-install-a-smart-lock-on-any-existing-door",
+  "name": "Can I install a smart lock on any existing door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a smart lock on any existing door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While many smart locks are designed to fit standard door preparations, compatibility can vary. Most smart locks require a standard deadbolt bore hole (typically 2-1/8 inches in diameter) and specific backset measurements. Thicker doors or doors with non-standard hardware might require modifications or may not be compatible with certain smart lock models. It's important to check the specifications of your door and the smart lock you're considering to ensure a proper fit. Maine Results, Inc. can help evaluate your existing door setup and recommend smart lock options that are compatible, or advise on any necessary adjustments for installation.",
+        "@type": "Answer",
+        "description": "Smart lock compatibility depends on your door's existing bore holes and thickness; some doors may require modifications or might not be compatible."
+      }
+    }
+  ],
+  "description": "Smart lock compatibility depends on your door's existing bore holes and thickness; some doors may require modifications or might not be compatible."
+}

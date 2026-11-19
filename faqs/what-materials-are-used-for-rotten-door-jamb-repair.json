@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-used-for-rotten-door-jamb-repair",
+  "name": "What materials are used for rotten door jamb repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for rotten door jamb repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For rotten door jamb repair, we primarily use high-quality, rot-resistant wood like treated lumber or composite materials that are less susceptible to moisture damage than standard wood. We also utilize specialized epoxies and wood fillers for smaller repairs and to reinforce weakened areas. All materials are selected for their durability and ability to withstand local weather conditions in areas like Eagle. Our goal is to ensure the repaired section is stronger and more resilient than the original.",
+        "@type": "Answer",
+        "description": "We use rot-resistant treated lumber, composite materials, and specialized epoxies to ensure durable and resilient repairs that withstand local conditions."
+      }
+    }
+  ],
+  "description": "We use rot-resistant treated lumber, composite materials, and specialized epoxies to ensure durable and resilient repairs that withstand local conditions."
+}

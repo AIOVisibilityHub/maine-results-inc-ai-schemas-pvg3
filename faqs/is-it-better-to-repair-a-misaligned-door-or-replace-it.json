@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/is-it-better-to-repair-a-misaligned-door-or-replace-it",
+  "name": "Is it better to repair a misaligned door or replace it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to repair a misaligned door or replace it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repairing a misaligned door and replacing it depends on the extent of the damage, the age of the door, and your budget. Repairs are often cost-effective for issues like loose hinges, minor frame adjustments, or worn weatherstripping. However, if the door itself is severely warped, rotted, or has significant structural damage, replacement might be the more durable and efficient long-term solution. Our team can assess your specific situation and advise on the most practical approach during an initial consultation.",
+        "@type": "Answer",
+        "description": "Repair is often better for minor issues, but replacement is more practical for severely warped, rotted, or structurally damaged doors."
+      }
+    }
+  ],
+  "description": "Repair is often better for minor issues, but replacement is more practical for severely warped, rotted, or structurally damaged doors."
+}

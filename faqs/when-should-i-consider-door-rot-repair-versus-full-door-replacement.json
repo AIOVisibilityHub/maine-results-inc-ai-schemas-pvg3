@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-door-rot-repair-versus-full-door-replacement",
+  "name": "When should I consider door rot repair versus full door replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider door rot repair versus full door replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider door rot repair if the damage is localized, minor, and hasn't compromised the door's structural integrity or extended deeply into the frame. This can be a cost-effective solution for small areas of decay. Full door replacement is generally necessary if the rot is extensive, affects critical structural components, or if the door's material has significantly deteriorated beyond superficial repair. A professional assessment can determine the best course of action, weighing the cost-effectiveness and longevity of each option.",
+        "@type": "Answer",
+        "description": "Repair minor, localized rot; replace the door if damage is extensive or affects structural integrity."
+      }
+    }
+  ],
+  "description": "Repair minor, localized rot; replace the door if damage is extensive or affects structural integrity."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-a-deadbolt-on-all-exterior-doors",
+  "name": "Do I need a deadbolt on all exterior doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a deadbolt on all exterior doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is highly recommended to install a deadbolt on all exterior doors, including side and back entrances, not just the front door. Intruders often target less visible entry points. A deadbolt provides an additional layer of security beyond a standard doorknob lock, making forced entry significantly more difficult. Ensuring consistent security across all access points is a key step in protecting your property. Maine Results, Inc. can help you assess all entryways and ensure comprehensive security coverage for your home in Kuna or Meridian.",
+        "@type": "Answer",
+        "description": "Yes, it's highly recommended to install deadbolts on all exterior doors for consistent security, as intruders may target less visible entry points."
+      }
+    }
+  ],
+  "description": "Yes, it's highly recommended to install deadbolts on all exterior doors for consistent security, as intruders may target less visible entry points."
+}

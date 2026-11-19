@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-involved-in-the-process-of-replacing-an-old-door-handle",
+  "name": "What is involved in the process of replacing an old door handle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of replacing an old door handle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing an old door handle involves several steps: first, carefully removing the existing hardware, including the handle, latch, and strike plate. Next, we prepare the door and frame to ensure the new handle fits correctly, which may involve minor adjustments or cleaning. Finally, the new handle, latch mechanism, and strike plate are installed and adjusted to ensure smooth operation and proper security. We always test the new handle thoroughly for functionality before considering the job complete.",
+        "@type": "Answer",
+        "description": "Replacing a door handle involves removing the old hardware, preparing the door and frame, and then installing and adjusting the new handle and components for smooth operation."
+      }
+    }
+  ],
+  "description": "Replacing a door handle involves removing the old hardware, preparing the door and frame, and then installing and adjusting the new handle and components for sm"
+}

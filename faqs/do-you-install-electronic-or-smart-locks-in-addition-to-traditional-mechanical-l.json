@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-install-electronic-or-smart-locks-in-addition-to-traditional-mechanical-l",
+  "name": "Do you install electronic or smart locks in addition to traditional mechanical locks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you install electronic or smart locks in addition to traditional mechanical locks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. installs a wide range of door locks, including modern electronic and smart locks, alongside traditional mechanical options. Electronic and smart locks offer enhanced convenience and security features such as keyless entry, remote access control, integration with home automation systems, and tamper alerts. Whether you're looking for a simple key code entry system or a fully integrated smart lock that connects to your smartphone, we can professionally install these advanced systems. Our team is equipped to handle the specific wiring and programming requirements that electronic and smart locks often entail, ensuring they function correctly and securely.",
+        "@type": "Answer",
+        "description": "Yes, we install both traditional mechanical locks and modern electronic or smart locks, including those with keyless entry, remote access, and smart home integration."
+      }
+    }
+  ],
+  "description": "Yes, we install both traditional mechanical locks and modern electronic or smart locks, including those with keyless entry, remote access, and smart home integr"
+}

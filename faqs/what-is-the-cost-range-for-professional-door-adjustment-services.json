@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-cost-range-for-professional-door-adjustment-services",
+  "name": "What is the cost range for professional door adjustment services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost range for professional door adjustment services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for professional door adjustment services depends on the complexity of the problem and the type of door. Simple adjustments might be less expensive, while issues requiring frame repair, component replacement, or extensive realignment can incur higher costs. We recommend scheduling a consultation so we can assess the specific issue and provide an accurate estimate based on the necessary labor and materials. Our service area includes Garden City, Meridian, Eagle, and Kuna, and our pricing is consistent across these locations.",
+        "@type": "Answer",
+        "description": "Door adjustment costs vary by problem complexity; we offer estimates after assessing the specific issue."
+      }
+    }
+  ],
+  "description": "Door adjustment costs vary by problem complexity; we offer estimates after assessing the specific issue."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/why-is-my-door-sticking-and-can-it-be-a-sign-of-a-bigger-problem",
+  "name": "Why is my door sticking, and can it be a sign of a bigger problem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is my door sticking, and can it be a sign of a bigger problem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A door can stick for several reasons, including changes in humidity causing wood to swell, loose hinges, or a shifting door frame. While often a minor issue, a door that suddenly sticks or rubs can also indicate structural movement in your home's foundation. If the sticking is accompanied by cracks in walls, uneven floors, or difficulty operating other doors and windows, it's worth having a professional inspect your foundation to determine the underlying cause and necessary repairs.",
+        "@type": "Answer",
+        "description": "Doors stick due to humidity, loose hinges, or a shifting frame. Sudden sticking with other signs like wall cracks can signal a foundation issue."
+      }
+    }
+  ],
+  "description": "Doors stick due to humidity, loose hinges, or a shifting frame. Sudden sticking with other signs like wall cracks can signal a foundation issue."
+}

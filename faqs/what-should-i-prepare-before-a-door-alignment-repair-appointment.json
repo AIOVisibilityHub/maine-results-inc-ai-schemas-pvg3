@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-a-door-alignment-repair-appointment",
+  "name": "What should I prepare before a door alignment repair appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a door alignment repair appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your door alignment repair appointment, it's helpful to clear the area around the door, removing any furniture, rugs, or obstacles that might impede access. You should also note any specific symptoms you've observed, such as where the door scrapes or when it's most difficult to close, as this information can assist our technicians. Having a clear path allows our team to begin work immediately and ensures their safety.",
+        "@type": "Answer",
+        "description": "Clear the area around the door and note any specific symptoms of misalignment to help technicians."
+      }
+    }
+  ],
+  "description": "Clear the area around the door and note any specific symptoms of misalignment to help technicians."
+}

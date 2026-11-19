@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-prepare-my-room-before-ceiling-trim-installation",
+  "name": "Do I need to prepare my room before ceiling trim installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to prepare my room before ceiling trim installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, some preparation is beneficial before ceiling trim installation. We ask that you clear the room of furniture or move it to the center and cover it to protect it from dust and debris. We also recommend removing any wall decor or window treatments that might obstruct the installation area. Our team will handle the precise measurements and material preparation, but having a clear workspace allows for a smoother and more efficient installation process.",
+        "@type": "Answer",
+        "description": "Clear the room of furniture and wall decor; a clear workspace helps ensure a smoother, more efficient installation process."
+      }
+    }
+  ],
+  "description": "Clear the room of furniture and wall decor; a clear workspace helps ensure a smoother, more efficient installation process."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-adjust-a-sagging-door-myself-or-should-i-hire-a-professional",
+  "name": "Can I adjust a sagging door myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I adjust a sagging door myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For minor issues like loose hinge screws, you might be able to adjust a sagging door yourself with basic tools. However, if the sagging is due to a warped door, a misaligned frame, or significant structural issues, professional intervention is often best. Incorrect adjustments can worsen the problem or damage the door and frame. A professional can accurately diagnose the root cause, ensure proper alignment, and recommend durable solutions to prevent recurring issues, especially for heavier exterior doors common in areas like Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "Minor sagging might be DIY-fixable, but complex issues, warping, or frame misalignment often require professional help."
+      }
+    }
+  ],
+  "description": "Minor sagging might be DIY-fixable, but complex issues, warping, or frame misalignment often require professional help."
+}

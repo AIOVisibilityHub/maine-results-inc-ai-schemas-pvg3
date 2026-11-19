@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-typically-take-to-repair-a-water-damaged-door",
+  "name": "How long does it typically take to repair a water-damaged door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to repair a water-damaged door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to repair a water-damaged door varies depending on the severity of the damage and the type of repair needed. Minor repairs, such as sanding and repainting small areas, might take a few hours. More extensive repairs involving wood rot removal, structural reinforcement, or a full door replacement could take a day or more. We prioritize efficient service for our clients in Boise Heights or Garden City, aiming to complete projects with minimal disruption to your daily routine.",
+        "@type": "Answer",
+        "description": "Repair time depends on damage severity, ranging from a few hours for minor issues to a day or more for extensive repairs or replacement. We work efficiently to minimize disruption."
+      }
+    }
+  ],
+  "description": "Repair time depends on damage severity, ranging from a few hours for minor issues to a day or more for extensive repairs or replacement. We work efficiently to"
+}

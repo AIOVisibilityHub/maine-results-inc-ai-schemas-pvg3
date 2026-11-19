@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-maintenance-can-i-do-to-prevent-my-doors-from-sagging",
+  "name": "What kind of maintenance can I do to prevent my doors from sagging?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance can I do to prevent my doors from sagging?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance can significantly extend the life of your doors and prevent sagging. This includes periodically checking and tightening hinge screws, especially on frequently used doors or heavier doors. You should also inspect weather stripping for damage and ensure proper drainage around exterior doors to prevent moisture from affecting the frame. For homes in areas like Star or Caldwell, where seasonal changes can impact wood, applying a protective finish to exterior doors and frames can also help prevent warping.",
+        "@type": "Answer",
+        "description": "Prevent sagging by regularly tightening hinge screws, checking weather stripping, ensuring proper drainage, and applying protective finishes to exterior doors."
+      }
+    }
+  ],
+  "description": "Prevent sagging by regularly tightening hinge screws, checking weather stripping, ensuring proper drainage, and applying protective finishes to exterior doors."
+}

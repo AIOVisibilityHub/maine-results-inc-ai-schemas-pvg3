@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-repair-a-rotten-door-jamb",
+  "name": "How long does it take to repair a rotten door jamb?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a rotten door jamb?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to repair a rotten door jamb depends on the extent of the damage and the complexity of the door frame. A minor repair might take a few hours, while a more extensive repair or partial replacement could take a full day. Factors like the type of wood, existing finishes, and whether the repair involves custom-matching elements can also influence the timeline. Our specialists at Maine Results, Inc. provide a time estimate after assessing the specific damage during an on-site visit.",
+        "@type": "Answer",
+        "description": "Repair time varies based on damage extent and complexity, ranging from a few hours for minor issues to a full day for more extensive repairs or replacements."
+      }
+    }
+  ],
+  "description": "Repair time varies based on damage extent and complexity, ranging from a few hours for minor issues to a full day for more extensive repairs or replacements."
+}

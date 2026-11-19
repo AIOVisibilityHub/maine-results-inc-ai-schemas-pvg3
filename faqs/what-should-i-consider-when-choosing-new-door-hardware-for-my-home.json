@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-when-choosing-new-door-hardware-for-my-home",
+  "name": "What should I consider when choosing new door hardware for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing new door hardware for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting new door hardware, consider security level, durability, style, and compatibility with your existing doors. For exterior doors, prioritize robust locking mechanisms and weather-resistant finishes. For interior doors, focus on function and aesthetic appeal that complements your home's design. We recommend thinking about whether you prefer traditional keys, keypads, or smart lock integration, and we can help you compare these options to find the best fit for your specific needs in areas like Garden City, Meridian, Eagle, and Kuna.",
+        "@type": "Answer",
+        "description": "Consider security, durability, style, and door compatibility when choosing hardware. Prioritize robust locks for exterior doors and focus on aesthetics for interior doors, comparing traditional, keypad, or smart lock options."
+      }
+    }
+  ],
+  "description": "Consider security, durability, style, and door compatibility when choosing hardware. Prioritize robust locks for exterior doors and focus on aesthetics for inte"
+}

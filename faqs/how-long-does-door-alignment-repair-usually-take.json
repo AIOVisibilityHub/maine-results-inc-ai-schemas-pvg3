@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-door-alignment-repair-usually-take",
+  "name": "How long does door alignment repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does door alignment repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for door alignment repair can vary based on the severity and cause of the problem. Simple adjustments, like tightening hinges or adjusting a strike plate, might take as little as an hour. More complex issues involving warped frames or underlying structural problems could require several hours or even a return visit. To help us estimate timing more accurately, you can provide photos or a detailed description of the issue when you first reach out.",
+        "@type": "Answer",
+        "description": "Repair time varies; simple adjustments can be an hour, while complex issues may take several hours or require a return visit."
+      }
+    }
+  ],
+  "description": "Repair time varies; simple adjustments can be an hour, while complex issues may take several hours or require a return visit."
+}

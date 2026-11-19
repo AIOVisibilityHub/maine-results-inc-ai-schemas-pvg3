@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/does-rotten-door-frame-repair-include-painting-and-finishing",
+  "name": "Does rotten door frame repair include painting and finishing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does rotten door frame repair include painting and finishing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, our rotten door frame repair service typically includes finishing the repaired area. After the new wood or epoxy is installed and cured, the area is sanded smooth, primed, and painted to match your existing door frame as closely as possible. This ensures the repair is not only structurally sound but also blends seamlessly with your home's exterior or interior aesthetics. Our goal is to leave your door frame looking good as new, protecting it from future moisture and enhancing your home's curb appeal.",
+        "@type": "Answer",
+        "description": "Yes, our repair service includes sanding, priming, and painting the repaired area to match your existing door frame and ensure a seamless, protective finish."
+      }
+    }
+  ],
+  "description": "Yes, our repair service includes sanding, priming, and painting the repaired area to match your existing door frame and ensure a seamless, protective finish."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-scheduling-a-door-hinge-repair-service",
+  "name": "What is the process for scheduling a door hinge repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for scheduling a door hinge repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for scheduling a door hinge repair service is straightforward. First, contact us via phone or our website to describe your issue and provide your location within our service areas, such as Meridian or Eagle. We will then schedule a convenient time for a technician to visit your property, assess the hinge problem, and provide a detailed repair plan and estimate. Once approved, the repair can often be completed on the same visit or scheduled promptly. Our aim is to make the process as efficient as possible.",
+        "@type": "Answer",
+        "description": "Contact us to describe the issue and schedule an assessment; we'll provide a repair plan and estimate, then complete the service."
+      }
+    }
+  ],
+  "description": "Contact us to describe the issue and schedule an assessment; we'll provide a repair plan and estimate, then complete the service."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-for-maine-results-to-install-new-door-hardware",
+  "name": "How long does it take for Maine Results to install new door hardware?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take for Maine Results to install new door hardware?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for door hardware varies depending on the type of hardware and the number of doors. Simple knob or lever replacements might take under an hour per door, while complex smart lock systems or multiple door installations could take longer. When you contact us, we'll discuss your specific needs and provide an estimated timeline. The process is also affected by whether new bores are needed or if existing hardware is simply being replaced, which we will assess during our initial consultation.",
+        "@type": "Answer",
+        "description": "Installation time depends on hardware type and number of doors; simple replacements are quicker, while complex systems or multiple doors take longer. We provide an estimated timeline after assessing your project needs."
+      }
+    }
+  ],
+  "description": "Installation time depends on hardware type and number of doors; simple replacements are quicker, while complex systems or multiple doors take longer. We provide"
+}

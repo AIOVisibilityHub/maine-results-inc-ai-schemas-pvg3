@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-maine-results-install-smart-door-locks",
+  "name": "Can Maine Results install smart door locks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Maine Results install smart door locks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results is experienced in installing various types of smart door locks, including those with keypad entry, fingerprint recognition, and Wi-Fi or Bluetooth connectivity. When considering a smart lock, it's important to think about its compatibility with your existing smart home system, if any, and your preferred method of remote access. We can help you understand the features and installation requirements for different models to ensure seamless integration into your home security setup in locations such as Meridian and Eagle.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results installs various smart door locks, including keypad, fingerprint, and connected models. Consider compatibility with existing smart home systems and preferred remote access when choosing a smart lock."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results installs various smart door locks, including keypad, fingerprint, and connected models. Consider compatibility with existing smart home syste"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-install-ceiling-trim-in-a-standard-room",
+  "name": "How long does it take to install ceiling trim in a standard room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install ceiling trim in a standard room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to install ceiling trim in a standard room can vary depending on the room's size, the complexity of the trim style, and the existing wall and ceiling conditions. Simple cove molding in a rectangular room might take less time than intricate crown molding with multiple inside and outside corners. We will provide a project timeline estimate during our initial consultation, which accounts for factors unique to your specific home in areas such as Star or Caldwell.",
+        "@type": "Answer",
+        "description": "Installation time depends on room size, trim complexity, and existing conditions; a timeline estimate is provided during consultation."
+      }
+    }
+  ],
+  "description": "Installation time depends on room size, trim complexity, and existing conditions; a timeline estimate is provided during consultation."
+}

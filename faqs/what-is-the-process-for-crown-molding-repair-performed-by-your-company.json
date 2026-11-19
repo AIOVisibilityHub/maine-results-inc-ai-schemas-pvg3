@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-crown-molding-repair-performed-by-your-company",
+  "name": "What is the process for crown molding repair performed by your company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for crown molding repair performed by your company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our crown molding repair process begins with an initial consultation and on-site assessment to evaluate the damage and determine the best repair method. We then prepare the area, which may involve protecting surrounding surfaces and removing loose debris. Depending on the damage, we might fill cracks, patch holes, replace damaged sections, or re-secure loose molding. After the repair, we sand and prime the area, preparing it for painting to match your existing trim. The final step involves a thorough cleanup and your inspection to ensure satisfaction.",
+        "@type": "Answer",
+        "description": "Our repair process includes assessment, site preparation, damage repair, sanding, priming, and final cleanup, ensuring a seamless match."
+      }
+    }
+  ],
+  "description": "Our repair process includes assessment, site preparation, damage repair, sanding, priming, and final cleanup, ensuring a seamless match."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-baseboards-need-repair",
+  "name": "What are common signs that baseboards need repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that baseboards need repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that baseboards need repair include visible cracks, dents, warping due to moisture, gaps where they meet the wall or floor, or discoloration. If the damage is extensive, such as rotting wood from a leak, a full replacement might be more cost-effective than attempting multiple repairs, ensuring a lasting aesthetic and structural integrity. Catching these issues early can prevent more significant damage to your walls or flooring.",
+        "@type": "Answer",
+        "description": "Visible cracks, dents, warping, gaps, or discoloration are common signs that baseboards need repair."
+      }
+    }
+  ],
+  "description": "Visible cracks, dents, warping, gaps, or discoloration are common signs that baseboards need repair."
+}

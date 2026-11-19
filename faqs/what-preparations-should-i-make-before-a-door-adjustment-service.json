@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparations-should-i-make-before-a-door-adjustment-service",
+  "name": "What preparations should I make before a door adjustment service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before a door adjustment service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a door adjustment service, you should clear the immediate area around the door to allow technicians easy access. Remove any rugs, furniture, or decor that might obstruct the workspace. If the door has smart locks or security devices, be ready to provide access or instructions for their temporary deactivation if needed for the adjustment. Communicating any specific concerns or observations about the door's behavior beforehand can also help us address the issue efficiently.",
+        "@type": "Answer",
+        "description": "Clear the area around the door and be ready to provide access or instructions for smart devices before service."
+      }
+    }
+  ],
+  "description": "Clear the area around the door and be ready to provide access or instructions for smart devices before service."
+}

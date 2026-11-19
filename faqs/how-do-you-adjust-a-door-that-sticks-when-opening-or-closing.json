@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-adjust-a-door-that-sticks-when-opening-or-closing",
+  "name": "How do you adjust a door that sticks when opening or closing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you adjust a door that sticks when opening or closing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To adjust a door that sticks, we first identify the exact point of contact. This often involves checking hinge tightness, hinge alignment, and whether the door itself is warped. We may adjust hinges by tightening screws or shimming them, plane down the door edge slightly if necessary, or adjust the strike plate. For doors sticking due to humidity in areas like Caldwell or Nampa, understanding the material (wood vs. composite) helps us determine the most effective and lasting adjustment method.",
+        "@type": "Answer",
+        "description": "We adjust sticking doors by checking hinges, door warp, and contact points, then tightening hinges, shimming, planing, or adjusting the strike plate."
+      }
+    }
+  ],
+  "description": "We adjust sticking doors by checking hinges, door warp, and contact points, then tightening hinges, shimming, planing, or adjusting the strike plate."
+}

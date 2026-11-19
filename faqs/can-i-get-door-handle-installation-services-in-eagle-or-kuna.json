@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-get-door-handle-installation-services-in-eagle-or-kuna",
+  "name": "Can I get door handle installation services in Eagle or Kuna?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get door handle installation services in Eagle or Kuna?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. provides door handle installation services in Eagle, Kuna, and other surrounding areas like Garden City, Meridian, and Star. Our service area covers these communities to ensure residents can access quality installation for their homes. When requesting service, providing your exact address helps us confirm service availability and allows our team to plan the most efficient route and schedule. We're committed to serving our local communities.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. offers door handle installation in Eagle, Kuna, and surrounding communities like Garden City, Meridian, and Star. Provide your address for scheduling."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. offers door handle installation in Eagle, Kuna, and surrounding communities like Garden City, Meridian, and Star. Provide your address"
+}

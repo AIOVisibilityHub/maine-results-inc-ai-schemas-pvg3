@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-maine-results-inc-install-ceiling-trim-in-older-homes-with-uneven-walls",
+  "name": "Do Maine Results, Inc. install ceiling trim in older homes with uneven walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do Maine Results, Inc. install ceiling trim in older homes with uneven walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. has experience installing ceiling trim in older homes, which often present challenges like uneven walls or ceilings. Our skilled installers use techniques to account for these irregularities, ensuring the trim looks straight and seamless. We will conduct a thorough assessment during our consultation to identify any specific challenges in your older home and discuss the best approach to achieve a high-quality finish.",
+        "@type": "Answer",
+        "description": "Yes, we install ceiling trim in older homes with uneven walls; our installers use techniques to ensure a straight, seamless finish."
+      }
+    }
+  ],
+  "description": "Yes, we install ceiling trim in older homes with uneven walls; our installers use techniques to ensure a straight, seamless finish."
+}

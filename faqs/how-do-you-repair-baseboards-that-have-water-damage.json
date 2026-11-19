@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-repair-baseboards-that-have-water-damage",
+  "name": "How do you repair baseboards that have water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you repair baseboards that have water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing water-damaged baseboards often involves removing the affected section, drying the area thoroughly, and addressing the water source to prevent future issues. We assess the extent of the damage to determine if the baseboard can be patched and repainted, or if full replacement of the section is necessary to match existing trim. For severe damage or persistent moisture, it's crucial to consult with a professional to ensure the underlying cause is resolved before cosmetic repairs begin, which is a key part of our process to ensure long-term solutions.",
+        "@type": "Answer",
+        "description": "Water-damaged baseboards are repaired by removing affected sections, drying the area, and fixing the water source, then patching or replacing the trim."
+      }
+    }
+  ],
+  "description": "Water-damaged baseboards are repaired by removing affected sections, drying the area, and fixing the water source, then patching or replacing the trim."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-general-process-for-restoring-a-historic-door",
+  "name": "What is the general process for restoring a historic door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the general process for restoring a historic door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our restoration process typically begins with a thorough inspection and assessment of the door's condition. This helps us identify specific damage and determine the best approach. Next, the door is often carefully removed and transported to our workshop. The paint and old finishes are stripped, repairs are made to the wood structure, and any missing or damaged components are replicated or restored. Finally, a new, historically appropriate finish is applied. Process clarity is important, as each step aims to preserve the door's historical accuracy while ensuring its functionality and longevity.",
+        "@type": "Answer",
+        "description": "The process involves inspection, removal, stripping old finishes, structural repairs, replication of components, and applying a new finish. Each step ensures historical accuracy and functionality."
+      }
+    }
+  ],
+  "description": "The process involves inspection, removal, stripping old finishes, structural repairs, replication of components, and applying a new finish. Each step ensures hi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-install-smart-door-handles-or-keyless-entry-systems",
+  "name": "Do you install smart door handles or keyless entry systems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you install smart door handles or keyless entry systems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we install a wide range of smart door handles and keyless entry systems. These systems offer enhanced security features and convenience, often integrating with home automation. When considering a smart lock, it's important to think about compatibility with your existing smart home ecosystem and your preferred method of entry, such as keypad, fingerprint, or smartphone app. Our team can help you understand the requirements and benefits of different models. Proper installation ensures reliable performance and connection.",
+        "@type": "Answer",
+        "description": "Yes, we install smart door handles and keyless entry systems, which offer enhanced security and convenience. Consider compatibility with your smart home setup."
+      }
+    }
+  ],
+  "description": "Yes, we install smart door handles and keyless entry systems, which offer enhanced security and convenience. Consider compatibility with your smart home setup."
+}

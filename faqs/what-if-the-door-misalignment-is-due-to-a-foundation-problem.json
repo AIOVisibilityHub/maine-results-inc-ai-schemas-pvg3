@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-if-the-door-misalignment-is-due-to-a-foundation-problem",
+  "name": "What if the door misalignment is due to a foundation problem?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if the door misalignment is due to a foundation problem?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If door misalignment is found to be due to a foundation problem, our initial repair will focus on adjusting the door and frame to restore functionality and security. However, addressing the underlying foundation issue is crucial for a long-term solution. While Maine Results, Inc. focuses on door and structural repairs, we can often identify signs of foundation problems and may recommend further evaluation by a foundation specialist if necessary to prevent recurring issues.",
+        "@type": "Answer",
+        "description": "If misalignment is due to a foundation issue, we'll repair the door, but recommend addressing the underlying foundation problem for a long-term solution."
+      }
+    }
+  ],
+  "description": "If misalignment is due to a foundation issue, we'll repair the door, but recommend addressing the underlying foundation problem for a long-term solution."
+}

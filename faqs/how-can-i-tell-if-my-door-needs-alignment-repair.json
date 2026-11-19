@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-tell-if-my-door-needs-alignment-repair",
+  "name": "How can I tell if my door needs alignment repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my door needs alignment repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your door needs alignment repair include difficulty opening or closing, scraping against the frame or floor, uneven gaps around the door, or a latch that doesn't catch properly. You might also notice drafts or increased energy bills if the seal is compromised due to misalignment. Before contacting us, you can check for obvious gaps with a piece of paper or try to gently wiggle the door to see if it moves excessively on its hinges.",
+        "@type": "Answer",
+        "description": "Look for difficulty opening/closing, scraping, uneven gaps, or a latch that doesn't catch. Drafts can also indicate a problem."
+      }
+    }
+  ],
+  "description": "Look for difficulty opening/closing, scraping, uneven gaps, or a latch that doesn't catch. Drafts can also indicate a problem."
+}

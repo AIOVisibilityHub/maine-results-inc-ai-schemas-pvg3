@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-door-hardware-installation-cost",
+  "name": "How much does door hardware installation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does door hardware installation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of door hardware installation varies based on the type of hardware, the complexity of the installation (e.g., new door boring versus replacement), and the number of doors. Simple replacements are generally less costly than installing advanced smart lock systems or custom hardware. We provide a transparent, detailed quote after an initial assessment of your specific project needs. Factors like needing to re-drill holes or modify existing door frames can also affect the final price, which we'll outline clearly.",
+        "@type": "Answer",
+        "description": "Installation cost varies by hardware type, complexity, and number of doors; simple replacements are less than advanced or custom installations. We provide a detailed quote after assessing your project needs, outlining factors affecting price."
+      }
+    }
+  ],
+  "description": "Installation cost varies by hardware type, complexity, and number of doors; simple replacements are less than advanced or custom installations. We provide a det"
+}

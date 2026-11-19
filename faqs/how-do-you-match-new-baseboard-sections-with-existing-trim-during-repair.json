@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-match-new-baseboard-sections-with-existing-trim-during-repair",
+  "name": "How do you match new baseboard sections with existing trim during repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you match new baseboard sections with existing trim during repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Matching new baseboard sections with existing trim during repair involves careful selection of material, profile, and finish. We first identify the existing baseboard's profile and material type (e.g., MDF, pine, custom wood). If an exact match isn't available off-the-shelf, we can sometimes source similar profiles or use techniques to blend the new section with the old, such as careful sanding and custom painting. Our goal is to achieve a seamless transition in both shape and color, ensuring the repair is virtually undetectable to maintain your home's aesthetic consistency.",
+        "@type": "Answer",
+        "description": "We match new baseboard sections by identifying existing material and profile, then sourcing or custom-blending new pieces with careful sanding and painting for a seamless finish."
+      }
+    }
+  ],
+  "description": "We match new baseboard sections by identifying existing material and profile, then sourcing or custom-blending new pieces with careful sanding and painting for"
+}

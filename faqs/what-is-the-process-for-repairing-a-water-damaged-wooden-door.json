@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-repairing-a-water-damaged-wooden-door",
+  "name": "What is the process for repairing a water-damaged wooden door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a water-damaged wooden door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for repairing a water-damaged wooden door typically begins with thorough drying of the affected area to prevent further deterioration and mold growth. Next, any soft, rotted, or severely damaged wood is carefully removed. Depending on the extent, this might involve patching with wood filler for minor spots or replacing entire sections of wood for more significant damage. After structural repairs, the door is sanded smooth, primed, and then painted or stained to match the existing finish. A critical step often overlooked is addressing the source of water intrusion to prevent recurrence, which we can help identify during our assessment.",
+        "@type": "Answer",
+        "description": "Repairing a water-damaged wooden door involves drying, removing damaged wood, patching or replacing sections, sanding, priming, and refinishing. Identifying the water source is also crucial."
+      }
+    }
+  ],
+  "description": "Repairing a water-damaged wooden door involves drying, removing damaged wood, patching or replacing sections, sanding, priming, and refinishing. Identifying the"
+}

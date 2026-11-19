@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-painting-services-after-crown-molding-repair",
+  "name": "Do you offer painting services after crown molding repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer painting services after crown molding repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, our crown molding repair services often include preparation for painting, and we can provide the final paint application as well. After repairing and sanding the molding, we prime the repaired areas to ensure an even and consistent finish. We can then paint the repaired sections, or the entire molding, to match your existing trim or to your desired color. This ensures a seamless look, where the repair is virtually undetectable, completing the aesthetic restoration of your crown molding.",
+        "@type": "Answer",
+        "description": "Yes, our crown molding repair services include priming and painting to ensure a seamless match with your existing trim or a new color choice."
+      }
+    }
+  ],
+  "description": "Yes, our crown molding repair services include priming and painting to ensure a seamless match with your existing trim or a new color choice."
+}

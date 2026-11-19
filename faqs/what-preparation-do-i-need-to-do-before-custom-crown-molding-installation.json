@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-do-i-need-to-do-before-custom-crown-molding-installation",
+  "name": "What preparation do I need to do before custom crown molding installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before custom crown molding installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before custom crown molding installation, it's helpful to clear furniture away from the walls and remove any wall hangings or window treatments in the work areas. This provides our team with unobstructed access and helps protect your belongings. We also recommend having a clear idea of your desired finish (paint color or stain type) so we can ensure the final steps align with your vision. This preparation ensures a smoother and more efficient installation process.",
+        "@type": "Answer",
+        "description": "Before installation, clear furniture, wall hangings, and window treatments from work areas. Also, have your desired finish (paint or stain) ready for an efficient process."
+      }
+    }
+  ],
+  "description": "Before installation, clear furniture, wall hangings, and window treatments from work areas. Also, have your desired finish (paint or stain) ready for an efficie"
+}

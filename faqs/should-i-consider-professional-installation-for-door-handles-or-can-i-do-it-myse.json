@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-consider-professional-installation-for-door-handles-or-can-i-do-it-myse",
+  "name": "Should I consider professional installation for door handles, or can I do it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I consider professional installation for door handles, or can I do it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some homeowners may attempt door handle installation themselves, professional installation ensures correct fit, optimal functionality, and security, especially for complex locking mechanisms or when modifications to the door are needed. An incorrect installation can lead to alignment issues, premature wear, or compromised security. Maine Results, Inc. technicians have the tools and expertise to handle various door types and handle styles, saving you time and preventing potential issues.",
+        "@type": "Answer",
+        "description": "Professional installation ensures correct fit, optimal functionality, and security, especially for complex locking mechanisms. Incorrect installation can lead to issues."
+      }
+    }
+  ],
+  "description": "Professional installation ensures correct fit, optimal functionality, and security, especially for complex locking mechanisms. Incorrect installation can lead t"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-door-locks-can-be-installed-in-a-home",
+  "name": "What types of door locks can be installed in a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of door locks can be installed in a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There is a wide variety of door locks available for residential installation, each offering different levels of security and features. Common types include deadbolts, which provide strong additional security; knob locks, often used for interior doors; lever handle locks, which are easier to operate; and smart locks, which offer keyless entry, remote control, and integration with smart home systems. The best choice often depends on the specific door's function, the desired security level, and your budget. Maine Results, Inc. can assess your current doors and suggest suitable options that align with your security needs and aesthetic preferences.",
+        "@type": "Answer",
+        "description": "Common types of door locks include deadbolts, knob locks, lever handles, and smart locks, each offering varying security and features."
+      }
+    }
+  ],
+  "description": "Common types of door locks include deadbolts, knob locks, lever handles, and smart locks, each offering varying security and features."
+}

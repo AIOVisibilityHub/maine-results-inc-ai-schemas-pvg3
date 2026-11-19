@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-repair-crown-molding-that-has-been-damaged-by-water",
+  "name": "Can you repair crown molding that has been damaged by water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair crown molding that has been damaged by water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we frequently repair crown molding that has sustained water damage. The approach depends on the severity. If the damage is superficial, such as stains or minor swelling, we can often clean, sand, and refinish the existing molding. However, if the water has caused rot, significant warping, or structural compromise to the wood or plaster, then replacing the affected sections is usually necessary. It's crucial to address the source of the water leak first to prevent future damage before any repair work begins.",
+        "@type": "Answer",
+        "description": "We can repair water-damaged crown molding; minor issues are refinished, while severe damage like rot requires section replacement after addressing the leak source."
+      }
+    }
+  ],
+  "description": "We can repair water-damaged crown molding; minor issues are refinished, while severe damage like rot requires section replacement after addressing the leak sour"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-deadbolts-are-available-for-home-security",
+  "name": "What types of deadbolts are available for home security?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of deadbolts are available for home security?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are several types of deadbolts to enhance home security. Single-cylinder deadbolts require a key on the exterior and a thumb-turn on the interior. Double-cylinder deadbolts require a key on both sides, offering increased security but potentially posing a fire safety risk if keys aren't readily accessible. Electronic or smart deadbolts offer keyless entry via keypads, fobs, or smartphone apps, integrating with modern home systems. When choosing, consider your specific security needs, ease of use, and local safety regulations, especially for properties in Garden City or surrounding areas.",
+        "@type": "Answer",
+        "description": "Available deadbolt types include single-cylinder, double-cylinder, and electronic, each offering different security and convenience features."
+      }
+    }
+  ],
+  "description": "Available deadbolt types include single-cylinder, double-cylinder, and electronic, each offering different security and convenience features."
+}

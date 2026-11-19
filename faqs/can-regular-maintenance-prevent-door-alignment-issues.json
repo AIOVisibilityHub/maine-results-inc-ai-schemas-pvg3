@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-regular-maintenance-prevent-door-alignment-issues",
+  "name": "Can regular maintenance prevent door alignment issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can regular maintenance prevent door alignment issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, regular maintenance can significantly help prevent door alignment issues. This includes periodically checking and tightening hinge screws, lubricating hinges, and inspecting weatherstripping for wear. Ensuring proper drainage around your home's foundation can also mitigate soil movement, which is a common cause of misalignment. Proactive care helps extend the life of your doors and can reduce the need for more significant repairs.",
+        "@type": "Answer",
+        "description": "Regular maintenance like tightening hinges and inspecting weatherstripping can help prevent door alignment issues."
+      }
+    }
+  ],
+  "description": "Regular maintenance like tightening hinges and inspecting weatherstripping can help prevent door alignment issues."
+}

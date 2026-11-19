@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-rotten-door-jamb-repair",
+  "name": "What is the typical process for rotten door jamb repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for rotten door jamb repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for rotten door jamb repair involves several steps. First, the damaged wood is carefully removed, ensuring all rotted material is cut away. The exposed area is then thoroughly cleaned and treated to prevent further decay. Next, new wood is precisely cut and fitted to replace the removed sections, often using durable, rot-resistant lumber. Finally, the new wood is securely installed, sealed, and prepared for finishing to match the existing door frame. Our team ensures the repair integrates seamlessly with your home's aesthetics.",
+        "@type": "Answer",
+        "description": "The repair process involves removing rotten wood, treating the area, fitting new wood sections, and then sealing and finishing them to match the existing frame."
+      }
+    }
+  ],
+  "description": "The repair process involves removing rotten wood, treating the area, fitting new wood sections, and then sealing and finishing them to match the existing frame."
+}

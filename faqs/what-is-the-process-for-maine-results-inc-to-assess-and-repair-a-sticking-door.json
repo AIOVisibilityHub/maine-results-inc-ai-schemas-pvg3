@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-maine-results-inc-to-assess-and-repair-a-sticking-door",
+  "name": "What is the process for Maine Results, Inc. to assess and repair a sticking door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for Maine Results, Inc. to assess and repair a sticking door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation where we discuss your concerns and observe the door's behavior. Next, we conduct a thorough inspection to identify the root cause, whether it's humidity, loose hardware, or a structural issue. We then provide a transparent estimate outlining the recommended repairs and associated costs. Once approved, our skilled team performs the necessary work, from simple adjustments to comprehensive structural interventions, ensuring the door functions correctly.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, thorough inspection to find the root cause, a transparent estimate, and then skilled repair work to ensure door functionality."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, thorough inspection to find the root cause, a transparent estimate, and then skilled repair work to ensure door functionality"
+}

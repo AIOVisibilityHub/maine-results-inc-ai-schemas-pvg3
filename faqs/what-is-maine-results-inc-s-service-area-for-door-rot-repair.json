@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-maine-results-inc-s-service-area-for-door-rot-repair",
+  "name": "What is Maine Results, Inc.'s service area for door rot repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is Maine Results, Inc.'s service area for door rot repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. provides door rot repair services to customers in Garden City, Meridian, Eagle, Kuna, and Star. Our local presence allows us to respond promptly to your repair needs and provide personalized service. When you contact us, we'll confirm your location and schedule a convenient time for an on-site assessment to evaluate the extent of the door rot and discuss the best repair options for your home.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. serves Garden City, Meridian, Eagle, Kuna, and Star for door rot repair."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. serves Garden City, Meridian, Eagle, Kuna, and Star for door rot repair."
+}

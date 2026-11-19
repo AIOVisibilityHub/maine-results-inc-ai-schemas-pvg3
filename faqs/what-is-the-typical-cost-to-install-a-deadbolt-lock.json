@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-cost-to-install-a-deadbolt-lock",
+  "name": "What is the typical cost to install a deadbolt lock?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to install a deadbolt lock?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of deadbolt installation can vary based on several factors. These include the type of deadbolt (single-cylinder, double-cylinder, keyless electronic), the material of your door, and whether new drilling or modifications are required. Maine Results, Inc. provides estimates after assessing your specific needs, ensuring transparency and no hidden fees. More complex installations, such as those involving smart home integration or non-standard door frames, may also impact the overall price. We recommend a consultation to get an accurate quote for your property in areas like Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "Deadbolt installation costs vary based on deadbolt type, door material, and installation complexity. Maine Results, Inc. provides estimates after an assessment."
+      }
+    }
+  ],
+  "description": "Deadbolt installation costs vary based on deadbolt type, door material, and installation complexity. Maine Results, Inc. provides estimates after an assessment."
+}

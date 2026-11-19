@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-a-rekey-and-a-new-lock-installation",
+  "name": "What is the difference between a rekey and a new lock installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a rekey and a new lock installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rekeying a lock involves changing the internal pins so that the old keys no longer work, and new keys are required. The existing lock hardware remains in place, making it a cost-effective option to regain security without replacing the entire lock. A new lock installation, conversely, involves removing the old lock hardware entirely and installing a brand-new lock. This is typically done when upgrading to a higher-security lock, changing lock types, or replacing a broken or extensively worn lock. Rekeying is suitable for lost keys or new occupancy, while installation is for hardware upgrades or replacements. Maine Results, Inc. offers both services to meet diverse security needs.",
+        "@type": "Answer",
+        "description": "Rekeying changes a lock's internal pins for new keys, while new lock installation replaces the entire lock hardware, offering different solutions for security needs."
+      }
+    }
+  ],
+  "description": "Rekeying changes a lock's internal pins for new keys, while new lock installation replaces the entire lock hardware, offering different solutions for security n"
+}

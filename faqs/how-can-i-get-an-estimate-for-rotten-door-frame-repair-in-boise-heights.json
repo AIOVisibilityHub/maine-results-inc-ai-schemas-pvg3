@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-get-an-estimate-for-rotten-door-frame-repair-in-boise-heights",
+  "name": "How can I get an estimate for rotten door frame repair in Boise Heights?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I get an estimate for rotten door frame repair in Boise Heights?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To get an estimate for rotten door frame repair in Boise Heights or any of our service areas including Garden City, Meridian, Eagle, Kuna, and Star, simply contact Maine Results, Inc. You can reach us by phone or through our website to schedule an on-site consultation. During the visit, our team will thoroughly inspect the damaged door frame, assess the extent of the rot, and discuss the best repair or replacement options. We'll then provide a detailed, no-obligation estimate outlining the scope of work and associated costs.",
+        "@type": "Answer",
+        "description": "To get an estimate for rotten door frame repair in Boise Heights, contact Maine Results, Inc. for an on-site consultation where we will assess the damage and provide a detailed quote."
+      }
+    }
+  ],
+  "description": "To get an estimate for rotten door frame repair in Boise Heights, contact Maine Results, Inc. for an on-site consultation where we will assess the damage and pr"
+}

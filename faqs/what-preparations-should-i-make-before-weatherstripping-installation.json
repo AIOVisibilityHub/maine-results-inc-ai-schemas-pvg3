@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparations-should-i-make-before-weatherstripping-installation",
+  "name": "What preparations should I make before weatherstripping installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before weatherstripping installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before weatherstripping installation, you should clear the area around the door to allow easy access for our team. If you are replacing existing weatherstripping yourself, gather necessary tools like a utility knife, measuring tape, and cleaning supplies. Ensure the door and frame are clean, dry, and free of old adhesive residue, paint chips, or debris for the best adhesion and seal. For our professional service, providing information about any known drafts or door operational issues beforehand can help us select the most appropriate weatherstripping type and plan for an efficient installation in your Eagle home.",
+        "@type": "Answer",
+        "description": "Clear the area around the door and ensure the door and frame are clean and dry. Inform us of any known drafts or door issues for optimal material selection and installation."
+      }
+    }
+  ],
+  "description": "Clear the area around the door and ensure the door and frame are clean and dry. Inform us of any known drafts or door issues for optimal material selection and"
+}

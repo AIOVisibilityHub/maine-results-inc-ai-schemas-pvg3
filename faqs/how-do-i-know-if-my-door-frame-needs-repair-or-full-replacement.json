@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-door-frame-needs-repair-or-full-replacement",
+  "name": "How do I know if my door frame needs repair or full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my door frame needs repair or full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determine if your door frame needs repair or replacement by assessing the extent of the damage. Minor rot, localized to a small section, can often be repaired by removing the damaged wood and patching with epoxy or new wood. However, if the rot is widespread, affects structural integrity, or extends into the wall, a full replacement is usually necessary. A simple test involves probing the wood with a screwdriver; if it's soft and crumbles easily, replacement is likely needed. Our team can help evaluate the damage and recommend the most effective solution.",
+        "@type": "Answer",
+        "description": "Assess the extent of the rot; minor, localized damage can be repaired, but widespread or structural rot usually requires full replacement. A soft, crumbling frame indicates a need for replacement."
+      }
+    }
+  ],
+  "description": "Assess the extent of the rot; minor, localized damage can be repaired, but widespread or structural rot usually requires full replacement. A soft, crumbling fra"
+}

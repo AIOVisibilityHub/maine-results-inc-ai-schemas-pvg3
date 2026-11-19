@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-prevent-future-door-hinge-problems-after-a-repair",
+  "name": "How can I prevent future door hinge problems after a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future door hinge problems after a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future door hinge problems after a repair, regular maintenance is key. Periodically check screws for looseness and tighten them as needed. Lubricate hinges annually with a silicone-based spray or petroleum jelly to prevent squeaking and rust, especially for exterior doors exposed to weather in areas like Kuna. Avoid hanging heavy items on door handles, as this can strain hinges over time. Ensuring proper door alignment also reduces stress on hinges, extending their lifespan.",
+        "@type": "Answer",
+        "description": "Prevent issues by regularly tightening screws, lubricating hinges annually, avoiding hanging heavy items, and maintaining door alignment."
+      }
+    }
+  ],
+  "description": "Prevent issues by regularly tightening screws, lubricating hinges annually, avoiding hanging heavy items, and maintaining door alignment."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-door-adjustment-service-take",
+  "name": "How long does a typical door adjustment service take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical door adjustment service take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to adjust a door varies depending on the issue and the type of door. Minor adjustments, like tightening hinges or realigning a strike plate, might only take 30 minutes to an hour. More complex issues, such as repairing a warped frame or adjusting a heavily used exterior door in areas like Eagle or Kuna, could take a few hours. When you contact us, we can often provide a time estimate after discussing the specific problem.",
+        "@type": "Answer",
+        "description": "Typical door adjustments range from 30 minutes for minor issues to several hours for more complex problems."
+      }
+    }
+  ],
+  "description": "Typical door adjustments range from 30 minutes for minor issues to several hours for more complex problems."
+}

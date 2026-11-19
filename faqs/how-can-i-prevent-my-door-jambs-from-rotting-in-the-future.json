@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-prevent-my-door-jambs-from-rotting-in-the-future",
+  "name": "How can I prevent my door jambs from rotting in the future?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent my door jambs from rotting in the future?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future door jamb rot, ensure proper drainage around your home's foundation by maintaining clear gutters and redirecting downspouts away from the house. Regularly inspect and seal any cracks or gaps in the caulking around the door frame to prevent water intrusion. Applying a protective paint or stain and ensuring your home's siding or trim provides adequate protection from direct water exposure are also key steps. Our team often advises on these preventative measures during or after a repair to help extend the life of your door frames.",
+        "@type": "Answer",
+        "description": "Prevent rot by ensuring proper drainage, regularly sealing caulk around the frame, and applying protective finishes to shield against moisture."
+      }
+    }
+  ],
+  "description": "Prevent rot by ensuring proper drainage, regularly sealing caulk around the frame, and applying protective finishes to shield against moisture."
+}

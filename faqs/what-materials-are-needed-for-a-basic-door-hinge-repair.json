@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-needed-for-a-basic-door-hinge-repair",
+  "name": "What materials are needed for a basic door hinge repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are needed for a basic door hinge repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For basic door hinge repair, you'll typically need a screwdriver set (Phillips and flathead), a hammer, lubricating oil or silicone spray, and possibly longer screws or wood shims. For stripped screw holes, wood glue and toothpicks or wood dowels can be useful. Sometimes, shims made from thin cardboard or plastic are used to adjust door alignment. Gathering these materials beforehand can streamline the repair process. Our service technicians arrive with a full suite of tools and materials for various hinge issues.",
+        "@type": "Answer",
+        "description": "Basic hinge repair needs screwdrivers, lubricant, longer screws or shims, and potentially wood glue and toothpicks for stripped holes."
+      }
+    }
+  ],
+  "description": "Basic hinge repair needs screwdrivers, lubricant, longer screws or shims, and potentially wood glue and toothpicks for stripped holes."
+}

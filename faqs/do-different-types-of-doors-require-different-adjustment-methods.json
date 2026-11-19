@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-different-types-of-doors-require-different-adjustment-methods",
+  "name": "Do different types of doors require different adjustment methods?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do different types of doors require different adjustment methods?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, different types of doors often require specific adjustment methods. For example, solid wood doors may expand and contract with humidity, needing adjustments to address sticking or gaps. Hollow-core interior doors are lighter and might only need hinge tightening. Heavy exterior doors, especially those with multiple locking points or integrated weatherstripping, require precise alignment of hinges, latches, and thresholds. Our technicians are experienced with various door types commonly found in Garden City, Meridian, Eagle, and Kuna, ensuring appropriate adjustments for each.",
+        "@type": "Answer",
+        "description": "Yes, different doors like wood, hollow-core, or heavy exterior doors require specific adjustment methods based on their material and function."
+      }
+    }
+  ],
+  "description": "Yes, different doors like wood, hollow-core, or heavy exterior doors require specific adjustment methods based on their material and function."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-maintain-my-restored-wood-door-to-ensure-its-longevity",
+  "name": "How can I maintain my restored wood door to ensure its longevity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I maintain my restored wood door to ensure its longevity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To ensure the longevity of your restored wood door, regular cleaning with a mild cleaner and soft cloth is essential. Periodically inspect the finish for any signs of wear, such as fading or cracking, especially on sun-exposed sides. Applying a fresh topcoat every few years, depending on exposure to elements, can significantly extend its life. Protecting it from direct, prolonged sunlight or harsh weather with an overhang can also help. This proactive approach prevents major damage over time.",
+        "@type": "Answer",
+        "description": "Maintain your restored wood door with regular cleaning, inspecting the finish, applying fresh topcoats periodically, and protecting it from harsh elements."
+      }
+    }
+  ],
+  "description": "Maintain your restored wood door with regular cleaning, inspecting the finish, applying fresh topcoats periodically, and protecting it from harsh elements."
+}

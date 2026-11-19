@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-tell-if-my-door-has-rot",
+  "name": "How can I tell if my door has rot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my door has rot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can identify door rot by looking for several key signs. Visible indicators include discoloration, softness or sponginess when pressed, crumbling wood, or areas where paint is peeling, bubbling, or cracking excessively. Mold or mildew growth on the door surface can also suggest underlying moisture issues leading to rot. Pay close attention to the bottom of door frames, areas near hinges, and where the door meets the threshold, as these are common spots for moisture to accumulate and initiate decay.",
+        "@type": "Answer",
+        "description": "Look for discoloration, soft or crumbling wood, peeling paint, or mold as signs of door rot, especially at the door's base and frame."
+      }
+    }
+  ],
+  "description": "Look for discoloration, soft or crumbling wood, peeling paint, or mold as signs of door rot, especially at the door's base and frame."
+}

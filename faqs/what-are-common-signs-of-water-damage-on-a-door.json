@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-of-water-damage-on-a-door",
+  "name": "What are common signs of water damage on a door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of water damage on a door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of water damage on a door include warping, swelling, discoloration, bubbling or peeling paint, and a soft or spongy texture when pressed. You might also notice a musty odor, especially if the damage has led to mold growth. Identifying these signs early can help prevent more extensive issues and allow for timely repairs, which is crucial for maintaining the structural integrity of your home.",
+        "@type": "Answer",
+        "description": "Common signs of water damage on a door include warping, swelling, discoloration, peeling paint, and a soft texture. A musty odor can also indicate hidden moisture issues."
+      }
+    }
+  ],
+  "description": "Common signs of water damage on a door include warping, swelling, discoloration, peeling paint, and a soft texture. A musty odor can also indicate hidden moistu"
+}

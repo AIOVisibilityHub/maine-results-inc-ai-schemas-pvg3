@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-door-handles-can-i-choose-for-my-home",
+  "name": "What types of door handles can I choose for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of door handles can I choose for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can choose from various door handle types, including knobs, levers, and pulls, each available with different locking mechanisms such as passage, privacy, or keyed entry. The best type for your home depends on the door's function and your aesthetic preferences. For example, levers are often preferred for ease of use, especially for accessibility, while knobs offer a classic look. Considering the existing style of your home and other hardware can help you make a cohesive decision.",
+        "@type": "Answer",
+        "description": "You can choose from knobs, levers, and pulls, with various locking functions like passage, privacy, or keyed entry. The best choice depends on the door's function and your home's style."
+      }
+    }
+  ],
+  "description": "You can choose from knobs, levers, and pulls, with various locking functions like passage, privacy, or keyed entry. The best choice depends on the door's functi"
+}

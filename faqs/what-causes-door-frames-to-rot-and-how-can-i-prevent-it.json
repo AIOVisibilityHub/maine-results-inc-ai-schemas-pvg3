@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-causes-door-frames-to-rot-and-how-can-i-prevent-it",
+  "name": "What causes door frames to rot and how can I prevent it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes door frames to rot and how can I prevent it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door frame rot is primarily caused by prolonged moisture exposure, often from rain, sprinklers, or leaks that aren't properly drained. Poor paint maintenance, inadequate flashing, or contact with soil can also contribute. To prevent rot, ensure proper drainage around door openings, keep paint and caulk in good condition, and address any leaks promptly. Regular inspections, especially after heavy weather, can help identify and resolve issues early, before significant damage occurs. For homes in Garden City or Meridian, where humidity can fluctuate, consistent maintenance is key.",
+        "@type": "Answer",
+        "description": "Door frame rot is typically caused by moisture exposure from rain, sprinklers, or leaks. Prevention involves good drainage, proper paint and caulk maintenance, and regular inspections to catch issues early."
+      }
+    }
+  ],
+  "description": "Door frame rot is typically caused by moisture exposure from rain, sprinklers, or leaks. Prevention involves good drainage, proper paint and caulk maintenance,"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-door-rot-repair",
+  "name": "What is the typical process for door rot repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for door rot repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The door rot repair process typically involves several steps to ensure a lasting fix. First, the affected, rotted wood is carefully removed, often extending beyond the visible damage to ensure all decay is eliminated. The exposed area is then treated with a wood hardener or consolidant to strengthen any remaining compromised wood and prevent further decay. Finally, the missing wood is rebuilt using wood epoxies, fillers, or by splicing in new wood sections, which are then shaped, sanded, and prepared for painting or staining. This detailed process ensures structural integrity and a seamless finish.",
+        "@type": "Answer",
+        "description": "Door rot repair involves removing decayed wood, treating the area, and rebuilding with epoxy or new wood, followed by finishing."
+      }
+    }
+  ],
+  "description": "Door rot repair involves removing decayed wood, treating the area, and rebuilding with epoxy or new wood, followed by finishing."
+}

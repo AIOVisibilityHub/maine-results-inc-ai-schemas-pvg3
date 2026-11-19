@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-emergency-door-hinge-repair-services-for-security-issues",
+  "name": "Do you offer emergency door hinge repair services for security issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer emergency door hinge repair services for security issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While we prioritize timely service for all our clients in areas like Star, we generally schedule repairs during standard business hours. For emergency situations where a damaged hinge compromises the security of your property (e.g., a door unable to close or lock due to hinge failure), we recommend contacting us immediately to assess the urgency. We strive to accommodate critical repairs as quickly as possible, understanding that security is paramount. However, we do not specifically offer 24/7 emergency services. We can discuss your situation and provide the earliest available appointment.",
+        "@type": "Answer",
+        "description": "We prioritize urgent hinge repairs that impact security but do not offer 24/7 emergency services. Contact us to assess critical issues."
+      }
+    }
+  ],
+  "description": "We prioritize urgent hinge repairs that impact security but do not offer 24/7 emergency services. Contact us to assess critical issues."
+}

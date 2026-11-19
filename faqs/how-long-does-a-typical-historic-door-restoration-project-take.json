@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-historic-door-restoration-project-take",
+  "name": "How long does a typical historic door restoration project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical historic door restoration project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a historic door restoration project is highly variable, ranging from a few weeks to several months, depending on the door's condition, complexity, and our current project schedule. Factors that can extend the duration include extensive wood rot repair, the need to custom-mill replacement wood sections, sourcing specialized hardware or glass, and the drying times required for various finishes. We aim to provide an estimated project timeline after our initial assessment, and we communicate any potential adjustments as the restoration progresses to keep you informed.",
+        "@type": "Answer",
+        "description": "Project duration varies from weeks to months, influenced by door condition, complexity, material sourcing, and drying times for finishes."
+      }
+    }
+  ],
+  "description": "Project duration varies from weeks to months, influenced by door condition, complexity, material sourcing, and drying times for finishes."
+}

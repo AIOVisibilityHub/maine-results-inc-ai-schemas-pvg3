@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-your-team-arrives-for-door-handle-installation",
+  "name": "What should I prepare before your team arrives for door handle installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before your team arrives for door handle installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our team arrives for door handle installation, it's helpful if you have selected and purchased your new door handles, ensuring they are readily available. Please also clear the area around the doors where work will be performed to allow our technicians easy access. If you have any specific concerns about a particular door or a specific type of handle, please let us know when scheduling so we can allocate appropriate time and resources. This preparation helps ensure a smooth and efficient installation.",
+        "@type": "Answer",
+        "description": "Before our team arrives, have your new door handles ready and clear the area around the doors to be worked on. Communicate any specific concerns beforehand."
+      }
+    }
+  ],
+  "description": "Before our team arrives, have your new door handles ready and clear the area around the doors to be worked on. Communicate any specific concerns beforehand."
+}

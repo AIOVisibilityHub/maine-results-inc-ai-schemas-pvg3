@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-deadbolt-installation",
+  "name": "What is the process for deadbolt installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for deadbolt installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically begins with our technician assessing your door and existing hardware. For new installations, this involves precise measurements and drilling holes for the lock body and strike plate. For replacements, existing holes are utilized, and adjustments are made as needed. The deadbolt mechanism is then carefully installed and tested for smooth operation. Our technicians ensure proper alignment and security. Maine Results, Inc. prioritizes a clean and efficient process, leaving your property in Garden City or Kuna secure and tidy after completion.",
+        "@type": "Answer",
+        "description": "The deadbolt installation process involves door assessment, precise drilling or hole utilization, mechanism installation, and testing for proper function."
+      }
+    }
+  ],
+  "description": "The deadbolt installation process involves door assessment, precise drilling or hole utilization, mechanism installation, and testing for proper function."
+}

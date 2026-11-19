@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-door-restoration-services-in-meridian",
+  "name": "Do you offer door restoration services in Meridian?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer door restoration services in Meridian?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we offer door restoration services in Meridian, Idaho, as part of our service areas including Garden City, Meridian, Eagle, and Kuna. Our team is familiar with the common issues doors face in the local climate, such as sun exposure or fluctuating temperatures. We can schedule an on-site consultation to assess your door's condition and discuss restoration options tailored to your Meridian home or business.",
+        "@type": "Answer",
+        "description": "Yes, we offer door restoration in Meridian, Idaho, and our team understands local climate challenges for doors."
+      }
+    }
+  ],
+  "description": "Yes, we offer door restoration in Meridian, Idaho, and our team understands local climate challenges for doors."
+}

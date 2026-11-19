@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-door-restoration",
+  "name": "What factors influence the cost of door restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of door restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the cost of door restoration, including the type of door (e.g., solid wood, fiberglass, antique), the extent and nature of the damage, and the desired finish. Custom elements, such as intricate carvings or unique glass inserts, can also affect the price. The need for specialized materials or techniques to match historical aesthetics will impact the total. We provide detailed estimates after a thorough inspection of your door.",
+        "@type": "Answer",
+        "description": "Cost factors include door type, damage extent, desired finish, custom elements, and specialized material or technique needs."
+      }
+    }
+  ],
+  "description": "Cost factors include door type, damage extent, desired finish, custom elements, and specialized material or technique needs."
+}

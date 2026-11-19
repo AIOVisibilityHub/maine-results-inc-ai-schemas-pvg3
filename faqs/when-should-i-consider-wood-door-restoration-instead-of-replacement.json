@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-wood-door-restoration-instead-of-replacement",
+  "name": "When should I consider wood door restoration instead of replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider wood door restoration instead of replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider wood door restoration when your door shows signs of wear like fading, minor cracks, peeling finish, or superficial damage, but its core structure remains sound. Restoration is often more cost-effective and preserves the original character of your home, especially for antique or custom doors. A key decision factor is the extent of damage; significant structural issues, severe warping, or extensive rot might necessitate replacement.",
+        "@type": "Answer",
+        "description": "Restoration is ideal for doors with cosmetic wear or minor damage, preserving original character. Extensive structural damage often requires replacement."
+      }
+    }
+  ],
+  "description": "Restoration is ideal for doors with cosmetic wear or minor damage, preserving original character. Extensive structural damage often requires replacement."
+}

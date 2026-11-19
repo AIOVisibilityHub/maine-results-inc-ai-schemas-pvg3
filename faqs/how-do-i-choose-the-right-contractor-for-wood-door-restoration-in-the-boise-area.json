@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-the-right-contractor-for-wood-door-restoration-in-the-boise-area",
+  "name": "How do I choose the right contractor for wood door restoration in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for wood door restoration in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for wood door restoration in the Boise area, look for companies with proven experience specifically in wood refinishing and repair, not just general carpentry. Review their portfolio for examples of similar projects and inquire about their process, materials used, and warranty. Maine Results, Inc. provides detailed quotes and project plans, ensuring transparency. We also prioritize clear communication throughout the project, a key factor in successful restoration.",
+        "@type": "Answer",
+        "description": "Choose a contractor with specific wood restoration experience, review their portfolio, understand their process and materials, and ensure clear communication."
+      }
+    }
+  ],
+  "description": "Choose a contractor with specific wood restoration experience, review their portfolio, understand their process and materials, and ensure clear communication."
+}

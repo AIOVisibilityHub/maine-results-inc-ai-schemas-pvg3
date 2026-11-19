@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-a-hinge-repair-and-a-door-frame-repair",
+  "name": "What is the difference between a hinge repair and a door frame repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a hinge repair and a door frame repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hinge repair focuses specifically on the hinges themselves—addressing issues like bent leaves, loose pins, squeaking, or stripped screw holes where the hinge attaches. Door frame repair, however, involves fixing damage to the wooden or metal structure surrounding the door opening. This might include rot, cracks, splintered wood around strike plates or hinges, or structural integrity issues of the frame itself. While hinge problems can sometimes stem from a damaged frame, they are distinct repair services, each requiring different techniques and materials. Our team can assess if the issue is hinge-specific or frame-related.",
+        "@type": "Answer",
+        "description": "Hinge repair fixes hinge components; door frame repair addresses damage to the door's surrounding structure. One can impact the other."
+      }
+    }
+  ],
+  "description": "Hinge repair fixes hinge components; door frame repair addresses damage to the door's surrounding structure. One can impact the other."
+}

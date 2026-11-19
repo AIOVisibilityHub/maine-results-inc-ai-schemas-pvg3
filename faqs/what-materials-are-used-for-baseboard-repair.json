@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-used-for-baseboard-repair",
+  "name": "What materials are used for baseboard repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for baseboard repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The materials used for baseboard repair depend on the existing baseboard type and the nature of the damage. Common materials include wood filler for small imperfections, wood putty for larger gaps, spackle for painted trim, and caulk to seal gaps against walls. For replacements, we use materials that match your existing baseboards, such as MDF, pine, or custom wood profiles, to ensure a seamless look. We prioritize using high-quality, durable products to ensure a long-lasting repair that integrates well with your home's interior.",
+        "@type": "Answer",
+        "description": "Baseboard repair uses materials like wood filler, putty, spackle, and caulk, or matching new sections of MDF, pine, or custom wood for replacements."
+      }
+    }
+  ],
+  "description": "Baseboard repair uses materials like wood filler, putty, spackle, and caulk, or matching new sections of MDF, pine, or custom wood for replacements."
+}

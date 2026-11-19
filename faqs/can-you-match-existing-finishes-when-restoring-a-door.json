@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-match-existing-finishes-when-restoring-a-door",
+  "name": "Can you match existing finishes when restoring a door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match existing finishes when restoring a door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, matching existing finishes is a common part of our door restoration service, especially when restoring multiple doors or a single door within a cohesive architectural style. We use color samples and various staining and painting techniques to achieve a consistent look. A decision factor here is the age and fading of the original finish; perfect matches can be challenging but we strive for the closest possible blend. We often work with clients to ensure the restored door integrates seamlessly with its surroundings.",
+        "@type": "Answer",
+        "description": "Yes, we can match existing finishes using samples and techniques, striving for consistency, though age can be a decision factor."
+      }
+    }
+  ],
+  "description": "Yes, we can match existing finishes using samples and techniques, striving for consistency, though age can be a decision factor."
+}

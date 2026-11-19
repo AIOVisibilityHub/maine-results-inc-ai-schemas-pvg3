@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-call-a-professional-for-a-sticking-door-instead-of-trying-to-fix-i",
+  "name": "When should I call a professional for a sticking door instead of trying to fix it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a sticking door instead of trying to fix it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional if you've tried simple adjustments like tightening hinges or sanding and the door continues to stick. Also, if you notice other issues like cracks in nearby walls, uneven floors, or if multiple doors and windows are affected, it could indicate a more serious structural problem that requires expert assessment. Our team can properly diagnose and address complex underlying causes.",
+        "@type": "Answer",
+        "description": "Call a professional if simple DIY fixes fail, or if you see other issues like wall cracks or uneven floors, as it may indicate a serious structural problem."
+      }
+    }
+  ],
+  "description": "Call a professional if simple DIY fixes fail, or if you see other issues like wall cracks or uneven floors, as it may indicate a serious structural problem."
+}

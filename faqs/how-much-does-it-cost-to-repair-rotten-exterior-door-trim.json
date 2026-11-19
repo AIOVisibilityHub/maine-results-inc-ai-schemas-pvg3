@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-it-cost-to-repair-rotten-exterior-door-trim",
+  "name": "How much does it cost to repair rotten exterior door trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair rotten exterior door trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair rotten exterior door trim varies widely based on the extent of the rot, the materials chosen for replacement or repair, and the labor involved. Minor repairs using wood fillers might be less expensive than replacing an entire section or all the trim around a door. Factors such as whether the rot extends into the door frame or siding will also impact the total cost. For an accurate estimate, Maine Results, Inc. offers on-site assessments in areas like Garden City and Kuna to evaluate the damage and provide a detailed quote specific to your property's needs.",
+        "@type": "Answer",
+        "description": "Cost varies based on rot extent, materials, and labor. Minor repairs are cheaper than full replacements; additional damage increases cost. Get a specific on-site assessment for an accurate quote."
+      }
+    }
+  ],
+  "description": "Cost varies based on rot extent, materials, and labor. Minor repairs are cheaper than full replacements; additional damage increases cost. Get a specific on-sit"
+}

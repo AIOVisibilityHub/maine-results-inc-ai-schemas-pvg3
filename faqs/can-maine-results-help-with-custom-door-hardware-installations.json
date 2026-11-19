@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-maine-results-help-with-custom-door-hardware-installations",
+  "name": "Can Maine Results help with custom door hardware installations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Maine Results help with custom door hardware installations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results can assist with custom door hardware installations. This often involves working with unique door sizes, non-standard backsets, or specific aesthetic requirements that go beyond typical off-the-shelf options. It's important to have clear specifications or the hardware on hand during our initial assessment so we can accurately plan the installation and ensure a perfect fit for your custom design, minimizing potential delays. We serve clients in Garden City, Meridian, Eagle, and Kuna, handling diverse project needs.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results handles custom door hardware installations for unique door sizes or aesthetic requirements. Provide clear specifications or hardware during assessment for accurate planning."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results handles custom door hardware installations for unique door sizes or aesthetic requirements. Provide clear specifications or hardware during a"
+}

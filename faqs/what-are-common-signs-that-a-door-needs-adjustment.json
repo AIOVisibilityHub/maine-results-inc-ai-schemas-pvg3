@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-a-door-needs-adjustment",
+  "name": "What are common signs that a door needs adjustment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that a door needs adjustment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that a door needs adjustment include difficulty opening or closing, a door that scrapes against the frame or floor, noticeable drafts, or a lock that doesn't align properly. For homes in the Garden City or Meridian areas, changes in temperature and humidity can cause wood doors to expand or contract, making adjustments more frequently necessary to maintain proper function and energy efficiency. Paying attention to these indicators early can prevent further damage to the door or frame.",
+        "@type": "Answer",
+        "description": "Difficulty opening or closing, scraping, drafts, or misaligned locks are common signs a door needs adjustment."
+      }
+    }
+  ],
+  "description": "Difficulty opening or closing, scraping, drafts, or misaligned locks are common signs a door needs adjustment."
+}

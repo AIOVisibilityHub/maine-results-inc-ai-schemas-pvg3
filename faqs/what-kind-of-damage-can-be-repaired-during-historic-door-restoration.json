@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-damage-can-be-repaired-during-historic-door-restoration",
+  "name": "What kind of damage can be repaired during historic door restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of damage can be repaired during historic door restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Historic door restoration can address various types of damage, including wood rot, insect damage, splitting, warping, and deterioration of finishes. We meticulously repair or replace compromised sections with matching wood, reinforce joints, and restore decorative elements. A practical tradeoff is balancing the preservation of original material with the need for structural integrity. Extensive damage may increase restoration costs and time, but often preserves unique historical elements that cannot be replicated with a new door.",
+        "@type": "Answer",
+        "description": "Historic door restoration repairs wood rot, insect damage, splitting, and warping. We repair or replace compromised sections to restore structural integrity."
+      }
+    }
+  ],
+  "description": "Historic door restoration repairs wood rot, insect damage, splitting, and warping. We repair or replace compromised sections to restore structural integrity."
+}

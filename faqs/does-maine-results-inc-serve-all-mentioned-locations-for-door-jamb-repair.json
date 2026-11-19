@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/does-maine-results-inc-serve-all-mentioned-locations-for-door-jamb-repair",
+  "name": "Does Maine Results, Inc. serve all mentioned locations for door jamb repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Maine Results, Inc. serve all mentioned locations for door jamb repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. provides rotten door jamb repair services in Garden City, Meridian, Eagle, Kuna, and Star. While we are familiar with construction needs across a broader region, our specialized door jamb repair services are focused on these specific areas to ensure timely and efficient project completion. Our local expertise allows us to understand the common issues affecting homes in these communities and deliver tailored, high-quality repairs.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. serves Garden City, Meridian, Eagle, Kuna, and Star for rotten door jamb repair, focusing on efficient and high-quality local service."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. serves Garden City, Meridian, Eagle, Kuna, and Star for rotten door jamb repair, focusing on efficient and high-quality local service."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-repair-a-sagging-door",
+  "name": "How long does it take to repair a sagging door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a sagging door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a sagging door repair depends on the complexity of the issue. Minor adjustments, such as tightening or replacing hinge screws, might take less than an hour. However, repairs involving significant frame adjustments, wood rot replacement, or structural corrections can take several hours to a full day. We prioritize efficient service to minimize disruption to your home. Before starting any work, our team provides an estimated timeline so you know what to expect.",
+        "@type": "Answer",
+        "description": "Repair time varies from less than an hour for minor fixes to a full day for complex issues like frame replacement or structural corrections."
+      }
+    }
+  ],
+  "description": "Repair time varies from less than an hour for minor fixes to a full day for complex issues like frame replacement or structural corrections."
+}

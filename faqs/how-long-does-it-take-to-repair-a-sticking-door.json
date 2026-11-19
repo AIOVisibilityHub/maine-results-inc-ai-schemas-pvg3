@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-repair-a-sticking-door",
+  "name": "How long does it take to repair a sticking door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a sticking door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to repair a sticking door depends on the complexity of the issue. Minor adjustments like tightening hinges or planing an edge can often be completed within an hour or two. However, if the repair involves adjusting a warped frame, rebuilding parts of the door jamb, or addressing foundation shifts, the process could take several hours or even a full day. We prioritize efficient and thorough work to minimize disruption.",
+        "@type": "Answer",
+        "description": "Repair time for a sticking door varies from an hour for minor fixes to a full day for complex issues like frame adjustments or foundation-related repairs."
+      }
+    }
+  ],
+  "description": "Repair time for a sticking door varies from an hour for minor fixes to a full day for complex issues like frame adjustments or foundation-related repairs."
+}

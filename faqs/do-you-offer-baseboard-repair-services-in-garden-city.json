@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-baseboard-repair-services-in-garden-city",
+  "name": "Do you offer baseboard repair services in Garden City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer baseboard repair services in Garden City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. provides baseboard repair services in Garden City, as well as Meridian, Eagle, and Kuna. Our service includes an initial assessment to understand the scope of the damage, identify the best repair approach, and provide a detailed estimate. We bring our expertise to your home to ensure your baseboards are restored to their best condition, integrating seamlessly with your existing trim and home aesthetics. Contact us to schedule an on-site consultation for your specific needs.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. offers baseboard repair in Garden City, Meridian, Eagle, and Kuna, including assessment and detailed estimates."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. offers baseboard repair in Garden City, Meridian, Eagle, and Kuna, including assessment and detailed estimates."
+}

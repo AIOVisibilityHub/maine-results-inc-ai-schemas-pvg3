@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-involved-in-adjusting-an-exterior-door-for-weather-sealing",
+  "name": "What is involved in adjusting an exterior door for weather sealing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in adjusting an exterior door for weather sealing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adjusting an exterior door for weather sealing typically involves checking the fit of the door within its frame, ensuring the weatherstripping makes consistent contact, and verifying the threshold seal. We may tighten or replace hinges, adjust the strike plate for a tighter latch, or re-position the threshold to eliminate gaps. Proper weather sealing is crucial for homes in areas like Kuna and Star to prevent drafts, moisture intrusion, and maintain energy efficiency, which helps reduce heating and cooling costs.",
+        "@type": "Answer",
+        "description": "Adjusting an exterior door for weather sealing includes checking fit, weatherstripping, threshold seal, and potentially adjusting hinges or strike plate."
+      }
+    }
+  ],
+  "description": "Adjusting an exterior door for weather sealing includes checking fit, weatherstripping, threshold seal, and potentially adjusting hinges or strike plate."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-restoring-a-wood-door",
+  "name": "What is the typical process for restoring a wood door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for restoring a wood door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The restoration process typically begins with an assessment of the door's condition, followed by careful removal of existing finishes. This may involve stripping, sanding, or chemical removal depending on the old finish. Any repairs, such as filling cracks, replacing rotten sections, or repairing loose joints, are then completed. The door is then meticulously sanded smooth, stained or painted to your preference, and finished with a durable topcoat for protection. This detailed process ensures a lasting result.",
+        "@type": "Answer",
+        "description": "The typical process involves assessment, old finish removal, repairs, sanding, staining or painting, and applying a protective topcoat."
+      }
+    }
+  ],
+  "description": "The typical process involves assessment, old finish removal, repairs, sanding, staining or painting, and applying a protective topcoat."
+}

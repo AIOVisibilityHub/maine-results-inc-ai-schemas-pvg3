@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-finish-options-are-available-for-restored-wood-doors",
+  "name": "What finish options are available for restored wood doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What finish options are available for restored wood doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. offers a variety of finish options for restored wood doors to match your home's aesthetic and provide optimal protection. These include clear varnishes and sealers that enhance the natural wood grain, various stains to change or deepen the wood's color, and durable exterior-grade paints. We also consider the door's exposure to elements in areas like Meridian when recommending finishes, ensuring the chosen product offers the best longevity and weather resistance.",
+        "@type": "Answer",
+        "description": "We offer clear varnishes, stains, and durable paints for restored wood doors, considering local weather exposure for optimal protection."
+      }
+    }
+  ],
+  "description": "We offer clear varnishes, stains, and durable paints for restored wood doors, considering local weather exposure for optimal protection."
+}

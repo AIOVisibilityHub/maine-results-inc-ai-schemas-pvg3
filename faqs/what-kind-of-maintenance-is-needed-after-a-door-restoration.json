@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-maintenance-is-needed-after-a-door-restoration",
+  "name": "What kind of maintenance is needed after a door restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance is needed after a door restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a door restoration, regular cleaning with mild soap and water is recommended to maintain the finish. Inspecting the door periodically for any new signs of wear, especially on the finish, helps prolong its restored condition. Depending on the door's exposure to elements, a fresh coat of protective finish may be needed every few years. Proper preparation involves understanding the specific care instructions for your door's new finish.",
+        "@type": "Answer",
+        "description": "Post-restoration maintenance includes regular cleaning and periodic finish checks; specific care depends on the new finish."
+      }
+    }
+  ],
+  "description": "Post-restoration maintenance includes regular cleaning and periodic finish checks; specific care depends on the new finish."
+}

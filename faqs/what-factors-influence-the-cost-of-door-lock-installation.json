@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-door-lock-installation",
+  "name": "What factors influence the cost of door lock installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of door lock installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of door lock installation is influenced by several factors. The type of lock chosen is a primary determinant; basic deadbolts are less expensive than high-security, smart, or commercial-grade locks. Whether it's a new installation requiring drilling or a simple replacement utilizing existing holes also affects labor costs. The complexity of the door itself, including its material and thickness, can impact the installation time. Finally, the need for any additional hardware or adjustments to the door frame will also contribute to the overall expense. Maine Results, Inc. provides clear estimates based on these considerations.",
+        "@type": "Answer",
+        "description": "Cost factors for door lock installation include lock type, whether it's a new installation or replacement, door complexity, and any additional hardware needs."
+      }
+    }
+  ],
+  "description": "Cost factors for door lock installation include lock type, whether it's a new installation or replacement, door complexity, and any additional hardware needs."
+}

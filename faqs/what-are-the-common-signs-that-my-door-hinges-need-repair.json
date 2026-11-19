@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-common-signs-that-my-door-hinges-need-repair",
+  "name": "What are the common signs that my door hinges need repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my door hinges need repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that door hinges need repair include squeaking or grinding noises when opening or closing the door, difficulty opening or closing the door smoothly, or a door that sags or rubs against the frame. You might also notice visible rust, bent hinge leaves, or loose screws that no longer hold the hinge securely. Addressing these signs early can prevent further damage to the door or frame. Our team often checks for these issues during a home assessment.",
+        "@type": "Answer",
+        "description": "Squeaking, difficulty opening/closing, a sagging door, visible rust, or loose screws are common signs of hinge issues."
+      }
+    }
+  ],
+  "description": "Squeaking, difficulty opening/closing, a sagging door, visible rust, or loose screws are common signs of hinge issues."
+}

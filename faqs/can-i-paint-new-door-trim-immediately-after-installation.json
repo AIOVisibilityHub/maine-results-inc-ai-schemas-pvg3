@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-paint-new-door-trim-immediately-after-installation",
+  "name": "Can I paint new door trim immediately after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint new door trim immediately after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After new exterior door trim is installed, it is usually recommended to wait before painting, though the exact timing depends on the material. For wood trim, it should be primed first, and then painted when the caulk has fully cured, which typically takes 24-48 hours depending on humidity. PVC or composite trim often comes pre-finished or can be painted with suitable exterior paint after the caulk has cured. It is important to avoid painting in direct sunlight or during very high humidity, as these conditions can affect paint adhesion and drying. Our team at Maine Results, Inc. ensures proper curing times are met for a durable finish.",
+        "@type": "Answer",
+        "description": "Wait 24-48 hours for caulk to cure before painting new trim, ensuring it's primed. Avoid painting in direct sunlight or high humidity for best results."
+      }
+    }
+  ],
+  "description": "Wait 24-48 hours for caulk to cure before painting new trim, ensuring it's primed. Avoid painting in direct sunlight or high humidity for best results."
+}

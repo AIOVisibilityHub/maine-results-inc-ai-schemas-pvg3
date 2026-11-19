@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-solutions-for-a-sticking-door",
+  "name": "What are common solutions for a sticking door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common solutions for a sticking door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common solutions for a sticking door vary based on the cause. For minor swelling due to humidity, planing the edge of the door or adjusting hinges can provide a quick fix. If the door frame has shifted, shimming the frame or reinforcing it might be necessary. For more significant structural issues affecting the frame, we assess the foundation or framing to implement a lasting solution, ensuring the door operates smoothly and safely.",
+        "@type": "Answer",
+        "description": "Solutions for sticking doors range from planing or hinge adjustments to shimming or reinforcing the frame, depending on the cause."
+      }
+    }
+  ],
+  "description": "Solutions for sticking doors range from planing or hinge adjustments to shimming or reinforcing the frame, depending on the cause."
+}

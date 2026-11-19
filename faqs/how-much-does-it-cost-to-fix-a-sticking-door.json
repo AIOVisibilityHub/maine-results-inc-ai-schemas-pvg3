@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-it-cost-to-fix-a-sticking-door",
+  "name": "How much does it cost to fix a sticking door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to fix a sticking door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to fix a sticking door varies significantly depending on the underlying problem. Simple adjustments to hinges or minor sanding might be a lower cost. However, if the issue stems from a shifted door frame or a foundation problem requiring more extensive carpentry or structural work, the cost will be higher. We provide detailed estimates after an assessment, ensuring you understand the scope of work and associated expenses before any repair begins.",
+        "@type": "Answer",
+        "description": "Cost to fix a sticking door depends on the problem's complexity, from minor adjustments to extensive structural repairs. We offer detailed estimates after assessment."
+      }
+    }
+  ],
+  "description": "Cost to fix a sticking door depends on the problem's complexity, from minor adjustments to extensive structural repairs. We offer detailed estimates after asses"
+}

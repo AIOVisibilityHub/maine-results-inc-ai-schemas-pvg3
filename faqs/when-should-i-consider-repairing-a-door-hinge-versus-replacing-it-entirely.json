@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-repairing-a-door-hinge-versus-replacing-it-entirely",
+  "name": "When should I consider repairing a door hinge versus replacing it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing a door hinge versus replacing it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repairing a door hinge if the damage is minor, such as loose screws, slight squeaking, or minor alignment issues. Simple repairs can often fix these problems, restoring function without the cost of a full replacement. However, if hinges are severely bent, rusted, cracked, or if the door frame itself is damaged beyond simple repair, a full replacement of the hinge or even the door and frame might be necessary. Assessing the extent of the damage helps determine the most cost-effective and lasting solution.",
+        "@type": "Answer",
+        "description": "Repair minor hinge issues like loose screws or squeaks; replace if hinges are severely damaged, bent, or rusted."
+      }
+    }
+  ],
+  "description": "Repair minor hinge issues like loose screws or squeaks; replace if hinges are severely damaged, bent, or rusted."
+}

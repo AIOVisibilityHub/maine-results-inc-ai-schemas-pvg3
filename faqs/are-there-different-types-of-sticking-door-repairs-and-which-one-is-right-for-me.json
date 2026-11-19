@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/are-there-different-types-of-sticking-door-repairs-and-which-one-is-right-for-me",
+  "name": "Are there different types of sticking door repairs, and which one is right for me?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different types of sticking door repairs, and which one is right for me?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are indeed different types of sticking door repairs, ranging from simple fixes to more complex structural work. The right repair depends on the root cause: tightening loose hinges, planing the door's edge, shimming the door frame, or even addressing foundation movement. Deciding the best approach often involves weighing the immediate fix against a long-term solution. A professional assessment by Maine Results, Inc. helps determine the most effective and durable repair for your specific situation, considering factors like your home's age and overall condition.",
+        "@type": "Answer",
+        "description": "Sticking door repairs vary by cause, from simple hinge tightening to complex structural work. A professional assessment helps determine the most effective and durable solution for your situation."
+      }
+    }
+  ],
+  "description": "Sticking door repairs vary by cause, from simple hinge tightening to complex structural work. A professional assessment helps determine the most effective and d"
+}

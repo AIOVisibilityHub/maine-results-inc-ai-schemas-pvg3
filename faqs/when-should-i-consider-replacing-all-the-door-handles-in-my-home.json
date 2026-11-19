@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-all-the-door-handles-in-my-home",
+  "name": "When should I consider replacing all the door handles in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing all the door handles in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing all door handles in your home if they are showing significant wear, are difficult to operate, or if you're upgrading your home's aesthetic or security. It's also a practical step when renovating or moving into a new property to ensure consistent style and functionality throughout. Upgrading all handles simultaneously ensures a uniform look and feel, and it can often be more efficient in terms of labor than replacing them one by one over time.",
+        "@type": "Answer",
+        "description": "Replace all door handles if they are worn, difficult to use, or if you're updating your home's look or security. It ensures consistent style and function."
+      }
+    }
+  ],
+  "description": "Replace all door handles if they are worn, difficult to use, or if you're updating your home's look or security. It ensures consistent style and function."
+}

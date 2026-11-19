@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-repair-door-hinges-on-both-interior-and-exterior-doors",
+  "name": "Can you repair door hinges on both interior and exterior doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair door hinges on both interior and exterior doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we can repair door hinges on both interior and exterior doors. The repair approach might vary based on the door type and its exposure to elements. Exterior door hinges, for instance, are often more robust and may require specific hardware designed for outdoor use and weather resistance. Interior door hinges generally face less wear and tear from weather. Our team is equipped to handle the unique requirements of hinges for all door types, ensuring a lasting fix whether inside or out.",
+        "@type": "Answer",
+        "description": "Yes, we repair hinges on both interior and exterior doors, adjusting techniques and materials for weather exposure and door type."
+      }
+    }
+  ],
+  "description": "Yes, we repair hinges on both interior and exterior doors, adjusting techniques and materials for weather exposure and door type."
+}

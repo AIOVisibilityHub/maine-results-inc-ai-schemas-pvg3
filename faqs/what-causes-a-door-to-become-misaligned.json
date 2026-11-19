@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-causes-a-door-to-become-misaligned",
+  "name": "What causes a door to become misaligned?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a door to become misaligned?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door misalignment can be caused by various factors, including shifting foundations, settling homes, loose hinges, or even changes in humidity and temperature that cause wood to expand or contract. Over time, heavy use can also lead to wear and tear on door frames and hardware, contributing to alignment issues. It's important to address these issues promptly to prevent further damage to the door or frame. Our team often observes minor foundation shifts contributing to door issues in older homes across Boise.",
+        "@type": "Answer",
+        "description": "Door misalignment is often caused by shifting foundations, settling homes, loose hinges, or changes in humidity and temperature affecting wood."
+      }
+    }
+  ],
+  "description": "Door misalignment is often caused by shifting foundations, settling homes, loose hinges, or changes in humidity and temperature affecting wood."
+}

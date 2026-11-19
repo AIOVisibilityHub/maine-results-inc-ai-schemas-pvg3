@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/my-door-sags-but-it-s-an-older-custom-sized-door-can-you-still-repair-it",
+  "name": "My door sags, but it's an older, custom-sized door. Can you still repair it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "My door sags, but it's an older, custom-sized door. Can you still repair it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. specializes in addressing various door issues, including those with older or custom-sized doors. While standard doors often have readily available parts, older or unique doors may require more specific approaches, such as custom shimming, specialized hinge reinforcement, or repair rather than full replacement of components. Our expertise allows us to carefully assess and repair these doors, preserving their unique character while restoring functionality. We prioritize finding solutions that align with the specific needs and aesthetics of your home.",
+        "@type": "Answer",
+        "description": "Yes, we can repair older or custom-sized sagging doors by using specialized techniques like custom shimming or hinge reinforcement to preserve their character."
+      }
+    }
+  ],
+  "description": "Yes, we can repair older or custom-sized sagging doors by using specialized techniques like custom shimming or hinge reinforcement to preserve their character."
+}

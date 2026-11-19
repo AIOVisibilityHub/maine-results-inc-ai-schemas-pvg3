@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-the-entire-door-and-frame-instead-of-just-repai",
+  "name": "When should I consider replacing the entire door and frame instead of just repairing the frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing the entire door and frame instead of just repairing the frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider replacing the entire door and frame when the rot is extensive, affects the door itself, or if the frame's structural integrity is compromised beyond simple repair. If the door's function is poor, or if you're looking to upgrade to a more energy-efficient or secure unit, a full replacement might be more cost-effective in the long run. Also, if the door and frame are very old and outdated, a full replacement offers an opportunity to improve your home's aesthetics and performance. We can help you weigh these factors to make the best decision.",
+        "@type": "Answer",
+        "description": "Replace the entire door and frame if rot is extensive, affects the door itself, or if structural integrity is severely compromised. A full replacement is also suitable for upgrades or energy efficiency improvements."
+      }
+    }
+  ],
+  "description": "Replace the entire door and frame if rot is extensive, affects the door itself, or if structural integrity is severely compromised. A full replacement is also s"
+}

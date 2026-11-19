@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-best-for-replacing-rotten-exterior-door-trim",
+  "name": "What materials are best for replacing rotten exterior door trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are best for replacing rotten exterior door trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When replacing rotten exterior door trim, choosing moisture-resistant materials is crucial for longevity, especially in areas like Meridian or Eagle. Popular options include PVC trim, composite trim, or decay-resistant wood species like redwood or cedar. PVC and composite materials offer excellent resistance to rot, insects, and require minimal maintenance, making them a durable choice. While traditional wood trim can be used, it requires diligent priming, painting, and sealing to prevent future rot. Consider the material's aesthetic match to your home's existing trim and its long-term maintenance requirements as key decision factors.",
+        "@type": "Answer",
+        "description": "PVC, composite, or decay-resistant woods like redwood or cedar are best for replacing rotten trim. PVC and composite offer superior moisture resistance."
+      }
+    }
+  ],
+  "description": "PVC, composite, or decay-resistant woods like redwood or cedar are best for replacing rotten trim. PVC and composite offer superior moisture resistance."
+}

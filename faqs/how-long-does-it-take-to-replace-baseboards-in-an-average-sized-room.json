@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-replace-baseboards-in-an-average-sized-room",
+  "name": "How long does it take to replace baseboards in an average-sized room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace baseboards in an average-sized room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to replace baseboards in an average-sized room depends on several factors, including the room's dimensions, the complexity of corners and obstacles, and whether painting or staining is included in the project. Typically, for a standard room, removal and installation can be completed in a single day. However, if new baseboards require custom cuts, significant preparation, or multiple coats of paint, the process may extend over two days to allow for proper drying time. Our project planning at Maine Results, Inc. includes a clear timeline, so you know what to expect from start to finish.",
+        "@type": "Answer",
+        "description": "Replacing baseboards in an average room typically takes one to two days, depending on room size, complexity, and finishing requirements."
+      }
+    }
+  ],
+  "description": "Replacing baseboards in an average room typically takes one to two days, depending on room size, complexity, and finishing requirements."
+}

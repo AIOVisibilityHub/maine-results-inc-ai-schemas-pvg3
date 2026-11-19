@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-repair-my-crown-molding-versus-replacing-it-entirely",
+  "name": "When should I repair my crown molding versus replacing it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair my crown molding versus replacing it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and full replacement of crown molding depends on the severity and type of damage. Repair is suitable for minor issues like small cracks, gaps, or isolated dents that can be filled, patched, or painted over. If the damage is extensive, such as significant water damage causing rot, widespread warping, or multiple broken sections, replacement is often the more cost-effective and durable solution. When we assess the molding, we'll consider the long-term structural integrity and aesthetic outcome to recommend the best approach for your home.",
+        "@type": "Answer",
+        "description": "Choose repair for minor damage like small cracks or dents; opt for replacement when damage is extensive, such as widespread rot or warping."
+      }
+    }
+  ],
+  "description": "Choose repair for minor damage like small cracks or dents; opt for replacement when damage is extensive, such as widespread rot or warping."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-repair-rotten-sections-of-a-wood-door-or-does-it-require-replacement",
+  "name": "Can you repair rotten sections of a wood door, or does it require replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair rotten sections of a wood door, or does it require replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. can often repair rotten sections of a wood door, especially if the rot is localized and hasn't compromised the entire structural integrity. We carefully remove the decayed wood and replace it with new, matching wood using techniques like epoxy consolidation or dutchman repairs. This process is typically more economical than full replacement. However, if the rot is extensive or affects critical structural components, replacement might be the safer, more durable option.",
+        "@type": "Answer",
+        "description": "We can repair localized rot in wood doors, but extensive or structural rot may necessitate full door replacement."
+      }
+    }
+  ],
+  "description": "We can repair localized rot in wood doors, but extensive or structural rot may necessitate full door replacement."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-crown-molding-and-cove-molding",
+  "name": "What is the difference between crown molding and cove molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between crown molding and cove molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Crown molding is generally more elaborate and projects out both onto the ceiling and down the wall, creating a prominent, often ornate transition. Cove molding, by contrast, typically has a simpler, concave curve and creates a softer, more subtle transition between the wall and ceiling. The choice between them often depends on the desired level of formality and the overall architectural style of the room. Crown molding makes a bolder statement, while cove offers understated elegance.",
+        "@type": "Answer",
+        "description": "Crown molding is more elaborate, projecting onto both ceiling and wall. Cove molding has a simpler, concave curve, creating a softer transition."
+      }
+    }
+  ],
+  "description": "Crown molding is more elaborate, projecting onto both ceiling and wall. Cove molding has a simpler, concave curve, creating a softer transition."
+}

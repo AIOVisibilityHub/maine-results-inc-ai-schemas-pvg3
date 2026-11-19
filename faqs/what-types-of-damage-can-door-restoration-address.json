@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-damage-can-door-restoration-address",
+  "name": "What types of damage can door restoration address?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of damage can door restoration address?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door restoration can address various types of damage, including scratches, dents, warping, water damage, rot, and fading. It also covers issues like loose panels, broken glass inserts, or worn-out finishes. The goal is to return the door to a functional and aesthetically pleasing condition, often extending its lifespan without needing a full replacement. We assess the specific damage to determine the most effective restoration techniques for your door.",
+        "@type": "Answer",
+        "description": "Door restoration addresses scratches, dents, warping, water damage, rot, fading, and structural issues like loose panels or broken glass."
+      }
+    }
+  ],
+  "description": "Door restoration addresses scratches, dents, warping, water damage, rot, fading, and structural issues like loose panels or broken glass."
+}

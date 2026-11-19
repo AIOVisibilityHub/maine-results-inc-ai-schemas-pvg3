@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-install-a-new-deadbolt",
+  "name": "How long does it take to install a new deadbolt?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a new deadbolt?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a standard deadbolt typically takes our experienced technicians about 30 to 60 minutes per door. This timeframe can be influenced by whether it's a new installation requiring drilling or a replacement where existing holes can be utilized. Factors like door material (e.g., solid wood versus hollow core) and the specific deadbolt mechanism can also affect the duration. Maine Results, Inc. aims for efficient service to minimize disruption to your day, especially for multiple installations in locations such as Kuna or Star.",
+        "@type": "Answer",
+        "description": "Standard deadbolt installation usually takes 30-60 minutes, depending on whether new drilling is needed and the door material."
+      }
+    }
+  ],
+  "description": "Standard deadbolt installation usually takes 30-60 minutes, depending on whether new drilling is needed and the door material."
+}

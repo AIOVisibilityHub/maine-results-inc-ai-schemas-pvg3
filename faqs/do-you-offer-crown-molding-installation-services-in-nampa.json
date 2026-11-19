@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-crown-molding-installation-services-in-nampa",
+  "name": "Do you offer crown molding installation services in Nampa?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer crown molding installation services in Nampa?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Currently, Maine Results, Inc. primarily focuses on serving clients in Garden City, Meridian, Eagle, and Kuna. While Nampa is a neighboring area, our core service region allows us to maintain efficiency and responsiveness for our current clientele. We recommend checking our website or contacting us directly for the most up-to-date information on our service areas, as we occasionally expand our reach. If you are located slightly outside our main areas, feel free to inquire, and we can discuss potential arrangements.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. currently serves Garden City, Meridian, Eagle, and Kuna. Please contact us for the most current service area information or if you are located nearby."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. currently serves Garden City, Meridian, Eagle, and Kuna. Please contact us for the most current service area information or if you are locat"
+}

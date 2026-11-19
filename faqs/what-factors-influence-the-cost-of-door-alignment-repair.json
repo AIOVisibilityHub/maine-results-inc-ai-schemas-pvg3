@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-door-alignment-repair",
+  "name": "What factors influence the cost of door alignment repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of door alignment repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of door alignment repair is influenced by several factors, including the severity of the misalignment, the type of door (e.g., exterior, interior, sliding), the extent of damage to the door or frame, and whether replacement parts like hinges or weatherstripping are needed. Repairs requiring structural adjustments or addressing underlying foundation shifts will naturally be more involved than simple hinge adjustments. We provide a detailed estimate after assessing the specific needs of your door.",
+        "@type": "Answer",
+        "description": "Cost factors include misalignment severity, door type, damage extent, and need for replacement parts or structural adjustments."
+      }
+    }
+  ],
+  "description": "Cost factors include misalignment severity, door type, damage extent, and need for replacement parts or structural adjustments."
+}

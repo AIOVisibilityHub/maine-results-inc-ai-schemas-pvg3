@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-door-hinge-repair-take",
+  "name": "How long does a typical door hinge repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical door hinge repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to repair a door hinge depends on the complexity of the issue. Simple repairs, like tightening screws or lubricating a squeaky hinge, can often be completed in less than 30 minutes. More involved repairs, such as reinforcing stripped screw holes, correcting significant door misalignment, or replacing multiple hinges, might take 1 to 2 hours. Our technicians evaluate the problem on-site to provide an estimated timeframe. Factors like the type of door and hinge can also influence the duration.",
+        "@type": "Answer",
+        "description": "Simple hinge repairs take under 30 minutes; more complex issues like stripped screws or misalignment can take 1-2 hours."
+      }
+    }
+  ],
+  "description": "Simple hinge repairs take under 30 minutes; more complex issues like stripped screws or misalignment can take 1-2 hours."
+}

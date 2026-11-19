@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/does-maine-results-inc-offer-painting-services-for-new-baseboards",
+  "name": "Does Maine Results, Inc. offer painting services for new baseboards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Maine Results, Inc. offer painting services for new baseboards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. offers comprehensive finishing services, including painting or staining for your newly installed baseboards. We understand that a high-quality paint or stain job is crucial for the overall aesthetic and protection of your trim. This can be included as part of your baseboard replacement project, ensuring a complete and polished look without the need to hire a separate contractor. Discuss your preferred color or stain during the initial consultation, and we will integrate it into the project plan for a seamless finish.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. offers painting and staining services for new baseboards as part of the replacement project for a complete finish."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. offers painting and staining services for new baseboards as part of the replacement project for a complete finish."
+}

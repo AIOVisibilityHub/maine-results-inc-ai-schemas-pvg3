@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-rotten-exterior-door-trim-repair-typically-take",
+  "name": "How long does rotten exterior door trim repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does rotten exterior door trim repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of rotten exterior door trim repair varies depending on the extent of the damage and the type of repair needed. A minor repair, such as filling a small rotten spot, might take a few hours. A full replacement of trim around a standard exterior door could take one to two days, including prep work, material removal, new trim installation, caulking, and painting. Factors like unexpected structural damage behind the trim or inclement weather can extend the project timeline. Maine Results, Inc. provides a detailed timeline estimate after an initial assessment.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours for minor rot to one or two days for full trim replacement, depending on damage extent and unexpected issues."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours for minor rot to one or two days for full trim replacement, depending on damage extent and unexpected issues."
+}

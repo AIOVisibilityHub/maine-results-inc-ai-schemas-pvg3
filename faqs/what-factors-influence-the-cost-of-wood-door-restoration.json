@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-wood-door-restoration",
+  "name": "What factors influence the cost of wood door restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of wood door restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the cost of wood door restoration. These include the size and type of wood, the current condition and extent of damage (e.g., rot, deep scratches, missing pieces), the complexity of the door's design, and the type of finish chosen (e.g., clear coat, stain, paint). Significant structural repairs or intricate detailing will increase the cost. We provide a detailed quote after a thorough on-site evaluation.",
+        "@type": "Answer",
+        "description": "Cost factors include door size, wood type, damage extent, design complexity, and chosen finish. Structural repairs can increase costs."
+      }
+    }
+  ],
+  "description": "Cost factors include door size, wood type, damage extent, design complexity, and chosen finish. Structural repairs can increase costs."
+}

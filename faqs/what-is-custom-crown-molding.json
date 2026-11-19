@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-custom-crown-molding",
+  "name": "What is custom crown molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is custom crown molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom crown molding refers to decorative trim installed at the junction where walls and ceilings meet. Unlike standard pre-fabricated molding, custom options are designed and crafted to fit the unique architectural style and dimensions of your home. This allows for specific profiles, sizes, and materials that perfectly complement the existing decor or achieve a desired aesthetic. We often find that considering the ceiling height and room scale is crucial when selecting a custom profile to ensure it enhances, rather than overwhelms, the space.",
+        "@type": "Answer",
+        "description": "Custom crown molding is decorative trim designed and crafted specifically for your home's unique architectural style and dimensions. It allows for specific profiles, sizes, and materials tailored to your space."
+      }
+    }
+  ],
+  "description": "Custom crown molding is decorative trim designed and crafted specifically for your home's unique architectural style and dimensions. It allows for specific prof"
+}

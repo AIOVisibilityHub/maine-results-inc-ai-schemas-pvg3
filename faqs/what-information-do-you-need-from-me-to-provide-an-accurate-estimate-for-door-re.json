@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-information-do-you-need-from-me-to-provide-an-accurate-estimate-for-door-re",
+  "name": "What information do you need from me to provide an accurate estimate for door repair in Garden City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do you need from me to provide an accurate estimate for door repair in Garden City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To provide an accurate estimate for water-damaged door repair in Garden City, we typically need information about the type of door (e.g., front, back, interior), its material, and photos showing the extent of the water damage. Knowing when the damage occurred and any potential causes can also be helpful. This initial information allows us to understand the scope of the project before scheduling an on-site assessment, ensuring we prepare adequately for your specific needs.",
+        "@type": "Answer",
+        "description": "To estimate door repair in Garden City, we need door type, material, photos of damage, and when it occurred. This helps us assess the project before an on-site visit."
+      }
+    }
+  ],
+  "description": "To estimate door repair in Garden City, we need door type, material, photos of damage, and when it occurred. This helps us assess the project before an on-site"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-baseboard-repair-typically-take",
+  "name": "How long does baseboard repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does baseboard repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of baseboard repair depends on the scope and complexity of the damage. Small repairs, such as filling a few dents or cracks, might take only a few hours. More extensive projects, like replacing multiple sections due to significant water damage or pet damage across several rooms, could take a day or more, including drying times for sealants and paint. When planning a project with Maine Results, we provide a clear timeline after our initial assessment, considering factors like material procurement and site conditions.",
+        "@type": "Answer",
+        "description": "Baseboard repair duration varies from a few hours for minor fixes to a day or more for extensive damage, depending on project scope and drying times."
+      }
+    }
+  ],
+  "description": "Baseboard repair duration varies from a few hours for minor fixes to a day or more for extensive damage, depending on project scope and drying times."
+}

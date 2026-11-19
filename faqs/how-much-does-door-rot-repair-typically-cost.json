@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-door-rot-repair-typically-cost",
+  "name": "How much does door rot repair typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does door rot repair typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of door rot repair varies significantly depending on the extent of the damage, the type of door, and the materials needed for the repair. Minor, localized repairs, such as filling a small soft spot, will be less expensive than extensive repairs involving significant wood replacement or structural reinforcement. Factors such as the labor required, the complexity of matching existing finishes, and whether any surrounding trim or frame components also need attention will influence the final price. We provide detailed estimates after an on-site assessment to give you a clear understanding of the project's scope and cost.",
+        "@type": "Answer",
+        "description": "Door rot repair costs vary based on damage extent, door type, and materials; minor repairs are less expensive than extensive ones."
+      }
+    }
+  ],
+  "description": "Door rot repair costs vary based on damage extent, door type, and materials; minor repairs are less expensive than extensive ones."
+}

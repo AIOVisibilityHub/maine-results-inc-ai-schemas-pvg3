@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-a-sagging-door-impact-my-home-s-energy-efficiency-or-security",
+  "name": "Can a sagging door impact my home's energy efficiency or security?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a sagging door impact my home's energy efficiency or security?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a sagging door can significantly impact both your home's energy efficiency and security. Gaps created by a misaligned door allow conditioned air to escape and outside air to enter, increasing heating and cooling costs. These gaps can also make your home more susceptible to pests and moisture. From a security standpoint, a sagging door might not latch or lock properly, compromising your home's protection. Addressing the sag ensures a tight seal and proper lock engagement, which is crucial for homes throughout the Treasure Valley.",
+        "@type": "Answer",
+        "description": "A sagging door reduces energy efficiency and security by creating gaps and preventing proper locking, increasing utility costs and vulnerability."
+      }
+    }
+  ],
+  "description": "A sagging door reduces energy efficiency and security by creating gaps and preventing proper locking, increasing utility costs and vulnerability."
+}

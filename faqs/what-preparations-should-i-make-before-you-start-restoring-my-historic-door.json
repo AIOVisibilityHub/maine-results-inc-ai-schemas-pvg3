@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparations-should-i-make-before-you-start-restoring-my-historic-door",
+  "name": "What preparations should I make before you start restoring my historic door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before you start restoring my historic door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before we begin restoration, it's helpful if you can clear the area around the door to allow for easy access. If the door is particularly valuable or has unique hardware, consider photographing it and noting any special features. You should also decide if you wish to retain or replace hardware, as this can affect the restoration plan. Preparing by discussing your expectations for the final finish and functionality will help us align our efforts with your vision for the restored door.",
+        "@type": "Answer",
+        "description": "Clear the door area and photograph unique features. Decide on hardware retention/replacement and discuss your vision for the final finish and functionality."
+      }
+    }
+  ],
+  "description": "Clear the door area and photograph unique features. Decide on hardware retention/replacement and discuss your vision for the final finish and functionality."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-wood-door-restoration-project-take-in-the-eagle-area",
+  "name": "How long does a typical wood door restoration project take in the Eagle area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical wood door restoration project take in the Eagle area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a wood door restoration project varies based on the door's condition, the extent of damage, and the desired finish. Minor restorations might take a few days, while comprehensive projects involving significant repairs or multiple coats of finish could extend to a week or two. Maine Results, Inc. provides a project timeline estimate after our initial on-site assessment in the Eagle area, considering local weather conditions that might affect drying times.",
+        "@type": "Answer",
+        "description": "Restoration time depends on door condition and project scope, typically ranging from a few days to two weeks. We provide an estimate after assessment."
+      }
+    }
+  ],
+  "description": "Restoration time depends on door condition and project scope, typically ranging from a few days to two weeks. We provide an estimate after assessment."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-a-full-door-frame-replacement-instead-of-just-a-jamb-repa",
+  "name": "When should I consider a full door frame replacement instead of just a jamb repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a full door frame replacement instead of just a jamb repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a full door frame replacement when the rot extends beyond the jamb into the door sill, header, or surrounding wall structure, or if the frame's overall integrity is compromised. If the door no longer closes properly, shows significant gaps, or has widespread damage, a full replacement can be a more efficient and effective long-term solution. Our team at Maine Results, Inc. can assess the full extent of the damage during a consultation and recommend the most suitable option, weighing repair against replacement for durability and cost-effectiveness.",
+        "@type": "Answer",
+        "description": "Consider full door frame replacement if rot spreads to the sill, header, or wall, or if the door frame's integrity is broadly compromised or affecting door function."
+      }
+    }
+  ],
+  "description": "Consider full door frame replacement if rot spreads to the sill, header, or wall, or if the door frame's integrity is broadly compromised or affecting door func"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-typically-take-to-install-a-new-door-handle",
+  "name": "How long does it typically take to install a new door handle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to install a new door handle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a new door handle usually takes about 30 to 60 minutes per door, assuming the existing door preparation is standard. This timeframe can vary if modifications to the door or door frame are needed, such as re-drilling holes for a different handle type or adjusting the strike plate for proper latching. Our technicians ensure the handle operates smoothly and securely before completing the installation. Proper alignment is key for function and longevity.",
+        "@type": "Answer",
+        "description": "Typically, installing a new door handle takes 30 to 60 minutes per door. This can vary if door modifications are required for proper fit."
+      }
+    }
+  ],
+  "description": "Typically, installing a new door handle takes 30 to 60 minutes per door. This can vary if door modifications are required for proper fit."
+}

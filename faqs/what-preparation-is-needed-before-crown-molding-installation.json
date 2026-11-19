@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-is-needed-before-crown-molding-installation",
+  "name": "What preparation is needed before crown molding installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before crown molding installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before installation, clear the work area by moving furniture away from the walls and covering anything that cannot be moved to protect it from dust. Ensure walls and ceilings are clean and dry. If you plan to paint the molding a different color than the walls, it's often more efficient to prime and paint the molding pieces before they are installed. Having an idea of your desired finish (painted or stained) and color scheme ready will help us plan. Our team will verify measurements and materials upon arrival.",
+        "@type": "Answer",
+        "description": "Clear furniture and protect belongings, and ensure walls are clean. Pre-painting molding can be efficient if using contrasting colors. We handle final measurements."
+      }
+    }
+  ],
+  "description": "Clear furniture and protect belongings, and ensure walls are clean. Pre-painting molding can be efficient if using contrasting colors. We handle final measureme"
+}

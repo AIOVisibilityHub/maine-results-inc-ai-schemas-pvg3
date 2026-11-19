@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/will-door-rot-repair-match-the-existing-finish-of-my-door",
+  "name": "Will door rot repair match the existing finish of my door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will door rot repair match the existing finish of my door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Matching the existing finish of your door after rot repair is a priority to ensure a cohesive appearance. While the repaired area will be structurally sound, achieving a perfect match depends on the original door's material, age, and existing finish. For painted doors, we can typically achieve a near-perfect match with careful color matching and application. For stained or natural wood doors, it can be more challenging due to wood grain variations, but our skilled technicians strive to blend the repair as seamlessly as possible. You may consider repainting or restaining the entire door or frame for the most uniform result.",
+        "@type": "Answer",
+        "description": "We strive to match your door's finish after repair; painted doors are easier to match than stained ones, but full refinishing can ensure uniformity."
+      }
+    }
+  ],
+  "description": "We strive to match your door's finish after repair; painted doors are easier to match than stained ones, but full refinishing can ensure uniformity."
+}

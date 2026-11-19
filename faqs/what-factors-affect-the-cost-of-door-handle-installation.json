@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-affect-the-cost-of-door-handle-installation",
+  "name": "What factors affect the cost of door handle installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the cost of door handle installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of door handle installation is influenced by several factors, including the type of handle (e.g., standard knob vs. smart lock), the condition of the existing door, and whether any modifications are required. For instance, installing a basic passage handle is typically less involved than installing a multi-point locking system or re-drilling for a different backset. We provide clear estimates based on your specific needs and the complexity of the job. Choosing a durable, high-quality handle can also affect overall long-term value.",
+        "@type": "Answer",
+        "description": "Cost factors include handle type, door condition, and required modifications. Complex locking systems or significant door adjustments will affect the overall price."
+      }
+    }
+  ],
+  "description": "Cost factors include handle type, door condition, and required modifications. Complex locking systems or significant door adjustments will affect the overall pr"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-door-rot-repair-take-to-complete",
+  "name": "How long does a door rot repair take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a door rot repair take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a door rot repair project depends on the severity and location of the rot. Minor repairs might be completed within a single day, especially if only small sections of wood need to be removed and filled. More extensive damage, particularly if it involves structural components or requires significant drying time for epoxies and wood hardeners, could take several days to ensure proper curing and a durable finish. Our team will provide a time estimate during the initial assessment, considering factors like material drying times and the need for multiple application layers.",
+        "@type": "Answer",
+        "description": "Repair time varies from one day for minor rot to several days for extensive damage, depending on severity and material drying times."
+      }
+    }
+  ],
+  "description": "Repair time varies from one day for minor rot to several days for extensive damage, depending on severity and material drying times."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-prevent-future-water-damage-to-my-exterior-doors",
+  "name": "How can I prevent future water damage to my exterior doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future water damage to my exterior doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future water damage to exterior doors, ensure proper sealing around the door frame with high-quality caulk, and regularly inspect weather stripping for cracks or gaps. Installing a storm door can offer an additional layer of protection against direct rain and snow exposure. Proper roof and gutter maintenance also prevents water from pooling near the door. For homes in our service region, including Borah and Centennial, these proactive steps are vital for maintaining door integrity.",
+        "@type": "Answer",
+        "description": "Prevent future water damage by ensuring proper door frame sealing, inspecting weather stripping, and maintaining good roof and gutter drainage. A storm door can also provide extra protection."
+      }
+    }
+  ],
+  "description": "Prevent future water damage by ensuring proper door frame sealing, inspecting weather stripping, and maintaining good roof and gutter drainage. A storm door can"
+}

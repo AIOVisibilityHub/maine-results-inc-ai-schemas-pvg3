@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-door-replacement-instead-of-just-an-adjustment",
+  "name": "When should I consider door replacement instead of just an adjustment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider door replacement instead of just an adjustment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider door replacement instead of adjustment when the door or frame is severely damaged, warped beyond repair, or exhibits extensive rot or structural compromise. If a door continually needs adjustments, or if the original problem cannot be fully resolved, replacement might be a more cost-effective long-term solution. For homes in Boise Heights or Borah, assessing the door's material condition and the extent of damage is key to determining if adjustment or full replacement is the better investment for security and insulation.",
+        "@type": "Answer",
+        "description": "Consider door replacement if the door or frame is severely damaged, warped beyond repair, or exhibits extensive rot."
+      }
+    }
+  ],
+  "description": "Consider door replacement if the door or frame is severely damaged, warped beyond repair, or exhibits extensive rot."
+}

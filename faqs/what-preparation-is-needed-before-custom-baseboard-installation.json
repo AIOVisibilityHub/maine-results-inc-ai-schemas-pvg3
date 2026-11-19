@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-is-needed-before-custom-baseboard-installation",
+  "name": "What preparation is needed before custom baseboard installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before custom baseboard installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before custom baseboard installation, clear the rooms of furniture and personal items to provide unobstructed access to the walls. Any existing baseboards should be removed, and walls should be clean and in good repair to ensure a smooth, even surface for the new trim. Addressing uneven walls or patching holes beforehand can prevent issues during installation and ensure a professional finish. Maine Results, Inc. will confirm specific preparation needs during the consultation.",
+        "@type": "Answer",
+        "description": "Prepare by clearing rooms, removing old baseboards, and ensuring walls are clean and in good repair for a smooth, even surface."
+      }
+    }
+  ],
+  "description": "Prepare by clearing rooms, removing old baseboards, and ensuring walls are clean and in good repair for a smooth, even surface."
+}

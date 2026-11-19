@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-causes-door-rot-and-how-can-i-prevent-it",
+  "name": "What causes door rot and how can I prevent it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes door rot and how can I prevent it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door rot is typically caused by prolonged exposure to moisture, often from rain, sprinklers, or condensation, especially in areas with poor drainage or insufficient protection. Wood doors, particularly at the bottom where they meet the threshold, are most susceptible. To help prevent rot, ensure proper sealing and weatherstripping around your doors. Regularly inspect and maintain paint or stain finishes, and ensure that landscaping does not allow water to pool near the door frame. Proper overhangs and functioning gutters can also significantly reduce moisture exposure.",
+        "@type": "Answer",
+        "description": "Door rot is caused by moisture exposure; prevent it by ensuring proper sealing, maintaining finishes, and managing water drainage around the door."
+      }
+    }
+  ],
+  "description": "Door rot is caused by moisture exposure; prevent it by ensuring proper sealing, maintaining finishes, and managing water drainage around the door."
+}

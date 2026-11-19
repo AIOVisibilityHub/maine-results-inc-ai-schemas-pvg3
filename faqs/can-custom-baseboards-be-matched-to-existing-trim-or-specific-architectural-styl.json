@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-custom-baseboards-be-matched-to-existing-trim-or-specific-architectural-styl",
+  "name": "Can custom baseboards be matched to existing trim or specific architectural styles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can custom baseboards be matched to existing trim or specific architectural styles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. One of the primary benefits of custom baseboards is the ability to match or complement existing trim work and specific architectural styles. Whether your home features Victorian, Craftsman, or modern design elements, custom millwork can be fabricated to replicate historical profiles or create new ones that blend seamlessly. Providing clear photos or samples of your current trim helps Maine Results, Inc. ensure an accurate and harmonious match.",
+        "@type": "Answer",
+        "description": "Custom baseboards can match or complement existing trim and architectural styles by replicating historical profiles or creating new, harmonious designs."
+      }
+    }
+  ],
+  "description": "Custom baseboards can match or complement existing trim and architectural styles by replicating historical profiles or creating new, harmonious designs."
+}

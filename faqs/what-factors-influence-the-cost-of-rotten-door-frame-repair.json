@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-rotten-door-frame-repair",
+  "name": "What factors influence the cost of rotten door frame repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of rotten door frame repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of rotten door frame repair is influenced by several factors, including the extent of the rot, the type of wood, and whether the damage is localized or requires replacing a significant portion of the frame. Accessibility of the door and any necessary lead paint abatement can also affect the final price. For example, a simple patch will cost less than replacing an entire jamb and sill. The best way to get an accurate estimate for your home in Eagle or Kuna is to have us assess the specific conditions.",
+        "@type": "Answer",
+        "description": "Cost factors include the extent and location of rot, wood type, and whether a partial repair or full jamb replacement is needed. Accessibility and lead paint abatement can also influence the price."
+      }
+    }
+  ],
+  "description": "Cost factors include the extent and location of rot, wood type, and whether a partial repair or full jamb replacement is needed. Accessibility and lead paint ab"
+}

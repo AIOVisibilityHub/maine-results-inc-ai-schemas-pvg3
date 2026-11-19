@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-steps-can-i-take-to-prepare-my-home-before-crown-molding-repair-workers-arr",
+  "name": "What steps can I take to prepare my home before crown molding repair workers arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps can I take to prepare my home before crown molding repair workers arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To help us work efficiently and protect your belongings, there are a few steps you can take before our team arrives for crown molding repair. Please clear the work area by moving furniture, decorations, and other items away from the walls where the molding will be repaired. Covering any remaining large items with sheets or tarps is also helpful to protect them from dust. Ensure clear access to the work zones, and if children or pets are present, please keep them away from the immediate repair area for their safety.",
+        "@type": "Answer",
+        "description": "Before repair, clear the work area by moving furniture and items away from walls, cover large furnishings, and ensure clear access for our team."
+      }
+    }
+  ],
+  "description": "Before repair, clear the work area by moving furniture and items away from walls, cover large furnishings, and ensure clear access for our team."
+}

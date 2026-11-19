@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-cost-range-for-sagging-door-repair-services-in-the-garden-ci",
+  "name": "What is the typical cost range for sagging door repair services in the Garden City area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for sagging door repair services in the Garden City area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for sagging door repair varies widely based on the cause and extent of the damage. Simple hinge adjustments might be minimal, while addressing a severely warped frame, replacing a rotten jamb, or correcting structural issues can be more involved. Factors like the type of door (e.g., solid core vs. hollow core), the material of the frame, and the need for new hardware all influence the final price. We provide detailed estimates after an on-site evaluation to ensure transparent pricing for our clients in areas such as Garden City and Kuna.",
+        "@type": "Answer",
+        "description": "Costs for sagging door repair vary by damage severity, door type, and frame material; we provide detailed estimates after an on-site evaluation."
+      }
+    }
+  ],
+  "description": "Costs for sagging door repair vary by damage severity, door type, and frame material; we provide detailed estimates after an on-site evaluation."
+}

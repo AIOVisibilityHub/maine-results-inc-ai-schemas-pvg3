@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-considerations-are-there-for-deadbolt-installation-on-different-door-materi",
+  "name": "What considerations are there for deadbolt installation on different door materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations are there for deadbolt installation on different door materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door material significantly impacts deadbolt installation. Wooden doors are generally straightforward, but require careful drilling to prevent splintering. Metal doors (steel or aluminum) may need specialized drill bits and tools. Fiberglass and composite doors are also common and require specific techniques to ensure a secure fit without damage. The integrity of the door frame is also crucial, as a weak frame can compromise even the strongest deadbolt. Maine Results, Inc. technicians are experienced with all door types, ensuring a proper and secure installation in places like Eagle or Star.",
+        "@type": "Answer",
+        "description": "Different door materials like wood, metal, and fiberglass require specific tools and techniques for secure deadbolt installation to prevent damage."
+      }
+    }
+  ],
+  "description": "Different door materials like wood, metal, and fiberglass require specific tools and techniques for secure deadbolt installation to prevent damage."
+}

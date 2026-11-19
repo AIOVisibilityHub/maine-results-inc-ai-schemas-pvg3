@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-is-needed-before-baseboard-replacement-begins",
+  "name": "What preparation is needed before baseboard replacement begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before baseboard replacement begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before baseboard replacement begins, clear the room of furniture and personal belongings as much as possible to provide installers with unobstructed access to the walls. Remove any wall hangings or decor that might be in the way. It's also helpful to have your flooring completely installed or repaired beforehand, as baseboards are typically installed on top of the finished floor. If you plan to paint your walls, it's often more efficient to do so before the new baseboards are installed, or after, depending on your preferred masking technique. Our team will coordinate with you to ensure your home is ready for a smooth and efficient installation.",
+        "@type": "Answer",
+        "description": "Clear the room of furniture and belongings, ensure flooring is complete, and consider wall painting before replacement begins."
+      }
+    }
+  ],
+  "description": "Clear the room of furniture and belongings, ensure flooring is complete, and consider wall painting before replacement begins."
+}

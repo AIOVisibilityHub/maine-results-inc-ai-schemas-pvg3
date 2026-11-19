@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-repair-a-rotten-door-frame",
+  "name": "How long does it take to repair a rotten door frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a rotten door frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to repair a rotten door frame depends on the severity of the damage. Minor repairs, such as patching a small section of rot, can often be completed within a few hours to a single day. More extensive damage requiring the replacement of an entire jamb or multiple components might take one to two days. Factors like drying times for sealants and paint, as well as unexpected discoveries during the repair, can influence the overall timeline. We strive to complete repairs efficiently while ensuring a durable, high-quality result.",
+        "@type": "Answer",
+        "description": "Minor repairs can take a few hours to a day, while more extensive damage might take one to two days. The timeline depends on rot severity and drying times."
+      }
+    }
+  ],
+  "description": "Minor repairs can take a few hours to a day, while more extensive damage might take one to two days. The timeline depends on rot severity and drying times."
+}

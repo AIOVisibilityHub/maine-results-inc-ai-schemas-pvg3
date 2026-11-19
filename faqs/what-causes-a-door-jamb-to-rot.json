@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-causes-a-door-jamb-to-rot",
+  "name": "What causes a door jamb to rot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a door jamb to rot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door jambs typically rot due to prolonged exposure to moisture, often from rain, melting snow, or poor drainage around the foundation. Water can seep into the wood, especially at the bottom of the jamb, leading to fungal growth and deterioration. In areas like Garden City or Meridian, harsh weather cycles with freezing and thawing can accelerate this process, compromising the wood's integrity over time.",
+        "@type": "Answer",
+        "description": "Rotting door jambs are usually caused by prolonged moisture exposure from rain, snow, or poor drainage, which is exacerbated by weather cycles in our service areas."
+      }
+    }
+  ],
+  "description": "Rotting door jambs are usually caused by prolonged moisture exposure from rain, snow, or poor drainage, which is exacerbated by weather cycles in our service ar"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-crown-molding-can-your-company-repair",
+  "name": "What types of crown molding can your company repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of crown molding can your company repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our company has experience repairing a wide variety of crown molding types commonly found in homes across Meridian and surrounding areas. This includes traditional wood moldings, whether solid or finger-jointed, as well as synthetic options like polyurethane and MDF (medium-density fiberboard). We can address damage to different profiles and sizes. The specific material and profile of your existing molding help us determine the best repair techniques and materials needed to ensure a durable and aesthetically pleasing result that blends seamlessly with your home's interior.",
+        "@type": "Answer",
+        "description": "We repair various crown molding types, including wood (solid, finger-jointed), polyurethane, and MDF, in homes across Meridian and nearby areas."
+      }
+    }
+  ],
+  "description": "We repair various crown molding types, including wood (solid, finger-jointed), polyurethane, and MDF, in homes across Meridian and nearby areas."
+}

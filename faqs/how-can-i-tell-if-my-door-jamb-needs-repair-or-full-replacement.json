@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-tell-if-my-door-jamb-needs-repair-or-full-replacement",
+  "name": "How can I tell if my door jamb needs repair or full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my door jamb needs repair or full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To determine if your door jamb needs repair or full replacement, inspect the wood for softness, discoloration, or crumbling, particularly near the bottom. If the damage is superficial and confined to a small area, a repair might be sufficient. However, if the rot has spread deep into the wood, affects structural integrity, or extends significantly up the frame, a full replacement is often more cost-effective and provides a lasting solution. Maine Results, Inc. assesses the extent of the damage to advise on the best approach.",
+        "@type": "Answer",
+        "description": "Check for soft, discolored, or crumbling wood. Minor surface rot may be repairable, but widespread or deep damage usually requires a full replacement for structural integrity."
+      }
+    }
+  ],
+  "description": "Check for soft, discolored, or crumbling wood. Minor surface rot may be repairable, but widespread or deep damage usually requires a full replacement for struct"
+}

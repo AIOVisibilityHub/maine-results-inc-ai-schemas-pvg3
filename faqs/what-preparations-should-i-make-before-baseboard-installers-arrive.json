@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparations-should-i-make-before-baseboard-installers-arrive",
+  "name": "What preparations should I make before baseboard installers arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before baseboard installers arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before baseboard installers arrive, it's helpful to clear the room of furniture and personal belongings to provide clear access to the walls. Remove any existing baseboards yourself if you prefer, or we can include that in our service. If you've chosen to paint your walls before installation, ensure they are dry. Having a clear workspace allows our team to work efficiently and safely, speeding up the installation process. This preparation helps us complete your project quickly, whether you're in Star or Caldwell.",
+        "@type": "Answer",
+        "description": "Clear rooms of furniture and belongings, and ensure walls are ready (e.g., painted and dry) for efficient installation."
+      }
+    }
+  ],
+  "description": "Clear rooms of furniture and belongings, and ensure walls are ready (e.g., painted and dry) for efficient installation."
+}

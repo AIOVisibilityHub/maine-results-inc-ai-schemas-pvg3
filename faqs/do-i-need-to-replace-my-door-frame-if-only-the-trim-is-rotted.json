@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-replace-my-door-frame-if-only-the-trim-is-rotted",
+  "name": "Do I need to replace my door frame if only the trim is rotted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace my door frame if only the trim is rotted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You typically do not need to replace your entire door frame if only the exterior trim is rotted, provided the rot has not spread to the structural components of the frame itself. The trim is primarily decorative and serves as a weather seal, so if the frame is sound, only the trim needs attention. However, rot can spread, so a thorough inspection is essential. If the rot has entered the door jamb or sill, then a more extensive repair or even frame replacement might be necessary. Maine Results, Inc. will carefully examine the frame to ensure all compromised wood is addressed, avoiding unnecessary full frame replacement.",
+        "@type": "Answer",
+        "description": "No, if rot is only in the trim and not the structural frame. A thorough inspection is needed to confirm the extent of the damage."
+      }
+    }
+  ],
+  "description": "No, if rot is only in the trim and not the structural frame. A thorough inspection is needed to confirm the extent of the damage."
+}

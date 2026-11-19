@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/does-maine-results-inc-repair-sticking-doors-in-meridian-idaho",
+  "name": "Does Maine Results, Inc. repair sticking doors in Meridian, Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Maine Results, Inc. repair sticking doors in Meridian, Idaho?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. provides sticking door repair services in Meridian, Idaho, as part of our service area which also includes Garden City, Eagle, and Kuna. We bring our expertise in general construction and home repair to address various causes of sticking doors, ensuring homes in Meridian maintain their functionality and structural integrity. Contact us to schedule an assessment for your property.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. repairs sticking doors in Meridian, Idaho, alongside Garden City, Eagle, and Kuna. We address various causes of door issues in these areas."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. repairs sticking doors in Meridian, Idaho, alongside Garden City, Eagle, and Kuna. We address various causes of door issues in these ar"
+}

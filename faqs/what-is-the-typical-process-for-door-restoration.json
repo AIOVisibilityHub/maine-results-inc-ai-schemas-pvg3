@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-door-restoration",
+  "name": "What is the typical process for door restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for door restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The door restoration process generally begins with an initial assessment of the door's condition and the extent of damage. This is followed by carefully removing the door if necessary, stripping existing finishes, and making repairs to structural or cosmetic issues. Next, the door is sanded, stained or painted, and a new protective finish is applied. Finally, the door is reinstalled with any new hardware. The process timing can vary depending on the door's material, damage severity, and the chosen finish.",
+        "@type": "Answer",
+        "description": "The process involves assessment, stripping, repairs, sanding, refinishing, and reinstallation, with timing depending on damage and material."
+      }
+    }
+  ],
+  "description": "The process involves assessment, stripping, repairs, sanding, refinishing, and reinstallation, with timing depending on damage and material."
+}

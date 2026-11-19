@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-security-ratings-should-i-look-for-in-a-deadbolt",
+  "name": "What security ratings should I look for in a deadbolt?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What security ratings should I look for in a deadbolt?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deadbolts are rated by the American National Standards Institute (ANSI) with grades from 1 to 3, indicating their security level and durability. Grade 1 offers the highest security and durability, suitable for commercial applications and primary residential entry points. Grade 2 provides good residential security, while Grade 3 is considered standard or basic. When choosing, consider the exposure and importance of the door. Maine Results, Inc. can guide you through options and recommend Grade 1 or 2 deadbolts for robust security in your Boise Heights or West Bench home.",
+        "@type": "Answer",
+        "description": "Look for ANSI Grade 1 (highest security) or Grade 2 deadbolts for robust home security, depending on the door's importance."
+      }
+    }
+  ],
+  "description": "Look for ANSI Grade 1 (highest security) or Grade 2 deadbolts for robust home security, depending on the door's importance."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-crown-molding-and-why-should-i-install-it",
+  "name": "What is crown molding and why should I install it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is crown molding and why should I install it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Crown molding is a decorative trim that bridges the wall and ceiling, adding architectural detail and elegance to a room. It can enhance the perceived value of your home, conceal minor imperfections where walls meet the ceiling, and provide a finished look to any space. Beyond aesthetics, it can protect wall edges from dings. When considering installation, think about the overall style of your home and the desired visual impact; different profiles and sizes create distinct effects. We help clients in Garden City, Meridian, Eagle, and Kuna select designs that complement their homes.",
+        "@type": "Answer",
+        "description": "Crown molding is a decorative trim at the wall-ceiling junction that adds elegance and can hide imperfections, enhancing your home's finished look."
+      }
+    }
+  ],
+  "description": "Crown molding is a decorative trim at the wall-ceiling junction that adds elegance and can hide imperfections, enhancing your home's finished look."
+}

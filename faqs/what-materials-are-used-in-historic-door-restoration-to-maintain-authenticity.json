@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-used-in-historic-door-restoration-to-maintain-authenticity",
+  "name": "What materials are used in historic door restoration to maintain authenticity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used in historic door restoration to maintain authenticity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We prioritize using materials that are historically appropriate and compatible with the original construction of your door. This often includes matching wood species, traditional joinery techniques, and finishes that respect the period style. For example, if a door was originally made of Douglas Fir, we would source Fir for repairs. A practical tradeoff is that sourcing specific historical materials or replicating intricate designs can sometimes be more time-consuming and costly than using modern alternatives, but it ensures the door's authentic appearance and structural integrity for the long term.",
+        "@type": "Answer",
+        "description": "We use historically appropriate materials like matching wood species, traditional joinery, and period-accurate finishes. Sourcing these can be time-consuming but ensures authenticity."
+      }
+    }
+  ],
+  "description": "We use historically appropriate materials like matching wood species, traditional joinery, and period-accurate finishes. Sourcing these can be time-consuming bu"
+}

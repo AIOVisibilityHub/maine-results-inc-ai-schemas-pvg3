@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-wood-doors-can-maine-results-inc-restore",
+  "name": "What types of wood doors can Maine Results, Inc. restore?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood doors can Maine Results, Inc. restore?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. specializes in restoring various wood door types, including solid wood entry doors, interior doors, and custom-built doors. We assess the wood species, such as oak, mahogany, pine, or fir, and the door's current condition to determine the most effective restoration approach. Our process can address issues from sun damage and rot to structural integrity, ensuring your door regains its original beauty and function.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. restores solid wood entry doors, interior doors, and custom wood doors, assessing wood species and condition for the best approach."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. restores solid wood entry doors, interior doors, and custom wood doors, assessing wood species and condition for the best approach."
+}

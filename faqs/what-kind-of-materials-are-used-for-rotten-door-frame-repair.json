@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-materials-are-used-for-rotten-door-frame-repair",
+  "name": "What kind of materials are used for rotten door frame repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of materials are used for rotten door frame repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For rotten door frame repair, we use durable, moisture-resistant materials designed for longevity. This often includes treated lumber for replacement sections, high-quality exterior-grade wood epoxies for patching, and marine-grade sealants to ensure a watertight finish. For exterior applications, we prioritize materials that can withstand local weather conditions in areas like Kuna and Star. The specific materials selected will depend on the extent of the damage, the existing frame material, and the best long-term solution for preventing future rot.",
+        "@type": "Answer",
+        "description": "We use durable, moisture-resistant materials like treated lumber, exterior-grade wood epoxies, and marine-grade sealants. Material choice depends on damage extent and local weather conditions."
+      }
+    }
+  ],
+  "description": "We use durable, moisture-resistant materials like treated lumber, exterior-grade wood epoxies, and marine-grade sealants. Material choice depends on damage exte"
+}

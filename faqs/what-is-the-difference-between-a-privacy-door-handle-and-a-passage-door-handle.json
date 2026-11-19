@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-a-privacy-door-handle-and-a-passage-door-handle",
+  "name": "What is the difference between a privacy door handle and a passage door handle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a privacy door handle and a passage door handle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A privacy door handle, commonly used for bathrooms and bedrooms, features a locking mechanism that can be engaged from the inside, often with an emergency release on the exterior. It does not require a key. A passage door handle, used for closets or hallways, has no locking mechanism at all; it simply allows the door to be opened and closed. Understanding this distinction is crucial for selecting the right handle for each specific door's function within your home, balancing access and privacy needs.",
+        "@type": "Answer",
+        "description": "Privacy handles have a lock from the inside, often for bathrooms and bedrooms, while passage handles have no lock and are used for hallways or closets."
+      }
+    }
+  ],
+  "description": "Privacy handles have a lock from the inside, often for bathrooms and bedrooms, while passage handles have no lock and are used for hallways or closets."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-door-hardware-can-maine-results-install",
+  "name": "What types of door hardware can Maine Results install?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of door hardware can Maine Results install?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results installs a wide variety of door hardware, including handles, knobs, locks (deadbolts, smart locks, electronic keypads), hinges, and door closers for both interior and exterior doors. We consider factors like security needs, aesthetic preferences, and the door's material to recommend the best fit for your home or business. Our service area covers Garden City, Meridian, Eagle, and Kuna, ensuring local expertise for your project.",
+        "@type": "Answer",
+        "description": "Maine Results installs handles, knobs, various locks, hinges, and door closers for interior and exterior doors, matching hardware to your security and style needs."
+      }
+    }
+  ],
+  "description": "Maine Results installs handles, knobs, various locks, hinges, and door closers for interior and exterior doors, matching hardware to your security and style nee"
+}

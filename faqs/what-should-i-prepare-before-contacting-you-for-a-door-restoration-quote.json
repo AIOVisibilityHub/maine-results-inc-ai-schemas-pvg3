@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-contacting-you-for-a-door-restoration-quote",
+  "name": "What should I prepare before contacting you for a door restoration quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting you for a door restoration quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting us for a door restoration quote, it's helpful to gather some information. This includes details about the door's age, material, and a description of the damage. Taking a few clear photos of the door, especially close-ups of the damaged areas, can also be very useful. These preparations allow us to understand the scope of work more accurately and provide a more precise initial assessment and quote.",
+        "@type": "Answer",
+        "description": "Prepare door age, material, damage description, and clear photos to help us provide an accurate restoration quote."
+      }
+    }
+  ],
+  "description": "Prepare door age, material, damage description, and clear photos to help us provide an accurate restoration quote."
+}

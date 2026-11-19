@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-reasons-crown-molding-needs-repair",
+  "name": "What are common reasons crown molding needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common reasons crown molding needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Crown molding often requires repair due to common household issues. Water damage from leaks or humidity can cause warping, staining, or rot, especially in areas like bathrooms or kitchens. Accidental impacts, such as moving furniture, can lead to dents, cracks, or chips. Over time, houses settle, which can cause gaps to form between the molding and the wall or ceiling. Additionally, age-related wear, inadequate installation, or shifting structural elements can all contribute to damage that necessitates repair.",
+        "@type": "Answer",
+        "description": "Common reasons for crown molding repair include water damage, accidental impacts, house settling, and general wear and tear."
+      }
+    }
+  ],
+  "description": "Common reasons for crown molding repair include water damage, accidental impacts, house settling, and general wear and tear."
+}

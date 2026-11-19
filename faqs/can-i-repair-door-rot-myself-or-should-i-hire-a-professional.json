@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-repair-door-rot-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair door rot myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair door rot myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor door rot, such as small soft spots that haven't compromised the door's structure, might be manageable for experienced DIYers using repair kits. However, for more extensive rot, structural damage, or if you lack experience with wood repair, hiring a professional is advisable. Professionals have the tools, expertise, and materials to ensure the repair is effective, durable, and aesthetically pleasing. Maine Results, Inc. provides professional assessments and repairs, ensuring the root cause of the rot is addressed and the repair integrates seamlessly with your home's appearance.",
+        "@type": "Answer",
+        "description": "DIY is possible for minor rot, but professionals are recommended for extensive damage or structural issues to ensure effective, durable repairs."
+      }
+    }
+  ],
+  "description": "DIY is possible for minor rot, but professionals are recommended for extensive damage or structural issues to ensure effective, durable repairs."
+}

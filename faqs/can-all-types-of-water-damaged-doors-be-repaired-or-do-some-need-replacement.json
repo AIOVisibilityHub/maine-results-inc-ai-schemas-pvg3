@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-all-types-of-water-damaged-doors-be-repaired-or-do-some-need-replacement",
+  "name": "Can all types of water-damaged doors be repaired, or do some need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can all types of water-damaged doors be repaired, or do some need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not all water-damaged doors can be repaired; the extent and type of damage often dictate whether repair or replacement is the best option. Minor surface damage, like peeling paint or small areas of swelling, can often be sanded, filled, and repainted. However, severe warping, structural compromise, or extensive rot typically necessitate a full door replacement to ensure proper function, security, and energy efficiency. We assess each door individually to recommend the most cost-effective and durable solution for properties in areas like Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "Minor water damage may be repairable, but severe warping, structural issues, or extensive rot usually require door replacement. We assess each door to determine the best solution."
+      }
+    }
+  ],
+  "description": "Minor water damage may be repairable, but severe warping, structural issues, or extensive rot usually require door replacement. We assess each door to determine"
+}

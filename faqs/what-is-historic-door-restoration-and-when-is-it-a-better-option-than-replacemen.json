@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-historic-door-restoration-and-when-is-it-a-better-option-than-replacemen",
+  "name": "What is historic door restoration, and when is it a better option than replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is historic door restoration, and when is it a better option than replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Historic door restoration involves carefully repairing and preserving original doors, maintaining their architectural integrity and value. It's often preferred over replacement when the door is structurally sound, has unique craftsmanship, or contributes significantly to the historical character of a property. A key decision factor is the extent of damage; minor issues like worn finishes, loose joints, or superficial rot are typically good candidates for restoration, while severely deteriorated or compromised doors might require replacement. The goal is to retain as much original material as possible.",
+        "@type": "Answer",
+        "description": "Historic door restoration preserves original doors, maintaining architectural integrity. It's better than replacement when the door is structurally sound and has unique character."
+      }
+    }
+  ],
+  "description": "Historic door restoration preserves original doors, maintaining architectural integrity. It's better than replacement when the door is structurally sound and ha"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-causes-exterior-door-trim-to-rot",
+  "name": "What causes exterior door trim to rot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes exterior door trim to rot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exterior door trim often rots due to prolonged exposure to moisture, especially where paint or sealant has failed, allowing water to penetrate the wood. Common culprits include clogged gutters overflowing onto the trim, sprinkler systems hitting the door frame, or inadequate flashing above the door. In the Pacific Northwest, consistent rainfall and humidity levels contribute significantly to this issue. Regular inspection and maintenance, such as repainting and resealing, can help prevent moisture intrusion and prolong the life of your trim. Maine Results, Inc. often sees this in older homes where original wood trim was not adequately protected.",
+        "@type": "Answer",
+        "description": "Exterior door trim typically rots from prolonged moisture exposure due to failed paint or sealant, clogged gutters, or sprinkler systems."
+      }
+    }
+  ],
+  "description": "Exterior door trim typically rots from prolonged moisture exposure due to failed paint or sealant, clogged gutters, or sprinkler systems."
+}

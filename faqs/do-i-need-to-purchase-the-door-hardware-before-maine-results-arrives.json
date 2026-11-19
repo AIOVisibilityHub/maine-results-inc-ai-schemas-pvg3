@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-purchase-the-door-hardware-before-maine-results-arrives",
+  "name": "Do I need to purchase the door hardware before Maine Results arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to purchase the door hardware before Maine Results arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can either purchase the door hardware beforehand or we can assist you in selecting and sourcing it. If you choose to purchase it yourself, please ensure the hardware is readily available on the installation day and compatible with your doors' specifications (e.g., backset, bore size). If you prefer, we can guide you through the selection process, leveraging our experience to recommend durable and suitable options that fit your budget and aesthetic preferences. This preparation ensures a smooth and efficient installation.",
+        "@type": "Answer",
+        "description": "You can purchase hardware beforehand or we can assist in selection and sourcing. If buying yourself, ensure it's available and compatible; otherwise, we can recommend suitable options for an efficient installation."
+      }
+    }
+  ],
+  "description": "You can purchase hardware beforehand or we can assist in selection and sourcing. If buying yourself, ensure it's available and compatible; otherwise, we can rec"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-crown-molding-repair-typically-take",
+  "name": "How long does crown molding repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does crown molding repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of crown molding repair projects varies based on the scope and complexity of the damage. Minor repairs, such as filling small gaps or cracks, might only take a few hours. More extensive projects, involving multiple sections of replacement, significant patching, or drying times for materials, could extend to a full day or even several days. During our initial assessment, we provide an estimated timeline specific to your project, so you know what to expect. We prioritize efficient work while ensuring a high-quality finish.",
+        "@type": "Answer",
+        "description": "Repair time depends on damage scope; minor fixes take hours, while extensive work might require several days, with an estimated timeline provided after assessment."
+      }
+    }
+  ],
+  "description": "Repair time depends on damage scope; minor fixes take hours, while extensive work might require several days, with an estimated timeline provided after assessme"
+}

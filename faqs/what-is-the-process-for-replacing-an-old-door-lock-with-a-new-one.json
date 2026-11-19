@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-replacing-an-old-door-lock-with-a-new-one",
+  "name": "What is the process for replacing an old door lock with a new one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing an old door lock with a new one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing an old door lock typically involves several steps to ensure proper function and security. First, the old lock hardware is carefully removed from the door and frame. Next, the door and frame are inspected to ensure the existing bore holes and mortises are compatible with the new lock. If modifications are needed, such as enlarging holes, these are completed. The new lock mechanism, cylinder, and trim are then installed, followed by testing to ensure smooth operation of the latch, bolt, and keying. Finally, adjustments are made to the strike plate on the door frame for optimal alignment and security. Maine Results, Inc. technicians ensure a seamless transition and proper fit.",
+        "@type": "Answer",
+        "description": "Replacing an old lock involves removing existing hardware, inspecting door compatibility, installing the new mechanism, and testing for smooth operation and security."
+      }
+    }
+  ],
+  "description": "Replacing an old lock involves removing existing hardware, inspecting door compatibility, installing the new mechanism, and testing for smooth operation and sec"
+}

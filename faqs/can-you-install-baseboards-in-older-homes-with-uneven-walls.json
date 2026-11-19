@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-install-baseboards-in-older-homes-with-uneven-walls",
+  "name": "Can you install baseboards in older homes with uneven walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you install baseboards in older homes with uneven walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, installing baseboards in older homes with uneven walls is a common challenge that our team is equipped to handle. Older homes, particularly in areas like the North End or East End of Boise, often have walls that are not perfectly straight. We use specialized techniques and tools to scribe and fit baseboards to account for these inconsistencies, ensuring a tight and aesthetically pleasing fit. While it may require more precise cutting and fitting than in new construction, we strive to minimize gaps and create a smooth transition between the wall and the trim.",
+        "@type": "Answer",
+        "description": "Yes, we can install baseboards in older homes with uneven walls using specialized techniques to ensure a tight, aesthetically pleasing fit."
+      }
+    }
+  ],
+  "description": "Yes, we can install baseboards in older homes with uneven walls using specialized techniques to ensure a tight, aesthetically pleasing fit."
+}

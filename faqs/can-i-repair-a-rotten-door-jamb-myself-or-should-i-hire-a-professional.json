@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-repair-a-rotten-door-jamb-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair a rotten door jamb myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a rotten door jamb myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface rot might be a DIY project, extensive rotten door jamb repair typically requires professional expertise. Professionals have the right tools, knowledge of proper wood treatment, and skills to ensure structural integrity and a seamless finish. Incorrect repairs can lead to recurring rot, poor door operation, or further damage. For precise work and long-lasting results, especially in areas like Kuna or Star where weather exposure is common, hiring an experienced contractor like Maine Results, Inc. is often the best choice.",
+        "@type": "Answer",
+        "description": "Extensive rot repair is best handled by professionals for structural integrity and lasting results; DIY is suitable only for very minor surface damage."
+      }
+    }
+  ],
+  "description": "Extensive rot repair is best handled by professionals for structural integrity and lasting results; DIY is suitable only for very minor surface damage."
+}

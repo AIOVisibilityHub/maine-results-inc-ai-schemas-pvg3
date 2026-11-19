@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-door-alignment-repair",
+  "name": "What is the typical process for door alignment repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for door alignment repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for door alignment repair typically begins with an assessment to identify the root cause of the misalignment, such as loose hinges, warped frames, or foundation issues. Our technicians then propose a solution, which might involve tightening or replacing hinges, shimming the frame, or adjusting the strike plate. In some cases, more extensive frame or structural work may be necessary, particularly if the problem stems from a settling house. We aim to complete most standard repairs efficiently on-site.",
+        "@type": "Answer",
+        "description": "Door alignment repair involves assessing the cause, then tightening/replacing hinges, shimming the frame, or adjusting the strike plate."
+      }
+    }
+  ],
+  "description": "Door alignment repair involves assessing the cause, then tightening/replacing hinges, shimming the frame, or adjusting the strike plate."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/is-it-better-to-repair-or-replace-a-severely-warped-water-damaged-door",
+  "name": "Is it better to repair or replace a severely warped water-damaged door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to repair or replace a severely warped water-damaged door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When a door is severely warped due to water damage, replacement is almost always a better long-term solution than repair. Warping indicates significant structural changes that are difficult to fully reverse, often leading to poor sealing, drafts, and security issues. While repair might offer a temporary fix, a new door ensures proper fit, energy efficiency, and a clean aesthetic. We help homeowners in areas like West Boise and West Downtown make this comparison based on their specific situation and budget.",
+        "@type": "Answer",
+        "description": "For severely warped water-damaged doors, replacement is generally better than repair due to structural issues affecting fit, sealing, and security. A new door ensures proper function and efficiency."
+      }
+    }
+  ],
+  "description": "For severely warped water-damaged doors, replacement is generally better than repair due to structural issues affecting fit, sealing, and security. A new door e"
+}

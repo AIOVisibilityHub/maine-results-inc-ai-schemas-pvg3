@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-restoring-my-door-instead-of-replacing-it",
+  "name": "When should I consider restoring my door instead of replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider restoring my door instead of replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider restoring your door if the damage is primarily cosmetic or localized, and the door's core structure remains sound. Restoration is often a more cost-effective option than replacement, especially for custom, antique, or solid wood doors that have significant value. A practical tradeoff to consider is the extent of damage versus the cost of repair. If the door requires extensive structural repairs, replacement might be more practical in the long run. We can help assess if restoration is viable.",
+        "@type": "Answer",
+        "description": "Consider restoration when damage is cosmetic or localized and the door's structure is sound, often saving money compared to replacement."
+      }
+    }
+  ],
+  "description": "Consider restoration when damage is cosmetic or localized and the door's structure is sound, often saving money compared to replacement."
+}

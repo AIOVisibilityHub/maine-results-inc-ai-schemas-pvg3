@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-baseboard-damage-can-be-repaired-versus-requiring-replacement",
+  "name": "What types of baseboard damage can be repaired versus requiring replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of baseboard damage can be repaired versus requiring replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor cosmetic damage like small dings, scratches, or hairline cracks can usually be repaired with wood filler, sanding, and repainting. However, extensive damage such as severe warping from prolonged moisture, large sections of rot, or significant structural breaks often necessitate replacement. When assessing damage, we look for the integrity of the material; if the baseboard is compromised beyond a simple patch, a replacement will offer a more durable and visually appealing outcome than repeated attempts at repair.",
+        "@type": "Answer",
+        "description": "Minor dings and cracks are repairable, but severe warping, rot, or major breaks typically require full baseboard replacement for durability and aesthetics."
+      }
+    }
+  ],
+  "description": "Minor dings and cracks are repairable, but severe warping, rot, or major breaks typically require full baseboard replacement for durability and aesthetics."
+}

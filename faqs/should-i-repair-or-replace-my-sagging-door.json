@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-repair-or-replace-my-sagging-door",
+  "name": "Should I repair or replace my sagging door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my sagging door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace a sagging door depends on the extent of the damage, the door's age, and your budget. If the damage is confined to hinges or a minor frame issue, repair is often the most cost-effective solution. However, if the door slab itself is warped beyond repair, if there's extensive rot in the frame, or if you're seeking a significant upgrade in insulation or security, replacement might be a better long-term investment. Consider the condition of the door's material, its energy efficiency, and your desire for an aesthetic update when making your choice. Our team can help you weigh these factors during an on-site consultation.",
+        "@type": "Answer",
+        "description": "Repair minor issues or replace for extensive damage, warp, rot, or upgrades, considering cost, door age, and desired improvements."
+      }
+    }
+  ],
+  "description": "Repair minor issues or replace for extensive damage, warp, rot, or upgrades, considering cost, door age, and desired improvements."
+}

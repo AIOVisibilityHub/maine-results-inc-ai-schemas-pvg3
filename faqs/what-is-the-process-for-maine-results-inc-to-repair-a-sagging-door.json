@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-maine-results-inc-to-repair-a-sagging-door",
+  "name": "What is the process for Maine Results, Inc. to repair a sagging door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for Maine Results, Inc. to repair a sagging door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our sagging door repair process begins with a thorough inspection of the door, frame, and surrounding structure to identify the exact cause of the sag. We then discuss our findings and recommended solutions with you, along with a transparent estimate. Once approved, our skilled technicians will perform the necessary repairs, which could involve adjusting or replacing hardware, shimming the frame, or even reinforcing the door jamb. We always ensure the door operates smoothly and latches securely before considering the job complete. To prepare for our visit, please clear the area around the door for easy access.",
+        "@type": "Answer",
+        "description": "Our process involves inspection, diagnosis, detailed estimate, and then repair of hinges, frame, or jamb, ensuring smooth operation."
+      }
+    }
+  ],
+  "description": "Our process involves inspection, diagnosis, detailed estimate, and then repair of hinges, frame, or jamb, ensuring smooth operation."
+}

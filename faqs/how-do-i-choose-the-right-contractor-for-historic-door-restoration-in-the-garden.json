@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-the-right-contractor-for-historic-door-restoration-in-the-garden",
+  "name": "How do I choose the right contractor for historic door restoration in the Garden City area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for historic door restoration in the Garden City area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for historic door restoration, especially in areas like Garden City, look for companies with specific experience in historic preservation. Review their portfolio of similar projects and inquire about their knowledge of period-appropriate techniques and materials. A key decision factor should be their ability to assess the door's historical significance and propose solutions that respect its original craftsmanship. We recommend seeking detailed proposals and checking references to ensure they understand the nuances of historic work.",
+        "@type": "Answer",
+        "description": "Choose a contractor with specific historic preservation experience, a relevant portfolio, and knowledge of period techniques. Ensure they respect the door's historical significance."
+      }
+    }
+  ],
+  "description": "Choose a contractor with specific historic preservation experience, a relevant portfolio, and knowledge of period techniques. Ensure they respect the door's his"
+}

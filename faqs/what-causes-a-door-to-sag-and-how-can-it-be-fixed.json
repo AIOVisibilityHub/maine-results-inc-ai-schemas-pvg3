@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-causes-a-door-to-sag-and-how-can-it-be-fixed",
+  "name": "What causes a door to sag and how can it be fixed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a door to sag and how can it be fixed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sagging door is often caused by loose or worn hinges, a warped door frame due to moisture or temperature changes, or structural shifting in the home. It can also result from a door that is too heavy for its frame or hinges. Our repair process typically involves assessing the root cause, which might include tightening or replacing hinges, shimming the frame to correct alignment, or reinforcing the door jamb. For homes in areas like Meridian or Eagle, where temperature fluctuations can be significant, we often find that proper sealing and insulation around the door frame can prevent future warping.",
+        "@type": "Answer",
+        "description": "Sagging doors are caused by loose hinges, warped frames, or structural shifts; repairs involve hinge replacement, frame shimming, or structural reinforcement to correct alignment."
+      }
+    }
+  ],
+  "description": "Sagging doors are caused by loose hinges, warped frames, or structural shifts; repairs involve hinge replacement, frame shimming, or structural reinforcement to"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-prevent-my-exterior-door-trim-from-rotting-again-after-repair",
+  "name": "How can I prevent my exterior door trim from rotting again after repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent my exterior door trim from rotting again after repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future rot after repair, focus on managing moisture around your exterior doors. Ensure your gutters are clean and direct water away from the house foundation, and adjust sprinkler systems so they do not spray directly onto the door or trim. Regularly inspect the paint and caulk around your door trim for cracks or peeling, and reapply as needed to maintain a protective barrier. Also, consider adding a storm door or an overhang above the door for additional protection from the elements. Maine Results, Inc. can advise on long-term preventive measures suitable for your specific location, such as Boise Heights or West Boise.",
+        "@type": "Answer",
+        "description": "Prevent future rot by cleaning gutters, adjusting sprinklers, regularly inspecting and resealing paint/caulk, and considering storm doors or overhangs."
+      }
+    }
+  ],
+  "description": "Prevent future rot by cleaning gutters, adjusting sprinklers, regularly inspecting and resealing paint/caulk, and considering storm doors or overhangs."
+}

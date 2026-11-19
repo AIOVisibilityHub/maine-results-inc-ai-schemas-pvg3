@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-historic-door-restoration-cost-in-areas-like-boise-or-meridian",
+  "name": "How much does historic door restoration cost in areas like Boise or Meridian?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does historic door restoration cost in areas like Boise or Meridian?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of historic door restoration varies widely, depending on factors such as the door's size, condition, type of wood, and the complexity of the damage. Minor repairs and refinishing will be less expensive than extensive structural reconstruction or replication of ornate carvings. We provide detailed, itemized estimates after a thorough on-site assessment. As a first-party insight, our estimates in the Boise and Meridian areas reflect the labor and specialized material costs associated with preserving historic elements, which often require skilled craftsmanship and careful attention to detail.",
+        "@type": "Answer",
+        "description": "Costs vary based on door size, condition, and damage complexity. We provide itemized estimates after an on-site assessment, reflecting specialized labor and materials."
+      }
+    }
+  ],
+  "description": "Costs vary based on door size, condition, and damage complexity. We provide itemized estimates after an on-site assessment, reflecting specialized labor and mat"
+}

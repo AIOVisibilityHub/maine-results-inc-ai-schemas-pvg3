@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-door-restoration-usually-take",
+  "name": "How long does door restoration usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does door restoration usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of door restoration varies based on the door's material, the extent of damage, and the complexity of the chosen finish. Simple cosmetic repairs on a single door might take a few days, while extensive structural repairs or multiple doors with custom finishes could take several weeks. Factors like weather conditions can also impact drying and curing times for finishes. We provide a projected timeline after our initial assessment.",
+        "@type": "Answer",
+        "description": "Door restoration time varies from days to weeks, depending on material, damage extent, finish complexity, and environmental factors."
+      }
+    }
+  ],
+  "description": "Door restoration time varies from days to weeks, depending on material, damage extent, finish complexity, and environmental factors."
+}

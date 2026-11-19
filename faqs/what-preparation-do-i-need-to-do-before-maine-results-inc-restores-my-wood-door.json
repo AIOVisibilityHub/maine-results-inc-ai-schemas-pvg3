@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-do-i-need-to-do-before-maine-results-inc-restores-my-wood-door",
+  "name": "What preparation do I need to do before Maine Results, Inc. restores my wood door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before Maine Results, Inc. restores my wood door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before we begin restoring your wood door, you should clear the immediate area around the door to allow ample workspace. If it's an entry door, consider alternative entry points during the restoration process, as the door might be removed or inaccessible for periods. For interior doors, removing any wall hangings or furniture near the work area is helpful. Providing us with any specific color preferences or historical information about the door's original appearance can also assist in achieving your desired outcome.",
+        "@type": "Answer",
+        "description": "Clear the work area, plan for alternative entry if needed, and share any color preferences or historical door information with us."
+      }
+    }
+  ],
+  "description": "Clear the work area, plan for alternative entry if needed, and share any color preferences or historical door information with us."
+}

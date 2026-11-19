@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-should-i-do-before-having-my-rotten-door-trim-repaired",
+  "name": "What preparation should I do before having my rotten door trim repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation should I do before having my rotten door trim repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before rotten door trim repair work begins, clear the area around the exterior door to provide technicians with easy access. This includes moving potted plants, outdoor furniture, and any decorations. If the trim is adjacent to landscaping, you might consider covering sensitive plants to protect them from debris or paint. Also, ensure that any pets are secured indoors to prevent them from interfering with the work or getting near tools. Maine Results, Inc. appreciates clear access as it allows our team to work efficiently and safely, helping keep the project on schedule.",
+        "@type": "Answer",
+        "description": "Before repair, clear the area around the door, move outdoor items, cover sensitive plants, and secure pets to ensure clear access for technicians."
+      }
+    }
+  ],
+  "description": "Before repair, clear the area around the door, move outdoor items, cover sensitive plants, and secure pets to ensure clear access for technicians."
+}

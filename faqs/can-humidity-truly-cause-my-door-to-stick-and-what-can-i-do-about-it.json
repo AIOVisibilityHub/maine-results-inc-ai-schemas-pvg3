@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-humidity-truly-cause-my-door-to-stick-and-what-can-i-do-about-it",
+  "name": "Can humidity truly cause my door to stick, and what can I do about it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can humidity truly cause my door to stick, and what can I do about it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, humidity is a very common cause of sticking doors, especially in Idaho's seasonal climate where moisture levels can fluctuate. Wood absorbs moisture, causing it to swell and expand, leading to a tight fit in the door frame. While professional planing or adjustments can fix existing issues, maintaining consistent indoor humidity with a dehumidifier during damp seasons can help prevent future swelling and sticking.",
+        "@type": "Answer",
+        "description": "Humidity commonly causes doors to stick as wood swells. Professional adjustments can fix it, and a dehumidifier can help prevent future issues by maintaining consistent indoor humidity."
+      }
+    }
+  ],
+  "description": "Humidity commonly causes doors to stick as wood swells. Professional adjustments can fix it, and a dehumidifier can help prevent future issues by maintaining co"
+}

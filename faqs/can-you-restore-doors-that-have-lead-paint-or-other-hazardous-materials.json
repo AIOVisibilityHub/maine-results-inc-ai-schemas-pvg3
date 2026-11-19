@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-restore-doors-that-have-lead-paint-or-other-hazardous-materials",
+  "name": "Can you restore doors that have lead paint or other hazardous materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you restore doors that have lead paint or other hazardous materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we are equipped to handle historic doors that may contain lead paint or other potentially hazardous materials. Our team follows strict safety protocols and employs appropriate containment and removal methods to ensure the safety of our workers and your property. This involves careful stripping and disposal techniques compliant with current guidelines. Process clarity means we inform you upfront about any detected hazardous materials and the specific steps we will take to manage them safely during the restoration.",
+        "@type": "Answer",
+        "description": "Yes, we safely handle doors with lead paint or hazardous materials using strict protocols and containment methods. We inform you of detection and safety measures."
+      }
+    }
+  ],
+  "description": "Yes, we safely handle doors with lead paint or hazardous materials using strict protocols and containment methods. We inform you of detection and safety measure"
+}
