@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/are-there-any-considerations-for-installing-door-stops-on-exterior-doors",
+  "name": "Are there any considerations for installing door stops on exterior doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any considerations for installing door stops on exterior doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing door stops on exterior doors requires specific considerations due to environmental exposure and security. Exterior door stops often need to be more robust and made from weather-resistant materials to withstand elements like rain, sun, and temperature fluctuations without corroding or degrading. Security is also a factor; ensuring the door stop does not interfere with locking mechanisms or become a tripping hazard. For instance, a heavy-duty floor-mounted stop might be suitable, but its placement must be carefully planned. Our team assesses these unique requirements for homes in Star and Middleton to recommend durable and secure solutions.",
+        "@type": "Answer",
+        "description": "Exterior door stops need to be robust, weather-resistant, and placed carefully to avoid interfering with locking mechanisms or creating tripping hazards."
+      }
+    }
+  ],
+  "description": "Exterior door stops need to be robust, weather-resistant, and placed carefully to avoid interfering with locking mechanisms or creating tripping hazards."
+}

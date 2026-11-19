@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-a-cabinet-repair-service",
+  "name": "What is the typical process for a cabinet repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a cabinet repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with an assessment of the damage, followed by a detailed discussion of repair options and an estimate. Once approved, the work involves preparing the damaged area, performing the necessary repairs like patching, sanding, or replacing hardware, and then finishing with appropriate stains, paints, or sealants to match existing cabinetry. For properties in areas like Garden City or Meridian, we aim to schedule repairs efficiently to minimize disruption to your home.",
+        "@type": "Answer",
+        "description": "The typical process involves damage assessment, repair options and estimate, then performing repairs, and finishing work."
+      }
+    }
+  ],
+  "description": "The typical process involves damage assessment, repair options and estimate, then performing repairs, and finishing work."
+}

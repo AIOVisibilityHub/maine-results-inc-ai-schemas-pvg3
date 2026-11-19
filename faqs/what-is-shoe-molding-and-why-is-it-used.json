@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-shoe-molding-and-why-is-it-used",
+  "name": "What is shoe molding and why is it used?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is shoe molding and why is it used?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shoe molding is a thin, decorative strip of wood installed at the base of walls, directly on top of existing baseboards, where they meet the floor. Its primary purpose is to cover the small gaps that can appear between the flooring and the baseboard, providing a finished and seamless look. It also offers a layer of protection for the very bottom edge of the baseboard, preventing minor scuffs and impacts from daily activity. The decision to use shoe molding often comes down to achieving a refined aesthetic and ensuring a clean transition after flooring installation.",
+        "@type": "Answer",
+        "description": "Shoe molding is a decorative wood strip covering gaps between flooring and baseboards, enhancing appearance and protecting edges."
+      }
+    }
+  ],
+  "description": "Shoe molding is a decorative wood strip covering gaps between flooring and baseboards, enhancing appearance and protecting edges."
+}

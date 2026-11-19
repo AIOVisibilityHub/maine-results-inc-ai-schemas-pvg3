@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-complete-a-custom-built-in-project",
+  "name": "How long does it take to complete a custom built-in project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a custom built-in project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for custom built-ins depends on the project's size, complexity, and our current workload. Smaller, simpler units might take a few weeks from design to installation, while larger, more intricate projects could extend to several months. We provide a projected timeline after understanding your specific requirements during the initial consultation. Factors like material availability and design revisions can also influence the overall duration. Planning ahead, especially for larger projects, is advisable.",
+        "@type": "Answer",
+        "description": "Project timelines vary based on size and complexity, from a few weeks to several months. A projected timeline is given after consultation."
+      }
+    }
+  ],
+  "description": "Project timelines vary based on size and complexity, from a few weeks to several months. A projected timeline is given after consultation."
+}

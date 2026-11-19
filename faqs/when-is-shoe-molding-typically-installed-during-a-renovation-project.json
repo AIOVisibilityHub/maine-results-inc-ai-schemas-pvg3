@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-is-shoe-molding-typically-installed-during-a-renovation-project",
+  "name": "When is shoe molding typically installed during a renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is shoe molding typically installed during a renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shoe molding is generally one of the final elements installed in a room renovation. It's added after the new flooring (whether hardwood, laminate, or tile) is fully laid and the baseboards are in place. This sequence ensures that the molding can properly conceal any expansion gaps left for the flooring and provide a clean finish. Planning for shoe molding at the end of a project ensures it's cut to fit the exact floor and baseboard configuration, avoiding the need for adjustments later.",
+        "@type": "Answer",
+        "description": "Shoe molding is typically installed as one of the final steps in a renovation, after flooring and baseboards are in place."
+      }
+    }
+  ],
+  "description": "Shoe molding is typically installed as one of the final steps in a renovation, after flooring and baseboards are in place."
+}

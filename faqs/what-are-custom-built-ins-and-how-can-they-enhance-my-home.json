@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-custom-built-ins-and-how-can-they-enhance-my-home",
+  "name": "What are custom built-ins and how can they enhance my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are custom built-ins and how can they enhance my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom built-ins are permanent, integrated furniture pieces designed specifically for your home's dimensions and your personal needs. They can include bookshelves, media centers, window seats, or cabinetry, tailored to fit unique spaces and styles. These installations maximize storage and functionality while creating a seamless, integrated look that enhances your home's aesthetic and value. When considering custom built-ins, think about the specific items you need to store or display, as this will influence the design and internal configurations.",
+        "@type": "Answer",
+        "description": "Custom built-ins are integrated furniture pieces tailored to your home's dimensions, maximizing storage and enhancing aesthetics. They are designed to fit unique spaces and styles."
+      }
+    }
+  ],
+  "description": "Custom built-ins are integrated furniture pieces tailored to your home's dimensions, maximizing storage and enhancing aesthetics. They are designed to fit uniqu"
+}

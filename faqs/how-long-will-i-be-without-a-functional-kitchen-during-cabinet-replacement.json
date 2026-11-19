@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-will-i-be-without-a-functional-kitchen-during-cabinet-replacement",
+  "name": "How long will I be without a functional kitchen during cabinet replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long will I be without a functional kitchen during cabinet replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration you'll be without a fully functional kitchen during cabinet replacement depends on the project's scope and complexity. Typically, you should plan for at least a few days to a week where your kitchen might be largely unusable, particularly during the demolition and initial installation phases. If you're also replacing countertops, plumbing fixtures, or flooring, this period could extend further. We work diligently to minimize disruption and provide clear communication about the project schedule, allowing you to make alternative arrangements for cooking and washing up during the active construction phase in your Star home.",
+        "@type": "Answer",
+        "description": "Expect to be without a functional kitchen for several days to a week during demolition and installation. The timeline may extend with additional renovations."
+      }
+    }
+  ],
+  "description": "Expect to be without a functional kitchen for several days to a week during demolition and installation. The timeline may extend with additional renovations."
+}

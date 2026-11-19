@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-install-a-door-stop-myself-or-should-i-hire-a-professional",
+  "name": "Can I install a door stop myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a door stop myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While many common door stops, like simple spring or magnetic types, can be installed by a homeowner with basic tools, hiring a professional ensures proper placement and avoids potential damage. Incorrect installation can lead to ineffective protection, wall damage, or even floor damage if not done correctly, especially with drilling. Professionals have the right tools, experience, and knowledge to select the optimal type and position for your specific door and wall materials, saving you time and preventing costly mistakes. This is particularly valuable for unique door types or historical properties found in areas like Boise Heights.",
+        "@type": "Answer",
+        "description": "DIY door stop installation is possible for simple types, but a professional ensures proper placement and prevents potential wall or floor damage."
+      }
+    }
+  ],
+  "description": "DIY door stop installation is possible for simple types, but a professional ensures proper placement and prevents potential wall or floor damage."
+}

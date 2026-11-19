@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-clear-out-my-kitchen-or-space-before-custom-cabinet-installation",
+  "name": "Do I need to clear out my kitchen or space before custom cabinet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to clear out my kitchen or space before custom cabinet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is essential to clear the installation area of all contents, appliances, and personal items before our team arrives. This includes emptying existing cabinets, removing items from countertops, and disconnecting any plumbing or electrical connections if existing cabinetry is being removed. A clear workspace allows our installers to work efficiently and safely. We will confirm specific preparation requirements during our scheduling process to help you prepare adequately.",
+        "@type": "Answer",
+        "description": "Yes, you need to clear the installation area of all contents, appliances, and personal items for efficient and safe work."
+      }
+    }
+  ],
+  "description": "Yes, you need to clear the installation area of all contents, appliances, and personal items for efficient and safe work."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-a-cabinet-refacing-consultation",
+  "name": "What should I prepare before a cabinet refacing consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a cabinet refacing consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a cabinet refacing consultation, it is helpful to have a clear idea of your design preferences, including desired styles, colors, and finishes. Measuring your kitchen and taking photos of your current cabinets can also be very useful for the contractor to provide an initial estimate. Additionally, consider any functional changes you might want, such as adding new drawer inserts or pull-out shelves. This preparation allows the consultation to be more productive and ensures the contractor understands your vision, helping them tailor recommendations specifically for your project in areas like Garden City, Meridian, Eagle, Kuna, or Star.",
+        "@type": "Answer",
+        "description": "Before a consultation, decide on design preferences, measure your kitchen, take photos, and consider functional changes. This helps the contractor understand your vision."
+      }
+    }
+  ],
+  "description": "Before a consultation, decide on design preferences, measure your kitchen, take photos, and consider functional changes. This helps the contractor understand yo"
+}

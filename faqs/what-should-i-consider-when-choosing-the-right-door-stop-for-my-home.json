@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-when-choosing-the-right-door-stop-for-my-home",
+  "name": "What should I consider when choosing the right door stop for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing the right door stop for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a door stop, consider the material and finish of your doors and walls to ensure a cohesive look. Think about the function: do you need to prevent dents, hold the door open, or both? For example, heavy doors might require a robust floor-mounted stop, while a discreet hinge-pin stop works well for lighter interior doors. Also, assess the potential impact points and whether children or pets might interact with the door stop, which could influence your choice of design and mounting height. We can help you weigh these options to make the best choice for your property in Boise and surrounding areas.",
+        "@type": "Answer",
+        "description": "Choose a door stop based on door/wall materials, desired function (prevent dents, hold open), and potential interaction with children or pets."
+      }
+    }
+  ],
+  "description": "Choose a door stop based on door/wall materials, desired function (prevent dents, hold open), and potential interaction with children or pets."
+}

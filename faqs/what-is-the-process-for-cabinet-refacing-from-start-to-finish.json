@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-cabinet-refacing-from-start-to-finish",
+  "name": "What is the process for cabinet refacing, from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for cabinet refacing, from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cabinet refacing process typically begins with removing existing cabinet doors, drawer fronts, and hardware. Next, the exposed cabinet boxes are prepared and covered with new veneer material, often a durable laminate or real wood. Then, new custom-made doors, drawer fronts, and sometimes trim are installed, along with new hardware. Finally, any finishing touches are applied to ensure a cohesive look. A practical detail: you may need to temporarily empty your cabinets during the process to allow workers clear access and to prevent dust from settling on your kitchen items.",
+        "@type": "Answer",
+        "description": "The refacing process involves removing old doors, applying new veneers to boxes, then installing new doors, drawer fronts, and hardware. Temporarily emptying cabinets is often necessary."
+      }
+    }
+  ],
+  "description": "The refacing process involves removing old doors, applying new veneers to boxes, then installing new doors, drawer fronts, and hardware. Temporarily emptying ca"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-warranty-or-guarantee-on-built-in-cabinet-installations",
+  "name": "What is the warranty or guarantee on built-in cabinet installations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the warranty or guarantee on built-in cabinet installations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Details regarding warranties or guarantees for built-in cabinet installations can vary depending on the materials used and the scope of the project. Generally, quality contractors will offer a warranty on their workmanship, and many material manufacturers provide their own guarantees. Maine Results, Inc. provides specific warranty information for each project, covering both the construction and installation. We ensure you understand the coverage for your investment, providing peace of mind after your custom cabinets are completed.",
+        "@type": "Answer",
+        "description": "Warranty specifics vary by materials and project scope. We provide detailed warranty information for both workmanship and materials, ensuring your peace of mind."
+      }
+    }
+  ],
+  "description": "Warranty specifics vary by materials and project scope. We provide detailed warranty information for both workmanship and materials, ensuring your peace of mind"
+}

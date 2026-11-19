@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-scratches-and-dents-on-cabinet-doors-be-fully-repaired",
+  "name": "Can scratches and dents on cabinet doors be fully repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can scratches and dents on cabinet doors be fully repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor scratches and dents on cabinet doors can often be repaired to be nearly invisible, especially with skilled color matching and finishing techniques. Deeper gouges or significant structural damage might be more challenging to completely hide but can still be substantially improved. The success of the repair depends on the cabinet material, the severity of the damage, and the expertise of the technician.",
+        "@type": "Answer",
+        "description": "Minor scratches and dents can often be repaired effectively with good color matching. Deeper damage can be improved but might remain slightly visible."
+      }
+    }
+  ],
+  "description": "Minor scratches and dents can often be repaired effectively with good color matching. Deeper damage can be improved but might remain slightly visible."
+}

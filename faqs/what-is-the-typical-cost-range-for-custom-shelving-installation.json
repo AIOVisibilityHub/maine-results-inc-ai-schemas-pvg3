@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-cost-range-for-custom-shelving-installation",
+  "name": "What is the typical cost range for custom shelving installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for custom shelving installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of custom shelving varies significantly based on several factors, including the chosen materials, the complexity of the design, the size of the installation, and any special finishes or hardware. Simpler, smaller projects using standard materials will naturally be less expensive than large, intricate designs with premium wood or custom features. We provide a detailed, itemized quote after a consultation where we assess your specific needs and design choices. We prioritize transparency in pricing, ensuring you understand all aspects of the investment for your custom project in Kuna.",
+        "@type": "Answer",
+        "description": "Custom shelving cost varies based on materials, design complexity, size, and finishes. We provide an itemized quote after assessing your specific needs and design choices."
+      }
+    }
+  ],
+  "description": "Custom shelving cost varies based on materials, design complexity, size, and finishes. We provide an itemized quote after assessing your specific needs and desi"
+}

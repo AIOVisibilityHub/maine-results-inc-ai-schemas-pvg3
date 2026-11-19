@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-faux-beams-compare-to-real-wood-beams-in-terms-of-weight-and-structural-i",
+  "name": "How do faux beams compare to real wood beams in terms of weight and structural impact?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do faux beams compare to real wood beams in terms of weight and structural impact?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Faux beams are significantly lighter than real wood beams, which is their primary advantage in terms of weight and structural impact. Made from materials like polyurethane, they do not add substantial load to your ceiling structure. Real wood beams, being solid timber, are very heavy and often require structural reinforcement or must be integrated into the home's original construction. This weight difference means faux beams can be installed in almost any home without structural modifications, offering a decorative solution where real wood might be impractical or too costly due to structural requirements. This allows for aesthetic enhancements even in older homes that may not support heavy loads.",
+        "@type": "Answer",
+        "description": "Faux beams are much lighter than real wood and have minimal structural impact, allowing for installation without significant structural modifications, unlike heavy real wood beams."
+      }
+    }
+  ],
+  "description": "Faux beams are much lighter than real wood and have minimal structural impact, allowing for installation without significant structural modifications, unlike he"
+}

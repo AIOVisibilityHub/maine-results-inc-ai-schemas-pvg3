@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/are-there-limitations-to-installing-faux-beams-such-as-ceiling-height-or-existin",
+  "name": "Are there limitations to installing faux beams, such as ceiling height or existing fixtures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there limitations to installing faux beams, such as ceiling height or existing fixtures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While faux beams are highly versatile, there can be some limitations to consider. Very low ceilings might feel more enclosed with large beams, making smaller or fewer beams a better choice. Existing fixtures like recessed lighting, sprinkler systems, or smoke detectors will need to be carefully worked around or integrated into the beam design. Our team is experienced in planning for these elements, often routing wiring within the hollow beams or designing cutouts to accommodate fixtures seamlessly. We address these potential challenges during the initial site assessment.",
+        "@type": "Answer",
+        "description": "Limitations include very low ceilings, where smaller beams are preferable, and existing fixtures that must be integrated into the beam design or worked around during installation."
+      }
+    }
+  ],
+  "description": "Limitations include very low ceilings, where smaller beams are preferable, and existing fixtures that must be integrated into the beam design or worked around d"
+}

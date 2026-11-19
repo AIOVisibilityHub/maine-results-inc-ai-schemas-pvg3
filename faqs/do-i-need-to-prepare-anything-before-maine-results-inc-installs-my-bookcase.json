@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-prepare-anything-before-maine-results-inc-installs-my-bookcase",
+  "name": "Do I need to prepare anything before Maine Results, Inc. installs my bookcase?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to prepare anything before Maine Results, Inc. installs my bookcase?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, some preparation helps ensure a smooth installation. Please clear the area where the bookcase will be installed, removing any furniture, decorations, or wall hangings. It's also helpful to identify any hidden electrical outlets or existing wall damage beforehand. Having a clear pathway for our team to bring in materials is also beneficial, allowing us to work efficiently and safely in your Garden City, Meridian, Eagle, Kuna, or Star home.",
+        "@type": "Answer",
+        "description": "Clear the installation area of furniture and decorations. Identify any hidden outlets or wall damage, and ensure a clear path for materials."
+      }
+    }
+  ],
+  "description": "Clear the installation area of furniture and decorations. Identify any hidden outlets or wall damage, and ensure a clear path for materials."
+}

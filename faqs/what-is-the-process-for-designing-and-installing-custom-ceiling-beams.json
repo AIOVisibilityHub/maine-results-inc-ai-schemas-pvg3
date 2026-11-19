@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-designing-and-installing-custom-ceiling-beams",
+  "name": "What is the process for designing and installing custom ceiling beams?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for designing and installing custom ceiling beams?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to understand your vision, discuss beam types, and assess your space. Next, we develop a design concept, providing drawings and material selections for your review. Once approved, we move to material procurement and fabrication. The installation phase involves carefully preparing the site, securely attaching the beams, and applying any final finishes. For structural beams, we coordinate with engineers and manage any required permitting and inspections in areas like Garden City or Meridian. Throughout, we maintain clear communication, keeping you informed at every step.",
+        "@type": "Answer",
+        "description": "Our process includes consultation, design, material selection, fabrication, and professional installation, coordinating permits for structural projects in our service areas."
+      }
+    }
+  ],
+  "description": "Our process includes consultation, design, material selection, fabrication, and professional installation, coordinating permits for structural projects in our s"
+}

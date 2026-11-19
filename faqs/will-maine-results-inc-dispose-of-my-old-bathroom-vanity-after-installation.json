@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/will-maine-results-inc-dispose-of-my-old-bathroom-vanity-after-installation",
+  "name": "Will Maine Results, Inc. dispose of my old bathroom vanity after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will Maine Results, Inc. dispose of my old bathroom vanity after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, as part of our comprehensive service, Maine Results, Inc. will handle the responsible disposal of your old bathroom vanity. This includes all components like the cabinet, countertop, and sink, saving you the effort of arranging for removal yourself. We ensure that debris is properly removed from your property, leaving your newly renovated bathroom clean and ready for use. This is a standard inclusion in our installation projects across our service areas.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. will dispose of your old bathroom vanity, including all components, as part of our installation service."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. will dispose of your old bathroom vanity, including all components, as part of our installation service."
+}

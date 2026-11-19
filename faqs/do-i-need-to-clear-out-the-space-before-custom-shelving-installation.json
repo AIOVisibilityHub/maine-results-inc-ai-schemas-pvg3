@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-clear-out-the-space-before-custom-shelving-installation",
+  "name": "Do I need to clear out the space before custom shelving installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to clear out the space before custom shelving installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is highly recommended to clear out the space where the custom shelving will be installed prior to our arrival. Removing existing furniture, decor, and any personal items will allow our team to work efficiently and safely, speeding up the installation process. If the area requires significant demolition or repair work before shelving can be installed, it's important to discuss this with us during the consultation phase. This preparation helps ensure a smooth and timely installation of your new shelving.",
+        "@type": "Answer",
+        "description": "Yes, clear out the installation space of furniture and personal items beforehand for efficient and safe work. Discuss any needed demolition or repairs during consultation."
+      }
+    }
+  ],
+  "description": "Yes, clear out the installation space of furniture and personal items beforehand for efficient and safe work. Discuss any needed demolition or repairs during co"
+}

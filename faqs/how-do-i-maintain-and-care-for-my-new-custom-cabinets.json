@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-maintain-and-care-for-my-new-custom-cabinets",
+  "name": "How do I maintain and care for my new custom cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I maintain and care for my new custom cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining your custom cabinets involves regular gentle cleaning to preserve their finish and integrity. For most finishes, a soft, damp cloth with mild soap is sufficient for everyday cleaning; avoid abrasive cleaners or harsh chemicals. Promptly wipe up spills to prevent staining or moisture damage. Depending on the material and finish, periodic waxing or polishing might be recommended. We provide specific care instructions tailored to the materials and finishes chosen for your project to help you keep your cabinets looking their best for years to come.",
+        "@type": "Answer",
+        "description": "Maintain cabinets with gentle cleaning using a soft, damp cloth and mild soap; avoid harsh chemicals and promptly wipe spills. We provide specific care instructions."
+      }
+    }
+  ],
+  "description": "Maintain cabinets with gentle cleaning using a soft, damp cloth and mild soap; avoid harsh chemicals and promptly wipe spills. We provide specific care instruct"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-stair-trim-installation-typically-take",
+  "name": "How long does stair trim installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does stair trim installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of stair trim installation varies based on the staircase's complexity, size, and the chosen trim style. A standard straight staircase might take one to two days. More intricate designs, such as spiral staircases or those with custom millwork, can require more time due to the precise cuts and fitting involved. Before starting, we provide a clear project timeline during our initial consultation in areas like Garden City or Meridian, ensuring you understand the expected schedule for your specific project.",
+        "@type": "Answer",
+        "description": "Stair trim installation time varies by staircase complexity and size. A standard staircase can take 1-2 days, while intricate designs require more time."
+      }
+    }
+  ],
+  "description": "Stair trim installation time varies by staircase complexity and size. A standard staircase can take 1-2 days, while intricate designs require more time."
+}

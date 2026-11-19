@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-the-custom-shelving-installation-process-take",
+  "name": "How long does the custom shelving installation process take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the custom shelving installation process take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of custom shelving installation varies based on the complexity and size of the project. A small, straightforward installation might be completed in a single day, while larger, more intricate designs involving multiple rooms or custom finishes could take several days to a week. Our process typically starts with an initial consultation, followed by design and material selection, then fabrication, and finally on-site installation. We provide a detailed timeline after understanding your specific project requirements during the initial design phase, aiming to minimize disruption to your home in Meridian.",
+        "@type": "Answer",
+        "description": "Installation time varies by project complexity and size, from one day for simple shelves to several days for intricate designs. We provide a detailed timeline after initial consultation and design."
+      }
+    }
+  ],
+  "description": "Installation time varies by project complexity and size, from one day for simple shelves to several days for intricate designs. We provide a detailed timeline a"
+}

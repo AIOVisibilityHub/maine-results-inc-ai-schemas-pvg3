@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-custom-ceiling-beams-are-available-for-residential-projects",
+  "name": "What types of custom ceiling beams are available for residential projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of custom ceiling beams are available for residential projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We offer a variety of custom ceiling beam options, including solid wood, engineered wood, and decorative box beams. Solid wood beams provide an authentic, rustic look and are often made from Douglas fir, cedar, or oak. Engineered wood beams, like glulam, offer structural strength and can span longer distances. Decorative box beams are crafted to enclose existing structural elements or add a visually appealing, lighter-weight design feature. The best type for your home depends on your aesthetic goals, structural needs, and budget. For example, solid wood beams are ideal if you want to expose original timber structure, while box beams can transform a room without extensive structural modifications.",
+        "@type": "Answer",
+        "description": "We offer solid wood, engineered wood, and decorative box beams, each providing different aesthetic and structural benefits for residential projects."
+      }
+    }
+  ],
+  "description": "We offer solid wood, engineered wood, and decorative box beams, each providing different aesthetic and structural benefits for residential projects."
+}

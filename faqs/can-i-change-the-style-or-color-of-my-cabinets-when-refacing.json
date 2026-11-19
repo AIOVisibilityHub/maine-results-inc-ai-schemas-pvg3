@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-change-the-style-or-color-of-my-cabinets-when-refacing",
+  "name": "Can I change the style or color of my cabinets when refacing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I change the style or color of my cabinets when refacing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, cabinet refacing allows for a significant change in style and color. Since new doors and drawer fronts are installed, you can choose from a wide array of designs, finishes, and colors, including modern, traditional, or transitional styles. You can also opt for different wood species or painted finishes. For example, you could transform dark, traditional oak cabinets into a bright, contemporary white shaker style. This flexibility is a major benefit, allowing you to achieve a completely new look without altering the kitchen's footprint.",
+        "@type": "Answer",
+        "description": "Yes, refacing allows for significant changes in cabinet style and color by installing new doors and drawer fronts in various designs and finishes."
+      }
+    }
+  ],
+  "description": "Yes, refacing allows for significant changes in cabinet style and color by installing new doors and drawer fronts in various designs and finishes."
+}

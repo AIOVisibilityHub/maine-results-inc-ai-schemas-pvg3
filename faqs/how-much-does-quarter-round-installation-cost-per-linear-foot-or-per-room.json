@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-quarter-round-installation-cost-per-linear-foot-or-per-room",
+  "name": "How much does quarter round installation cost per linear foot or per room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does quarter round installation cost per linear foot or per room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of quarter round installation can vary significantly based on factors such as the material chosen (wood, MDF, PVC), the complexity of the room's layout, and the total linear footage required. Generally, pricing is calculated per linear foot, but some projects may be quoted per room. During a consultation, our team will measure the area, discuss material options, and provide a detailed estimate tailored to your project. This estimate will cover labor, materials, and any specific finishing requests you may have, ensuring transparency in pricing.",
+        "@type": "Answer",
+        "description": "Quarter round installation costs vary by material, room complexity, and linear footage. We provide a detailed estimate after assessing your specific project."
+      }
+    }
+  ],
+  "description": "Quarter round installation costs vary by material, room complexity, and linear footage. We provide a detailed estimate after assessing your specific project."
+}

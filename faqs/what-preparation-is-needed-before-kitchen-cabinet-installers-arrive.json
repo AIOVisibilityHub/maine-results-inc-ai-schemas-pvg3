@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-is-needed-before-kitchen-cabinet-installers-arrive",
+  "name": "What preparation is needed before kitchen cabinet installers arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before kitchen cabinet installers arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before kitchen cabinet installers arrive, ensure the kitchen area is clear and accessible. This includes removing all items from existing cabinets, clearing countertops, and making sure all appliances are either removed or easily movable. It's also beneficial to have any necessary plumbing and electrical work completed or scheduled to avoid delays during installation. Maine Results, Inc. will provide a detailed checklist to help you prepare your space effectively, ensuring a smooth and efficient installation process.",
+        "@type": "Answer",
+        "description": "Before installers arrive, clear your kitchen, remove items from existing cabinets, and ensure necessary plumbing and electrical work is completed or scheduled."
+      }
+    }
+  ],
+  "description": "Before installers arrive, clear your kitchen, remove items from existing cabinets, and ensure necessary plumbing and electrical work is completed or scheduled."
+}

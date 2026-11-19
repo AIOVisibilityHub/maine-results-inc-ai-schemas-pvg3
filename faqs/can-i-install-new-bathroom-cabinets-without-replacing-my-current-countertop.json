@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-install-new-bathroom-cabinets-without-replacing-my-current-countertop",
+  "name": "Can I install new bathroom cabinets without replacing my current countertop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install new bathroom cabinets without replacing my current countertop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing new bathroom cabinets without replacing your current countertop is possible, but it depends on the condition and fit of the existing countertop. If your new cabinets have the exact same dimensions and configuration as the old ones, and the countertop is in good condition, it may be reused. However, any change in cabinet size, layout, or type (e.g., from a single vanity to a double) will likely require a new countertop to ensure a proper and seamless fit. We can assess your specific situation during a consultation to determine if reusing your countertop is a viable option for your project.",
+        "@type": "Answer",
+        "description": "You can potentially reuse your current countertop if new cabinets match the old ones' dimensions; otherwise, a new countertop will likely be needed for a proper fit."
+      }
+    }
+  ],
+  "description": "You can potentially reuse your current countertop if new cabinets match the old ones' dimensions; otherwise, a new countertop will likely be needed for a proper"
+}

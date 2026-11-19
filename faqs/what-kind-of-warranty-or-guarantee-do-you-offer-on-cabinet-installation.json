@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-warranty-or-guarantee-do-you-offer-on-cabinet-installation",
+  "name": "What kind of warranty or guarantee do you offer on cabinet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty or guarantee do you offer on cabinet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. stands behind the quality of our workmanship. We offer a warranty on our cabinet installation services, covering any issues directly related to the installation itself. Specific details of the warranty, including its duration and coverage, will be provided in your project contract. This provides you with peace of mind knowing that your investment is protected and that we are committed to correcting any installation-related deficiencies that may arise.",
+        "@type": "Answer",
+        "description": "We offer a workmanship warranty on our cabinet installation services. Specific details, including duration and coverage, are provided in your project contract."
+      }
+    }
+  ],
+  "description": "We offer a workmanship warranty on our cabinet installation services. Specific details, including duration and coverage, are provided in your project contract."
+}

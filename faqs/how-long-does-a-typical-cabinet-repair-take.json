@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-cabinet-repair-take",
+  "name": "How long does a typical cabinet repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical cabinet repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a cabinet repair varies significantly based on the type and extent of the damage. Minor adjustments or hardware replacements might only take a few hours, while more involved repairs like extensive refinishing or structural fixes for multiple cabinets could take several days. We provide an estimated timeline after assessing the specific repairs needed, ensuring transparency for homeowners in areas such as Eagle or Kuna.",
+        "@type": "Answer",
+        "description": "Repair time depends on the damage; minor fixes take hours, extensive work may take several days. An estimate is provided after assessment."
+      }
+    }
+  ],
+  "description": "Repair time depends on the damage; minor fixes take hours, extensive work may take several days. An estimate is provided after assessment."
+}

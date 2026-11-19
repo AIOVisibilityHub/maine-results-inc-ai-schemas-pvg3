@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-custom-stair-trim-design-and-installation",
+  "name": "What is the process for custom stair trim design and installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for custom stair trim design and installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for custom stair trim begins with a detailed consultation to understand your vision and assess your staircase. We discuss material options, profiles, and finishes to create a design that complements your home. Once the design is finalized, our skilled craftsmen meticulously measure, cut, and fit each piece of trim on-site. This careful approach ensures a seamless and precise installation, particularly important for achieving a high-quality finish on unique staircases found in homes across Eagle and Kuna. Throughout the project, we maintain clear communication.",
+        "@type": "Answer",
+        "description": "Custom stair trim design and installation involves an initial consultation to discuss options, followed by precise on-site measurement, cutting, and fitting by skilled craftsmen."
+      }
+    }
+  ],
+  "description": "Custom stair trim design and installation involves an initial consultation to discuss options, followed by precise on-site measurement, cutting, and fitting by"
+}

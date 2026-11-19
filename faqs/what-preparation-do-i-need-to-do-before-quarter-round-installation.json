@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-do-i-need-to-do-before-quarter-round-installation",
+  "name": "What preparation do I need to do before quarter round installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before quarter round installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before quarter round installation, ensure that all flooring is completely installed and clean, and that any existing baseboards are securely fastened to the wall. Clear the perimeter of the room of furniture and other obstacles to allow our installers unobstructed access to the walls. If you plan to paint or stain the quarter round yourself, it's often more efficient to do so before installation. Gathering any specific paint colors or stain samples will also be helpful for our team to understand your aesthetic goals.",
+        "@type": "Answer",
+        "description": "Before installation, ensure flooring is complete, clear the room perimeter, and if painting, consider pre-painting the quarter round."
+      }
+    }
+  ],
+  "description": "Before installation, ensure flooring is complete, clear the room perimeter, and if painting, consider pre-painting the quarter round."
+}

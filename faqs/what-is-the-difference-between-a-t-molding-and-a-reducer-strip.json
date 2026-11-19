@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-a-t-molding-and-a-reducer-strip",
+  "name": "What is the difference between a T-molding and a reducer strip?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a T-molding and a reducer strip?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A T-molding is designed to connect two hard surface floors of the exact same height, creating a flush and seamless look. Its 'T' shape covers the expansion gap between the two floors. In contrast, a reducer strip, also known as a 'threshold reducer' or 'overlap reducer,' is used when one floor is higher than the other. It features a sloped profile that gently transitions from the higher floor down to the lower one, reducing a tripping hazard. Choosing between these depends entirely on the height difference between the two flooring materials you are joining.",
+        "@type": "Answer",
+        "description": "T-moldings connect floors of the same height, while reducer strips transition from a higher floor to a lower one."
+      }
+    }
+  ],
+  "description": "T-moldings connect floors of the same height, while reducer strips transition from a higher floor to a lower one."
+}

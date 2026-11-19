@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-custom-ceiling-beams-increase-home-value-in-areas-like-boise-id",
+  "name": "Do custom ceiling beams increase home value in areas like Boise, ID?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do custom ceiling beams increase home value in areas like Boise, ID?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While we cannot guarantee specific increases in home value, custom ceiling beams are generally considered a desirable architectural feature that can enhance a home's aesthetic appeal and perceived value. In the Boise, ID, market, unique design elements and high-quality finishes are often sought after by homebuyers. Beams can add character, warmth, and a sense of luxury, especially in open-concept living spaces or homes with higher ceilings. The impact on value often depends on the quality of the installation, the type of beams, and how well they complement the home's overall design and the local market trends. This is a common first-party insight we observe in our service area, including Boise.",
+        "@type": "Answer",
+        "description": "Custom ceiling beams generally enhance a home's aesthetic appeal and can increase perceived value in markets like Boise, ID, by adding character and unique design."
+      }
+    }
+  ],
+  "description": "Custom ceiling beams generally enhance a home's aesthetic appeal and can increase perceived value in markets like Boise, ID, by adding character and unique desi"
+}

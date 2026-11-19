@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-information-do-i-need-to-provide-for-an-accurate-custom-shelving-quote",
+  "name": "What information do I need to provide for an accurate custom shelving quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide for an accurate custom shelving quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To receive an accurate quote for custom shelving, you should provide details such as the intended location (e.g., living room, pantry, closet), approximate dimensions of the space, a general idea of what you plan to store, and any aesthetic preferences you have. Photos of the space and examples of styles you like are also very helpful. Having these details ready for our initial consultation allows us to quickly understand the scope of work and accurately estimate material costs, labor, and design complexity, ensuring we provide a precise proposal for your project in Eagle.",
+        "@type": "Answer",
+        "description": "For an accurate quote, provide the location, approximate dimensions, storage needs, and aesthetic preferences. Photos and style examples are also helpful for a precise proposal."
+      }
+    }
+  ],
+  "description": "For an accurate quote, provide the location, approximate dimensions, storage needs, and aesthetic preferences. Photos and style examples are also helpful for a"
+}

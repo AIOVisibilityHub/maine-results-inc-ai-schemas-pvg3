@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-s-the-difference-between-quarter-round-and-shoe-molding-and-which-should-i",
+  "name": "What's the difference between quarter round and shoe molding, and which should I choose?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between quarter round and shoe molding, and which should I choose?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both quarter round and shoe molding serve to cover floor gaps, they have distinct profiles. Quarter round has a more pronounced, symmetrical rounded shape, resembling a quarter of a circle. Shoe molding is typically taller and thinner with a more elongated, subtle curve. The choice often depends on your existing baseboards and desired aesthetic. Shoe molding is generally preferred with taller, more decorative baseboards as it creates a more delicate transition, whereas quarter round might be chosen for a bolder look or when a larger gap needs to be covered. We can help you decide which profile best complements your home's trim.",
+        "@type": "Answer",
+        "description": "Quarter round is a bolder, more rounded molding, while shoe molding is thinner and more subtle. The choice depends on existing baseboards and desired aesthetics."
+      }
+    }
+  ],
+  "description": "Quarter round is a bolder, more rounded molding, while shoe molding is thinner and more subtle. The choice depends on existing baseboards and desired aesthetics"
+}

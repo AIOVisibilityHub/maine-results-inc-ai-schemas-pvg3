@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-cabinet-repair",
+  "name": "What factors influence the cost of cabinet repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of cabinet repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of cabinet repair is influenced by several factors, including the type of damage (e.g., cosmetic vs. structural), the materials involved (e.g., solid wood vs. laminate), the complexity of the repair, and the number of cabinets requiring attention. For example, replacing a single hinge is less costly than refinishing multiple cabinet doors. Getting a detailed estimate after an on-site assessment is crucial for understanding the potential investment for your home in Star or Nampa.",
+        "@type": "Answer",
+        "description": "Cost is influenced by damage type, materials, repair complexity, and number of cabinets. A detailed estimate is provided after assessment."
+      }
+    }
+  ],
+  "description": "Cost is influenced by damage type, materials, repair complexity, and number of cabinets. A detailed estimate is provided after assessment."
+}

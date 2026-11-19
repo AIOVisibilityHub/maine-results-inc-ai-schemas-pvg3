@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-i-need-to-replace-my-kitchen-cabinets",
+  "name": "How do I know if I need to replace my kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need to replace my kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You might need to replace your kitchen cabinets if they show significant water damage, have structural issues like sagging shelves, or if their functionality no longer meets your needs, such as insufficient storage or outdated styles that are difficult to work with. Often, minor cosmetic issues can be addressed with refinishing, but extensive damage or a desire for a complete layout change typically points towards replacement. When considering a replacement, think about how the new layout could improve workflow in your Garden City home, as our team specializes in efficient and practical kitchen designs that maximize your space.",
+        "@type": "Answer",
+        "description": "Assess for structural damage, water damage, or if the current layout no longer meets your functional needs. Minor cosmetic issues can often be refinished, but major damage points to replacement."
+      }
+    }
+  ],
+  "description": "Assess for structural damage, water damage, or if the current layout no longer meets your functional needs. Minor cosmetic issues can often be refinished, but m"
+}

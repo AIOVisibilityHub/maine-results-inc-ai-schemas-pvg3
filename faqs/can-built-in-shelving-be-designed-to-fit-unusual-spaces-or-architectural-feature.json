@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-built-in-shelving-be-designed-to-fit-unusual-spaces-or-architectural-feature",
+  "name": "Can built-in shelving be designed to fit unusual spaces or architectural features?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can built-in shelving be designed to fit unusual spaces or architectural features?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, built-in shelving is ideal for maximizing storage and enhancing aesthetics in challenging spaces, including around windows, fireplaces, or under staircases. Custom fabrication allows for precise measurements and designs that seamlessly integrate with your home's unique architectural features. We specialize in creating solutions that utilize awkward nooks and crannies, transforming them into functional and beautiful storage. Our team can help you plan how to best incorporate shelving into these areas, such as a custom unit for a sloped ceiling in Boise Heights.",
+        "@type": "Answer",
+        "description": "Built-in shelving can be custom-designed to fit unusual spaces like around windows or under stairs. Maine Results specializes in maximizing storage and integrating shelving with unique architectural features in areas like Boise Heights."
+      }
+    }
+  ],
+  "description": "Built-in shelving can be custom-designed to fit unusual spaces like around windows or under stairs. Maine Results specializes in maximizing storage and integrat"
+}

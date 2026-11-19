@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-wood-transition-strips-are-available-for-home-flooring-projects",
+  "name": "What types of wood transition strips are available for home flooring projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood transition strips are available for home flooring projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are several types of wood transition strips, each designed for specific purposes. T-moldings connect two floors of the same height, while reducers (or 'overlap reducers') bridge a higher floor to a lower one, often used for hardwood to vinyl. Thresholds typically finish off the edge of a room or doorway. Stair nosing is specifically designed for the edge of stairs. When planning your project with Maine Results, Inc., we consider the specific flooring materials, the height difference between them, and the intended use of the space to select the best strip type for both function and aesthetics.",
+        "@type": "Answer",
+        "description": "Common types include T-moldings for same-height floors, reducers for different heights, thresholds for doorways, and stair nosing for stairs."
+      }
+    }
+  ],
+  "description": "Common types include T-moldings for same-height floors, reducers for different heights, thresholds for doorways, and stair nosing for stairs."
+}

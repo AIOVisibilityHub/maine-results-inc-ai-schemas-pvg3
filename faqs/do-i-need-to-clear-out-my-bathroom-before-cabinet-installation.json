@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-clear-out-my-bathroom-before-cabinet-installation",
+  "name": "Do I need to clear out my bathroom before cabinet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to clear out my bathroom before cabinet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is highly recommended to clear out your bathroom before cabinet installation begins. Removing personal items, toiletries, towels, and any decor allows our team unobstructed access to the work area, streamlining the installation process. This preparation also helps protect your belongings from dust and potential damage during the project. You'll need to secure a temporary space for these items, and if you have a pedestal sink or existing vanity to be removed, ensuring the area around it is clear will also be beneficial for demolition.",
+        "@type": "Answer",
+        "description": "Yes, clearing personal items, toiletries, and decor from your bathroom is recommended to ensure unobstructed access and protect your belongings during installation."
+      }
+    }
+  ],
+  "description": "Yes, clearing personal items, toiletries, and decor from your bathroom is recommended to ensure unobstructed access and protect your belongings during installat"
+}

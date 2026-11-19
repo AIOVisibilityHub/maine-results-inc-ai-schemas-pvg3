@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-start-the-process-of-getting-built-in-shelving",
+  "name": "How do I start the process of getting built-in shelving?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I start the process of getting built-in shelving?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation where we discuss your vision, functional needs, and design preferences for the built-in shelving. We'll assess your space, take measurements, and offer expert advice on materials and configurations. From there, we develop a detailed design and provide a comprehensive quote. Once approved, we move to fabrication and then schedule the installation. This initial discussion helps us understand your needs and allows us to explain how we will tailor a solution for your home in Kuna or Star.",
+        "@type": "Answer",
+        "description": "To start, we conduct an initial consultation to discuss your vision, needs, and design preferences for the shelving. Maine Results will assess your space, provide a detailed design, and quote before fabrication and installation for homes in areas like Kuna or Star."
+      }
+    }
+  ],
+  "description": "To start, we conduct an initial consultation to discuss your vision, needs, and design preferences for the shelving. Maine Results will assess your space, provi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-door-stops-are-available-for-installation",
+  "name": "What types of door stops are available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of door stops are available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When considering door stop installation, various types are available, each suited for different needs and aesthetics. Common options include baseboard-mounted stops, which protect walls, and hinge pin door stops, which install directly into the door's hinges for a discreet look. Magnetic door stops can hold a door open securely, while floor-mounted stops offer heavy-duty protection for high-traffic areas. The best choice often depends on the door's material, the wall's construction, and the desired level of invisibility or security. We can help assess your specific door and space to recommend the most effective and appropriate type.",
+        "@type": "Answer",
+        "description": "Various types of door stops include baseboard, hinge pin, magnetic, and floor-mounted, each offering different levels of protection and aesthetics."
+      }
+    }
+  ],
+  "description": "Various types of door stops include baseboard, hinge pin, magnetic, and floor-mounted, each offering different levels of protection and aesthetics."
+}

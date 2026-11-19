@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-look-for-in-a-contractor-for-custom-cabinet-installation",
+  "name": "What should I look for in a contractor for custom cabinet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a contractor for custom cabinet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for custom cabinet installation, prioritize experience, a portfolio of past projects, and clear communication. Look for a team that understands design principles, works with quality materials, and has a proven track record of successful installations. It's also important to ensure they are licensed and insured in your service area, such as Kuna or Star. Asking for references and reviewing their process for managing projects can help you make an informed decision and ensure a professional outcome.",
+        "@type": "Answer",
+        "description": "Look for experience, a strong portfolio, clear communication, quality materials, proper licensing, and good references from your contractor."
+      }
+    }
+  ],
+  "description": "Look for experience, a strong portfolio, clear communication, quality materials, proper licensing, and good references from your contractor."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-warranty-or-guarantee-on-custom-built-ins",
+  "name": "What is the warranty or guarantee on custom built-ins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the warranty or guarantee on custom built-ins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We stand by the quality of our custom built-ins with a commitment to craftsmanship and durability. Specific warranty details are provided in your project contract, covering materials and workmanship for a defined period. Our goal is to ensure your complete satisfaction with the longevity and finish of your new built-ins. We address any issues arising from our installation or material defects as outlined in the agreement. This commitment offers peace of mind for your investment.",
+        "@type": "Answer",
+        "description": "Our custom built-ins come with a warranty covering materials and workmanship, as detailed in your project contract. We ensure satisfaction and address covered issues."
+      }
+    }
+  ],
+  "description": "Our custom built-ins come with a warranty covering materials and workmanship, as detailed in your project contract. We ensure satisfaction and address covered i"
+}

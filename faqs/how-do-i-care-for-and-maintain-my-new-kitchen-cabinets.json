@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-care-for-and-maintain-my-new-kitchen-cabinets",
+  "name": "How do I care for and maintain my new kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I care for and maintain my new kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper care and maintenance can extend the life and beauty of your new kitchen cabinets. Generally, cleaning with a soft, damp cloth and mild soap is sufficient for most finishes. Avoid abrasive cleaners, harsh chemicals, or excessive moisture, which can damage the cabinet's surface. For specific materials like wood, occasional polishing or conditioning may be recommended. Maine Results, Inc. will provide detailed care instructions specific to the materials and finishes chosen for your cabinetry upon project completion.",
+        "@type": "Answer",
+        "description": "Clean new kitchen cabinets with a soft, damp cloth and mild soap, avoiding abrasive cleaners or excessive moisture; specific care instructions will be provided."
+      }
+    }
+  ],
+  "description": "Clean new kitchen cabinets with a soft, damp cloth and mild soap, avoiding abrasive cleaners or excessive moisture; specific care instructions will be provided."
+}

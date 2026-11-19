@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-cove-molding-installation-cost-per-linear-foot-in-the-boise-area",
+  "name": "How much does cove molding installation cost per linear foot in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does cove molding installation cost per linear foot in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of cove molding installation per linear foot in the Boise area can vary based on material choice, room complexity, and labor rates. On average, you might expect prices to range, but getting a personalized quote is the most accurate way to understand your project's expense. For instance, more intricate cuts for multiple corners or higher ceilings, typical in homes in areas like the North End or Highlands, can slightly increase labor costs. We provide transparent estimates for projects in Garden City, Meridian, Eagle, Kuna, and Star.",
+        "@type": "Answer",
+        "description": "Cove molding installation costs per linear foot in the Boise area vary by material and complexity; a personalized quote offers the best estimate."
+      }
+    }
+  ],
+  "description": "Cove molding installation costs per linear foot in the Boise area vary by material and complexity; a personalized quote offers the best estimate."
+}

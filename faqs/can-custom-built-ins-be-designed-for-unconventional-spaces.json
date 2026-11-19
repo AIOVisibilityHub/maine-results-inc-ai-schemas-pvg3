@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-custom-built-ins-be-designed-for-unconventional-spaces",
+  "name": "Can custom built-ins be designed for unconventional spaces?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can custom built-ins be designed for unconventional spaces?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, custom built-ins are ideal for making the most of unconventional or awkward spaces, such as sloped ceilings, tight corners, or alcoves. Our design team specializes in creating solutions that integrate seamlessly into these challenging areas, transforming them into functional and beautiful features. This ability to tailor to exact dimensions is a primary advantage over standard furniture. Providing accurate measurements and photos during the consultation helps us to effectively plan for these unique spaces.",
+        "@type": "Answer",
+        "description": "Yes, custom built-ins are ideal for unconventional spaces like sloped ceilings or tight corners, maximizing functionality and aesthetics. We specialize in tailored solutions."
+      }
+    }
+  ],
+  "description": "Yes, custom built-ins are ideal for unconventional spaces like sloped ceilings or tight corners, maximizing functionality and aesthetics. We specialize in tailo"
+}

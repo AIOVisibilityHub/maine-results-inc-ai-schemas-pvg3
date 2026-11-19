@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-typically-used-for-custom-shelves-and-how-do-i-choose",
+  "name": "What materials are typically used for custom shelves, and how do I choose?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are typically used for custom shelves, and how do I choose?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom shelves can be built from various materials, including solid wood (such as oak, maple, or cherry), plywood with veneers, MDF, and sometimes metal or glass components. Your choice depends on factors like durability, appearance, budget, and the intended use of the shelves. For instance, solid wood offers high durability and a classic look, ideal for heavy items, while MDF might be more budget-friendly for painted finishes. When planning your project with us, we discuss the pros and cons of each material relevant to your specific application and design preferences, helping you make an informed decision for your Garden City home.",
+        "@type": "Answer",
+        "description": "Materials for custom shelves include solid wood, plywood, and MDF, chosen based on durability, appearance, budget, and use. We help clients in Garden City select the best option for their needs."
+      }
+    }
+  ],
+  "description": "Materials for custom shelves include solid wood, plywood, and MDF, chosen based on durability, appearance, budget, and use. We help clients in Garden City selec"
+}

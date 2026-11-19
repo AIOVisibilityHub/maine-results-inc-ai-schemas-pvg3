@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-cabinet-installation",
+  "name": "What factors influence the cost of cabinet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of cabinet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of cabinet installation is influenced by several factors, including the type and quality of cabinets chosen, the total linear footage, the complexity of the layout (e.g., corner units, islands), and any necessary modifications to existing walls or plumbing. Custom cabinets, specialized finishes, and additional features like pull-out shelves or soft-close hinges will also affect the overall price. For an accurate estimate, we recommend an on-site consultation to assess your space and discuss your specific requirements.",
+        "@type": "Answer",
+        "description": "Cabinet installation costs depend on cabinet type, linear footage, layout complexity, and necessary modifications. We offer on-site consultations for accurate estimates."
+      }
+    }
+  ],
+  "description": "Cabinet installation costs depend on cabinet type, linear footage, layout complexity, and necessary modifications. We offer on-site consultations for accurate e"
+}

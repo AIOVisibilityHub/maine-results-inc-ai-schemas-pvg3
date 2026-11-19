@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-issues-to-avoid-during-quarter-round-installation",
+  "name": "What are common issues to avoid during quarter round installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common issues to avoid during quarter round installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common issues to avoid during quarter round installation include nailing into the floor instead of the baseboard, which can restrict floor movement and cause buckling. Improper miter cuts can lead to unsightly gaps at corners, diminishing the aesthetic appeal. Also, failing to properly caulk and fill nail holes can result in an unfinished look. Our skilled installers at Maine Results, Inc. are adept at avoiding these pitfalls, ensuring precise cuts, correct fastening, and a seamless finish that enhances your home's appearance.",
+        "@type": "Answer",
+        "description": "Avoid nailing into the floor, improper miter cuts, and neglecting to fill nail holes for a successful quarter round installation."
+      }
+    }
+  ],
+  "description": "Avoid nailing into the floor, improper miter cuts, and neglecting to fill nail holes for a successful quarter round installation."
+}

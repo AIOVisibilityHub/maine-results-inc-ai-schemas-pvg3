@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-is-cabinet-refacing-a-better-option-than-completely-replacing-kitchen-cabin",
+  "name": "When is cabinet refacing a better option than completely replacing kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is cabinet refacing a better option than completely replacing kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet refacing is often a better option when your existing cabinet boxes are structurally sound, well-built, and you are satisfied with your kitchen's current layout. If the internal structure of your cabinets is sturdy but the exterior is outdated or damaged, refacing provides a significant aesthetic upgrade without the expense and demolition of a full replacement. A key decision factor is assessing the integrity of your current cabinet frames; if they show signs of water damage, warping, or instability, full replacement might be the more durable long-term solution.",
+        "@type": "Answer",
+        "description": "Refacing is better when cabinet boxes are sound and the layout is satisfactory. If boxes are damaged or unstable, replacement is a better option."
+      }
+    }
+  ],
+  "description": "Refacing is better when cabinet boxes are sound and the layout is satisfactory. If boxes are damaged or unstable, replacement is a better option."
+}

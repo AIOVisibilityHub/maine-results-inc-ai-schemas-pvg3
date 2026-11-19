@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-bookcases-can-maine-results-inc-install",
+  "name": "What types of bookcases can Maine Results, Inc. install?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of bookcases can Maine Results, Inc. install?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. installs a variety of bookcases, including built-in, floating, and freestanding units. Built-in bookcases offer a custom, integrated look, often spanning floor to ceiling or fitting unique wall spaces. Floating shelves provide a minimalist aesthetic, while freestanding units offer flexibility for future room changes. When deciding, consider how often you might rearrange your furniture and the level of customization you desire for your space.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. installs built-in, floating, and freestanding bookcases. The best type depends on your desired look and flexibility."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. installs built-in, floating, and freestanding bookcases. The best type depends on your desired look and flexibility."
+}

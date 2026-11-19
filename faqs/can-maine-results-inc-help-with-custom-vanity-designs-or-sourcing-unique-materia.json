@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-maine-results-inc-help-with-custom-vanity-designs-or-sourcing-unique-materia",
+  "name": "Can Maine Results, Inc. help with custom vanity designs or sourcing unique materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Maine Results, Inc. help with custom vanity designs or sourcing unique materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. works with clients who are interested in custom vanity designs or sourcing unique materials beyond standard options. We understand that a vanity can be a significant design element in your bathroom, and we can collaborate with you to understand your vision, offer design suggestions, and help source specific countertops, cabinetry, or fixtures. This approach ensures your new vanity aligns perfectly with your aesthetic preferences and functional requirements, creating a unique and personalized space.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. can assist with custom vanity designs and sourcing unique materials to align with your vision and preferences."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. can assist with custom vanity designs and sourcing unique materials to align with your vision and preferences."
+}

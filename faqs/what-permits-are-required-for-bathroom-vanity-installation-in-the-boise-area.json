@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-permits-are-required-for-bathroom-vanity-installation-in-the-boise-area",
+  "name": "What permits are required for bathroom vanity installation in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for bathroom vanity installation in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For basic replacement of a bathroom vanity where existing plumbing lines remain unchanged, permits are typically not required. However, if your vanity installation involves relocating or significantly altering existing plumbing or electrical systems, structural changes to walls, or expanding the bathroom footprint, then a permit from the local building department (e.g., Boise City Planning and Development Services) would likely be necessary. Our team at Maine Results, Inc. can help you identify if your project requires a permit and guide you through the process.",
+        "@type": "Answer",
+        "description": "Permits are usually not needed for basic vanity replacement, but significant plumbing, electrical, or structural changes may require one from the local building department."
+      }
+    }
+  ],
+  "description": "Permits are usually not needed for basic vanity replacement, but significant plumbing, electrical, or structural changes may require one from the local building"
+}

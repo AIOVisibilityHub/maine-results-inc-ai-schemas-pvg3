@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-stair-trim-are-available-for-installation",
+  "name": "What types of stair trim are available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of stair trim are available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. offers a variety of stair trim options to match different home styles and preferences. Common choices include traditional wood trims like oak, maple, or pine, which can be stained or painted to complement existing decor. We also work with modern profiles, including minimalist designs or those made from composite materials for enhanced durability. The best option often depends on the aesthetic you aim for and the level of wear the staircase receives. We can help you select materials that align with your home's character and your budget.",
+        "@type": "Answer",
+        "description": "Various types of stair trim are available, including traditional wood options like oak and modern composite profiles. The choice depends on your home's style and desired durability."
+      }
+    }
+  ],
+  "description": "Various types of stair trim are available, including traditional wood options like oak and modern composite profiles. The choice depends on your home's style an"
+}

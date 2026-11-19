@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-hiring-maine-results-inc-for-door-stop-installation",
+  "name": "What is the process for hiring Maine Results, Inc. for door stop installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for hiring Maine Results, Inc. for door stop installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hiring Maine Results, Inc. for door stop installation begins with contacting us for a consultation. We’ll discuss your needs, assess the types of doors and wall surfaces involved, and help you choose the most suitable door stop options. Following this, we provide a detailed estimate outlining the costs and scope of work. Once approved, we schedule a convenient installation date. Our skilled technicians will then perform the installation efficiently and cleanly, ensuring your complete satisfaction. We serve customers throughout Garden City, Meridian, Eagle, and Kuna, making the process straightforward and transparent.",
+        "@type": "Answer",
+        "description": "Our process involves an initial consultation, assessing needs, providing an estimate, scheduling installation, and completing the work efficiently."
+      }
+    }
+  ],
+  "description": "Our process involves an initial consultation, assessing needs, providing an estimate, scheduling installation, and completing the work efficiently."
+}

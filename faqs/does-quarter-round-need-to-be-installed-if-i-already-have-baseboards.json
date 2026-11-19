@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/does-quarter-round-need-to-be-installed-if-i-already-have-baseboards",
+  "name": "Does quarter round need to be installed if I already have baseboards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does quarter round need to be installed if I already have baseboards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, even with existing baseboards, quarter round is often necessary. Baseboards are typically installed flush against the subfloor or wall, and a crucial expansion gap is left between your new flooring and the wall. This gap allows the flooring to expand and contract with environmental changes without buckling. Quarter round is specifically designed to cover this expansion gap, providing a finished look and protecting the raw edge of your flooring. Skipping this step can lead to an unfinished appearance and potential flooring damage.",
+        "@type": "Answer",
+        "description": "Yes, quarter round is usually needed even with baseboards to cover the essential expansion gap between flooring and walls, preventing damage."
+      }
+    }
+  ],
+  "description": "Yes, quarter round is usually needed even with baseboards to cover the essential expansion gap between flooring and walls, preventing damage."
+}

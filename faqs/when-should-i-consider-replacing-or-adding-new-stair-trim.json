@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-or-adding-new-stair-trim",
+  "name": "When should I consider replacing or adding new stair trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing or adding new stair trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing or adding new stair trim if your current trim is damaged, outdated, or if you're undertaking a larger home renovation. Scratches, dents, or loose pieces can compromise both the appearance and safety of your staircase. New trim can significantly enhance the aesthetic appeal and value of your home, aligning it with current design trends or restoring its original charm. It's a key detail that elevates the entire look of your staircase, especially in high-traffic areas.",
+        "@type": "Answer",
+        "description": "Consider replacing or adding new stair trim if your current trim is damaged, outdated, or during a home renovation to improve appearance and value."
+      }
+    }
+  ],
+  "description": "Consider replacing or adding new stair trim if your current trim is damaged, outdated, or during a home renovation to improve appearance and value."
+}

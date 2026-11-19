@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-reinforce-my-ceiling-for-custom-beams",
+  "name": "Do I need to reinforce my ceiling for custom beams?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to reinforce my ceiling for custom beams?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether your ceiling requires reinforcement depends on the weight and type of custom beams you plan to install. Lightweight decorative box beams typically do not require significant structural changes. However, heavy solid wood beams or those intended to be structural supports will often necessitate a review of your existing framing. This might involve adding extra joists, headers, or other supports to safely bear the load. We perform an assessment during the planning phase to determine any necessary structural modifications, ensuring safety and compliance with building codes. This preparation is a critical step before installation begins.",
+        "@type": "Answer",
+        "description": "Light decorative beams usually don't need reinforcement, but heavy or structural beams may require framing assessment and reinforcement for safety."
+      }
+    }
+  ],
+  "description": "Light decorative beams usually don't need reinforcement, but heavy or structural beams may require framing assessment and reinforcement for safety."
+}

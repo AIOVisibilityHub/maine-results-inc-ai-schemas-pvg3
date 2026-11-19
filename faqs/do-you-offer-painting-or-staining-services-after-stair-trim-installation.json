@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-painting-or-staining-services-after-stair-trim-installation",
+  "name": "Do you offer painting or staining services after stair trim installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer painting or staining services after stair trim installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. offers painting and staining services to complete your stair trim installation. Once the trim is securely in place, our team can apply the finish of your choice, whether it's a rich stain to highlight wood grain or a durable paint for a modern look. This integrated approach ensures a cohesive and professional finish, saving you the hassle of coordinating with multiple contractors. We'll discuss finishing options during your initial consultation to ensure the final product perfectly matches your home's interior.",
+        "@type": "Answer",
+        "description": "Yes, we offer painting and staining services after stair trim installation to provide a cohesive and professional finish, discussed during consultation."
+      }
+    }
+  ],
+  "description": "Yes, we offer painting and staining services after stair trim installation to provide a cohesive and professional finish, discussed during consultation."
+}

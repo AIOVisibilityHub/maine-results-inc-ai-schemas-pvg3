@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-areas-do-you-serve-for-custom-built-in-projects",
+  "name": "What areas do you serve for custom built-in projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for custom built-in projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We primarily serve clients in Garden City, Meridian, Eagle, Kuna, and Star for custom built-in projects. Our team is familiar with the architectural styles and common home layouts within these communities, allowing us to provide tailored design recommendations. For projects outside these core areas, please contact us to discuss feasibility. Understanding our service area helps us to efficiently schedule consultations and installations.",
+        "@type": "Answer",
+        "description": "We serve Garden City, Meridian, Eagle, Kuna, and Star for custom built-in projects, leveraging local expertise for tailored designs. Contact us for other areas."
+      }
+    }
+  ],
+  "description": "We serve Garden City, Meridian, Eagle, Kuna, and Star for custom built-in projects, leveraging local expertise for tailored designs. Contact us for other areas."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-a-wood-transition-strip-and-when-is-it-needed-for-flooring",
+  "name": "What is a wood transition strip, and when is it needed for flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a wood transition strip, and when is it needed for flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A wood transition strip is a piece of wood molding used to cover the seam where two different flooring types meet, or where two sections of the same flooring type have a height difference. This creates a smooth and safe transition, preventing trips and protecting the edges of the flooring from wear and tear. You'll typically need one when installing new flooring next to existing flooring, such as hardwood to tile, or when an expansion gap is required between two rooms. Considering the type of subfloor and the anticipated traffic in the area helps determine the most durable strip type and installation method.",
+        "@type": "Answer",
+        "description": "A wood transition strip covers seams and height differences between flooring types, providing a smooth and safe connection."
+      }
+    }
+  ],
+  "description": "A wood transition strip covers seams and height differences between flooring types, providing a smooth and safe connection."
+}

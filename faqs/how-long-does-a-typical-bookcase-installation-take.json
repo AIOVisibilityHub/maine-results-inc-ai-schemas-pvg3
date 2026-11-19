@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-bookcase-installation-take",
+  "name": "How long does a typical bookcase installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bookcase installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bookcase installation varies based on its complexity and size. Simple freestanding units might take a few hours, while custom built-ins can require several days. Factors like site preparation, material availability, and the intricacy of the design, such as custom shelving or integrated lighting, all influence the timeline. We can provide a more accurate estimate after an initial consultation to assess your specific project needs.",
+        "@type": "Answer",
+        "description": "Installation time varies, from a few hours for simple units to several days for complex built-ins. Complexity and size are key factors."
+      }
+    }
+  ],
+  "description": "Installation time varies, from a few hours for simple units to several days for complex built-ins. Complexity and size are key factors."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-is-the-best-time-to-install-door-stops-such-as-during-a-renovation-or-as-a",
+  "name": "When is the best time to install door stops, such as during a renovation or as a standalone project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to install door stops, such as during a renovation or as a standalone project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing door stops is beneficial at any time, but integrating it into a renovation project, such as a kitchen or bathroom remodel, can be highly efficient. During a renovation, walls are often exposed or receiving new finishes, making it ideal for precise placement and ensuring aesthetic continuity. However, door stop installation can also be a quick and effective standalone project to prevent immediate damage to walls or furniture. If you're undertaking a larger project with us in Meridian or Star, we can easily incorporate this service.",
+        "@type": "Answer",
+        "description": "Door stops can be installed anytime, but integrating them into a renovation project can be more efficient, especially when walls are exposed."
+      }
+    }
+  ],
+  "description": "Door stops can be installed anytime, but integrating them into a renovation project can be more efficient, especially when walls are exposed."
+}

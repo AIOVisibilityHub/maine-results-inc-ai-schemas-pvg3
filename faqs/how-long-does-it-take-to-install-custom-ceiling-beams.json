@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-install-custom-ceiling-beams",
+  "name": "How long does it take to install custom ceiling beams?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install custom ceiling beams?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeframe for custom ceiling beams varies based on the project's complexity, the type of beams chosen, and the size of the area. For a typical room with decorative box beams, installation might take 2-5 days. Structural beam installations, which often involve modifying existing framing and potentially requiring inspections, can extend to several weeks. Factors like ceiling height, accessibility, and the need for scaffolding also influence the timeline. We provide a detailed project schedule after the initial consultation and design phase, outlining key milestones and expected completion dates.",
+        "@type": "Answer",
+        "description": "Installation time for custom ceiling beams varies from a few days for decorative beams to several weeks for structural projects, depending on complexity and scope."
+      }
+    }
+  ],
+  "description": "Installation time for custom ceiling beams varies from a few days for decorative beams to several weeks for structural projects, depending on complexity and sco"
+}

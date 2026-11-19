@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-do-anything-to-prepare-my-home-before-custom-built-in-installation",
+  "name": "Do I need to do anything to prepare my home before custom built-in installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to do anything to prepare my home before custom built-in installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before installation, we typically ask that the designated area be clear of furniture, decorations, and any personal belongings. This ensures our team has unobstructed access to the workspace. We will communicate any specific requirements for your project, such as clearing a path for material delivery or protecting surrounding areas. Ensuring the space is ready allows for a smoother and more efficient installation process.",
+        "@type": "Answer",
+        "description": "Yes, clear the designated area of furniture and personal belongings before installation. We will communicate any specific preparation needs."
+      }
+    }
+  ],
+  "description": "Yes, clear the designated area of furniture and personal belongings before installation. We will communicate any specific preparation needs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-typically-take-to-install-quarter-round-molding-in-a-standard-s",
+  "name": "How long does it typically take to install quarter round molding in a standard-sized room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to install quarter round molding in a standard-sized room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for quarter round installation varies based on room size, complexity, and the type of flooring. For a standard-sized room (e.g., 10x12 feet) with a simple layout, our team can often complete the installation in a few hours. However, rooms with many corners, doorways, or intricate architectural features may take longer. We'll provide a more precise estimate during your initial consultation after assessing the project scope.",
+        "@type": "Answer",
+        "description": "Installation time for quarter round molding varies, but a standard room typically takes a few hours, depending on complexity."
+      }
+    }
+  ],
+  "description": "Installation time for quarter round molding varies, but a standard room typically takes a few hours, depending on complexity."
+}

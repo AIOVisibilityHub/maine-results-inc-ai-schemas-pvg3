@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-cabinet-hardware-like-hinges-and-drawer-glides-be-repaired-or-replaced",
+  "name": "Can cabinet hardware like hinges and drawer glides be repaired or replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can cabinet hardware like hinges and drawer glides be repaired or replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, cabinet hardware such as hinges, drawer glides, and pulls can often be repaired or replaced if they are broken or malfunctioning. Replacing faulty hardware can significantly improve the functionality and longevity of your cabinets without needing a full overhaul. This is a common and relatively straightforward repair that can resolve issues like sagging doors or sticking drawers. Sometimes, upgrading to soft-close hardware is also an option during replacement.",
+        "@type": "Answer",
+        "description": "Faulty hinges, drawer glides, and pulls can typically be repaired or replaced to restore cabinet functionality."
+      }
+    }
+  ],
+  "description": "Faulty hinges, drawer glides, and pulls can typically be repaired or replaced to restore cabinet functionality."
+}

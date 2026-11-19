@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-install-wood-transition-strips",
+  "name": "How long does it take to install wood transition strips?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install wood transition strips?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to install wood transition strips is generally short for straightforward projects, often taking just a few hours for a standard doorway or room entrance. However, the timeline can extend if multiple strips are needed across larger areas, if custom cutting or shaping is required for unique angles, or if the subfloor needs preparation or leveling beforehand. When planning your project with Maine Results, Inc., we'll provide an estimated timeframe based on the scope of work and any specific site conditions we identify during an initial consultation.",
+        "@type": "Answer",
+        "description": "Installation typically takes a few hours for standard areas, but time can increase with project complexity or subfloor preparation."
+      }
+    }
+  ],
+  "description": "Installation typically takes a few hours for standard areas, but time can increase with project complexity or subfloor preparation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-custom-ceiling-beams-be-purely-decorative-or-do-they-always-need-to-be-struc",
+  "name": "Can custom ceiling beams be purely decorative or do they always need to be structural?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can custom ceiling beams be purely decorative or do they always need to be structural?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom ceiling beams can be both purely decorative or structural, depending on your project's needs. Decorative beams are designed to enhance the aesthetic appeal of a room without bearing any structural load. These are often hollow box beams, allowing for lighter installation and less impact on existing framing. Structural beams, conversely, are integral to the building's support system, carrying weight from above. When considering options, a practical tradeoff is often between the cost and complexity of structural modifications versus the aesthetic impact of decorative elements. We help you weigh these options to achieve your desired look and function.",
+        "@type": "Answer",
+        "description": "Custom ceiling beams can be purely decorative, enhancing aesthetics, or structural, providing essential support; the choice depends on your needs."
+      }
+    }
+  ],
+  "description": "Custom ceiling beams can be purely decorative, enhancing aesthetics, or structural, providing essential support; the choice depends on your needs."
+}

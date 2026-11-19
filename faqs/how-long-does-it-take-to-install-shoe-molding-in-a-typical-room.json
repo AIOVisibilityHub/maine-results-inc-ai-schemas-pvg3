@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-install-shoe-molding-in-a-typical-room",
+  "name": "How long does it take to install shoe molding in a typical room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install shoe molding in a typical room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for shoe molding installation depends on the size of the room, the number of obstacles (like doorways or built-ins), and the chosen material. A standard rectangular room might take a few hours, while larger or more complex spaces could take a full day or longer. The process also includes time for cutting, fitting, and finishing (nailing, caulking, and painting if necessary). Understanding this process clarity helps manage expectations for project timelines.",
+        "@type": "Answer",
+        "description": "Installation time varies by room size, complexity, and material, typically a few hours for a standard room."
+      }
+    }
+  ],
+  "description": "Installation time varies by room size, complexity, and material, typically a few hours for a standard room."
+}

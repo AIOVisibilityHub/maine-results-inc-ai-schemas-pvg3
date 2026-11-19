@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-getting-a-quote-for-bookcase-installation",
+  "name": "What is the process for getting a quote for bookcase installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting a quote for bookcase installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To get a quote for bookcase installation, you can contact Maine Results, Inc. to schedule an on-site consultation. During this visit, we will discuss your design preferences, measure the space, and assess any specific requirements or challenges. We'll then provide a detailed estimate based on the scope of work, materials, and labor involved. Understanding your vision helps us provide an accurate and comprehensive proposal.",
+        "@type": "Answer",
+        "description": "Contact us for an on-site consultation to discuss your design, measure the space, and receive a detailed estimate."
+      }
+    }
+  ],
+  "description": "Contact us for an on-site consultation to discuss your design, measure the space, and receive a detailed estimate."
+}

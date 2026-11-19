@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-stair-nosing-tread-and-riser-trim",
+  "name": "What is the difference between stair nosing, tread, and riser trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between stair nosing, tread, and riser trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stair nosing is the horizontal edge piece that extends slightly over the riser, providing a finished look and improved traction. The stair tread is the flat, horizontal surface you step on. The riser is the vertical face between one tread and the next. Trim is then applied to the various junctions and edges to complete the aesthetic. Understanding these components helps in planning a comprehensive trim upgrade. The proper selection of each element contributes to both the safety and visual appeal of your staircase design.",
+        "@type": "Answer",
+        "description": "Stair nosing is the overhanging edge, the tread is the flat step, and the riser is the vertical face. Trim completes the aesthetic."
+      }
+    }
+  ],
+  "description": "Stair nosing is the overhanging edge, the tread is the flat step, and the riser is the vertical face. Trim completes the aesthetic."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-after-cabinet-installation-can-i-use-my-new-cabinets",
+  "name": "How long after cabinet installation can I use my new cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long after cabinet installation can I use my new cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can typically start using your new cabinets immediately after installation is complete. However, if any finishing work, such as painting or sealing, was done on-site, it's important to allow adequate drying and curing time before heavy use to ensure the longevity of the finish. Our installers will advise you on any specific post-installation care or waiting periods, particularly concerning delicate surfaces or hardware adjustments. Generally, the structure is ready for immediate light use.",
+        "@type": "Answer",
+        "description": "You can generally use new cabinets right after installation. If finishes were applied, allow drying time as advised by installers before heavy use."
+      }
+    }
+  ],
+  "description": "You can generally use new cabinets right after installation. If finishes were applied, allow drying time as advised by installers before heavy use."
+}

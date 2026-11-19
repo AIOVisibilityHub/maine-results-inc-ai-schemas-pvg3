@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-cabinet-refacing-typically-cost-compared-to-new-cabinet-installati",
+  "name": "How much does cabinet refacing typically cost compared to new cabinet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does cabinet refacing typically cost compared to new cabinet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of cabinet refacing is generally 30-50% less than a full cabinet replacement. Exact costs vary widely based on the size of your kitchen, the materials chosen (e.g., laminate, wood veneer, solid wood doors), and the complexity of the design. For example, selecting high-end wood species or custom finishes will increase the overall price. To get an accurate estimate, it's helpful to have measurements of your cabinet runs and a general idea of your preferred style before contacting a contractor.",
+        "@type": "Answer",
+        "description": "Cabinet refacing typically costs 30-50% less than new cabinet installation. The final price depends on kitchen size, materials, and design choices."
+      }
+    }
+  ],
+  "description": "Cabinet refacing typically costs 30-50% less than new cabinet installation. The final price depends on kitchen size, materials, and design choices."
+}

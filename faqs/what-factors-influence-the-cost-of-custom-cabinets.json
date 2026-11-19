@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-custom-cabinets",
+  "name": "What factors influence the cost of custom cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of custom cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of custom cabinets is primarily influenced by the type of wood or material chosen, the complexity of the design, the selected finishes, and the hardware. Premium woods, intricate details, specialized finishes, and high-end hardware will increase the overall price. The size and number of cabinets also play a significant role. During our consultation, we discuss these options to help you choose materials and designs that fit your budget while meeting your aesthetic and functional goals.",
+        "@type": "Answer",
+        "description": "Cost factors include material type, design complexity, finishes, hardware, and the total number and size of cabinets."
+      }
+    }
+  ],
+  "description": "Cost factors include material type, design complexity, finishes, hardware, and the total number and size of cabinets."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-hire-a-separate-contractor-for-plumbing-or-electrical-work-related",
+  "name": "Do I need to hire a separate contractor for plumbing or electrical work related to cabinet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to hire a separate contractor for plumbing or electrical work related to cabinet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For kitchen cabinet installation projects, it is common that existing plumbing and electrical lines may need to be adjusted or new outlets added, especially if the layout changes. While Maine Results, Inc. focuses on cabinet installation, we can coordinate with trusted local licensed plumbers and electricians if your project requires modifications to these systems. We provide a full scope of work upfront, so you understand if and when these additional trades are needed, ensuring all aspects of your kitchen remodel are handled efficiently.",
+        "@type": "Answer",
+        "description": "You may need separate contractors for plumbing or electrical work if your layout changes, and Maine Results, Inc. can coordinate these additional trades."
+      }
+    }
+  ],
+  "description": "You may need separate contractors for plumbing or electrical work if your layout changes, and Maine Results, Inc. can coordinate these additional trades."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-quarter-round-installation-services-in-garden-city-idaho",
+  "name": "Do you offer quarter round installation services in Garden City, Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer quarter round installation services in Garden City, Idaho?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. proudly offers quarter round installation services in Garden City, Idaho, as part of our commitment to serving the greater Treasure Valley area. Our experienced team can handle projects of any size, ensuring a professional and durable finish for your flooring. When you contact us, we can schedule a consultation to discuss your specific needs and provide an accurate estimate for your Garden City home or business.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. provides quarter round installation services in Garden City, Idaho, and other surrounding areas."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. provides quarter round installation services in Garden City, Idaho, and other surrounding areas."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-do-i-need-to-do-before-cabinet-installers-arrive",
+  "name": "What preparation do I need to do before cabinet installers arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before cabinet installers arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our cabinet installers arrive, it's important to clear the work area completely. This includes removing all contents from old cabinets, emptying countertops, and ensuring the space is free of personal belongings or obstructions. If you have existing flooring or appliances that need protection, please cover them or move them out of the immediate work zone. Ensuring a clear and clean space allows our team to begin work efficiently and safely without delays.",
+        "@type": "Answer",
+        "description": "Before installation, clear the work area of all contents, belongings, and obstructions. Protect flooring or appliances if needed to ensure efficient work."
+      }
+    }
+  ],
+  "description": "Before installation, clear the work area of all contents, belongings, and obstructions. Protect flooring or appliances if needed to ensure efficient work."
+}

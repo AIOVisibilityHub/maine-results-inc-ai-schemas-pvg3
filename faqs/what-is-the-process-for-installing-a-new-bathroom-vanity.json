@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-installing-a-new-bathroom-vanity",
+  "name": "What is the process for installing a new bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a new bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically begins with shutting off the water supply and carefully removing the old vanity, sink, and faucet. Then, the wall surface is prepared, and any necessary plumbing or electrical adjustments are made to accommodate the new vanity. The new vanity cabinet is then set in place and secured, followed by the installation of the countertop, sink, and faucet. Finally, water lines are connected, and the system is tested for leaks. Maine Results, Inc. ensures each step is completed with precision for a reliable outcome.",
+        "@type": "Answer",
+        "description": "The process involves removing the old vanity, preparing the area, making plumbing/electrical adjustments, installing the new unit, and connecting/testing the fixtures."
+      }
+    }
+  ],
+  "description": "The process involves removing the old vanity, preparing the area, making plumbing/electrical adjustments, installing the new unit, and connecting/testing the fi"
+}

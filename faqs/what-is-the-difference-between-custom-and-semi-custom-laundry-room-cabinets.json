@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-custom-and-semi-custom-laundry-room-cabinets",
+  "name": "What is the difference between custom and semi-custom laundry room cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between custom and semi-custom laundry room cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom cabinets are built specifically for your laundry room's exact dimensions and design preferences, offering maximum flexibility in size, style, and features. Semi-custom cabinets are pre-manufactured with a range of standard sizes and finishes but offer more modification options than basic stock cabinets. The choice often depends on your budget, desired level of personalization, and the complexity of your laundry room's layout. Custom options allow for the most efficient use of unique or challenging spaces.",
+        "@type": "Answer",
+        "description": "Custom cabinets are built to exact specifications for unique spaces; semi-custom offer more modification than stock, but are pre-manufactured. Cost and personalization differ."
+      }
+    }
+  ],
+  "description": "Custom cabinets are built to exact specifications for unique spaces; semi-custom offer more modification than stock, but are pre-manufactured. Cost and personal"
+}

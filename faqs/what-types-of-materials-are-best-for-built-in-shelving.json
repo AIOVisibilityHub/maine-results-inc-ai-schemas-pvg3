@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-materials-are-best-for-built-in-shelving",
+  "name": "What types of materials are best for built-in shelving?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are best for built-in shelving?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best materials for built-in shelving depend on your aesthetic preferences, budget, and the intended use of the shelves. Common options include paint-grade MDF for a smooth, affordable finish, various hardwoods like oak or maple for durability and natural beauty, and plywood for structural integrity. Maine Results often uses a combination of these, such as hardwood faces on plywood boxes for a high-quality, long-lasting product. We can discuss material options and their suitability for your specific project during our design consultation.",
+        "@type": "Answer",
+        "description": "Material choice for built-in shelving depends on aesthetics, budget, and use, with options like MDF, hardwoods, and plywood. Maine Results helps clients choose suitable materials during the design phase."
+      }
+    }
+  ],
+  "description": "Material choice for built-in shelving depends on aesthetics, budget, and use, with options like MDF, hardwoods, and plywood. Maine Results helps clients choose"
+}

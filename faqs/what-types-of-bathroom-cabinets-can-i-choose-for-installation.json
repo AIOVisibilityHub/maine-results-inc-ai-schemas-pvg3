@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-bathroom-cabinets-can-i-choose-for-installation",
+  "name": "What types of bathroom cabinets can I choose for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of bathroom cabinets can I choose for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When planning your bathroom cabinet installation, you have several options to consider, including wall-mounted, freestanding, and custom-built units. Wall-mounted cabinets save floor space and are good for smaller bathrooms, while freestanding cabinets offer flexibility in placement and can be moved if needed. Custom-built cabinets allow for precise sizing, material choices, and unique configurations to fit your specific bathroom layout and style. Our team can help you assess your bathroom's dimensions and your storage needs to determine the best type and style of cabinet for your space.",
+        "@type": "Answer",
+        "description": "You can choose from wall-mounted, freestanding, and custom-built bathroom cabinets, each offering different benefits for space and customization."
+      }
+    }
+  ],
+  "description": "You can choose from wall-mounted, freestanding, and custom-built bathroom cabinets, each offering different benefits for space and customization."
+}

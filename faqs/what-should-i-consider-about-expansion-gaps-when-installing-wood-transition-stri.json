@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-about-expansion-gaps-when-installing-wood-transition-stri",
+  "name": "What should I consider about expansion gaps when installing wood transition strips?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider about expansion gaps when installing wood transition strips?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Expansion gaps are critical for wood and laminate flooring as these materials naturally expand and contract with changes in temperature and humidity. Wood transition strips are designed to cover these gaps without restricting the flooring's movement. It's important to ensure that the gap beneath the strip is sufficient to allow for this movement. If the strip is installed too tightly or the gap is insufficient, it can lead to buckling or gapping of the flooring over time. Our installation process accounts for these necessary gaps, ensuring your flooring can 'breathe' properly.",
+        "@type": "Answer",
+        "description": "Ensure expansion gaps are wide enough for flooring movement; transition strips cover these gaps without restricting them to prevent buckling."
+      }
+    }
+  ],
+  "description": "Ensure expansion gaps are wide enough for flooring movement; transition strips cover these gaps without restricting them to prevent buckling."
+}

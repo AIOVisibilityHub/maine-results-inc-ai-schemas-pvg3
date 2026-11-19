@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-faux-beams-made-of-and-how-do-they-differ-from-real-wood-beams",
+  "name": "What are faux beams made of, and how do they differ from real wood beams?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are faux beams made of, and how do they differ from real wood beams?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Faux beams are typically crafted from high-density polyurethane or lightweight wood products like MDF, designed to mimic the appearance of solid wood. They are significantly lighter than real wood beams, making installation easier and often less intrusive to existing structures. The primary difference lies in their composition and weight. Faux beams are hollow, allowing them to conceal wiring or plumbing, while solid wood beams are structural elements that bear weight. When considering faux beams, customers should assess the desired aesthetic, budget, and structural considerations of their space, as these factors will influence the best material choice for their project.",
+        "@type": "Answer",
+        "description": "Faux beams are made from materials like polyurethane or lightweight wood products, making them lighter and easier to install than real wood beams, which are solid and structural."
+      }
+    }
+  ],
+  "description": "Faux beams are made from materials like polyurethane or lightweight wood products, making them lighter and easier to install than real wood beams, which are sol"
+}

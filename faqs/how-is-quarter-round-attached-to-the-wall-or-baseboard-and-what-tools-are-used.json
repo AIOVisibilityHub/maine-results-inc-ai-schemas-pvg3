@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-is-quarter-round-attached-to-the-wall-or-baseboard-and-what-tools-are-used",
+  "name": "How is quarter round attached to the wall or baseboard, and what tools are used?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is quarter round attached to the wall or baseboard, and what tools are used?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Quarter round is typically attached using small finishing nails, either manually or with a pneumatic nail gun, driven into the baseboard, not the floor. This method ensures the molding is securely fastened while still allowing the floor beneath to expand and contract freely. Our installers use tools such as miter saws for precise angle cuts, measuring tapes, and nail setters to ensure a professional finish. Using appropriate nail lengths and spacing prevents damage to your baseboards and ensures durable attachment.",
+        "@type": "Answer",
+        "description": "Quarter round is attached to the baseboard with finishing nails, using tools like miter saws for precise cuts and nail guns for secure fastening."
+      }
+    }
+  ],
+  "description": "Quarter round is attached to the baseboard with finishing nails, using tools like miter saws for precise cuts and nail guns for secure fastening."
+}

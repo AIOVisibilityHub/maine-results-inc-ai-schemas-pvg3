@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-laundry-room-cabinets-are-available-for-installation",
+  "name": "What types of laundry room cabinets are available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of laundry room cabinets are available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Laundry room cabinets come in various styles and materials, including wall-mounted, base, and utility cabinets. Common materials include wood, laminate, and thermofoil, each offering different aesthetics and durability. When selecting, consider the humidity levels in your laundry room and how often the space is used to determine the best material for long-term function and appearance. Maine Results Inc. can help you assess your specific needs to choose the most suitable options.",
+        "@type": "Answer",
+        "description": "Various types like wall, base, and utility cabinets are available in materials such as wood, laminate, and thermofoil. Consider humidity and usage when choosing materials."
+      }
+    }
+  ],
+  "description": "Various types like wall, base, and utility cabinets are available in materials such as wood, laminate, and thermofoil. Consider humidity and usage when choosing"
+}

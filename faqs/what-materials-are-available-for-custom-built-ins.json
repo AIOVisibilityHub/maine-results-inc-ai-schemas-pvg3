@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-available-for-custom-built-ins",
+  "name": "What materials are available for custom built-ins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are available for custom built-ins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We offer a range of materials for custom built-ins to suit various styles and budgets. Options typically include various types of wood like oak, maple, cherry, or walnut for different aesthetics and durability. We also use high-quality plywood and MDF for painted finishes or specific structural needs. Laminates and veneers are available for certain applications, providing diverse looks. Your choice of material will impact the project's overall cost, finish quality, and longevity.",
+        "@type": "Answer",
+        "description": "Materials include various woods like oak, maple, cherry, and walnut, as well as high-quality plywood and MDF. The choice impacts cost and finish."
+      }
+    }
+  ],
+  "description": "Materials include various woods like oak, maple, cherry, and walnut, as well as high-quality plywood and MDF. The choice impacts cost and finish."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-cost-range-for-ceiling-beam-installation",
+  "name": "What is the cost range for ceiling beam installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost range for ceiling beam installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of ceiling beam installation varies widely based on several factors, including the type of beams (e.g., solid wood, engineered, or decorative), their size and length, the complexity of the installation, and any necessary structural modifications. For example, installing non-structural decorative beams will be less expensive than replacing or adding load-bearing structural beams that require engineering and permits. Finish work, such as staining or painting, also contributes to the overall cost. During our initial site visit, Maine Results, Inc. provides a detailed estimate tailored to your specific project needs and choices.",
+        "@type": "Answer",
+        "description": "Cost varies based on beam type, size, installation complexity, and structural modifications. Decorative beams are less costly than structural ones. We provide detailed estimates after a site visit."
+      }
+    }
+  ],
+  "description": "Cost varies based on beam type, size, installation complexity, and structural modifications. Decorative beams are less costly than structural ones. We provide d"
+}

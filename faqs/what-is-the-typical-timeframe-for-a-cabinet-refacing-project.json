@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-timeframe-for-a-cabinet-refacing-project",
+  "name": "What is the typical timeframe for a cabinet refacing project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for a cabinet refacing project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard cabinet refacing project typically takes anywhere from 3 to 7 days, depending on the size of your kitchen and the complexity of the work. This timeframe is significantly shorter than a full cabinet replacement, which can take several weeks or even longer. For instance, a smaller kitchen with straightforward design might be completed in a few days, while a larger kitchen with custom features could extend the timeline. One practical tradeoff is that while refacing is faster, you will still experience some disruption in your kitchen during the process.",
+        "@type": "Answer",
+        "description": "A cabinet refacing project usually takes 3 to 7 days, which is much faster than full cabinet replacement. Project duration depends on kitchen size and complexity."
+      }
+    }
+  ],
+  "description": "A cabinet refacing project usually takes 3 to 7 days, which is much faster than full cabinet replacement. Project duration depends on kitchen size and complexit"
+}

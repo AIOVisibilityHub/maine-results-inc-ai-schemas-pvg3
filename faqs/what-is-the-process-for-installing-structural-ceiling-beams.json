@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-installing-structural-ceiling-beams",
+  "name": "What is the process for installing structural ceiling beams?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing structural ceiling beams?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing structural ceiling beams begins with an engineering assessment to determine the appropriate beam size and material for the load requirements. This is followed by obtaining necessary permits, especially for structural changes. The existing ceiling or roof structure is temporarily supported, and then the new beams are carefully lifted into place and securely fastened to supporting walls or columns. After installation, any required finishes like drywall, paint, or stain are applied. During the initial consultation, we can walk through the specific steps for your project, including what preparations are needed on your end, ensuring a smooth process.",
+        "@type": "Answer",
+        "description": "Structural beam installation involves engineering assessment, permits, temporary support, beam placement, and finishing. We will review project-specific steps during consultation."
+      }
+    }
+  ],
+  "description": "Structural beam installation involves engineering assessment, permits, temporary support, beam placement, and finishing. We will review project-specific steps d"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-maine-results-inc-install-custom-designed-bookcases",
+  "name": "Can Maine Results, Inc. install custom-designed bookcases?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Maine Results, Inc. install custom-designed bookcases?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. specializes in custom installations. We work with clients to bring their unique bookcase designs to life, whether it's for a specific room aesthetic, an unusual wall dimension, or a need for specialized storage. We can adapt to various materials and finishes you might specify, ensuring the final product perfectly complements your home or office in the Boise area.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. installs custom-designed bookcases to fit unique spaces and aesthetic preferences. We adapt to your specified materials and finishes."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. installs custom-designed bookcases to fit unique spaces and aesthetic preferences. We adapt to your specified materials and finishes."
+}

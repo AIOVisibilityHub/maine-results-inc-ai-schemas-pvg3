@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-cove-molding-and-where-is-it-typically-installed",
+  "name": "What is cove molding and where is it typically installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is cove molding and where is it typically installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cove molding is a concave trim piece that softens the transition between walls and ceilings. It creates a smooth, elegant curve, differing from crown molding which often has more intricate profiles and projects further into the room. Cove molding is commonly installed in living rooms, dining rooms, and bedrooms, offering a subtle architectural detail. Before installation, consider the height of your ceilings and the overall room aesthetic to ensure the molding complements the space effectively.",
+        "@type": "Answer",
+        "description": "Cove molding is a concave trim piece installed where walls and ceilings meet to create a soft, curved transition."
+      }
+    }
+  ],
+  "description": "Cove molding is a concave trim piece installed where walls and ceilings meet to create a soft, curved transition."
+}

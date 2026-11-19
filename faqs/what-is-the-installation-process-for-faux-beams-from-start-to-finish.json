@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-installation-process-for-faux-beams-from-start-to-finish",
+  "name": "What is the installation process for faux beams, from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the installation process for faux beams, from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our faux beam installation process begins with an initial consultation and measurement of your space. We then prepare the beams, which may involve cutting them to size and applying any desired finishes if not pre-finished. On installation day, we typically mark the ceiling for beam placement, attach mounting blocks or cleats securely to the ceiling joists, and then carefully affix the faux beams to these supports using adhesive and screws. The final steps involve filling any small gaps or screw holes and touching up the finish. Throughout this process, we aim for minimal disruption and ensure a clean workspace upon completion.",
+        "@type": "Answer",
+        "description": "The installation process involves consultation, beam preparation, marking the ceiling, securing mounting blocks, attaching beams, and finishing touches, ensuring minimal disruption."
+      }
+    }
+  ],
+  "description": "The installation process involves consultation, beam preparation, marking the ceiling, securing mounting blocks, attaching beams, and finishing touches, ensurin"
+}

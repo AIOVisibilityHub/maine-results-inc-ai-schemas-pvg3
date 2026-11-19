@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-quarter-round-be-painted-or-stained-to-match-my-existing-trim-or-flooring",
+  "name": "Can quarter round be painted or stained to match my existing trim or flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can quarter round be painted or stained to match my existing trim or flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, quarter round can be painted or stained to match your desired aesthetic. If you choose unfinished quarter round, it offers the flexibility to perfectly match existing trim colors or wood stains. For pre-primed quarter round, it's ready for painting with your chosen color. When planning your project with Maine Results, Inc., consider whether you'll paint or stain the molding before or after installation. Often, painting prior to installation can save time and achieve a cleaner finish, but touch-ups will be needed after it's secured.",
+        "@type": "Answer",
+        "description": "Quarter round can be painted or stained to match trim or flooring. Unfinished options offer full customization, while pre-primed ones are ready for paint."
+      }
+    }
+  ],
+  "description": "Quarter round can be painted or stained to match trim or flooring. Unfinished options offer full customization, while pre-primed ones are ready for paint."
+}

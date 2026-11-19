@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-custom-built-in-cabinets",
+  "name": "What factors influence the cost of custom built-in cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of custom built-in cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of custom built-in cabinets is primarily influenced by the materials selected, the complexity of the design, the type of finishes, and the overall size of the project. Premium hardwoods, intricate carvings, and specialized hardware will increase costs, while simpler designs and more common materials can be more economical. Maine Results, Inc. provides detailed estimates after understanding your vision and specific requirements, helping you balance your desired aesthetic with your budget. We discuss these factors during the initial consultation to ensure transparency.",
+        "@type": "Answer",
+        "description": "Cost factors include material, design complexity, finishes, and project size. We provide detailed estimates based on your specific needs."
+      }
+    }
+  ],
+  "description": "Cost factors include material, design complexity, finishes, and project size. We provide detailed estimates based on your specific needs."
+}

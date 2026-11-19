@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-custom-and-stock-bathroom-cabinets",
+  "name": "What is the difference between custom and stock bathroom cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between custom and stock bathroom cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom bathroom cabinets are built to your exact specifications regarding size, style, material, and finish, offering complete flexibility to fit unique spaces or design preferences. Stock cabinets, on the other hand, are pre-manufactured in standard sizes and designs, making them more readily available and generally more cost-effective. While stock cabinets offer quicker installation, they may not perfectly utilize every inch of your space. Choosing between custom and stock often comes down to balancing your budget, desired aesthetics, and specific spatial requirements for your home in areas like Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "Custom cabinets are built to exact specifications for unique spaces, while stock cabinets are pre-manufactured in standard sizes, offering quicker and more affordable options."
+      }
+    }
+  ],
+  "description": "Custom cabinets are built to exact specifications for unique spaces, while stock cabinets are pre-manufactured in standard sizes, offering quicker and more affo"
+}

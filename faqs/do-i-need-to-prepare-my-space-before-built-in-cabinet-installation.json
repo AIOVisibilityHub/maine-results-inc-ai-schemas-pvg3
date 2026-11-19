@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-prepare-my-space-before-built-in-cabinet-installation",
+  "name": "Do I need to prepare my space before built-in cabinet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to prepare my space before built-in cabinet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, some preparation is generally helpful before installation. This typically includes clearing the area of furniture, decor, and personal belongings. For more extensive projects, you might need to consider minor electrical or plumbing adjustments if the cabinets will house appliances or sinks. During our consultation, Maine Results, Inc. provides a specific preparation checklist tailored to your project. This ensures the installation team has clear access and that the site is ready for efficient work.",
+        "@type": "Answer",
+        "description": "Clear the installation area of belongings. For some projects, minor electrical or plumbing adjustments might be needed. We provide a preparation checklist."
+      }
+    }
+  ],
+  "description": "Clear the installation area of belongings. For some projects, minor electrical or plumbing adjustments might be needed. We provide a preparation checklist."
+}

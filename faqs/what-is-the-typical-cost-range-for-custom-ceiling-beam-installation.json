@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-cost-range-for-custom-ceiling-beam-installation",
+  "name": "What is the typical cost range for custom ceiling beam installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for custom ceiling beam installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of custom ceiling beam installation can vary significantly based on material, complexity, and project scope. For decorative box beams, costs might range from $15 to $50 per linear foot, while solid structural beams can be $50 to $200+ per linear foot, not including installation labor. This range accounts for different wood species, finishes, and the amount of structural work required. For example, adding purely aesthetic beams to an existing flat ceiling will be less costly than replacing or adding structural support beams. During a consultation, we provide a detailed estimate reflecting your specific design choices and any necessary structural modifications.",
+        "@type": "Answer",
+        "description": "Costs for custom ceiling beams vary widely, from $15-$50 per linear foot for decorative to $50-$200+ per linear foot for structural, plus labor."
+      }
+    }
+  ],
+  "description": "Costs for custom ceiling beams vary widely, from $15-$50 per linear foot for decorative to $50-$200+ per linear foot for structural, plus labor."
+}

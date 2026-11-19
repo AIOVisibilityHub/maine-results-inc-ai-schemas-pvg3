@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-before-adding-custom-ceiling-beams-to-an-existing-home",
+  "name": "What should I consider before adding custom ceiling beams to an existing home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before adding custom ceiling beams to an existing home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before adding custom ceiling beams to an existing home, consider your ceiling height, the existing structural elements, and your home's overall style. Taller ceilings generally accommodate larger beams more gracefully, while lower ceilings might feel overwhelmed by very bulky designs. It's also important to know if there are any existing electrical wires, plumbing, or HVAC ducts in the ceiling that the beams might interfere with. This preparation step helps us plan for any necessary rerouting or design adjustments. We assess these factors during our initial consultation to ensure a seamless integration.",
+        "@type": "Answer",
+        "description": "Before adding beams, consider your ceiling height, existing structural elements, and the home's style to ensure proper integration and avoid interference with utilities."
+      }
+    }
+  ],
+  "description": "Before adding beams, consider your ceiling height, existing structural elements, and the home's style to ensure proper integration and avoid interference with u"
+}

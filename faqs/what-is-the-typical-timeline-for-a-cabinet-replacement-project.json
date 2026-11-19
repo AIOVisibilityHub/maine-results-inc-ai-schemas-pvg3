@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-timeline-for-a-cabinet-replacement-project",
+  "name": "What is the typical timeline for a cabinet replacement project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a cabinet replacement project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical timeline for a cabinet replacement project can vary, but generally, it takes several weeks from design to installation. This includes initial consultations, design finalization, cabinet ordering and manufacturing, demolition of old cabinets, and the installation of new ones. Custom cabinet orders usually require more time for manufacturing than stock options. Our team in Meridian works to establish a clear project schedule upfront, detailing each phase so you understand the progress and expected completion date, helping to minimize disruption to your daily routine.",
+        "@type": "Answer",
+        "description": "A cabinet replacement project usually takes several weeks, encompassing design, ordering, manufacturing, demolition, and installation. Custom orders often extend the manufacturing time."
+      }
+    }
+  ],
+  "description": "A cabinet replacement project usually takes several weeks, encompassing design, ordering, manufacturing, demolition, and installation. Custom orders often exten"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-do-custom-built-ins-typically-cost",
+  "name": "How much do custom built-ins typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much do custom built-ins typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of custom built-ins varies significantly based on factors such as materials, complexity of design, size, and finishes chosen. High-end materials like solid hardwoods or intricate details will increase the price, as will specialized hardware or lighting. We provide detailed estimates after an initial consultation to understand your project scope and design preferences. Consider your budget alongside your desired functionality and aesthetic to find the best balance for your investment.",
+        "@type": "Answer",
+        "description": "The cost of custom built-ins varies based on materials, design complexity, size, and finishes. Detailed estimates are provided after consultation."
+      }
+    }
+  ],
+  "description": "The cost of custom built-ins varies based on materials, design complexity, size, and finishes. Detailed estimates are provided after consultation."
+}

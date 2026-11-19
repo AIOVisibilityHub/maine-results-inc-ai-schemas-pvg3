@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-handle-cabinet-removal-and-disposal-of-old-cabinets",
+  "name": "Do you handle cabinet removal and disposal of old cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you handle cabinet removal and disposal of old cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, as part of our comprehensive cabinet installation service, we can manage the removal and disposal of your old cabinets. This service helps streamline the renovation process, allowing you to avoid the hassle of coordinating separate demolition and disposal services. When planning your project, please let us know if you require this service so we can include it in your detailed estimate. We ensure proper disposal methods are followed.",
+        "@type": "Answer",
+        "description": "Yes, we handle the removal and disposal of old cabinets as part of our installation service. Please inform us during planning to include it in your estimate."
+      }
+    }
+  ],
+  "description": "Yes, we handle the removal and disposal of old cabinets as part of our installation service. Please inform us during planning to include it in your estimate."
+}

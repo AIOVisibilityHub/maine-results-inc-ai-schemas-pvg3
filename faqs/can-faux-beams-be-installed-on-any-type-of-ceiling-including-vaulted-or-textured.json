@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-faux-beams-be-installed-on-any-type-of-ceiling-including-vaulted-or-textured",
+  "name": "Can faux beams be installed on any type of ceiling, including vaulted or textured surfaces?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can faux beams be installed on any type of ceiling, including vaulted or textured surfaces?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, faux beams can be installed on various ceiling types, including vaulted, flat, and textured surfaces. The installation method will adapt to the specific ceiling. For textured ceilings, minor surface preparation might be needed to ensure proper adhesion and a secure fit for the mounting hardware. Vaulted ceilings often require careful measurement and cutting to maintain the desired aesthetic flow. We always perform a site visit to assess your specific ceiling conditions and discuss any particular considerations, ensuring the installation approach is tailored for durability and appearance.",
+        "@type": "Answer",
+        "description": "Faux beams can be installed on most ceiling types, including vaulted and textured, though some surface preparation or specialized fitting may be needed for secure installation."
+      }
+    }
+  ],
+  "description": "Faux beams can be installed on most ceiling types, including vaulted and textured, though some surface preparation or specialized fitting may be needed for secu"
+}

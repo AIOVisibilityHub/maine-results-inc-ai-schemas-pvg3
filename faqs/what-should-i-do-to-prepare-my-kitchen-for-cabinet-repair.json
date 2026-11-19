@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-do-to-prepare-my-kitchen-for-cabinet-repair",
+  "name": "What should I do to prepare my kitchen for cabinet repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my kitchen for cabinet repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for cabinet repair, clear out the contents of the cabinets being worked on and remove any items from countertops near the work area. This helps protect your belongings and provides a clear space for the technicians to work efficiently and safely. Covering adjacent surfaces with drop cloths can also help protect them from dust or debris during the repair process.",
+        "@type": "Answer",
+        "description": "Clear out cabinet contents and remove items from nearby countertops to provide a clear and safe workspace for repairs."
+      }
+    }
+  ],
+  "description": "Clear out cabinet contents and remove items from nearby countertops to provide a clear and safe workspace for repairs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-cost-for-shoe-molding-installation",
+  "name": "What is the typical cost for shoe molding installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for shoe molding installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of shoe molding installation varies based on factors like the material chosen, the total linear footage needed, and the complexity of the room's layout (e.g., many corners or curves). Professional installation includes labor, materials, and finishing. Maine Results, Inc. provides detailed estimates after an on-site assessment to give you an accurate understanding of the investment. We can discuss options for both material and installation scope to fit your budget and aesthetic goals.",
+        "@type": "Answer",
+        "description": "Shoe molding installation cost varies by material, linear footage, and room complexity; estimates are provided after assessment."
+      }
+    }
+  ],
+  "description": "Shoe molding installation cost varies by material, linear footage, and room complexity; estimates are provided after assessment."
+}

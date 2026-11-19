@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-faux-beam-installation-project-take",
+  "name": "How long does a typical faux beam installation project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical faux beam installation project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a faux beam installation project can vary depending on the scope and complexity. A single room with a few beams might be completed in one to two days, while a larger project involving multiple rooms or intricate ceiling designs could extend to several days. Factors such as ceiling height, the type of surface for installation, and any necessary preparatory work like painting or repairs will affect the timeline. We conduct an initial consultation to assess these details and provide a more accurate time estimate, allowing clients in areas like Garden City or Meridian to plan accordingly.",
+        "@type": "Answer",
+        "description": "Faux beam installation can take one to two days for a small project, or several days for larger, more complex designs, depending on scope and preparation."
+      }
+    }
+  ],
+  "description": "Faux beam installation can take one to two days for a small project, or several days for larger, more complex designs, depending on scope and preparation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-cove-molding-be-installed-on-textured-walls-or-ceilings",
+  "name": "Can cove molding be installed on textured walls or ceilings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can cove molding be installed on textured walls or ceilings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, cove molding can be installed on textured walls or ceilings, but it may require extra preparation to achieve a seamless look. For heavily textured surfaces, some light sanding or leveling of the area where the molding will sit might be necessary to ensure a flush fit and strong adhesion. This additional preparation is crucial for a clean aesthetic. Our installers address these conditions proactively, ensuring the molding integrates smoothly into your specific home environment. This attention to detail is part of our commitment to quality craftsmanship.",
+        "@type": "Answer",
+        "description": "Cove molding can be installed on textured surfaces, but may require extra preparation like sanding or leveling for a flush fit."
+      }
+    }
+  ],
+  "description": "Cove molding can be installed on textured surfaces, but may require extra preparation like sanding or leveling for a flush fit."
+}

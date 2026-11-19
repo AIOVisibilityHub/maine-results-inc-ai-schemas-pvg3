@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-timeframe-for-cabinet-installation",
+  "name": "What is the typical timeframe for cabinet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for cabinet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeframe for cabinet installation can vary depending on the project's scope, the number of cabinets, and the complexity of the design. A standard kitchen cabinet installation typically takes 2-5 days from start to finish. Factors like custom cabinetry, intricate layouts, or the need for additional structural modifications can extend this timeline. We prioritize efficient and quality work, and will provide a detailed schedule after assessing your specific project needs.",
+        "@type": "Answer",
+        "description": "Standard cabinet installation usually takes 2-5 days, but custom or complex projects may take longer. We provide a detailed schedule after assessment."
+      }
+    }
+  ],
+  "description": "Standard cabinet installation usually takes 2-5 days, but custom or complex projects may take longer. We provide a detailed schedule after assessment."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-prepare-my-space-before-built-in-shelving-installation",
+  "name": "Do I need to prepare my space before built-in shelving installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to prepare my space before built-in shelving installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before installation, it is helpful to clear the area where the shelving will be installed of any furniture, decor, or obstructions. This allows our team unimpeded access to the workspace, ensuring a smoother and more efficient installation process. While we take precautions to protect your home, you may also consider covering nearby items to minimize dust. We will confirm any specific preparation steps during our pre-installation communication, ensuring you know what to expect and what to prepare for.",
+        "@type": "Answer",
+        "description": "Before built-in shelving installation, clear the area of furniture and obstructions for efficient work. Covering nearby items to minimize dust is also a consideration; Maine Results will advise on specific preparations."
+      }
+    }
+  ],
+  "description": "Before built-in shelving installation, clear the area of furniture and obstructions for efficient work. Covering nearby items to minimize dust is also a conside"
+}

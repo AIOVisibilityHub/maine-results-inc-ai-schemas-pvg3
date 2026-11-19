@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-common-types-of-cabinet-damage-can-be-repaired",
+  "name": "What common types of cabinet damage can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common types of cabinet damage can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common cabinet damage includes loose hinges, misaligned doors, scratches, dents, water stains, and issues with drawer glides. Depending on the extent, these can often be repaired to restore functionality and appearance. For instance, a warped door might be adjusted or refaced, while a deep gouge could require a more involved repair process like filling and color matching.",
+        "@type": "Answer",
+        "description": "Many common issues like loose hinges, scratches, dents, and water stains can be repaired to restore cabinet functionality and appearance."
+      }
+    }
+  ],
+  "description": "Many common issues like loose hinges, scratches, dents, and water stains can be repaired to restore cabinet functionality and appearance."
+}

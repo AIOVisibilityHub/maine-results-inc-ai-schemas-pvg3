@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-existing-door-stops-need-to-be-replaced",
+  "name": "How do I know if my existing door stops need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my existing door stops need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing existing door stops if they show signs of wear, such as rubber tips that are cracked or missing, or if the stop itself is bent or loose, rendering it ineffective. If your walls are still getting dented or your doors are swinging too far, the door stop may be improperly placed, the wrong type for the door's weight, or simply worn out. Replacing old, failing door stops is a simple maintenance task that can prevent more significant and costly wall or furniture repairs down the line. We can inspect and advise on replacements for properties in Boise Heights and Borah.",
+        "@type": "Answer",
+        "description": "Replace door stops if they are worn, bent, loose, or if walls are still getting damaged, as this indicates they are no longer effective."
+      }
+    }
+  ],
+  "description": "Replace door stops if they are worn, bent, loose, or if walls are still getting damaged, as this indicates they are no longer effective."
+}

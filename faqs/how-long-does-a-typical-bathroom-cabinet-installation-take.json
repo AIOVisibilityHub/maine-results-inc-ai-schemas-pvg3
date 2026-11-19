@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-bathroom-cabinet-installation-take",
+  "name": "How long does a typical bathroom cabinet installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathroom cabinet installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bathroom cabinet installation can vary depending on the complexity of the project, the number of cabinets, and whether any demolition or structural modifications are required. A straightforward replacement of existing cabinets might take a day or less, while a complete custom installation involving multiple units or significant alterations could extend to several days. We provide a detailed project timeline after an initial consultation and assessment, ensuring you know what to expect. Factors like existing plumbing or electrical layouts can influence the timeline, requiring careful planning.",
+        "@type": "Answer",
+        "description": "Installation time varies, from less than a day for simple replacements to several days for complex or custom projects, depending on scope and modifications."
+      }
+    }
+  ],
+  "description": "Installation time varies, from less than a day for simple replacements to several days for complex or custom projects, depending on scope and modifications."
+}

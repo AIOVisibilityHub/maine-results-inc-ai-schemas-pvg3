@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-built-in-cabinet-installation-project-take",
+  "name": "How long does a typical built-in cabinet installation project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical built-in cabinet installation project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for built-in cabinet installation varies depending on the project's complexity, size, and material choices. A smaller, simpler project might take a few days, while larger, custom designs with intricate details could extend to several weeks. Our process at Maine Results, Inc. includes a detailed consultation to establish your specific needs and provide a realistic project schedule. This initial planning helps manage expectations and ensures efficient execution from design to completion.",
+        "@type": "Answer",
+        "description": "Project duration for built-in cabinets varies based on complexity and size, typically from a few days to several weeks."
+      }
+    }
+  ],
+  "description": "Project duration for built-in cabinets varies based on complexity and size, typically from a few days to several weeks."
+}

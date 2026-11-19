@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-empty-my-garage-before-cabinet-installation",
+  "name": "Do I need to empty my garage before cabinet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to empty my garage before cabinet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is highly recommended to completely empty the area where cabinets will be installed. This allows our team unrestricted access to the walls and floor, ensuring a more efficient and precise installation. If you are having an entire garage system installed, clearing the whole space is ideal. Moving items out of the way before the installation date can prevent delays and helps protect your belongings from dust and debris during the work. This preparation helps us complete the project on time.",
+        "@type": "Answer",
+        "description": "Yes, completely emptying the installation area is highly recommended. This provides clear access, ensures efficiency, and protects your belongings during the work."
+      }
+    }
+  ],
+  "description": "Yes, completely emptying the installation area is highly recommended. This provides clear access, ensures efficiency, and protects your belongings during the wo"
+}

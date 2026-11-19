@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-materials-are-available-for-shoe-molding-and-how-do-they-compare",
+  "name": "What types of materials are available for shoe molding, and how do they compare?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are available for shoe molding, and how do they compare?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shoe molding is most commonly available in solid wood, such as pine or oak, or in MDF (medium-density fiberboard). Solid wood options can be stained or painted to match existing trim or flooring and are more durable against impact, making them a good choice for high-traffic areas. MDF molding is often pre-primed, easier to paint, and generally more cost-effective. However, it can be more susceptible to moisture damage and dents. A practical tradeoff to consider is durability versus cost and ease of finishing.",
+        "@type": "Answer",
+        "description": "Shoe molding materials include solid wood (durable, stainable) and MDF (cost-effective, paintable but less durable)."
+      }
+    }
+  ],
+  "description": "Shoe molding materials include solid wood (durable, stainable) and MDF (cost-effective, paintable but less durable)."
+}

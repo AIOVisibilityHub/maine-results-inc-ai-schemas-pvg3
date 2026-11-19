@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-quarter-round-and-why-is-it-used-in-flooring-projects",
+  "name": "What is quarter round, and why is it used in flooring projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is quarter round, and why is it used in flooring projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Quarter round is a type of molding with a concave, rounded edge, often measuring about a quarter of a circle. It's primarily used to cover the expansion gap between flooring, such as hardwood, laminate, or vinyl, and the wall or baseboard. This molding creates a clean, finished look, conceals imperfections, and protects the edges of your flooring. During installation, our team ensures the quarter round is precisely fitted to maintain the necessary expansion space for your floors, which is crucial for preventing buckling or damage due to changes in humidity and temperature.",
+        "@type": "Answer",
+        "description": "Quarter round is a rounded molding used to cover expansion gaps between flooring and walls, providing a finished look and protecting floor edges."
+      }
+    }
+  ],
+  "description": "Quarter round is a rounded molding used to cover expansion gaps between flooring and walls, providing a finished look and protecting floor edges."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-replace-my-cabinets-without-replacing-my-countertops",
+  "name": "Can I replace my cabinets without replacing my countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my cabinets without replacing my countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is possible to replace your cabinets without replacing your countertops, but it requires careful planning and execution. The existing countertops must be removed and then reinstalled, which carries a risk of damage, especially with brittle materials like granite or quartz. If your existing countertops are older or show signs of wear, this might be an opportune time to upgrade them. Our team can assess the condition of your current countertops during the initial consultation to determine the feasibility and potential risks involved, helping you make an informed decision for your Caldwell kitchen.",
+        "@type": "Answer",
+        "description": "Yes, but it requires careful removal and reinstallation of existing countertops, which carries a risk of damage. Consider upgrading if countertops are old or worn."
+      }
+    }
+  ],
+  "description": "Yes, but it requires careful removal and reinstallation of existing countertops, which carries a risk of damage. Consider upgrading if countertops are old or wo"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-custom-cabinet-installation",
+  "name": "What is the typical process for custom cabinet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for custom cabinet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The custom cabinet installation process begins with an initial consultation to discuss your vision, needs, and budget. This is followed by design and material selection, where detailed plans are created and approved. Once approved, the cabinets are custom-built, which is the longest phase. After fabrication, we schedule the installation, which involves careful placement, leveling, and securing of all units. The final step includes any necessary trim work, hardware installation, and a final walkthrough to ensure your complete satisfaction. Clear communication throughout these stages helps ensure a smooth project.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, custom fabrication, installation, and a final walkthrough to ensure satisfaction."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, custom fabrication, installation, and a final walkthrough to ensure satisfaction."
+}

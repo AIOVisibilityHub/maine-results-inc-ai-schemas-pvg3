@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-stair-trim-be-installed-on-curved-or-unusually-shaped-staircases",
+  "name": "Can stair trim be installed on curved or unusually shaped staircases?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can stair trim be installed on curved or unusually shaped staircases?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, stair trim can be installed on curved or unusually shaped staircases, though it requires specialized techniques and expertise. Our craftsmen are experienced in custom-fitting trim to complex geometries, often involving steaming wood to bend it or creating segmented pieces for a seamless appearance. This detailed work ensures that even the most unique staircases in homes across Star and Nampa can receive a beautifully finished trim. The precision involved is a key part of achieving a high-quality result on these types of projects.",
+        "@type": "Answer",
+        "description": "Yes, stair trim can be installed on curved or unusually shaped staircases using specialized techniques and custom-fitting by experienced craftsmen."
+      }
+    }
+  ],
+  "description": "Yes, stair trim can be installed on curved or unusually shaped staircases using specialized techniques and custom-fitting by experienced craftsmen."
+}

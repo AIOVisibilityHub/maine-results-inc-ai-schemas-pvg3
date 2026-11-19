@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-cost-range-for-custom-built-in-shelving-in-the-boise-area",
+  "name": "What is the typical cost range for custom built-in shelving in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for custom built-in shelving in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of custom built-in shelving varies significantly based on factors such as materials, complexity of design, and the size of the unit. Simple, smaller units made from common materials like paint-grade MDF will be less expensive than large, intricate units built from hardwoods with custom finishes. For an accurate estimate, we offer complimentary on-site consultations to assess your specific needs and provide a detailed quote tailored to your project in areas like Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "Custom built-in shelving costs vary based on materials, design complexity, and size. Maine Results offers free on-site consultations for accurate quotes in areas such as Meridian and Eagle."
+      }
+    }
+  ],
+  "description": "Custom built-in shelving costs vary based on materials, design complexity, and size. Maine Results offers free on-site consultations for accurate quotes in area"
+}

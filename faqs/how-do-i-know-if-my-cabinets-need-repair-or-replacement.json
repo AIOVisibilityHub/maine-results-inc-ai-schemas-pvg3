@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-cabinets-need-repair-or-replacement",
+  "name": "How do I know if my cabinets need repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my cabinets need repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement often depends on the extent of the damage, the cabinet's structural integrity, and your budget. If the frames are still solid and the damage is cosmetic or isolated to a few components, repair is often a cost-effective solution. However, if there's extensive water damage, mold, or widespread structural issues, replacement might be a better long-term investment. Consider the overall condition and whether a repair will genuinely extend their functional life.",
+        "@type": "Answer",
+        "description": "Assess the extent of damage and structural integrity. Repair is often suitable for cosmetic issues, while extensive structural problems may warrant replacement."
+      }
+    }
+  ],
+  "description": "Assess the extent of damage and structural integrity. Repair is often suitable for cosmetic issues, while extensive structural problems may warrant replacement."
+}

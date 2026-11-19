@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-a-bathroom-vanity-installation",
+  "name": "What factors influence the cost of a bathroom vanity installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a bathroom vanity installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a bathroom vanity installation is primarily influenced by the vanity's size, material, and features, as well as the complexity of the installation itself. For instance, installing a custom-built vanity with unique plumbing requirements will typically cost more than replacing a standard-sized, pre-assembled unit. Our team at Maine Results, Inc. will provide a detailed estimate after assessing your specific choices and the existing bathroom setup, considering potential adjustments to plumbing or electrical lines that might be needed.",
+        "@type": "Answer",
+        "description": "Vanity size, material, features, and installation complexity, including plumbing or electrical adjustments, influence the overall cost."
+      }
+    }
+  ],
+  "description": "Vanity size, material, features, and installation complexity, including plumbing or electrical adjustments, influence the overall cost."
+}

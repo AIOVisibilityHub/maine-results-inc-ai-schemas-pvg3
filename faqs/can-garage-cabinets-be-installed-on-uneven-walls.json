@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-garage-cabinets-be-installed-on-uneven-walls",
+  "name": "Can garage cabinets be installed on uneven walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can garage cabinets be installed on uneven walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, garage cabinets can often be installed on uneven walls, but it might require additional shimming and careful leveling by the installers. Our experienced team will assess the wall conditions during the initial measurement phase. Depending on the severity of the unevenness, special techniques or materials might be used to ensure the cabinets are securely mounted and appear plumb and level. While it's a common challenge, we account for such conditions to deliver a stable and aesthetically pleasing result.",
+        "@type": "Answer",
+        "description": "Yes, garage cabinets can be installed on uneven walls, often requiring shimming and careful leveling. Our team assesses conditions to ensure stable mounting."
+      }
+    }
+  ],
+  "description": "Yes, garage cabinets can be installed on uneven walls, often requiring shimming and careful leveling. Our team assesses conditions to ensure stable mounting."
+}

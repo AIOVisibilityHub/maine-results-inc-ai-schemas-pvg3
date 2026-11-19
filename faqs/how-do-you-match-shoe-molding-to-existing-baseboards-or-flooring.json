@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-match-shoe-molding-to-existing-baseboards-or-flooring",
+  "name": "How do you match shoe molding to existing baseboards or flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you match shoe molding to existing baseboards or flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Matching shoe molding involves considering both material and finish. If baseboards are painted, shoe molding is typically painted to match. If baseboards or flooring are stained wood, the shoe molding should be a compatible wood type and stained to complement. Maine Results, Inc. recommends bringing samples of your existing baseboard and flooring when discussing your project. This preparation helps us accurately identify the best material and finish to ensure a harmonious look throughout your space.",
+        "@type": "Answer",
+        "description": "Match shoe molding to baseboards (paint) or flooring (stain) by considering material and finish. Bring samples."
+      }
+    }
+  ],
+  "description": "Match shoe molding to baseboards (paint) or flooring (stain) by considering material and finish. Bring samples."
+}

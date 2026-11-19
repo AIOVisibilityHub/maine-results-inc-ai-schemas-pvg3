@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-door-stop-installation",
+  "name": "What factors influence the cost of door stop installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of door stop installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors can influence the cost of door stop installation. These include the type of door stop chosen (e.g., simple spring, magnetic, heavy-duty floor stop), the number of door stops needed, and the complexity of the installation surface. For instance, installing into a hollow-core door or a standard drywall surface is typically less labor-intensive than installing into solid wood, metal, or concrete floors which may require specialized fasteners or tools. Project scope, such as combining door stop installation with other handyman or remodeling services, can also affect the overall estimate. We provide clear estimates for homes in Garden City and Kuna.",
+        "@type": "Answer",
+        "description": "Cost factors for door stop installation include the type of stop, number of installations, and the complexity of the surface material."
+      }
+    }
+  ],
+  "description": "Cost factors for door stop installation include the type of stop, number of installations, and the complexity of the surface material."
+}

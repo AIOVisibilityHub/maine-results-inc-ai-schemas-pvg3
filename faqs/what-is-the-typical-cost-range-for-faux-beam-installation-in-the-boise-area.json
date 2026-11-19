@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-cost-range-for-faux-beam-installation-in-the-boise-area",
+  "name": "What is the typical cost range for faux beam installation in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for faux beam installation in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of faux beam installation varies significantly based on several factors, making it difficult to provide a single estimate without a detailed assessment. These factors include the number of beams, their size and finish, the complexity of the ceiling design, and any necessary preparation work. Material costs for faux beams generally range from $5 to $25 per linear foot, with installation labor adding to the total. We provide detailed, transparent quotes after an on-site consultation to understand your specific project requirements, ensuring clients in the Boise Heights or Eagle area receive accurate pricing for their unique vision.",
+        "@type": "Answer",
+        "description": "Faux beam installation costs vary based on beam quantity, size, finish, and ceiling complexity; material costs are typically $5-$25 per linear foot plus labor."
+      }
+    }
+  ],
+  "description": "Faux beam installation costs vary based on beam quantity, size, finish, and ceiling complexity; material costs are typically $5-$25 per linear foot plus labor."
+}

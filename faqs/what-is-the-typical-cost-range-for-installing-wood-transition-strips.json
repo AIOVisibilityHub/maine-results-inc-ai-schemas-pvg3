@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-cost-range-for-installing-wood-transition-strips",
+  "name": "What is the typical cost range for installing wood transition strips?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for installing wood transition strips?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing wood transition strips varies depending on several factors, including the type of wood chosen, the length of the strips needed, the complexity of the installation (e.g., curves, multiple angles), and whether existing strips need to be removed. Custom staining or exotic wood species will typically increase the material cost. To get an accurate estimate, it's helpful to know the linear footage required and the types of flooring involved. Maine Results, Inc. provides detailed quotes after an on-site assessment in areas like Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "Installation cost varies by wood type, length, complexity, and custom finishes; an on-site assessment provides an accurate quote."
+      }
+    }
+  ],
+  "description": "Installation cost varies by wood type, length, complexity, and custom finishes; an on-site assessment provides an accurate quote."
+}

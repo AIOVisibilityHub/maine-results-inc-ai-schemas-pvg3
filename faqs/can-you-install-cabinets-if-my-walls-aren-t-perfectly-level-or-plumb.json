@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-install-cabinets-if-my-walls-aren-t-perfectly-level-or-plumb",
+  "name": "Can you install cabinets if my walls aren't perfectly level or plumb?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you install cabinets if my walls aren't perfectly level or plumb?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While perfectly level and plumb walls are ideal for cabinet installation, minor imperfections are common. Our experienced installers at Maine Results, Inc. have techniques to compensate for slight wall irregularities, ensuring your cabinets appear level and function correctly. However, significant structural issues may require prior wall preparation or repairs to achieve the best installation results. We will assess your walls during the initial consultation and advise on any necessary preparatory work before proceeding with the cabinet installation.",
+        "@type": "Answer",
+        "description": "We can compensate for minor wall imperfections during cabinet installation, but significant structural issues may require prior repairs. We'll assess walls during consultation."
+      }
+    }
+  ],
+  "description": "We can compensate for minor wall imperfections during cabinet installation, but significant structural issues may require prior repairs. We'll assess walls duri"
+}

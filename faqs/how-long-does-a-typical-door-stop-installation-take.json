@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-door-stop-installation-take",
+  "name": "How long does a typical door stop installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical door stop installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for door stop installation is generally quick, often taking less than 30 minutes per door for standard types like baseboard or hinge pin stops. More complex installations, such as those involving floor-mounted stops that require drilling into concrete or tile, might take slightly longer due to the specialized tools and precision needed. The overall duration also depends on the number of door stops being installed and the specific conditions of each doorway. We efficiently complete projects in areas like Meridian and Eagle, ensuring minimal disruption.",
+        "@type": "Answer",
+        "description": "Standard door stop installation typically takes under 30 minutes per door, while complex types may require slightly more time."
+      }
+    }
+  ],
+  "description": "Standard door stop installation typically takes under 30 minutes per door, while complex types may require slightly more time."
+}

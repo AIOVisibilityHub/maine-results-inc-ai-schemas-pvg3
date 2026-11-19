@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-cabinet-refacing-include-updating-cabinet-hardware-or-adding-new-features",
+  "name": "Can cabinet refacing include updating cabinet hardware or adding new features?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can cabinet refacing include updating cabinet hardware or adding new features?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, cabinet refacing projects often include updating cabinet hardware like handles, knobs, and hinges, which are typically replaced as part of the new door and drawer front installation. This is an excellent opportunity to modernize the look and improve functionality. Additionally, many refacing projects can incorporate new features such as soft-close hinges, new drawer glides, roll-out shelves, or even modifications to existing cabinet boxes like adding a pantry pull-out or a new spice rack. This allows for both aesthetic and functional upgrades without a full kitchen remodel.",
+        "@type": "Answer",
+        "description": "Yes, refacing can include new hardware and functional upgrades like soft-close hinges, pull-out shelves, or custom inserts, enhancing both look and utility."
+      }
+    }
+  ],
+  "description": "Yes, refacing can include new hardware and functional upgrades like soft-close hinges, pull-out shelves, or custom inserts, enhancing both look and utility."
+}

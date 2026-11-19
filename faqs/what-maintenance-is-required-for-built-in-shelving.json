@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-maintenance-is-required-for-built-in-shelving",
+  "name": "What maintenance is required for built-in shelving?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for built-in shelving?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The maintenance required for built-in shelving is generally minimal, depending on the materials used. For painted or stained wood, regular dusting and occasional wiping with a damp cloth are usually sufficient. Avoid harsh chemical cleaners, as they can damage finishes. For hardwood shelving, periodic polishing or conditioning might be recommended to maintain its luster. Maine Results provides guidance on specific care for your chosen materials post-installation, ensuring the longevity and beauty of your new shelving.",
+        "@type": "Answer",
+        "description": "Maintenance for built-in shelving is minimal, typically involving dusting and wiping with a damp cloth, avoiding harsh cleaners. Maine Results provides specific care guidance based on your chosen materials."
+      }
+    }
+  ],
+  "description": "Maintenance for built-in shelving is minimal, typically involving dusting and wiping with a damp cloth, avoiding harsh cleaners. Maine Results provides specific"
+}

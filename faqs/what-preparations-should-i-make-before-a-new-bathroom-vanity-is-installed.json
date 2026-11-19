@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparations-should-i-make-before-a-new-bathroom-vanity-is-installed",
+  "name": "What preparations should I make before a new bathroom vanity is installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before a new bathroom vanity is installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your new bathroom vanity is installed, it is helpful to clear the area of personal items, towels, and anything stored in the old vanity or under the sink. You should also ensure clear access to the bathroom for our team. If you are replacing the flooring or painting, consider completing these tasks beforehand to protect your new vanity. Our Maine Results, Inc. team will discuss any specific pre-installation requirements during the initial consultation, such as temporary water shut-off or surface protection.",
+        "@type": "Answer",
+        "description": "Clear the bathroom area of personal items, ensure clear access, and consider completing flooring or painting beforehand. Our team will advise on specific preparations."
+      }
+    }
+  ],
+  "description": "Clear the bathroom area of personal items, ensure clear access, and consider completing flooring or painting beforehand. Our team will advise on specific prepar"
+}

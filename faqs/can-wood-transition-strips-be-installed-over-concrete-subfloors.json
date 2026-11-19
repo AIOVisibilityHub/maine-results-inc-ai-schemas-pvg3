@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-wood-transition-strips-be-installed-over-concrete-subfloors",
+  "name": "Can wood transition strips be installed over concrete subfloors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can wood transition strips be installed over concrete subfloors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, wood transition strips can be installed over concrete subfloors, but the method differs from installation over a wood subfloor. For concrete, you typically can't nail the strip directly. Instead, adhesives specifically designed for bonding wood to concrete are used, or a track system might be installed into the concrete first, into which the strip is then clicked or glued. Proper preparation of the concrete surface, such as ensuring it's clean, dry, and level, is crucial for a durable installation. We assess the subfloor condition in areas like Garden City and Kuna to ensure the appropriate and most secure installation method.",
+        "@type": "Answer",
+        "description": "Yes, they can be installed over concrete using adhesives or track systems, with proper subfloor preparation being essential."
+      }
+    }
+  ],
+  "description": "Yes, they can be installed over concrete using adhesives or track systems, with proper subfloor preparation being essential."
+}
