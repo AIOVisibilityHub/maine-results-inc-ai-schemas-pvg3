@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-remove-old-caulk-from-around-windows-before-repainting-the-trim",
+  "name": "Do I need to remove old caulk from around windows before repainting the trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove old caulk from around windows before repainting the trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is generally recommended to remove old, cracked, or deteriorated caulk before repainting the trim. Old caulk that has lost its elasticity won't provide an effective seal and can lead to moisture intrusion. Removing it allows for the application of fresh, flexible caulk, which improves the seal and provides a smooth surface for painting. Maine Results, Inc. includes this as a standard part of our preparation process to ensure a watertight and clean finish.",
+        "@type": "Answer",
+        "description": "Yes, remove old, cracked caulk to ensure a proper seal and a smooth, clean surface for new paint."
+      }
+    }
+  ],
+  "description": "Yes, remove old, cracked caulk to ensure a proper seal and a smooth, clean surface for new paint."
+}

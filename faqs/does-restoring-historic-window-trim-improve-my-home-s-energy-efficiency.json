@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/does-restoring-historic-window-trim-improve-my-home-s-energy-efficiency",
+  "name": "Does restoring historic window trim improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does restoring historic window trim improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, historic window trim restoration can significantly improve your home's energy efficiency, especially when combined with window sash restoration or weatherization efforts. By addressing rot, cracks, and gaps in the trim and around the window frame, we eliminate common points of air leakage. This reduces drafts and helps maintain stable indoor temperatures, leading to lower heating and cooling costs. While Maine Results, Inc. focuses on trim, we can advise on complementary improvements like weather stripping or storm windows to maximize energy savings for your home.",
+        "@type": "Answer",
+        "description": "Yes, restoration improves energy efficiency by sealing gaps and preventing air leaks, especially with window sash restoration or weatherization. This lowers heating and cooling costs."
+      }
+    }
+  ],
+  "description": "Yes, restoration improves energy efficiency by sealing gaps and preventing air leaks, especially with window sash restoration or weatherization. This lowers hea"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-window-trim-painting-preparation-typically-take-for-an-average-hom",
+  "name": "How long does window trim painting preparation typically take for an average home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does window trim painting preparation typically take for an average home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of window trim painting preparation varies significantly based on the condition of the existing trim and the number of windows. For an average home with well-maintained trim, preparation might take 1-2 days. However, if there's extensive peeling, rot, or multiple layers of old paint to remove, it could extend to several days, adding to the overall project timeline. Maine Results, Inc. assesses this during the initial consultation.",
+        "@type": "Answer",
+        "description": "Preparation time varies by trim condition and number of windows, from 1-2 days to several days for extensive work."
+      }
+    }
+  ],
+  "description": "Preparation time varies by trim condition and number of windows, from 1-2 days to several days for extensive work."
+}

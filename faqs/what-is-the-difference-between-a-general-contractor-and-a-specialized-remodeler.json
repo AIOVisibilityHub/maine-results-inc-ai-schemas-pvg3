@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-a-general-contractor-and-a-specialized-remodeler",
+  "name": "What is the difference between a general contractor and a specialized remodeler?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a general contractor and a specialized remodeler?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general contractor typically oversees all aspects of a construction project, coordinating various trades and ensuring the project stays on schedule and within budget. A specialized remodeler, on the other hand, focuses on specific types of renovations, like kitchens or bathrooms, bringing deep expertise to those areas. Maine Results, Inc. operates as a general contractor for remodels, managing diverse projects and ensuring seamless execution across all trades involved in your home renovation.",
+        "@type": "Answer",
+        "description": "A general contractor manages all project aspects, while a specialized remodeler focuses on specific types of renovations; Maine Results, Inc. acts as a general contractor for remodels."
+      }
+    }
+  ],
+  "description": "A general contractor manages all project aspects, while a specialized remodeler focuses on specific types of renovations; Maine Results, Inc. acts as a general"
+}

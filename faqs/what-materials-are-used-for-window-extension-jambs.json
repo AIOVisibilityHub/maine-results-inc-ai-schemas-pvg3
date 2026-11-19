@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-used-for-window-extension-jambs",
+  "name": "What materials are used for window extension jambs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for window extension jambs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window extension jambs are commonly made from wood, such as pine or poplar, which can be painted or stained to match your interior. Composite materials are also an option, offering greater resistance to moisture and less maintenance, often preferred in areas like bathrooms or kitchens. The choice of material depends on your aesthetic preference, budget, and the specific environment. During our consultation, we'll discuss the pros and cons of each material to help you choose the best fit for your home in areas like Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "Common materials include wood (paintable/stainable) or composite (moisture-resistant), chosen based on aesthetics, budget, and environment."
+      }
+    }
+  ],
+  "description": "Common materials include wood (paintable/stainable) or composite (moisture-resistant), chosen based on aesthetics, budget, and environment."
+}

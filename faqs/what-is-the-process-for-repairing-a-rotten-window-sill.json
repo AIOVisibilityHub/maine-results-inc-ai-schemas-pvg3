@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-repairing-a-rotten-window-sill",
+  "name": "What is the process for repairing a rotten window sill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a rotten window sill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for repairing a rotten window sill typically begins with a thorough inspection to assess the extent of the damage. For minor rot, we remove all decayed wood, treat the remaining sound wood with a wood hardener, and then fill the void with a durable wood epoxy or new wood inserts. The repaired area is then sanded smooth, primed, and painted to match the existing finish. For more extensive damage, we carefully remove the entire rotten sill and install a custom-cut replacement, ensuring proper flashing and sealing to prevent future moisture issues. We consider the specific type of window and home construction in areas like Eagle to ensure a seamless integration.",
+        "@type": "Answer",
+        "description": "The repair process involves assessing damage, removing rot, treating wood, filling with epoxy or replacing the sill, then sanding, priming, and painting."
+      }
+    }
+  ],
+  "description": "The repair process involves assessing damage, removing rot, treating wood, filling with epoxy or replacing the sill, then sanding, priming, and painting."
+}

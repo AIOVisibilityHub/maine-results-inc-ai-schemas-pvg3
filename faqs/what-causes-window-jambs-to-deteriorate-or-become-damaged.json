@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-causes-window-jambs-to-deteriorate-or-become-damaged",
+  "name": "What causes window jambs to deteriorate or become damaged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes window jambs to deteriorate or become damaged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window jambs typically deteriorate due to prolonged exposure to moisture, which can lead to wood rot. This often happens in areas with poor drainage, insufficient exterior caulking, or damaged window sills that allow water to seep in. Other causes include insect infestation, physical impact, or general wear and tear over time. In the Treasure Valley, temperature fluctuations can also stress window materials. Understanding the cause is crucial, as addressing the root issue prevents future damage after the repair.",
+        "@type": "Answer",
+        "description": "Moisture exposure, wood rot, insect infestation, physical impact, and general wear are common causes of window jamb deterioration."
+      }
+    }
+  ],
+  "description": "Moisture exposure, wood rot, insect infestation, physical impact, and general wear are common causes of window jamb deterioration."
+}

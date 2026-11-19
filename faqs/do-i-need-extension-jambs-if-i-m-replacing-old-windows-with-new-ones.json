@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-extension-jambs-if-i-m-replacing-old-windows-with-new-ones",
+  "name": "Do I need extension jambs if I'm replacing old windows with new ones?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need extension jambs if I'm replacing old windows with new ones?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You likely will need extension jambs when replacing old windows with new ones, especially if the new window frames are thinner than your existing ones or if you're adding insulation or drywall. Many modern windows are designed with narrower frames, making extension jambs necessary to bridge the gap to your interior wall surface. Our team will assess your specific situation to determine if jamb extensions are required for a proper fit and finish.",
+        "@type": "Answer",
+        "description": "Yes, you likely need extension jambs when replacing windows, especially if new frames are thinner or if adding insulation, to bridge the gap to the interior wall."
+      }
+    }
+  ],
+  "description": "Yes, you likely need extension jambs when replacing windows, especially if new frames are thinner or if adding insulation, to bridge the gap to the interior wal"
+}

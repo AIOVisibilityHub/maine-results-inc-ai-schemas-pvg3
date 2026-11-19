@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-happens-after-the-window-stool-is-installed",
+  "name": "What happens after the window stool is installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after the window stool is installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After installation, the window stool will be ready for finishing, which typically involves sanding, priming, and then painting or staining to match your desired aesthetic. Any gaps between the stool and the wall or casing will be caulked to create a seamless, professional appearance and seal against drafts. Maine Results, Inc. ensures the installation is clean and prepared for finishing, providing a solid foundation for the final touches that will complete your window's new look.",
+        "@type": "Answer",
+        "description": "After installation, the stool will be prepared for finishing (sanding, priming, painting/staining) and caulked for a seamless look."
+      }
+    }
+  ],
+  "description": "After installation, the stool will be prepared for finishing (sanding, priming, painting/staining) and caulked for a seamless look."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-live-in-my-home-during-a-remodeling-project",
+  "name": "Can I live in my home during a remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can remain in your home during a remodeling project depends on the project's scope and the areas being renovated. Minor updates to a single room might allow you to stay, but extensive renovations like a kitchen or bathroom remodel often make living conditions challenging due to dust, noise, and utility disruptions. We work with clients to assess the impact of the renovation on daily life and plan accordingly, especially for larger projects in areas like Star, to minimize inconvenience.",
+        "@type": "Answer",
+        "description": "Living in your home during a remodel depends on the project's scope; extensive renovations may make it challenging due to disruptions."
+      }
+    }
+  ],
+  "description": "Living in your home during a remodel depends on the project's scope; extensive renovations may make it challenging due to disruptions."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-replace-just-a-section-of-my-window-sill-or-do-i-need-to-replace-the-entir",
+  "name": "Can I replace just a section of my window sill, or do I need to replace the entire thing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace just a section of my window sill, or do I need to replace the entire thing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can replace just a section or need to replace the entire sill depends on the extent and location of the damage. If the damage is isolated to a small, non-structural part of the sill and the rest is sound, a localized repair might be possible. However, if the damage is widespread, structural, or indicates a deeper moisture problem, a full replacement is usually the more durable and effective solution. Maine Results, Inc. can assess the damage to determine the most appropriate and long-lasting repair method for your specific situation.",
+        "@type": "Answer",
+        "description": "Partial replacement is possible for isolated, non-structural damage, but widespread issues typically require full sill replacement."
+      }
+    }
+  ],
+  "description": "Partial replacement is possible for isolated, non-structural damage, but widespread issues typically require full sill replacement."
+}

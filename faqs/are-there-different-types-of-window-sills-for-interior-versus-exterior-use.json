@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/are-there-different-types-of-window-sills-for-interior-versus-exterior-use",
+  "name": "Are there different types of window sills for interior versus exterior use?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different types of window sills for interior versus exterior use?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, interior and exterior window sills often differ in design and material due to their distinct functions. Exterior sills, also known as subsills or drip caps, are primarily designed to shed water away from the window and wall, requiring weather-resistant materials like treated wood, PVC, or metal. Interior sills, or stool boards, are typically chosen for aesthetics and durability against wear and tear, often made from wood, composite, or stone, and can serve as a decorative shelf. Maine Results, Inc. ensures that the correct type of sill is used for its intended purpose, prioritizing both function and appearance for your home.",
+        "@type": "Answer",
+        "description": "Yes, exterior sills shed water and need weather-resistant materials, while interior sills prioritize aesthetics and wear resistance."
+      }
+    }
+  ],
+  "description": "Yes, exterior sills shed water and need weather-resistant materials, while interior sills prioritize aesthetics and wear resistance."
+}

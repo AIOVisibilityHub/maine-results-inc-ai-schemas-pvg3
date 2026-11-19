@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-cost-of-window-sill-repair",
+  "name": "What is the cost of window sill repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of window sill repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of window sill repair varies widely based on the extent of the damage, the type of material chosen for the repair or replacement, and labor costs. Minor repairs involving wood fillers and sanding are typically less expensive than replacing an entire sill with new wood or composite material. We provide transparent, itemized quotes after assessing your specific needs during a consultation. For instance, projects in Nampa might have different logistical considerations impacting final cost than those in Boise Heights, so a direct assessment is crucial.",
+        "@type": "Answer",
+        "description": "Window sill repair costs vary by damage extent, material, and labor; we provide itemized quotes after an assessment."
+      }
+    }
+  ],
+  "description": "Window sill repair costs vary by damage extent, material, and labor; we provide itemized quotes after an assessment."
+}

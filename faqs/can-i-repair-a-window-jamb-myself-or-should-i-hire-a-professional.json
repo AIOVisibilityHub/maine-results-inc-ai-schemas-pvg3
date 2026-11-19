@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-repair-a-window-jamb-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair a window jamb myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a window jamb myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor window jamb repairs like filling small cracks can sometimes be a DIY task, significant damage such as extensive rot, structural compromise, or issues affecting window operation usually require professional expertise. Professionals like Maine Results, Inc. have the tools and experience to correctly assess the damage, ensure proper material matching, and execute repairs that restore both function and aesthetics. Attempting complex repairs without proper knowledge can lead to further damage, improper sealing, or even safety concerns. We often advise clients to consider the extent of the damage before deciding on a DIY approach.",
+        "@type": "Answer",
+        "description": "Minor window jamb repairs can be DIY, but extensive rot or structural issues require professional help to ensure proper repair and safety."
+      }
+    }
+  ],
+  "description": "Minor window jamb repairs can be DIY, but extensive rot or structural issues require professional help to ensure proper repair and safety."
+}

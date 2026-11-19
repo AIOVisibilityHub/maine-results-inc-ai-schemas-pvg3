@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-repairing-and-replacing-a-window-jamb",
+  "name": "What is the difference between repairing and replacing a window jamb?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between repairing and replacing a window jamb?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a window jamb involves fixing only the damaged section, typically by cutting out rotten or deteriorated wood and replacing it with new material. This is suitable when the damage is localized and the majority of the jamb remains structurally sound. Replacing a window jamb means removing the entire jamb and installing a new one, which is necessary when the damage is widespread, structural, or impacts the entire window frame's integrity. We assess each situation carefully, considering factors like the age of the window, the extent of the damage, and long-term cost-effectiveness, to recommend the best approach for homeowners in our service areas.",
+        "@type": "Answer",
+        "description": "Repairing fixes only damaged sections, while replacing means installing an entirely new jamb, chosen based on the damage extent and window integrity."
+      }
+    }
+  ],
+  "description": "Repairing fixes only damaged sections, while replacing means installing an entirely new jamb, chosen based on the damage extent and window integrity."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-window-flashing-repair-take",
+  "name": "How long does window flashing repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does window flashing repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of window flashing repair depends on the number of windows requiring service and the complexity of the damage. A single window with minor flashing issues might take a few hours, while multiple windows or those with significant underlying damage could extend to a full day or more. We aim to complete projects efficiently while maintaining high standards of quality. Our team will provide a clear timeline estimate after evaluating the scope of work at your home.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours for one window to a day or more for multiple windows or extensive damage."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours for one window to a day or more for multiple windows or extensive damage."
+}

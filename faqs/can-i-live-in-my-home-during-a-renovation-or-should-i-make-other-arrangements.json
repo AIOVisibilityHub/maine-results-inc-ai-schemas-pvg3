@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-live-in-my-home-during-a-renovation-or-should-i-make-other-arrangements",
+  "name": "Can I live in my home during a renovation, or should I make other arrangements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a renovation, or should I make other arrangements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can live in your home during a renovation depends on the scope and invasiveness of the project. Minor renovations, like a single room update, often allow you to stay. However, major projects involving extensive demolition, plumbing, electrical, or entire sections of the home may make it unsafe, inconvenient, or even impossible to remain. It's crucial to discuss this with your contractor early on, as it can impact the project timeline and your personal comfort and safety.",
+        "@type": "Answer",
+        "description": "Living in your home during renovation depends on project scope; minor work allows it, but major projects may require temporary relocation."
+      }
+    }
+  ],
+  "description": "Living in your home during renovation depends on project scope; minor work allows it, but major projects may require temporary relocation."
+}

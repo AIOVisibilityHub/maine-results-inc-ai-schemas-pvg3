@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-materials-are-typically-used-for-exterior-window-sill-replacement",
+  "name": "What types of materials are typically used for exterior window sill replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are typically used for exterior window sill replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exterior window sills are commonly replaced with durable materials like PVC, composite, or rot-resistant wood species such as cedar or treated pine. Each material offers different benefits in terms of longevity, maintenance, and appearance. For instance, PVC and composite sills require minimal upkeep and are highly resistant to moisture and pests, making them a practical tradeoff for long-term durability. We can discuss these options to match your home's style and your budget.",
+        "@type": "Answer",
+        "description": "Common materials include PVC, composite, or rot-resistant wood. Each has benefits in durability and maintenance."
+      }
+    }
+  ],
+  "description": "Common materials include PVC, composite, or rot-resistant wood. Each has benefits in durability and maintenance."
+}

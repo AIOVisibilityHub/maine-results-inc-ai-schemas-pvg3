@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-starting-a-partial-home-remodel-with-maine-results-inc",
+  "name": "What is the process for starting a partial home remodel with Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for starting a partial home remodel with Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for starting a partial home remodel with Maine Results, Inc. typically begins with an initial consultation where we discuss your vision, budget, and specific needs for your home in Garden City, Meridian, Eagle, or Kuna. Following this, we develop a detailed proposal outlining the scope of work, material selections, and a transparent cost estimate. Once approved, we assist with any necessary permitting, schedule the project, and begin construction, keeping you informed at every stage. Our goal is to ensure a smooth, efficient project from concept to completion, resulting in a space you'll love.",
+        "@type": "Answer",
+        "description": "Starting a partial remodel with Maine Results, Inc. involves an initial consultation, detailed proposal, permitting, scheduling, and construction, with clear communication throughout the process."
+      }
+    }
+  ],
+  "description": "Starting a partial remodel with Maine Results, Inc. involves an initial consultation, detailed proposal, permitting, scheduling, and construction, with clear co"
+}

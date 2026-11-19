@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-window-leak-repair-take",
+  "name": "How long does a typical window leak repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical window leak repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a window leak repair depends on the complexity of the issue. Simple resealing can often be completed in a few hours. More involved repairs, such as replacing flashing, repairing frame damage, or re-installing a window, might require a full day or multiple days, especially if materials need to be custom-ordered. We aim to complete repairs efficiently while ensuring a lasting solution and will communicate an estimated timeline once we understand the scope of work after an inspection.",
+        "@type": "Answer",
+        "description": "Repair times vary; simple fixes take hours, while complex issues like frame repair or re-installation can take one or more days."
+      }
+    }
+  ],
+  "description": "Repair times vary; simple fixes take hours, while complex issues like frame repair or re-installation can take one or more days."
+}

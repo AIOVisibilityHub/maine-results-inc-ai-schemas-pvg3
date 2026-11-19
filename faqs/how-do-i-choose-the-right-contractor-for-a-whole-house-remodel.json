@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-the-right-contractor-for-a-whole-house-remodel",
+  "name": "How do I choose the right contractor for a whole house remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for a whole house remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor for a whole house remodel involves evaluating their experience, communication style, and track record. Look for contractors with specific experience in whole house projects, review their portfolios, and check references from past clients. It's also important to ensure they are licensed, insured, and familiar with local building codes in your area, such as Eagle or Kuna. A good contractor will provide a detailed proposal, maintain clear communication, and transparently discuss potential challenges.",
+        "@type": "Answer",
+        "description": "Choose a contractor by evaluating their experience in whole house projects, checking references, and ensuring they are licensed and insured. Look for clear communication and detailed proposals."
+      }
+    }
+  ],
+  "description": "Choose a contractor by evaluating their experience in whole house projects, checking references, and ensuring they are licensed and insured. Look for clear comm"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-prepare-my-windows-for-apron-installation-in-my-kuna-home",
+  "name": "How do I prepare my windows for apron installation in my Kuna home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my windows for apron installation in my Kuna home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before window apron installation in your Kuna home, ensure the area beneath the window is clean, dry, and free of any debris or old caulk. If you're replacing an old apron, carefully remove it and repair any damage to the wall surface, such as holes or uneven plaster. Having a clear, level, and well-prepped surface is essential for the new apron to sit flush and securely. We always ensure the wall is smooth and ready for a seamless installation, which simplifies the process and guarantees a better finish.",
+        "@type": "Answer",
+        "description": "Prepare by cleaning, drying, and clearing debris from the area beneath the window. Repair any wall damage for a level and secure surface before installation."
+      }
+    }
+  ],
+  "description": "Prepare by cleaning, drying, and clearing debris from the area beneath the window. Repair any wall damage for a level and secure surface before installation."
+}

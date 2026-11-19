@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-typically-used-for-window-aprons",
+  "name": "What materials are typically used for window aprons?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are typically used for window aprons?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window aprons are commonly made from wood, MDF (medium-density fiberboard), or PVC. Wood options include pine, oak, or poplar, offering a natural look that can be stained or painted. MDF is a cost-effective, smooth option ideal for painting, while PVC is moisture-resistant and durable, suitable for areas with higher humidity. When choosing, consider the existing trim style and the room's moisture levels to ensure the best fit for your home's long-term performance.",
+        "@type": "Answer",
+        "description": "Common materials for window aprons are wood, MDF, and PVC. Each offers different aesthetic and durability benefits depending on the room's conditions."
+      }
+    }
+  ],
+  "description": "Common materials for window aprons are wood, MDF, and PVC. Each offers different aesthetic and durability benefits depending on the room's conditions."
+}

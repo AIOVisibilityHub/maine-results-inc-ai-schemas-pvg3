@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-permits-are-required-for-a-whole-house-remodel-in-areas-like-garden-city-or",
+  "name": "What permits are required for a whole house remodel in areas like Garden City or Meridian?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a whole house remodel in areas like Garden City or Meridian?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In areas like Garden City or Meridian, a whole house remodel typically requires a general building permit, and often separate permits for electrical, plumbing, and mechanical work. Specific requirements can vary based on the scope of work and local ordinances. For instance, projects involving changes to the building's footprint or structural elements will almost always need detailed review. Maine Results, Inc. assists clients with identifying and securing all necessary permits to ensure the project complies with local regulations, preventing delays and issues during inspections.",
+        "@type": "Answer",
+        "description": "Whole house remodels in Garden City or Meridian usually require a general building permit, plus electrical, plumbing, and mechanical permits. Requirements vary by scope and local ordinances."
+      }
+    }
+  ],
+  "description": "Whole house remodels in Garden City or Meridian usually require a general building permit, plus electrical, plumbing, and mechanical permits. Requirements vary"
+}

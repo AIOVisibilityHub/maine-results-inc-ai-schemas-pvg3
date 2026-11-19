@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-call-a-professional-for-a-leaking-window-instead-of-trying-a-diy-f",
+  "name": "When should I call a professional for a leaking window instead of trying a DIY fix?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a leaking window instead of trying a DIY fix?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for a leaking window if you can't easily identify the source of the leak, if the leak persists after a minor DIY attempt, or if you suspect structural damage to the window frame or surrounding wall. Water damage can spread quickly and lead to more significant issues like rot or mold, which require specialized tools and expertise to address effectively. Attempting complex repairs without proper knowledge can inadvertently worsen the problem or compromise your home’s integrity.",
+        "@type": "Answer",
+        "description": "Contact a professional if the leak source is unclear, DIY fixes fail, or you suspect structural damage, as water can cause significant issues."
+      }
+    }
+  ],
+  "description": "Contact a professional if the leak source is unclear, DIY fixes fail, or you suspect structural damage, as water can cause significant issues."
+}

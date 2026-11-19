@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-historic-window-trim-restoration-project-take",
+  "name": "How long does a typical historic window trim restoration project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical historic window trim restoration project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a historic window trim restoration project varies significantly based on the number of windows, the extent of damage, the complexity of the trim profiles, and weather conditions for exterior work. A project involving extensive custom millwork or multiple windows will naturally take longer than minor repairs. For projects in Star or other service areas, we provide a detailed timeline after our initial assessment, accounting for preparation, fabrication, installation, and finishing, allowing you to plan accordingly and understand the project's progression.",
+        "@type": "Answer",
+        "description": "Project duration depends on the number of windows, damage extent, trim complexity, and weather. We provide a detailed timeline after assessment."
+      }
+    }
+  ],
+  "description": "Project duration depends on the number of windows, damage extent, trim complexity, and weather. We provide a detailed timeline after assessment."
+}

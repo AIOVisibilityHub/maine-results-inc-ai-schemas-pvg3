@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-restoring-historic-window-trim",
+  "name": "What is the typical process for restoring historic window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for restoring historic window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with a thorough inspection of your existing trim to assess its condition and identify salvageable elements. We then meticulously remove damaged sections, carefully stripping old paint and making any necessary repairs or custom fabrications of matching components. Finally, the restored or new trim is meticulously reinstalled, primed, and painted or stained to blend seamlessly with your home's original design. Throughout this process, we aim for minimal disruption, and we'll keep you informed on progress and any findings that might affect the timeline or scope.",
+        "@type": "Answer",
+        "description": "The process involves inspection, careful removal of damaged trim, repair or custom fabrication, and meticulous reinstallation and finishing to match your home."
+      }
+    }
+  ],
+  "description": "The process involves inspection, careful removal of damaged trim, repair or custom fabrication, and meticulous reinstallation and finishing to match your home."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-install-a-window-stool",
+  "name": "How long does it take to install a window stool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a window stool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to install a window stool varies depending on the window size, the wall condition, the complexity of the trim profile, and whether it's a new installation or a replacement. A single, straightforward installation might take a few hours, while multiple windows or custom designs could extend the timeline. When you work with Maine Results, Inc., our team provides a clearer estimate after assessing the specific conditions at your Garden City or Kuna home, factoring in any necessary preparatory work.",
+        "@type": "Answer",
+        "description": "Installation time varies based on window size, wall condition, and trim complexity, typically a few hours for a single stool or longer for multiple/custom designs."
+      }
+    }
+  ],
+  "description": "Installation time varies based on window size, wall condition, and trim complexity, typically a few hours for a single stool or longer for multiple/custom desig"
+}

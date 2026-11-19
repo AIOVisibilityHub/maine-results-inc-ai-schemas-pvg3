@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-stay-in-my-home-during-a-family-room-remodel",
+  "name": "Can I stay in my home during a family room remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during a family room remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can remain in your home during a family room remodel depends largely on the extent of the renovation and the areas affected. For minor projects, staying in place might be feasible, though you should expect some disruption, noise, and dust. For extensive remodels involving significant demolition, utility shutdowns, or multiple rooms, temporary relocation may be advisable for comfort and safety. We'll discuss potential disruptions and help you plan logistics during our project kickoff meeting.",
+        "@type": "Answer",
+        "description": "Staying home depends on the remodel's extent; minor projects might allow it with some disruption, but extensive work may require temporary relocation for safety. We discuss logistics upfront."
+      }
+    }
+  ],
+  "description": "Staying home depends on the remodel's extent; minor projects might allow it with some disruption, but extensive work may require temporary relocation for safety"
+}

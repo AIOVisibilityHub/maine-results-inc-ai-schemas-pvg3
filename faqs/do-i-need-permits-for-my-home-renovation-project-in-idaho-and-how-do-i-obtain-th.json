@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-permits-for-my-home-renovation-project-in-idaho-and-how-do-i-obtain-th",
+  "name": "Do I need permits for my home renovation project in Idaho, and how do I obtain them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for my home renovation project in Idaho, and how do I obtain them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many home renovation projects, especially those involving structural changes, plumbing, electrical work, or significant additions, require permits in Idaho. The specific requirements vary by city, such as Boise or Star, and county. The permit process typically involves submitting detailed plans to your local building department for review and approval. We can help you understand the specific permit needs for your project and assist with the application process, ensuring all work complies with local codes before construction begins.",
+        "@type": "Answer",
+        "description": "Many renovations need permits; requirements vary by city and county. We can help with understanding and obtaining them."
+      }
+    }
+  ],
+  "description": "Many renovations need permits; requirements vary by city and county. We can help with understanding and obtaining them."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-window-extension-jambs-affect-interior-window-trim-and-finishes",
+  "name": "How do window extension jambs affect interior window trim and finishes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do window extension jambs affect interior window trim and finishes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window extension jambs create a flat, consistent surface that is essential for the proper installation of interior window trim, such as casing and sills. Without them, there would be a gap or uneven transition between the window frame and the wall, making it difficult to achieve a clean, finished look. The jambs allow the casing to lay flush against the wall and the sill to extend properly, ensuring a professional and aesthetically pleasing result for any interior design, whether in Meridian or Garden City.",
+        "@type": "Answer",
+        "description": "Extension jambs create a flat surface for proper interior trim, like casing and sills, ensuring a clean, finished look and smooth transition between the window and wall."
+      }
+    }
+  ],
+  "description": "Extension jambs create a flat surface for proper interior trim, like casing and sills, ensuring a clean, finished look and smooth transition between the window"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-house-remodeling-project-take",
+  "name": "How long does a typical house remodeling project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical house remodeling project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a house remodeling project varies significantly depending on its scope and complexity. A small bathroom update might take a few weeks, while a major kitchen renovation or whole-home remodel could extend for several months. Factors like material availability, necessary permits in areas like Kuna, and unforeseen structural issues can influence the timeline. Clear communication about project milestones helps manage expectations throughout.",
+        "@type": "Answer",
+        "description": "Project duration depends on scope and complexity; a small update might take weeks, while a major remodel could take months, influenced by factors like material availability and permits."
+      }
+    }
+  ],
+  "description": "Project duration depends on scope and complexity; a small update might take weeks, while a major remodel could take months, influenced by factors like material"
+}

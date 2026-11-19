@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-repair-a-rotten-window-sill-versus-replacing-it-entirely",
+  "name": "When should I repair a rotten window sill versus replacing it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair a rotten window sill versus replacing it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace a rotten window sill depends on the extent of the damage. Minor rot, often characterized by soft spots on the surface that haven't compromised the structural integrity, can typically be repaired. This might involve removing the decayed wood, treating the area, and filling it with epoxy or new wood. However, if the rot extends deep into the sill, affects the window frame, or compromises the stability of the window, a full replacement is usually the more durable and cost-effective long-term solution. Our team can assess the damage to help you determine the best approach.",
+        "@type": "Answer",
+        "description": "Repair minor surface rot; replace the sill if decay is extensive, deep, or affects the window's structural integrity, compromising stability."
+      }
+    }
+  ],
+  "description": "Repair minor surface rot; replace the sill if decay is extensive, deep, or affects the window's structural integrity, compromising stability."
+}

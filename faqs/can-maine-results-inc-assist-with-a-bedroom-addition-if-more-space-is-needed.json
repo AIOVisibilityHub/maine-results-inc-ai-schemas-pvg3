@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-maine-results-inc-assist-with-a-bedroom-addition-if-more-space-is-needed",
+  "name": "Can Maine Results, Inc. assist with a bedroom addition if more space is needed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Maine Results, Inc. assist with a bedroom addition if more space is needed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. can assist with bedroom additions if your current space is insufficient. This is a more extensive project than a remodel, as it involves expanding the physical footprint of your home. An addition typically requires architectural plans, structural engineering, and specific building permits from local authorities like those in Meridian or Eagle. The process involves designing the new space, laying a foundation, framing, roofing, and integrating the addition seamlessly with your existing home. We can discuss the feasibility and detailed steps for such a project during a consultation.",
+        "@type": "Answer",
+        "description": "Yes, we can assist with bedroom additions, which are more extensive projects requiring architectural plans and permits. We can discuss feasibility and steps during a consultation."
+      }
+    }
+  ],
+  "description": "Yes, we can assist with bedroom additions, which are more extensive projects requiring architectural plans and permits. We can discuss feasibility and steps dur"
+}

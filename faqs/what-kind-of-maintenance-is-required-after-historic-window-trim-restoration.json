@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-maintenance-is-required-after-historic-window-trim-restoration",
+  "name": "What kind of maintenance is required after historic window trim restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance is required after historic window trim restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After historic window trim restoration, regular maintenance is key to preserving its longevity and appearance. This typically involves periodic cleaning, inspecting for any signs of wear or damage, and prompt repainting or resealing as needed, usually every 5-7 years depending on exposure to the elements. Maine Results, Inc. recommends using high-quality paints and sealants designed for exterior wood to protect against moisture and UV damage. Consistent maintenance helps to prevent costly future repairs and keeps your restored trim looking its best for decades.",
+        "@type": "Answer",
+        "description": "After restoration, regular maintenance includes cleaning, inspecting for wear, and prompt repainting or resealing every 5-7 years. Use high-quality paints to protect against elements."
+      }
+    }
+  ],
+  "description": "After restoration, regular maintenance includes cleaning, inspecting for wear, and prompt repainting or resealing every 5-7 years. Use high-quality paints to pr"
+}

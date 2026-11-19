@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-s-the-difference-between-a-minor-renovation-and-a-major-home-remodel",
+  "name": "What's the difference between a minor renovation and a major home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a minor renovation and a major home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A minor renovation typically involves cosmetic updates or small-scale changes that don't alter the home's structure or layout, such as painting, new flooring, or replacing fixtures. A major home remodel, conversely, involves more significant changes like reconfiguring floor plans, adding or removing walls, or altering electrical and plumbing systems. Major remodels usually require permits and a longer timeline. Understanding this difference helps set expectations for project scope and investment.",
+        "@type": "Answer",
+        "description": "Minor renovations are cosmetic changes; major remodels involve structural alterations, reconfiguring layouts, and often require permits."
+      }
+    }
+  ],
+  "description": "Minor renovations are cosmetic changes; major remodels involve structural alterations, reconfiguring layouts, and often require permits."
+}

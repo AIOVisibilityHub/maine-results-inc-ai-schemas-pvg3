@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-common-signs-that-my-exterior-window-sills-need-replacement",
+  "name": "What are the common signs that my exterior window sills need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my exterior window sills need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your exterior window sills need replacement include visible rot, cracks, peeling paint, or soft spots when probed. Water stains on the interior walls below the window or drafts can also indicate a compromised sill. Early detection helps prevent further water intrusion, which can lead to more extensive and costly damage to your home's structure. During an assessment, we'll examine these areas to determine the extent of deterioration and the best course of action.",
+        "@type": "Answer",
+        "description": "Look for rot, cracks, peeling paint, or soft spots on your window sills. Interior water stains or drafts also indicate a need for inspection."
+      }
+    }
+  ],
+  "description": "Look for rot, cracks, peeling paint, or soft spots on your window sills. Interior water stains or drafts also indicate a need for inspection."
+}

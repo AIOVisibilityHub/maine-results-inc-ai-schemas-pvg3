@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-permits-for-a-partial-home-remodel-in-meridian-idaho",
+  "name": "Do I need permits for a partial home remodel in Meridian, Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a partial home remodel in Meridian, Idaho?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for a partial home remodel in Meridian, Idaho, depend on the scope of work. Minor cosmetic changes like painting or replacing cabinets typically don't require permits. However, projects involving structural alterations, plumbing modifications, electrical work, or changes to the exterior footprint almost always need permits from the City of Meridian's Building Division. These regulations are in place to ensure safety and compliance with local building codes. It's advisable to consult with your contractor or the city's planning department early in your project to identify necessary permits and avoid potential delays or penalties. Maine Results, Inc. can help clarify these requirements for your specific project.",
+        "@type": "Answer",
+        "description": "Permits are usually required in Meridian, Idaho, for partial remodels involving structural changes, plumbing, or electrical work, but not for minor cosmetic updates. Always check with your contractor or the city."
+      }
+    }
+  ],
+  "description": "Permits are usually required in Meridian, Idaho, for partial remodels involving structural changes, plumbing, or electrical work, but not for minor cosmetic upd"
+}

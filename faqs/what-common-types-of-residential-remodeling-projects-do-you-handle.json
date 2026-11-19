@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-common-types-of-residential-remodeling-projects-do-you-handle",
+  "name": "What common types of residential remodeling projects do you handle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common types of residential remodeling projects do you handle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We undertake a variety of residential remodeling projects, including kitchen and bathroom renovations, basement finishing, room additions, and whole-home remodels. Our focus is on transforming existing spaces to better suit your lifestyle and functional needs. Understanding your primary goals, such as increasing living space, improving energy efficiency, or updating aesthetics, helps us recommend the most suitable project type and design approach for your home.",
+        "@type": "Answer",
+        "description": "We handle kitchen and bathroom renovations, basement finishing, room additions, and whole-home remodels to improve your living space."
+      }
+    }
+  ],
+  "description": "We handle kitchen and bathroom renovations, basement finishing, room additions, and whole-home remodels to improve your living space."
+}

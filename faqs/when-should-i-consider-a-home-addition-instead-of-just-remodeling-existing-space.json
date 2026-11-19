@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-a-home-addition-instead-of-just-remodeling-existing-space",
+  "name": "When should I consider a home addition instead of just remodeling existing space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a home addition instead of just remodeling existing space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider a home addition when your current space no longer meets your needs and remodeling within the existing footprint isn't enough. This might be due to a growing family, the desire for a dedicated home office, or needing more living area. An addition often involves more extensive planning, permitting, and a larger budget than internal remodeling. It's a significant decision, and we can help you assess if an addition is the right solution for your long-term goals.",
+        "@type": "Answer",
+        "description": "Consider an addition if existing space is insufficient after remodeling. It involves more planning and a larger budget."
+      }
+    }
+  ],
+  "description": "Consider an addition if existing space is insufficient after remodeling. It involves more planning and a larger budget."
+}

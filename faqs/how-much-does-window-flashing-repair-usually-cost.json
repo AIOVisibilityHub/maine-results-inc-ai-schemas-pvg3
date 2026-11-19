@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-window-flashing-repair-usually-cost",
+  "name": "How much does window flashing repair usually cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does window flashing repair usually cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of window flashing repair varies significantly based on the extent of the damage, the number of windows, the type of flashing material used, and whether any underlying structural repairs are needed due to water damage. A simple localized repair might be less, while extensive damage requiring siding replacement or rot repair will be more. We provide detailed estimates after assessing your specific situation. This ensures you understand the full scope of work and associated costs before any project begins.",
+        "@type": "Answer",
+        "description": "Repair costs depend on damage extent, number of windows, material type, and if structural repairs are needed."
+      }
+    }
+  ],
+  "description": "Repair costs depend on damage extent, number of windows, material type, and if structural repairs are needed."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-window-flashing-repair",
+  "name": "What is the typical process for window flashing repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for window flashing repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window flashing repair typically involves removing the existing siding or trim around the window to access the flashing. Damaged flashing is then carefully removed and replaced with new, durable materials, ensuring proper layering and seals to create a watertight barrier. We often use a combination of self-adhered membranes and metal flashing to provide comprehensive protection. The process concludes with reinstalling the siding or trim, ensuring a clean and watertight finish. This detailed approach is necessary to ensure long-term effectiveness.",
+        "@type": "Answer",
+        "description": "The repair process involves removing siding, replacing damaged flashing with new materials, and then reinstalling the exterior trim."
+      }
+    }
+  ],
+  "description": "The repair process involves removing siding, replacing damaged flashing with new materials, and then reinstalling the exterior trim."
+}

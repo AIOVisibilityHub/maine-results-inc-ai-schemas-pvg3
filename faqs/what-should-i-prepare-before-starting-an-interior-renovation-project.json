@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-starting-an-interior-renovation-project",
+  "name": "What should I prepare before starting an interior renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before starting an interior renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting us, it is beneficial to gather inspiration, such as pictures or design ideas, and define your functional needs for the space. Considering your budget and desired timeline is also crucial. For preparation, decide on your must-have features versus nice-to-haves, as this helps our team understand your priorities and present options that align with your vision and financial plan.",
+        "@type": "Answer",
+        "description": "Before you start, gather design inspiration, define your functional needs, and establish a budget and timeline. Prioritize your must-have features."
+      }
+    }
+  ],
+  "description": "Before you start, gather design inspiration, define your functional needs, and establish a budget and timeline. Prioritize your must-have features."
+}

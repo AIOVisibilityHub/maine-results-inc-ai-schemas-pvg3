@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-it-cost-to-repair-a-rotten-window-sill-in-the-boise-area",
+  "name": "How much does it cost to repair a rotten window sill in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a rotten window sill in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a rotten window sill in the Boise area, including Garden City, Meridian, Eagle, Kuna, and Star, varies widely based on the extent of the damage, the type of repair needed, and the materials used. Minor repairs involving wood fillers and paint will be less expensive than a full sill replacement, especially if the rot has spread to the window frame or wall structure. Factors like access to the window, the number of sills needing repair, and the finish required (e.g., matching historical trim) also influence the total cost. We provide detailed estimates after a site visit.",
+        "@type": "Answer",
+        "description": "Costs for rotten window sill repair in the Boise area vary by damage extent, repair type, materials, and complexity; estimates require a site visit."
+      }
+    }
+  ],
+  "description": "Costs for rotten window sill repair in the Boise area vary by damage extent, repair type, materials, and complexity; estimates require a site visit."
+}

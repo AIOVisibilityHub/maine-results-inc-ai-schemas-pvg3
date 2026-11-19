@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-warranty-do-you-offer-on-window-leak-repairs",
+  "name": "What kind of warranty do you offer on window leak repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty do you offer on window leak repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We stand by the quality of our window leak repairs and offer a comprehensive warranty on our workmanship and materials. The specific terms and duration of the warranty can vary depending on the scope and nature of the repair, as different materials and methods have varying lifespans. We will clearly outline the warranty details for your specific project within the repair estimate, ensuring you have peace of mind regarding the longevity of our solution. Our goal is to provide lasting results for residents throughout our service areas, including Kuna and Star.",
+        "@type": "Answer",
+        "description": "We provide a warranty on our workmanship and materials; specific terms depend on the repair scope and will be outlined in your estimate."
+      }
+    }
+  ],
+  "description": "We provide a warranty on our workmanship and materials; specific terms depend on the repair scope and will be outlined in your estimate."
+}

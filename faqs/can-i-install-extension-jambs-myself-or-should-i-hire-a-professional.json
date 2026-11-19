@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-install-extension-jambs-myself-or-should-i-hire-a-professional",
+  "name": "Can I install extension jambs myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install extension jambs myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While DIY installation is possible, hiring a professional like Maine Results, Inc. ensures precise measurements, proper material selection, and a seamless finish. Incorrect installation can lead to gaps, air leaks, and an unprofessional appearance, compromising your window's energy efficiency and overall aesthetic. Our team has the specialized tools and experience to achieve a high-quality result, saving you time and potential rework, and ensuring the long-term performance of your window system.",
+        "@type": "Answer",
+        "description": "Professional installation ensures precision, proper materials, and a seamless finish, preventing issues like air leaks and rework that can arise from DIY attempts."
+      }
+    }
+  ],
+  "description": "Professional installation ensures precision, proper materials, and a seamless finish, preventing issues like air leaks and rework that can arise from DIY attemp"
+}

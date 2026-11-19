@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-designing-a-new-kitchen-or-bathroom-layout",
+  "name": "What is the process for designing a new kitchen or bathroom layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for designing a new kitchen or bathroom layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The design process for a new kitchen or bathroom typically begins with understanding your needs, preferences, and how you use the space. This involves discussing layout options, material choices, fixtures, and finishes to create a functional and aesthetic plan. Many homeowners start by collecting inspiration photos or creating a wish list. We then work with you to refine these ideas into a detailed design that meets local building codes and optimizes your living space.",
+        "@type": "Answer",
+        "description": "Design starts by understanding your needs and preferences, then refining layout, materials, and fixtures into a detailed plan."
+      }
+    }
+  ],
+  "description": "Design starts by understanding your needs and preferences, then refining layout, materials, and fixtures into a detailed plan."
+}

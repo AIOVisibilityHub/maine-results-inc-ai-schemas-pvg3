@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-do-to-prepare-my-home-before-a-window-leak-repair-appointment",
+  "name": "What should I do to prepare my home before a window leak repair appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my home before a window leak repair appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your window leak repair appointment, it’s helpful to clear the area around the affected window, both inside and outside, to allow our team easy access. This includes moving furniture, décor, or landscaping items. If the leak is causing water damage indoors, you might want to place towels or buckets to catch any drips. Providing us with any history you have on the window, such as when it was installed or previous repair attempts, can also be beneficial. This preparation helps ensure a smooth and efficient repair process from the moment we arrive.",
+        "@type": "Answer",
+        "description": "Clear the area around the window inside and out, move furniture, and have any window history ready to facilitate the repair."
+      }
+    }
+  ],
+  "description": "Clear the area around the window inside and out, move furniture, and have any window history ready to facilitate the repair."
+}

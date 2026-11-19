@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-are-window-extension-jambs-typically-installed-during-a-construction-or-ren",
+  "name": "When are window extension jambs typically installed during a construction or renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When are window extension jambs typically installed during a construction or renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window extension jambs are typically installed after the new windows are securely in place and before any interior trim (casing, sills) is added. This sequence allows for precise measurements against the finished window and ensures that the jambs sit flush with the wall, providing a solid foundation for subsequent trim work. It's a critical step to achieve a polished look, integrated into our comprehensive project timelines for areas like Garden City.",
+        "@type": "Answer",
+        "description": "Extension jambs are installed after windows are secure and before interior trim, allowing for precise measurements and a flush wall fit for a polished look."
+      }
+    }
+  ],
+  "description": "Extension jambs are installed after windows are secure and before interior trim, allowing for precise measurements and a flush wall fit for a polished look."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-it-typically-cost-to-replace-a-window-sill",
+  "name": "How much does it typically cost to replace a window sill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it typically cost to replace a window sill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of window sill replacement varies significantly based on the material chosen, the size of the window, the extent of any underlying damage (such as rot in the wall frame), and labor rates. Simple replacements with standard materials can be less expensive, while custom sizes, premium materials like stone, or extensive repair work will increase the cost. For an accurate estimate, a detailed assessment of the existing damage and material selection is necessary. Maine Results, Inc. provides clear, itemized quotes for projects in Eagle after an on-site evaluation.",
+        "@type": "Answer",
+        "description": "Costs vary by material, window size, damage extent, and labor. A detailed assessment is needed for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary by material, window size, damage extent, and labor. A detailed assessment is needed for an accurate estimate."
+}

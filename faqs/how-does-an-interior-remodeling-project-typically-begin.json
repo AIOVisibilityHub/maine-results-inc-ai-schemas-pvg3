@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-does-an-interior-remodeling-project-typically-begin",
+  "name": "How does an interior remodeling project typically begin?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does an interior remodeling project typically begin?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An interior remodeling project typically begins with an initial consultation where we discuss your vision, needs, and budget. This is followed by a detailed design phase, where plans, material selections, and a precise scope of work are developed. After design approval and permit acquisition, the construction phase starts. We ensure a clear understanding of your goals during the initial discussions to shape the project plan effectively. For clients in Garden City, Meridian, Eagle, Kuna, and Star, our process ensures alignment from the earliest concept stages.",
+        "@type": "Answer",
+        "description": "Projects start with a consultation to discuss vision and budget, followed by design and material selection, then construction after permits are obtained."
+      }
+    }
+  ],
+  "description": "Projects start with a consultation to discuss vision and budget, followed by design and material selection, then construction after permits are obtained."
+}

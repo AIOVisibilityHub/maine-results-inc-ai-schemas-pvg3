@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-exterior-window-sills-be-repaired-or-do-they-always-need-to-be-replaced",
+  "name": "Can exterior window sills be repaired, or do they always need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can exterior window sills be repaired, or do they always need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether an exterior window sill can be repaired or needs full replacement depends on the extent of the damage. Minor cracks or small areas of rot might be repairable with epoxy fillers and repainting. However, if the rot is extensive, structural, or has compromised the integrity of the window frame, a full replacement is usually the more durable and cost-effective solution in the long run. We assess each situation carefully to provide the most appropriate recommendation.",
+        "@type": "Answer",
+        "description": "Minor damage may allow for repair, but extensive rot or structural compromise usually requires full sill replacement."
+      }
+    }
+  ],
+  "description": "Minor damage may allow for repair, but extensive rot or structural compromise usually requires full sill replacement."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-window-sill-repair-take",
+  "name": "How long does a window sill repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a window sill repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a window sill repair varies depending on the extent of the damage, the type of material used, and the number of sills requiring attention. Minor repairs, such as filling small cracks or replacing a small section of wood, might take a few hours. More extensive repairs, involving significant rot or multiple sills, could require a full day or more. During our initial assessment in areas like Meridian or Eagle, we provide a detailed timeline specific to your project's scope.",
+        "@type": "Answer",
+        "description": "The time for window sill repair varies from a few hours to over a day, depending on the damage extent and materials."
+      }
+    }
+  ],
+  "description": "The time for window sill repair varies from a few hours to over a day, depending on the damage extent and materials."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-indicate-i-need-to-replace-my-window-sills",
+  "name": "What are common signs that indicate I need to replace my window sills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that indicate I need to replace my window sills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators for window sill replacement include visible rot, cracks, softness to the touch, or peeling paint on the sill. Water stains on the wall below or around the window can also suggest moisture penetration through a damaged sill. Addressing these issues promptly helps prevent further damage to your home's structure and improves energy efficiency. Maine Results, Inc. observes that water damage is a frequent concern in the Garden City area due to weather exposure, making timely sill inspection important.",
+        "@type": "Answer",
+        "description": "Signs include rot, cracks, soft spots, peeling paint, or water stains, indicating potential moisture damage."
+      }
+    }
+  ],
+  "description": "Signs include rot, cracks, soft spots, peeling paint, or water stains, indicating potential moisture damage."
+}

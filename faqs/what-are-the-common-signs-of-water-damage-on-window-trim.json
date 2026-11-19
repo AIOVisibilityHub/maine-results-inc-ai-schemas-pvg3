@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-common-signs-of-water-damage-on-window-trim",
+  "name": "What are the common signs of water damage on window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of water damage on window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of water damage on window trim include discoloration, soft or crumbling wood, visible mold or mildew, and cracking or peeling paint. You might also notice a musty odor near the windows. If you observe any of these, especially in older homes in areas like Meridian or Eagle, it's important to investigate promptly as early detection can prevent more extensive and costly repairs.",
+        "@type": "Answer",
+        "description": "Look for discoloration, soft wood, mold, cracking paint, or a musty smell around your window trim."
+      }
+    }
+  ],
+  "description": "Look for discoloration, soft wood, mold, cracking paint, or a musty smell around your window trim."
+}

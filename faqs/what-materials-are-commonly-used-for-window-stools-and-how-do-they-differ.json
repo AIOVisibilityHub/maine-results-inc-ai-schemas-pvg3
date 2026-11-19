@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-commonly-used-for-window-stools-and-how-do-they-differ",
+  "name": "What materials are commonly used for window stools and how do they differ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for window stools and how do they differ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window stools are typically made from wood, engineered wood products like MDF, or sometimes PVC. Wood options, such as pine, oak, or poplar, offer a classic look and can be stained or painted, but require sealing to resist moisture. MDF is more affordable and dimensionally stable but less resistant to water without proper finishing. PVC is highly moisture-resistant, making it ideal for high-humidity areas, but may have a more modern aesthetic. Maine Results, Inc. can help you weigh these practical tradeoffs based on your budget, desired finish, and the window's exposure to moisture.",
+        "@type": "Answer",
+        "description": "Common materials for window stools include wood, MDF, and PVC, each offering different aesthetics, durability, and moisture resistance."
+      }
+    }
+  ],
+  "description": "Common materials for window stools include wood, MDF, and PVC, each offering different aesthetics, durability, and moisture resistance."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-repair-or-replace-damaged-window-trim-before-painting",
+  "name": "Should I repair or replace damaged window trim before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace damaged window trim before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace damaged window trim depends on the extent of the damage. Minor cracks, small holes, or superficial rot can often be repaired with wood fillers or epoxies. However, if the trim is severely rotted, warped, or structurally compromised, replacement is usually the more durable and cost-effective long-term solution. Our team at Maine Results, Inc. can help assess the damage and recommend the best practical tradeoff for your specific situation.",
+        "@type": "Answer",
+        "description": "Repair minor damage with fillers; replace severely rotted or warped trim for long-term durability."
+      }
+    }
+  ],
+  "description": "Repair minor damage with fillers; replace severely rotted or warped trim for long-term durability."
+}

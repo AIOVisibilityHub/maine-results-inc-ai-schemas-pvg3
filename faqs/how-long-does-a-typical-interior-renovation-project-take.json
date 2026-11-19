@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-interior-renovation-project-take",
+  "name": "How long does a typical interior renovation project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical interior renovation project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an interior renovation varies significantly based on its scope. A small bathroom update might take a few weeks, while a full kitchen remodel could extend to several months. Process clarity is achieved by our detailed project schedule, which outlines each phase from demolition to finishing touches. Factors like material availability, permit approvals, and the complexity of custom features can influence the timeline.",
+        "@type": "Answer",
+        "description": "Project timelines vary; a small bathroom might take weeks, while a full kitchen can take months. We provide a detailed schedule, but material availability and custom features can affect the duration."
+      }
+    }
+  ],
+  "description": "Project timelines vary; a small bathroom might take weeks, while a full kitchen can take months. We provide a detailed schedule, but material availability and c"
+}

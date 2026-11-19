@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-measure-for-a-new-window-apron",
+  "name": "How do I measure for a new window apron?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I measure for a new window apron?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To measure for a new window apron, first measure the width of your window casing, including the side trim pieces. The apron should typically extend past the side casings by about 1/2 to 1 inch on each side, or match the width of the window stool if one is present. Accurately measuring the existing trim or window opening is a crucial step that helps ensure the new apron will align correctly with your window's existing architectural lines. Precise measurements prevent gaps and create a seamless look.",
+        "@type": "Answer",
+        "description": "Measure the width of your window casing, including side trim. The apron usually extends slightly beyond the casing or matches the window stool width for a proper fit."
+      }
+    }
+  ],
+  "description": "Measure the width of your window casing, including side trim. The apron usually extends slightly beyond the casing or matches the window stool width for a prope"
+}

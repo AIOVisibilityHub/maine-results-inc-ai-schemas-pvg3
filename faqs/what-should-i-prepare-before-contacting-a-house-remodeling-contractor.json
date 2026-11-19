@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-contacting-a-house-remodeling-contractor",
+  "name": "What should I prepare before contacting a house remodeling contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting a house remodeling contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before reaching out to a remodeling contractor, it is helpful to have a clear understanding of your project goals, desired outcomes, and an estimated budget. Gather any existing plans, photos of inspiration, or a list of specific changes you want to make to your home. This initial preparation allows us to better understand your vision and provide a more accurate assessment and estimate for your remodel in areas like Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "Before contacting a contractor, define your project goals, budget, and gather any inspirational materials or existing plans."
+      }
+    }
+  ],
+  "description": "Before contacting a contractor, define your project goals, budget, and gather any inspirational materials or existing plans."
+}

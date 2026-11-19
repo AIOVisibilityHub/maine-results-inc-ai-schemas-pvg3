@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-questions-should-i-ask-a-contractor-before-hiring-them-for-window-trim-repa",
+  "name": "What questions should I ask a contractor before hiring them for window trim repair in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What questions should I ask a contractor before hiring them for window trim repair in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before hiring a contractor for window trim repair, especially in the Boise metropolitan area, you should ask about their experience with water damage, specific materials they recommend, and how they identify and address the source of the leak. Also, inquire about their warranty for both materials and labor, and ask for local references. Ensure they are licensed and insured in Idaho. Maine Results, Inc. serves Garden City, Meridian, Eagle, Kuna, and Star, and we are prepared to answer these questions transparently, helping you make an informed decision.",
+        "@type": "Answer",
+        "description": "Ask about water damage experience, materials, leak source identification, warranty, and local references. Verify license and insurance."
+      }
+    }
+  ],
+  "description": "Ask about water damage experience, materials, leak source identification, warranty, and local references. Verify license and insurance."
+}

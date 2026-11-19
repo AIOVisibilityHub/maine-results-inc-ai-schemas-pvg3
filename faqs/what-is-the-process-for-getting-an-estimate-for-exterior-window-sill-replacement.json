@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-getting-an-estimate-for-exterior-window-sill-replacement",
+  "name": "What is the process for getting an estimate for exterior window sill replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting an estimate for exterior window sill replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for getting an estimate for exterior window sill replacement begins by contacting us to schedule an on-site consultation. During this visit, our team will inspect the condition of your window sills, discuss your preferences for materials, and assess any underlying issues. Following the inspection, we will provide you with a detailed, no-obligation quote outlining the scope of work and associated costs. This first-party insight ensures the estimate accurately reflects your specific project needs.",
+        "@type": "Answer",
+        "description": "Contact us for an on-site consultation; we inspect sills, discuss materials, and provide a detailed quote."
+      }
+    }
+  ],
+  "description": "Contact us for an on-site consultation; we inspect sills, discuss materials, and provide a detailed quote."
+}

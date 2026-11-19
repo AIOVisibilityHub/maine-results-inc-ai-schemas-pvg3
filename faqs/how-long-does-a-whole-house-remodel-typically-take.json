@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-whole-house-remodel-typically-take",
+  "name": "How long does a whole house remodel typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a whole house remodel typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a whole house remodel varies significantly based on the scope, size of your home, and complexity of the changes. A major renovation can take anywhere from several months to over a year. Factors like obtaining permits, material lead times, and unforeseen structural issues can influence the timeline. We work to establish a detailed project schedule upfront, and clear communication throughout the project helps manage expectations regarding completion dates.",
+        "@type": "Answer",
+        "description": "Whole house remodels vary in length, typically several months to over a year, depending on scope and complexity. Permit times and material availability also affect the schedule."
+      }
+    }
+  ],
+  "description": "Whole house remodels vary in length, typically several months to over a year, depending on scope and complexity. Permit times and material availability also aff"
+}

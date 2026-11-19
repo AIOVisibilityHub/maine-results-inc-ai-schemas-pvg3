@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-primer-should-be-used-for-exterior-window-trim",
+  "name": "What kind of primer should be used for exterior window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of primer should be used for exterior window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The type of primer needed for exterior window trim depends on the existing surface and material. For bare wood, an oil-based primer is often recommended for its excellent sealing and stain-blocking properties. If the surface is previously painted but in good condition, a high-quality acrylic latex primer might suffice. For very chalky or glossy surfaces, a bonding primer is ideal. Choosing the correct primer is a critical decision factor for paint adhesion and durability. Maine Results, Inc. selects primers based on a detailed assessment of the trim's condition.",
+        "@type": "Answer",
+        "description": "Use oil-based for bare wood, acrylic latex for good painted surfaces, and bonding primer for chalky or glossy surfaces."
+      }
+    }
+  ],
+  "description": "Use oil-based for bare wood, acrylic latex for good painted surfaces, and bonding primer for chalky or glossy surfaces."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-involved-in-a-whole-house-remodel",
+  "name": "What is involved in a whole house remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a whole house remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole house remodel transforms multiple areas of your home, often including kitchens, bathrooms, living spaces, and exterior elements. It typically involves planning, design, demolition, structural changes, new electrical and plumbing, finishes, and landscaping. The process requires careful coordination of various trades and adherence to local building codes. Customers often find that discussing their long-term vision for the home early in the process helps us tailor the project to their specific needs and priorities, ensuring a cohesive outcome.",
+        "@type": "Answer",
+        "description": "A whole house remodel transforms multiple home areas, involving design, structural changes, and new systems. It requires coordination of trades and adherence to building codes."
+      }
+    }
+  ],
+  "description": "A whole house remodel transforms multiple home areas, involving design, structural changes, and new systems. It requires coordination of trades and adherence to"
+}

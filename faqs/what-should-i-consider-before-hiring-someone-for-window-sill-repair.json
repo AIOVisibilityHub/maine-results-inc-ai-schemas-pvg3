@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-before-hiring-someone-for-window-sill-repair",
+  "name": "What should I consider before hiring someone for window sill repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before hiring someone for window sill repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before hiring a contractor for window sill repair, consider several factors to ensure a quality outcome. Look for companies with experience specifically in window and exterior carpentry repairs, like Maine Results, Inc., which serves areas such as Meridian and Star. Ask about their warranty for both materials and labor. It's also important to get a detailed written estimate that outlines the scope of work, materials to be used, and the estimated timeline. Verify that the contractor is licensed and insured, which protects you in case of accidents or issues during the project. Reviewing past customer testimonials can also offer insight into their reliability and workmanship.",
+        "@type": "Answer",
+        "description": "Before hiring, check for specialized experience, request written estimates, confirm licensing and insurance, inquire about warranties, and review customer testimonials."
+      }
+    }
+  ],
+  "description": "Before hiring, check for specialized experience, request written estimates, confirm licensing and insurance, inquire about warranties, and review customer testi"
+}

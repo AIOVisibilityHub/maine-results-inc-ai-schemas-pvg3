@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-do-i-need-to-do-before-my-exterior-window-sill-replacement-appo",
+  "name": "What preparation do I need to do before my exterior window sill replacement appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before my exterior window sill replacement appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your exterior window sill replacement appointment, it's helpful to clear the area around the exterior of the window. This includes moving any potted plants, patio furniture, or other obstructions that might hinder access for our crew. Internally, you may want to remove valuable items from window sills or cover nearby furniture to protect against dust. This preparation helps ensure our team can begin work immediately and efficiently.",
+        "@type": "Answer",
+        "description": "Clear the exterior area around the window and move valuable interior items to prepare for sill replacement."
+      }
+    }
+  ],
+  "description": "Clear the exterior area around the window and move valuable interior items to prepare for sill replacement."
+}

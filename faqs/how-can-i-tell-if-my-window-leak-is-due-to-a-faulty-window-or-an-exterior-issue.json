@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-tell-if-my-window-leak-is-due-to-a-faulty-window-or-an-exterior-issue",
+  "name": "How can I tell if my window leak is due to a faulty window or an exterior issue?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my window leak is due to a faulty window or an exterior issue?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining if a leak stems from a faulty window or an exterior issue, like siding or roofing, requires careful observation and potentially a professional inspection. Look for signs such as water staining directly on the window frame or sill, which often indicates a window-specific problem. If water appears higher up on the wall or travels down from above the window, the source might be external. Our team is experienced in diagnosing these distinctions by examining both the window unit and surrounding exterior elements, including flashing and cladding, to pinpoint the true cause.",
+        "@type": "Answer",
+        "description": "Observe water stain locations: on the frame suggests a window issue, while stains from above indicate an exterior source."
+      }
+    }
+  ],
+  "description": "Observe water stain locations: on the frame suggests a window issue, while stains from above indicate an exterior source."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-timeframe-for-a-home-renovation-project",
+  "name": "What is the typical timeframe for a home renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for a home renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a home renovation project varies significantly based on its scope and complexity. Small projects, like updating a single bathroom, might take a few weeks, while larger renovations, such as a whole-home remodel or adding an extension, could extend to several months. To provide an accurate estimate, we first need to understand your specific plans, materials chosen, and any necessary permitting processes, which can influence the timeline. Our team works with you to establish realistic expectations from the outset.",
+        "@type": "Answer",
+        "description": "Project timelines vary, depending on scope, complexity, and materials; small projects take weeks, large ones months."
+      }
+    }
+  ],
+  "description": "Project timelines vary, depending on scope, complexity, and materials; small projects take weeks, large ones months."
+}

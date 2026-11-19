@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-timeframe-for-window-apron-installation",
+  "name": "What is the typical timeframe for window apron installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for window apron installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeframe for window apron installation can vary depending on the number of windows, the complexity of the trim style, and whether painting or finishing is included. For a single window, installation might take a few hours. For multiple windows or custom work, it could extend to a full day or more. Ensuring the existing wall surface is properly prepared, level, and clean before installation is a factor that can affect the overall time needed for a quality result.",
+        "@type": "Answer",
+        "description": "Installation time varies by the number of windows and trim complexity, from a few hours for one window to a full day for multiple. Proper wall preparation affects timing."
+      }
+    }
+  ],
+  "description": "Installation time varies by the number of windows and trim complexity, from a few hours for one window to a full day for multiple. Proper wall preparation affec"
+}

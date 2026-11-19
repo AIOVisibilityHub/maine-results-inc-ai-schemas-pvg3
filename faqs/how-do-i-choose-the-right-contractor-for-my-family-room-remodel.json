@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-the-right-contractor-for-my-family-room-remodel",
+  "name": "How do I choose the right contractor for my family room remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my family room remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for your family room remodel, look for a company with proven experience, strong local references, and proper licensing and insurance. It’s important to review their portfolio, discuss their project management style, and ensure clear communication. A good contractor provides transparent bids and outlines the project scope and timeline clearly. Maine Results, Inc. serves Garden City, Meridian, Eagle, Kuna, and Star, and we encourage you to check our references and discuss our process.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience, local references, proper licensing, and clear communication. Review portfolios and ensure transparent bids and project scope definition."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience, local references, proper licensing, and clear communication. Review portfolios and ensure transparent bids and project scop"
+}

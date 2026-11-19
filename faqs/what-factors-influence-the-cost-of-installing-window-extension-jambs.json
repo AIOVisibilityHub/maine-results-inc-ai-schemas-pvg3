@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-installing-window-extension-jambs",
+  "name": "What factors influence the cost of installing window extension jambs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of installing window extension jambs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing window extension jambs is influenced by several factors, including the type of material chosen (e.g., standard wood versus moisture-resistant composite), the number of windows requiring jambs, and the complexity of the installation. Custom sizing for unusual window shapes or very deep walls can also add to the cost. We provide detailed estimates that consider these elements, ensuring transparency from the start for projects in Kuna or Star.",
+        "@type": "Answer",
+        "description": "Cost factors include material type, number of windows, and installation complexity, with custom sizing potentially increasing the price."
+      }
+    }
+  ],
+  "description": "Cost factors include material type, number of windows, and installation complexity, with custom sizing potentially increasing the price."
+}

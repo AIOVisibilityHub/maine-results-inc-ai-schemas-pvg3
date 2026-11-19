@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-window-aprons-compare-to-full-window-casings-or-sills",
+  "name": "How do window aprons compare to full window casings or sills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do window aprons compare to full window casings or sills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window aprons are specifically the trim piece directly below the window stool, covering the wall gap. Full window casings, on the other hand, encompass the entire window opening with trim on all four sides. A window sill (or stool) is the flat, horizontal surface at the bottom of the window. Aprons offer a simpler, often more contemporary look compared to full casings, which provide a more traditional, ornate finish. Considering the architectural style of your home helps determine the best trim choice.",
+        "@type": "Answer",
+        "description": "Aprons are trim below the window stool, while full casings surround the entire window. Aprons offer a simpler look; casings are more traditional."
+      }
+    }
+  ],
+  "description": "Aprons are trim below the window stool, while full casings surround the entire window. Aprons offer a simpler look; casings are more traditional."
+}

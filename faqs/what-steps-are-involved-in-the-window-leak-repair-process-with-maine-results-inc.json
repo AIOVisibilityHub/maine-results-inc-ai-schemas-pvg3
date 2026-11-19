@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-steps-are-involved-in-the-window-leak-repair-process-with-maine-results-inc",
+  "name": "What steps are involved in the window leak repair process with Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in the window leak repair process with Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation where we discuss the symptoms of the leak and schedule an on-site inspection. During the inspection, our team meticulously identifies the source and extent of the water intrusion. Following this, we provide a detailed estimate for the necessary repairs. Once approved, we schedule the work, which typically involves preparing the area, performing the repair using quality materials, and conducting post-repair checks to ensure the leak is resolved. We keep you informed throughout every stage, from initial assessment in areas like Meridian or Eagle to the final walkthrough.",
+        "@type": "Answer",
+        "description": "Our process includes consultation, on-site inspection to find the leak, providing an estimate, performing the repair, and final checks."
+      }
+    }
+  ],
+  "description": "Our process includes consultation, on-site inspection to find the leak, providing an estimate, performing the repair, and final checks."
+}

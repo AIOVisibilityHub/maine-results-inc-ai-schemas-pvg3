@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-steps-are-involved-in-preparing-exterior-window-trim-for-painting",
+  "name": "What steps are involved in preparing exterior window trim for painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in preparing exterior window trim for painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparing exterior window trim for painting involves several key steps. First, the trim needs thorough cleaning to remove dirt, mildew, and loose paint. Any deteriorated caulk is then removed, and surfaces are scraped and sanded to create a smooth profile. Finally, appropriate primer is applied, especially on bare wood or previously chalky surfaces, before painting begins. This detailed approach is standard practice for quality results.",
+        "@type": "Answer",
+        "description": "Steps include cleaning, scraping, sanding, removing old caulk, and priming before applying paint."
+      }
+    }
+  ],
+  "description": "Steps include cleaning, scraping, sanding, removing old caulk, and priming before applying paint."
+}

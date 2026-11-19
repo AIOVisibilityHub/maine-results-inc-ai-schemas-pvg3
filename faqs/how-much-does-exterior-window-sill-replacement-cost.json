@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-exterior-window-sill-replacement-cost",
+  "name": "How much does exterior window sill replacement cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does exterior window sill replacement cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of exterior window sill replacement varies based on the material chosen, the size of the window, the extent of existing damage, and any necessary structural repairs. For example, replacing a sill with a basic PVC material will likely be less costly than using custom-milled rot-resistant wood. To get an accurate estimate, it's helpful to consider the number of sills needing replacement and if you have a material preference before contacting us for a detailed quote tailored to your specific project.",
+        "@type": "Answer",
+        "description": "Cost varies by material, window size, and damage extent. Gather this information for an accurate quote."
+      }
+    }
+  ],
+  "description": "Cost varies by material, window size, and damage extent. Gather this information for an accurate quote."
+}

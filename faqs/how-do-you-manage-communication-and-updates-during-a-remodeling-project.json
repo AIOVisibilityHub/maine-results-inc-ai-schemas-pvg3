@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-manage-communication-and-updates-during-a-remodeling-project",
+  "name": "How do you manage communication and updates during a remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you manage communication and updates during a remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Effective communication is central to our process. We assign a dedicated project manager who serves as your primary point of contact. They provide regular updates, answer your questions, and coordinate all aspects of the remodel, from scheduling to subcontractor management. This streamlined approach ensures you are always informed and involved, minimizing misunderstandings and allowing for timely decisions as the project progresses.",
+        "@type": "Answer",
+        "description": "A dedicated project manager is assigned to provide regular updates and manage all project communications and coordination."
+      }
+    }
+  ],
+  "description": "A dedicated project manager is assigned to provide regular updates and manage all project communications and coordination."
+}

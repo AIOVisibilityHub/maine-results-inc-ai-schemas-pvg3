@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-window-flashing-and-why-is-it-important-for-my-home",
+  "name": "What is window flashing and why is it important for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is window flashing and why is it important for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window flashing is a crucial weatherproofing material installed around windows to prevent water intrusion. It acts as a barrier, diverting water away from the window frame and into the exterior drainage plane of your home. Proper flashing protects against leaks that can lead to wood rot, mold growth, and structural damage to walls and insulation. Ensuring correct flashing during installation or repair is vital for the longevity and integrity of your home's envelope, particularly in areas susceptible to moisture like Garden City or Meridian.",
+        "@type": "Answer",
+        "description": "Window flashing is a weather barrier around windows that prevents water leaks, protecting against wood rot and mold."
+      }
+    }
+  ],
+  "description": "Window flashing is a weather barrier around windows that prevents water leaks, protecting against wood rot and mold."
+}

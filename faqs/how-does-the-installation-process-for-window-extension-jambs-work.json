@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-does-the-installation-process-for-window-extension-jambs-work",
+  "name": "How does the installation process for window extension jambs work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the installation process for window extension jambs work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process begins after the new windows are set. We precisely measure the depth from the window frame to the finished wall surface. Custom-cut wood or composite extension jambs are then fitted snugly against the window frame and secured. This creates a flush surface for the final casing and trim. We ensure a tight fit to prevent air leaks and provide a smooth, professional appearance, which is a critical step before any interior painting or finishing can begin.",
+        "@type": "Answer",
+        "description": "After windows are set, we measure, cut, and secure extension jambs to create a flush surface for final trim, ensuring a tight fit and professional appearance."
+      }
+    }
+  ],
+  "description": "After windows are set, we measure, cut, and secure extension jambs to create a flush surface for final trim, ensuring a tight fit and professional appearance."
+}

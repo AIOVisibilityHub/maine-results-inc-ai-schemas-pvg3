@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-repair-or-replace-all-my-window-sills-at-once",
+  "name": "Should I repair or replace all my window sills at once?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace all my window sills at once?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether to repair or replace all your window sills at once depends on their overall condition and your budget. If only one or two sills show minor damage, targeted repairs might be sufficient. However, if multiple sills exhibit significant wear, rot, or are nearing the end of their lifespan, replacing them all concurrently can be more cost-effective in the long run. This approach can also ensure a consistent aesthetic and prevent future, staggered repairs. We can help you evaluate the condition of all your sills during an on-site visit.",
+        "@type": "Answer",
+        "description": "Repairing all sills at once depends on their overall condition and your budget; comprehensive replacement can be more cost-effective if many are damaged."
+      }
+    }
+  ],
+  "description": "Repairing all sills at once depends on their overall condition and your budget; comprehensive replacement can be more cost-effective if many are damaged."
+}

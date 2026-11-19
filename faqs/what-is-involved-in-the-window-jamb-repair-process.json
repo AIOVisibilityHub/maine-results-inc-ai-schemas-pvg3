@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-involved-in-the-window-jamb-repair-process",
+  "name": "What is involved in the window jamb repair process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the window jamb repair process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The window jamb repair process typically begins with an assessment of the damage to determine if the jamb can be repaired or if replacement is necessary. For repairs, the damaged material is carefully removed, and the area is cleaned and treated to prevent further decay. New wood or composite material, custom-cut to fit, is then installed, sealed, and finished to match the existing window and trim. For example, if rot is extensive, we may need to replace a section of the jamb, ensuring structural integrity and proper weatherproofing. This process restores the window's functionality and aesthetic appeal.",
+        "@type": "Answer",
+        "description": "Window jamb repair involves assessing damage, removing deteriorated material, installing new wood or composite, and finishing to match the existing frame."
+      }
+    }
+  ],
+  "description": "Window jamb repair involves assessing damage, removing deteriorated material, installing new wood or composite, and finishing to match the existing frame."
+}

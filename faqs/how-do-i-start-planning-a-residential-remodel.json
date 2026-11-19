@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-start-planning-a-residential-remodel",
+  "name": "How do I start planning a residential remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I start planning a residential remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To begin planning a residential remodel, you should first identify your goals and priorities for the project, such as desired functionality, aesthetic preferences, and budget considerations. Gathering inspiration through photos, magazines, or online resources can be very helpful. Having a clear idea of what you want to achieve, along with any practical constraints or requirements, will enable us to provide more accurate estimates and design recommendations from our initial consultation.",
+        "@type": "Answer",
+        "description": "Start by defining your goals, priorities, and budget for the remodel. Gathering inspiration is also a helpful first step."
+      }
+    }
+  ],
+  "description": "Start by defining your goals, priorities, and budget for the remodel. Gathering inspiration is also a helpful first step."
+}

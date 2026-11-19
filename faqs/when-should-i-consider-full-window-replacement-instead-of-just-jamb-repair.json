@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-full-window-replacement-instead-of-just-jamb-repair",
+  "name": "When should I consider full window replacement instead of just jamb repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider full window replacement instead of just jamb repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider full window replacement instead of just jamb repair when the damage extends beyond the jamb to the sash, sill, or other structural components of the window frame, or if the window is old and inefficient. If the window unit frequently fogs, leaks air significantly, or has operational issues that cannot be resolved with minor repairs, replacement often offers better long-term value in terms of energy efficiency and comfort. A professional assessment can help determine if the cost of extensive repairs outweighs the benefits of a new, energy-efficient window, especially for homes in areas like Kuna or Star looking to improve insulation.",
+        "@type": "Answer",
+        "description": "Consider full window replacement if damage is extensive, the window is old and inefficient, or if multiple components beyond the jamb are compromised."
+      }
+    }
+  ],
+  "description": "Consider full window replacement if damage is extensive, the window is old and inefficient, or if multiple components beyond the jamb are compromised."
+}

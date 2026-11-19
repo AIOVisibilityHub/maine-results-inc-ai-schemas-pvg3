@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-prepare-my-home-for-a-whole-house-remodel",
+  "name": "How can I prepare my home for a whole house remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for a whole house remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparing your home for a whole house remodel involves several steps to ensure a smooth start. This includes decluttering and packing personal belongings from the areas to be remodeled, arranging for temporary living accommodations if necessary, and deciding on key design elements and materials. It's also helpful to establish clear communication channels with your remodeling team. Having a provisional plan for utilities, access, and daily routines can minimize disruption once work begins.",
+        "@type": "Answer",
+        "description": "Prepare by decluttering, packing, arranging temporary living if needed, and finalizing design elements. Establish clear communication and plan for daily routines."
+      }
+    }
+  ],
+  "description": "Prepare by decluttering, packing, arranging temporary living if needed, and finalizing design elements. Establish clear communication and plan for daily routine"
+}

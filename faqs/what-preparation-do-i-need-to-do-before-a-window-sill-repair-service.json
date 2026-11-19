@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-do-i-need-to-do-before-a-window-sill-repair-service",
+  "name": "What preparation do I need to do before a window sill repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before a window sill repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your window sill repair service, you should clear the area around the window, both inside and out, to allow easy access for our team. This includes moving furniture, window treatments, and any plants or decorations near the window. If there's any active water leakage, it's helpful to identify the source if possible, though our technicians will also assess it. Providing clear access helps us perform the repair efficiently and safely, particularly in homes in areas like Kuna or Star where diverse property types are common.",
+        "@type": "Answer",
+        "description": "Before repair, clear the area around the window inside and out, moving furniture and decorations for easy access."
+      }
+    }
+  ],
+  "description": "Before repair, clear the area around the window inside and out, moving furniture and decorations for easy access."
+}

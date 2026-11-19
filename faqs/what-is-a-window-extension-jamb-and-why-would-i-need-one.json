@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-a-window-extension-jamb-and-why-would-i-need-one",
+  "name": "What is a window extension jamb and why would I need one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a window extension jamb and why would I need one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A window extension jamb is an interior trim piece that extends the depth of a window frame to match the wall thickness. You would need one when replacing windows with new, narrower frames, or when adding interior insulation or thicker wall finishes. This ensures a seamless transition between the window and the wall, providing a finished look and proper support for interior trim like casing and sills. Our team considers your wall depth and chosen window type to recommend the appropriate jamb extension during the planning phase.",
+        "@type": "Answer",
+        "description": "A window extension jamb deepens the window frame to match wall thickness, needed for new windows or thicker walls to provide a finished look and support interior trim."
+      }
+    }
+  ],
+  "description": "A window extension jamb deepens the window frame to match wall thickness, needed for new windows or thicker walls to provide a finished look and support interio"
+}

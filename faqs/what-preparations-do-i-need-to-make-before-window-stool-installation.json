@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparations-do-i-need-to-make-before-window-stool-installation",
+  "name": "What preparations do I need to make before window stool installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations do I need to make before window stool installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before window stool installation, ensure the area around the window is clear of obstructions. If it's a replacement, any old trim should be removed, and the area should be clean and dry. It's also helpful to have made decisions about the material and finish (paint or stain) you desire. Maine Results, Inc. recommends discussing these details during the initial consultation, as specific wall conditions or existing trim styles in your Meridian or Eagle home might influence the preparation steps.",
+        "@type": "Answer",
+        "description": "Clear the window area, ensure it's clean and dry, and decide on material and finish before installation."
+      }
+    }
+  ],
+  "description": "Clear the window area, ensure it's clean and dry, and decide on material and finish before installation."
+}

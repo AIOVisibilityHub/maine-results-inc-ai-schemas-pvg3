@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-typically-used-for-window-jamb-repair",
+  "name": "What materials are typically used for window jamb repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are typically used for window jamb repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For window jamb repair, common materials include various types of wood, such as rot-resistant cedar or treated lumber, depending on the existing window and the specific needs of the repair. High-quality wood epoxies and fillers are used for smaller repairs to restore structural integrity and create a smooth surface. For areas prone to moisture, composite materials or PVC can be an excellent, durable alternative that resists rot and pests. Our team selects materials that match your home's aesthetic and provide long-lasting durability, taking into account the local climate conditions in places like Meridian and Eagle.",
+        "@type": "Answer",
+        "description": "Window jamb repairs use wood (cedar, treated lumber), wood epoxies, and composite materials like PVC, selected for durability and aesthetic match."
+      }
+    }
+  ],
+  "description": "Window jamb repairs use wood (cedar, treated lumber), wood epoxies, and composite materials like PVC, selected for durability and aesthetic match."
+}

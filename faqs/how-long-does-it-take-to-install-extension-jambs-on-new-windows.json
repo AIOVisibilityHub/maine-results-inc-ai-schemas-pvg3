@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-install-extension-jambs-on-new-windows",
+  "name": "How long does it take to install extension jambs on new windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install extension jambs on new windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to install extension jambs depends on the number of windows and the complexity of each opening. Typically, for a standard residential project, jamb installation for multiple windows can take anywhere from a few hours to a couple of days, depending on our crew size and the preparation needed. We coordinate this work efficiently as part of the larger window installation or replacement project to minimize disruption to your daily routine.",
+        "@type": "Answer",
+        "description": "Installation time varies by window count and complexity, usually taking a few hours to a couple of days for multiple windows, coordinated efficiently with window installation."
+      }
+    }
+  ],
+  "description": "Installation time varies by window count and complexity, usually taking a few hours to a couple of days for multiple windows, coordinated efficiently with windo"
+}

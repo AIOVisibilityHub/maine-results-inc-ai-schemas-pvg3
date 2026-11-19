@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-average-cost-of-a-partial-home-remodel-in-the-boise-area",
+  "name": "What is the average cost of a partial home remodel in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a partial home remodel in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a partial home remodel in the Boise area, including Garden City, Meridian, Eagle, and Kuna, varies widely based on the room being remodeled, material selections, and the extent of the work. For example, a basic bathroom update might range from $10,000 to $25,000, while a mid-range kitchen remodel could be $30,000 to $70,000 or more. High-end finishes, structural modifications, and unexpected discoveries can increase expenses. It's crucial to establish a realistic budget early on and prioritize your desired upgrades. Maine Results, Inc. offers detailed estimates to help clients understand potential costs for their specific projects.",
+        "@type": "Answer",
+        "description": "The average cost of a partial home remodel in the Boise area varies significantly by room and material choices. A basic bathroom might be $10K-$25K, while a mid-range kitchen could be $30K-$70K."
+      }
+    }
+  ],
+  "description": "The average cost of a partial home remodel in the Boise area varies significantly by room and material choices. A basic bathroom might be $10K-$25K, while a mid"
+}

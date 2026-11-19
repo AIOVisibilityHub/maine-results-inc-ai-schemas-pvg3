@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-prevent-water-damage-to-my-window-trim-in-the-future",
+  "name": "How can I prevent water damage to my window trim in the future?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent water damage to my window trim in the future?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing future water damage involves regular maintenance and ensuring proper sealing around your windows. This includes inspecting caulk and weatherstripping annually, especially after harsh weather, and promptly addressing any cracks or gaps. Ensure your gutters and downspouts are clear and direct water away from your home's foundation and windows. A proactive approach, such as routinely checking the perimeter of your windows for any compromises, is your best defense against repeat issues.",
+        "@type": "Answer",
+        "description": "Regularly inspect and maintain caulk, weatherstripping, and ensure gutters direct water away from windows."
+      }
+    }
+  ],
+  "description": "Regularly inspect and maintain caulk, weatherstripping, and ensure gutters direct water away from windows."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-a-window-stool-and-why-is-it-important-for-my-windows",
+  "name": "What is a window stool and why is it important for my windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a window stool and why is it important for my windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A window stool is the horizontal trim piece that forms the bottom of a window frame, extending slightly inward into the room. It's often mistaken for a windowsill. Beyond its aesthetic appeal, it provides a finished look, protects the wall beneath the window, and can serve as a small ledge for decorative items. For Maine Results, Inc., correctly installing a window stool is part of ensuring a comprehensive and durable window trim system that integrates well with your home's interior in areas like Boise and Meridian.",
+        "@type": "Answer",
+        "description": "A window stool is the horizontal trim piece at the bottom of a window frame, providing a finished look and protecting the wall."
+      }
+    }
+  ],
+  "description": "A window stool is the horizontal trim piece at the bottom of a window frame, providing a finished look and protecting the wall."
+}

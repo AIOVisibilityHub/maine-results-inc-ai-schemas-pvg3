@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-repair-a-rotten-window-sill-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair a rotten window sill myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a rotten window sill myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface rot on a window sill might be tackled by an experienced DIY enthusiast, hiring a professional is often recommended for several reasons. Professionals have the right tools, materials, and expertise to properly assess the extent of the damage, identify the root cause of the rot, and ensure a durable, long-lasting repair. Incorrect repairs can lead to recurring rot, water intrusion, and further damage to your home's structure. For significant rot or if you're unsure about the repair process, a professional ensures the job is done correctly, maintaining your home's integrity and value. Our team serving areas like Garden City, Meridian, and Eagle specializes in these types of repairs.",
+        "@type": "Answer",
+        "description": "Minor surface rot can be DIY, but professionals are recommended for significant rot to ensure proper assessment, durable repair, and prevention of future damage."
+      }
+    }
+  ],
+  "description": "Minor surface rot can be DIY, but professionals are recommended for significant rot to ensure proper assessment, durable repair, and prevention of future damage"
+}

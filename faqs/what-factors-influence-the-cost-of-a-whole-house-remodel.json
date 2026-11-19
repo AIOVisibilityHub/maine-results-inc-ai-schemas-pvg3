@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-a-whole-house-remodel",
+  "name": "What factors influence the cost of a whole house remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a whole house remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a whole house remodel is influenced by several key factors. These include the size of your home, the extent of structural changes, the quality of materials chosen (e.g., custom cabinetry vs. semi-custom, high-end fixtures), and the complexity of electrical or plumbing reconfigurations. Site-specific challenges, such as unexpected discoveries during demolition, can also impact the final cost. We provide detailed estimates that break down these elements to help you understand where your investment is going.",
+        "@type": "Answer",
+        "description": "Cost factors include home size, structural changes, material choices, and system reconfigurations. Unexpected site issues can also affect the final price."
+      }
+    }
+  ],
+  "description": "Cost factors include home size, structural changes, material choices, and system reconfigurations. Unexpected site issues can also affect the final price."
+}

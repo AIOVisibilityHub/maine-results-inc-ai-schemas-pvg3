@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-rotten-window-sill-repair-take",
+  "name": "How long does a typical rotten window sill repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical rotten window sill repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a rotten window sill repair can vary significantly based on the severity of the rot and whether it's a repair or a full replacement. A minor repair involving wood consolidation and epoxy might take a few hours to a day. A full sill replacement, especially if it involves surrounding trim or addressing hidden damage, could take one to two days per window. Factors like weather conditions, material availability, and the complexity of the window's design can also influence the timeline. Our team will provide an estimated timeframe after an initial assessment.",
+        "@type": "Answer",
+        "description": "Repair time depends on damage severity; minor fixes take hours, while full replacements can take one to two days, influenced by various factors."
+      }
+    }
+  ],
+  "description": "Repair time depends on damage severity; minor fixes take hours, while full replacements can take one to two days, influenced by various factors."
+}

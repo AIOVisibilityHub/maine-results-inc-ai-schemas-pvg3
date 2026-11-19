@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-repairing-water-damaged-window-trim",
+  "name": "What is the process for repairing water damaged window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing water damaged window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with identifying and stopping the source of the water intrusion. Next, the damaged trim is carefully removed. Any rotted or compromised wood is replaced, and the area is treated to prevent mold. New trim is then installed, sealed, and painted or stained to match. During our assessment at Maine Results, Inc., we focus on understanding the underlying cause of the water damage, which is a critical first step to ensure the repair is long-lasting and prevents future issues.",
+        "@type": "Answer",
+        "description": "The process involves stopping the leak, removing damaged trim, replacing rotted wood, installing new trim, and sealing."
+      }
+    }
+  ],
+  "description": "The process involves stopping the leak, removing damaged trim, replacing rotted wood, installing new trim, and sealing."
+}

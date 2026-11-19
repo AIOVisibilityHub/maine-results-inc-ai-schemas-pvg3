@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-water-damaged-window-trim-lead-to-other-problems-in-my-home",
+  "name": "Can water damaged window trim lead to other problems in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can water damaged window trim lead to other problems in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, water damaged window trim can lead to a host of other problems if not addressed promptly. The continuous presence of moisture can cause mold and mildew growth, degrade surrounding wall materials, compromise insulation, and even attract pests like termites or carpenter ants. Over time, it can also weaken the structural integrity of your wall framing. Understanding the full extent of potential secondary damage is a key part of our evaluation at Maine Results, Inc., ensuring we recommend a comprehensive solution.",
+        "@type": "Answer",
+        "description": "Unrepaired water damaged trim can cause mold, degrade walls, compromise insulation, attract pests, and weaken structure."
+      }
+    }
+  ],
+  "description": "Unrepaired water damaged trim can cause mold, degrade walls, compromise insulation, attract pests, and weaken structure."
+}

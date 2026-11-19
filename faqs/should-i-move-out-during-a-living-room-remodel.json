@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-move-out-during-a-living-room-remodel",
+  "name": "Should I move out during a living room remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I move out during a living room remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you should move out during a living room remodel depends on the project's extent and your comfort level. For minor updates like painting, staying in your home is often feasible, although some disruption is inevitable. For more extensive projects involving dust, noise, or temporary loss of essential utilities, moving out might be more practical for your convenience and safety. We discuss the expected level of disruption during the planning phase, helping you assess if temporary relocation is necessary. This early discussion allows you to make arrangements that suit your family's needs.",
+        "@type": "Answer",
+        "description": "Moving out during a living room remodel depends on the project's extent and disruption level; minor updates usually allow you to stay, while major renovations might require temporary relocation."
+      }
+    }
+  ],
+  "description": "Moving out during a living room remodel depends on the project's extent and disruption level; minor updates usually allow you to stay, while major renovations m"
+}

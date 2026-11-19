@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-it-cost-to-install-a-window-stool",
+  "name": "How much does it cost to install a window stool?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install a window stool?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of window stool installation varies based on factors such as the material chosen, the size and number of windows, the complexity of the trim work, and labor rates. Custom designs or specialty woods will typically be more expensive than standard options. While Maine Results, Inc. can't provide an exact price without an assessment, we offer transparent estimates after evaluating your specific project needs in areas like Star or Garden City, ensuring you understand the investment for a quality installation.",
+        "@type": "Answer",
+        "description": "Cost varies by material, window size/quantity, and trim complexity; custom options increase price. Estimates are provided after project assessment."
+      }
+    }
+  ],
+  "description": "Cost varies by material, window size/quantity, and trim complexity; custom options increase price. Estimates are provided after project assessment."
+}

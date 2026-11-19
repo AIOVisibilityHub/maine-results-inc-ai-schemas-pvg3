@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-causes-window-leaks-and-how-are-they-typically-repaired",
+  "name": "What causes window leaks, and how are they typically repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes window leaks, and how are they typically repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window leaks often result from deteriorated sealants, damaged flashing, improper installation, or issues with the window frame itself. Our repair process typically involves identifying the exact source of the leak, which can sometimes be tricky as water can travel. We then remove compromised materials, clean the area, apply new, high-quality sealants, and replace any damaged components like flashing or trim. For more complex issues, it might involve removing and re-installing the window unit to ensure a proper seal and drainage.",
+        "@type": "Answer",
+        "description": "Window leaks are caused by deteriorated seals, damaged flashing, or improper installation. Repairs involve identifying the source, replacing damaged materials, and applying new sealants."
+      }
+    }
+  ],
+  "description": "Window leaks are caused by deteriorated seals, damaged flashing, or improper installation. Repairs involve identifying the source, replacing damaged materials,"
+}

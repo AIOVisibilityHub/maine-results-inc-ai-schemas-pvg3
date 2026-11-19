@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-my-window-stool-needs-to-be-replaced-or-repaired",
+  "name": "What are common signs that my window stool needs to be replaced or repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my window stool needs to be replaced or repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your window stool needs attention include visible water damage, such as swelling, discoloration, or rot, often due to condensation or leaks. Other indicators are cracks, significant dents, or looseness that compromises its stability or appearance. If you notice drafts or difficulty keeping the area clean, the seal around the stool might be failing. Maine Results, Inc. can assess the condition of your window stools in locations like Borah or West Boise to determine if repair or replacement is the best solution to maintain your window's integrity and aesthetic.",
+        "@type": "Answer",
+        "description": "Signs for replacement or repair include water damage, cracks, dents, looseness, or drafts around the stool."
+      }
+    }
+  ],
+  "description": "Signs for replacement or repair include water damage, cracks, dents, looseness, or drafts around the stool."
+}

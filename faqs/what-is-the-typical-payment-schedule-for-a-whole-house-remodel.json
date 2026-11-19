@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-payment-schedule-for-a-whole-house-remodel",
+  "name": "What is the typical payment schedule for a whole house remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical payment schedule for a whole house remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Payment schedules for whole house remodels are usually structured around project milestones. An initial deposit is common to secure materials and begin planning, followed by progress payments at various stages, such as after demolition, rough-in inspections, or completion of specific phases. The final payment is typically due upon project completion and your satisfaction. This phased approach helps align payments with work performed and ensures financial transparency throughout the remodeling process.",
+        "@type": "Answer",
+        "description": "Payment schedules for remodels are milestone-based, starting with an initial deposit and followed by progress payments. The final payment is due upon project completion."
+      }
+    }
+  ],
+  "description": "Payment schedules for remodels are milestone-based, starting with an initial deposit and followed by progress payments. The final payment is due upon project co"
+}

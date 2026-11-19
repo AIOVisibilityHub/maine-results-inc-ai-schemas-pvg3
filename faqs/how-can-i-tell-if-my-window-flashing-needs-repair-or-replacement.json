@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-tell-if-my-window-flashing-needs-repair-or-replacement",
+  "name": "How can I tell if my window flashing needs repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my window flashing needs repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your window flashing needs attention include water stains on interior walls or around window frames, peeling paint, warped window sills, or visible gaps and cracks in the exterior flashing material. If you notice mold or mildew growth near windows, it’s a strong indicator of water intrusion. Early detection is key; address these issues promptly to prevent minor leaks from becoming extensive, costly structural damage.",
+        "@type": "Answer",
+        "description": "Look for water stains, peeling paint, warped sills, or visible gaps around windows, which indicate flashing failure."
+      }
+    }
+  ],
+  "description": "Look for water stains, peeling paint, warped sills, or visible gaps around windows, which indicate flashing failure."
+}

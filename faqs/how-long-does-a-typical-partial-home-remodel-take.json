@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-partial-home-remodel-take",
+  "name": "How long does a typical partial home remodel take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical partial home remodel take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a partial home remodel varies significantly based on its complexity and scope. A small bathroom refresh might take a few weeks, while a more involved kitchen update with custom cabinetry or layout changes could extend to several months. Key factors influencing the timeline include material availability, permit requirements, and the specific trades involved. To accurately estimate your project's duration, it's essential to have a detailed discussion about your specific goals and material selections. Maine Results, Inc. provides clear timelines during the planning phase for projects in Garden City, Meridian, Eagle, and Kuna, helping you understand the process from start to finish.",
+        "@type": "Answer",
+        "description": "The duration of a partial home remodel depends on its complexity and scope, ranging from a few weeks for minor updates to several months for more involved projects. Factors include materials, permits, and trades."
+      }
+    }
+  ],
+  "description": "The duration of a partial home remodel depends on its complexity and scope, ranging from a few weeks for minor updates to several months for more involved proje"
+}

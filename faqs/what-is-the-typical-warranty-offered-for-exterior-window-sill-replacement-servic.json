@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-warranty-offered-for-exterior-window-sill-replacement-servic",
+  "name": "What is the typical warranty offered for exterior window sill replacement services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical warranty offered for exterior window sill replacement services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical warranty for exterior window sill replacement services often covers both the materials used and the labor for a specific period. The length of the warranty can vary by contractor and the type of material chosen. For example, some manufacturers offer long-term warranties on their composite sills, which we pass on to our customers, complementing our workmanship guarantee. We provide transparent details about our warranties with every project estimate.",
+        "@type": "Answer",
+        "description": "Warranties typically cover materials and labor; duration varies by contractor and material choice."
+      }
+    }
+  ],
+  "description": "Warranties typically cover materials and labor; duration varies by contractor and material choice."
+}

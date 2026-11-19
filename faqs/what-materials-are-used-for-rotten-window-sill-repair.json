@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-used-for-rotten-window-sill-repair",
+  "name": "What materials are used for rotten window sill repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for rotten window sill repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For rotten window sill repair, we commonly use several types of materials depending on the repair's nature and the homeowner's preferences. These include wood epoxies and fillers for smaller areas of decay, which provide a durable, waterproof bond. For full replacements, we often use rot-resistant wood species like cedar or treated lumber, or composite materials that offer superior moisture resistance and longevity. High-quality exterior-grade primers, paints, and sealants are also critical to protect the new or repaired sill from future water damage, ensuring lasting results in areas like Kuna.",
+        "@type": "Answer",
+        "description": "Materials include wood epoxies for minor repairs, or rot-resistant wood (cedar, treated lumber) and composite materials for full replacements, plus protective primers and paints."
+      }
+    }
+  ],
+  "description": "Materials include wood epoxies for minor repairs, or rot-resistant wood (cedar, treated lumber) and composite materials for full replacements, plus protective p"
+}

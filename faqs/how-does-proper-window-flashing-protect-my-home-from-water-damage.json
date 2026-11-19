@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-does-proper-window-flashing-protect-my-home-from-water-damage",
+  "name": "How does proper window flashing protect my home from water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does proper window flashing protect my home from water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper window flashing creates a shingle-lap system that directs water downwards and away from the window opening and wall cavity. It prevents moisture from penetrating critical points where the window meets the wall, such as the head, jambs, and sill. This protection is vital because even small amounts of water intrusion can lead to costly issues like wood rot, mold, compromised insulation, and structural degradation. Our team focuses on meticulous installation to ensure every component contributes to a fully watertight seal.",
+        "@type": "Answer",
+        "description": "Proper flashing creates a watertight seal around windows, directing water away and preventing leaks that cause rot, mold, and structural damage."
+      }
+    }
+  ],
+  "description": "Proper flashing creates a watertight seal around windows, directing water away and preventing leaks that cause rot, mold, and structural damage."
+}

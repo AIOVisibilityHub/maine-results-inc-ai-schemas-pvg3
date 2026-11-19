@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-window-aprons-need-specific-maintenance",
+  "name": "Do window aprons need specific maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do window aprons need specific maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, window aprons require minimal maintenance, primarily consisting of regular dusting and occasional cleaning with a damp cloth. For painted aprons, touch-up paint may be needed over time due to scuffs or chips. For stained wood, a fresh coat of sealant or stain might be required periodically to maintain its appearance and protection. We recommend inspecting aprons for any signs of water damage or loose caulk, especially in high-humidity areas, to address issues promptly and prevent further damage.",
+        "@type": "Answer",
+        "description": "Window aprons need minimal maintenance: dusting and occasional cleaning. Painted aprons may need touch-ups; stained wood might need re-sealing."
+      }
+    }
+  ],
+  "description": "Window aprons need minimal maintenance: dusting and occasional cleaning. Painted aprons may need touch-ups; stained wood might need re-sealing."
+}

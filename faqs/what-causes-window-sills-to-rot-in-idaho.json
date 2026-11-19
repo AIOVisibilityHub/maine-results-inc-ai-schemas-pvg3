@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-causes-window-sills-to-rot-in-idaho",
+  "name": "What causes window sills to rot in Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes window sills to rot in Idaho?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rotten window sills in Idaho are typically caused by moisture exposure, often from rain, snow, or condensation. Poor drainage around windows, failing caulk or paint, and lack of proper sealing can allow water to seep into the wood. Over time, this moisture encourages fungal growth, leading to decay. The fluctuating temperatures in areas like Garden City and Meridian can exacerbate the problem by causing materials to expand and contract, creating small gaps for water intrusion.",
+        "@type": "Answer",
+        "description": "Window sills rot due to prolonged moisture exposure from rain, snow, or condensation, often worsened by poor sealing and fluctuating temperatures."
+      }
+    }
+  ],
+  "description": "Window sills rot due to prolonged moisture exposure from rain, snow, or condensation, often worsened by poor sealing and fluctuating temperatures."
+}

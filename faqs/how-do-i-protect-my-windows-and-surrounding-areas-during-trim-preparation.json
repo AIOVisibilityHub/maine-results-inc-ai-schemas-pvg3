@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-protect-my-windows-and-surrounding-areas-during-trim-preparation",
+  "name": "How do I protect my windows and surrounding areas during trim preparation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I protect my windows and surrounding areas during trim preparation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Protecting your windows and surrounding areas during trim preparation involves using painter's tape, plastic sheeting, and drop cloths. Painter's tape should be applied precisely to the glass and adjacent siding to create clean lines and prevent paint splatter. Plastic sheeting can cover entire windows or nearby bushes, while drop cloths protect the ground. Maine Results, Inc. takes great care to mask and cover all non-painted surfaces to ensure a clean and professional outcome for your home.",
+        "@type": "Answer",
+        "description": "Use painter's tape on glass, plastic sheeting for windows and bushes, and drop cloths to protect surrounding areas."
+      }
+    }
+  ],
+  "description": "Use painter's tape on glass, plastic sheeting for windows and bushes, and drop cloths to protect surrounding areas."
+}

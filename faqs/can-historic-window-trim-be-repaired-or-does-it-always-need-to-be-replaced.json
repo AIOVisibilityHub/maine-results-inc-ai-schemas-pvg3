@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-historic-window-trim-be-repaired-or-does-it-always-need-to-be-replaced",
+  "name": "Can historic window trim be repaired, or does it always need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can historic window trim be repaired, or does it always need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Historic window trim can often be repaired rather than fully replaced, especially if the damage is localized and the underlying material is sound. Techniques such as wood consolidation, epoxy repairs, and dutchman patches can effectively restore original pieces. Replacement is typically reserved for severely deteriorated or missing sections that cannot be salvaged. Maine Results, Inc. prioritizes repair to maintain as much of the original fabric as possible, a key consideration for preserving historical accuracy and the unique character of properties in areas like Eagle or Kuna.",
+        "@type": "Answer",
+        "description": "Historic window trim can often be repaired using techniques like wood consolidation or epoxy patches. Replacement is for severely damaged or missing sections that cannot be salvaged."
+      }
+    }
+  ],
+  "description": "Historic window trim can often be repaired using techniques like wood consolidation or epoxy patches. Replacement is for severely damaged or missing sections th"
+}

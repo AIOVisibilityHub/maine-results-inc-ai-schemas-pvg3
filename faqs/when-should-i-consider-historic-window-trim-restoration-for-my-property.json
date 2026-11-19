@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-historic-window-trim-restoration-for-my-property",
+  "name": "When should I consider historic window trim restoration for my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider historic window trim restoration for my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider historic window trim restoration when you notice signs of deterioration like rot, cracks, peeling paint, or when trim pieces are missing or severely damaged. Early intervention can prevent further damage to your windows and the surrounding structure, potentially reducing the overall cost and complexity of repairs. Before contacting us, documenting the condition of your existing trim with photos and noting any specific areas of concern can help us understand the scope of work more accurately and provide a tailored solution for your home.",
+        "@type": "Answer",
+        "description": "Consider restoration when you see rot, cracks, peeling paint, or missing trim on historic windows. Early action can prevent further damage and reduce repair costs."
+      }
+    }
+  ],
+  "description": "Consider restoration when you see rot, cracks, peeling paint, or missing trim on historic windows. Early action can prevent further damage and reduce repair cos"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-the-right-contractor-for-historic-window-trim-restoration-in-the",
+  "name": "How do I choose the right contractor for historic window trim restoration in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for historic window trim restoration in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for historic window trim restoration, look for a company with demonstrated experience in historic preservation and an understanding of traditional building materials and techniques. Review their portfolio for similar projects and ask for references. It's also important to choose a contractor familiar with the architectural styles prevalent in areas like the East End or North End of Boise. Maine Results, Inc. provides detailed proposals and discusses our specialized approach to ensure your specific restoration needs are met with historical accuracy and craftsmanship.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience in historic preservation, a strong portfolio, and knowledge of traditional materials. Ensure they understand local architectural styles."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience in historic preservation, a strong portfolio, and knowledge of traditional materials. Ensure they understand local architect"
+}

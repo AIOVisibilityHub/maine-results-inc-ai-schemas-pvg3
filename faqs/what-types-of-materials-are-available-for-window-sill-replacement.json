@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-materials-are-available-for-window-sill-replacement",
+  "name": "What types of materials are available for window sill replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are available for window sill replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window sills can be replaced with various materials, each offering different aesthetics and durability. Common options include wood (often pine, oak, or cedar), composite materials, PVC, and natural stone. Wood provides a classic look but requires more maintenance, while composite and PVC are low-maintenance and resistant to moisture. The best choice often depends on your home's style and your budget. Maine Results, Inc. can help you compare these options to find a solution that best fits your home in Meridian, balancing durability with desired appearance.",
+        "@type": "Answer",
+        "description": "Materials include wood, composite, PVC, or stone; each has different durability, maintenance needs, and aesthetics."
+      }
+    }
+  ],
+  "description": "Materials include wood, composite, PVC, or stone; each has different durability, maintenance needs, and aesthetics."
+}

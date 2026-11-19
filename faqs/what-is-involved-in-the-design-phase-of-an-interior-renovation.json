@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-involved-in-the-design-phase-of-an-interior-renovation",
+  "name": "What is involved in the design phase of an interior renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the design phase of an interior renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The design phase typically starts with a consultation to discuss your vision, functional requirements, and budget. Our team will then develop initial concepts, including layouts and material selections, often using 3D renderings. Process clarity is achieved through iterative feedback sessions where we refine the design based on your input until it perfectly matches your expectations before moving to construction.",
+        "@type": "Answer",
+        "description": "The design phase begins with a consultation, leading to initial concepts and material selections. We refine designs through your feedback until they meet your vision."
+      }
+    }
+  ],
+  "description": "The design phase begins with a consultation, leading to initial concepts and material selections. We refine designs through your feedback until they meet your v"
+}

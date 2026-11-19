@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/does-rotten-window-sill-repair-involve-interior-or-exterior-work",
+  "name": "Does rotten window sill repair involve interior or exterior work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does rotten window sill repair involve interior or exterior work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rotten window sill repair primarily involves exterior work, as the sill is an external component designed to shed water away from the window and wall. However, depending on the severity and depth of the rot, it can sometimes extend into the interior framing or trim. If the rot has compromised the structural integrity or spread beyond the sill itself, some interior demolition and repair might be necessary to fully address the issue and prevent further damage. Our initial assessment determines the full scope, ensuring both exterior durability and interior integrity for homes in places like Caldwell and Nampa.",
+        "@type": "Answer",
+        "description": "Mainly exterior, but severe rot can necessitate interior work if damage extends to framing or trim."
+      }
+    }
+  ],
+  "description": "Mainly exterior, but severe rot can necessitate interior work if damage extends to framing or trim."
+}

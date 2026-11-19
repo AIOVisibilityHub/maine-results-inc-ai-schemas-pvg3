@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-a-window-apron-and-why-is-it-important",
+  "name": "What is a window apron and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a window apron and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A window apron is a decorative and functional trim piece installed horizontally beneath the window stool, against the wall. It covers the gap between the window frame and the wall finish, providing a clean, finished appearance. Beyond aesthetics, it can help protect the wall from moisture and create a more polished transition from the window to the interior space. We often find that a well-installed apron significantly contributes to the overall interior aesthetic and protects the wall finish.",
+        "@type": "Answer",
+        "description": "A window apron is a trim piece beneath the window stool that offers a finished look and protects the wall. It covers gaps and enhances interior aesthetics while protecting the wall."
+      }
+    }
+  ],
+  "description": "A window apron is a trim piece beneath the window stool that offers a finished look and protects the wall. It covers gaps and enhances interior aesthetics while"
+}

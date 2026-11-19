@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-considered-a-partial-home-remodel",
+  "name": "What is considered a partial home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a partial home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A partial home remodel focuses on specific areas or rooms within your home, rather than renovating the entire structure. This can include updating a kitchen, bathroom, basement, or even a single living space like a bedroom or home office. The scope often involves cosmetic changes, fixture upgrades, or minor layout adjustments to improve functionality and aesthetics without extensive structural alterations. Opting for a partial remodel allows homeowners to address immediate needs or desired improvements while managing budget and disruption more effectively than a full-scale renovation. Maine Results, Inc. specializes in tailoring these projects to individual client needs within the Garden City, Meridian, Eagle, and Kuna areas.",
+        "@type": "Answer",
+        "description": "A partial home remodel updates specific rooms or areas of your home, like a kitchen or bathroom, without renovating the entire property. It's ideal for targeted improvements and managing project scope."
+      }
+    }
+  ],
+  "description": "A partial home remodel updates specific rooms or areas of your home, like a kitchen or bathroom, without renovating the entire property. It's ideal for targeted"
+}

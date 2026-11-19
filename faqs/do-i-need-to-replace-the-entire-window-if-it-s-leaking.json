@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-replace-the-entire-window-if-it-s-leaking",
+  "name": "Do I need to replace the entire window if it's leaking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace the entire window if it's leaking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not necessarily; replacing an entire window is typically only required if the frame is severely rotted, warped beyond repair, or the leak is due to a fundamental defect in the window's design that cannot be effectively sealed. Often, leaks can be resolved through targeted repairs such as resealing, replacing damaged components, or addressing issues with the installation. Our inspection will assess the extent of the damage to determine whether a repair is sufficient or if replacement offers a more cost-effective and long-term solution for your home.",
+        "@type": "Answer",
+        "description": "An entire window replacement is only needed if the frame is severely damaged or the leak stems from an irreparable design defect; often, targeted repairs suffice."
+      }
+    }
+  ],
+  "description": "An entire window replacement is only needed if the frame is severely damaged or the leak stems from an irreparable design defect; often, targeted repairs suffic"
+}

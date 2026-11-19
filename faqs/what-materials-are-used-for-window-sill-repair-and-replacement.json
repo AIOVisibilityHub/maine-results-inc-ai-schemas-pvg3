@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-used-for-window-sill-repair-and-replacement",
+  "name": "What materials are used for window sill repair and replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for window sill repair and replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for window sill repair and replacement include wood (such as cedar or pine), composite materials, and PVC. Wood is a traditional choice, offering a classic look, but requires regular maintenance. Composite and PVC options are more durable, weather-resistant, and require less upkeep. The best material for your project depends on your budget, aesthetic preferences, and the level of maintenance you are willing to perform. We can discuss these options and their benefits during our consultation.",
+        "@type": "Answer",
+        "description": "Materials for window sill repair include wood, composite, and PVC, each offering different durability and maintenance needs."
+      }
+    }
+  ],
+  "description": "Materials for window sill repair include wood, composite, and PVC, each offering different durability and maintenance needs."
+}

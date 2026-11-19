@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-some-common-challenges-during-a-whole-house-remodel-and-how-are-they-ha",
+  "name": "What are some common challenges during a whole house remodel and how are they handled?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are some common challenges during a whole house remodel and how are they handled?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges during a whole house remodel include unforeseen structural issues, material delays, and unexpected budget adjustments. We address these by conducting thorough pre-construction assessments to identify potential problems early, maintaining open communication about material lead times, and working with clients to make informed decisions regarding alternatives if delays occur. A contingency fund is also highly recommended to handle unexpected costs. Our proactive approach aims to minimize disruptions and keep the project on track.",
+        "@type": "Answer",
+        "description": "Common challenges include unforeseen structural issues, material delays, and budget adjustments. We handle these through pre-construction assessments, open communication, and recommending a contingency fund."
+      }
+    }
+  ],
+  "description": "Common challenges include unforeseen structural issues, material delays, and budget adjustments. We handle these through pre-construction assessments, open comm"
+}

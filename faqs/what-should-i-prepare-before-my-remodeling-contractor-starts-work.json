@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-my-remodeling-contractor-starts-work",
+  "name": "What should I prepare before my remodeling contractor starts work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before my remodeling contractor starts work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your remodeling contractor begins, you should prepare your home by clearing the work area of furniture, personal items, and any valuables. Discuss access points for workers and materials, and understand how utilities might be affected. It's also helpful to finalize all design decisions and material selections to prevent delays once the project starts. This preparation helps ensure a smooth and efficient start to your renovation.",
+        "@type": "Answer",
+        "description": "Before work begins, clear the area, discuss access, understand utility impacts, and finalize design and material choices."
+      }
+    }
+  ],
+  "description": "Before work begins, clear the area, discuss access, understand utility impacts, and finalize design and material choices."
+}

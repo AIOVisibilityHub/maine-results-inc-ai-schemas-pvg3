@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-permits-are-needed-for-a-family-room-remodel-in-garden-city",
+  "name": "What kind of permits are needed for a family room remodel in Garden City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of permits are needed for a family room remodel in Garden City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for a family room remodel depend on the scope of work. Minor cosmetic changes typically don't require permits, but projects involving structural alterations, electrical modifications, plumbing work, or significant footprint changes usually do. Local building codes, like those in Garden City, govern these requirements to ensure safety and compliance. We handle the necessary permit applications and inspections as part of our service, streamlining the process for you.",
+        "@type": "Answer",
+        "description": "Permits are needed for structural, electrical, or plumbing changes, but not typically for minor cosmetic updates. We manage all required permit applications and inspections for your project."
+      }
+    }
+  ],
+  "description": "Permits are needed for structural, electrical, or plumbing changes, but not typically for minor cosmetic updates. We manage all required permit applications and"
+}

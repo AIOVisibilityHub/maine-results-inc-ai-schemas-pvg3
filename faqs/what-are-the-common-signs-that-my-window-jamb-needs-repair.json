@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-common-signs-that-my-window-jamb-needs-repair",
+  "name": "What are the common signs that my window jamb needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my window jamb needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that indicate your window jamb needs repair include visible rot, cracks, soft spots when pressed, peeling paint, or difficulty opening and closing the window. Drafts around the window frame, increased energy bills, or water stains on the wall below the window can also point to jamb damage. Identifying these issues early can prevent more extensive and costly repairs to the window assembly or surrounding wall structure. We often see damage caused by prolonged moisture exposure or pest activity, which can compromise the structural integrity of the window frame.",
+        "@type": "Answer",
+        "description": "Visible rot, cracks, soft spots, peeling paint, difficulty operating the window, or drafts are common signs of window jamb damage."
+      }
+    }
+  ],
+  "description": "Visible rot, cracks, soft spots, peeling paint, difficulty operating the window, or drafts are common signs of window jamb damage."
+}

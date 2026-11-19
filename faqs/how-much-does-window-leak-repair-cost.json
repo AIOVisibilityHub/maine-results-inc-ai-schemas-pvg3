@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-window-leak-repair-cost",
+  "name": "How much does window leak repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does window leak repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of window leak repair varies significantly based on the cause, severity, and accessibility of the leak. Minor repairs, like resealing a small gap, can be less expensive than extensive work involving frame damage or re-installation. Factors like the type of window, materials needed, and labor involved all influence the final price. We provide a detailed estimate after assessing the specific problem during an on-site consultation to give you an accurate understanding of the investment required.",
+        "@type": "Answer",
+        "description": "Window leak repair costs vary widely depending on the leak's cause, severity, and accessibility, as well as the materials and labor required."
+      }
+    }
+  ],
+  "description": "Window leak repair costs vary widely depending on the leak's cause, severity, and accessibility, as well as the materials and labor required."
+}

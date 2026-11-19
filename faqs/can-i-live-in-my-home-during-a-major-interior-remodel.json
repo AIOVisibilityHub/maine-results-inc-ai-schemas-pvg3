@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-live-in-my-home-during-a-major-interior-remodel",
+  "name": "Can I live in my home during a major interior remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a major interior remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can live in your home during a major interior remodel depends on the specific areas being renovated and the extent of the work. If essential facilities like your kitchen or only bathroom are out of commission for an extended period, it might be more comfortable and safer to arrange temporary accommodation. However, for projects affecting only one or two rooms, it's often feasible to remain at home with proper dust control and designated work zones. We discuss these options with clients at Maine Results, Inc., providing insights on managing the disruption for projects in places like Kuna and Meridian.",
+        "@type": "Answer",
+        "description": "Living at home during a remodel depends on the project scope and affected areas. Temporary accommodation might be needed for essential facility renovations."
+      }
+    }
+  ],
+  "description": "Living at home during a remodel depends on the project scope and affected areas. Temporary accommodation might be needed for essential facility renovations."
+}

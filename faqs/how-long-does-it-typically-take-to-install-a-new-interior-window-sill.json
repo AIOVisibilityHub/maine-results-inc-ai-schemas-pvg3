@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-typically-take-to-install-a-new-interior-window-sill",
+  "name": "How long does it typically take to install a new interior window sill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to install a new interior window sill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to install a new interior window sill can vary depending on the window's size, the chosen material, and the complexity of the existing opening. A straightforward installation for a single window might take a few hours. However, custom cuts, repairs to the surrounding wall, or installing multiple sills in one visit will extend the duration. We can provide a more precise estimate after assessing your specific windows and the project scope during an initial consultation.",
+        "@type": "Answer",
+        "description": "Installation time for an interior window sill varies by size, material, and opening complexity, typically ranging from a few hours for a single window to longer for multiple or custom jobs."
+      }
+    }
+  ],
+  "description": "Installation time for an interior window sill varies by size, material, and opening complexity, typically ranging from a few hours for a single window to longer"
+}

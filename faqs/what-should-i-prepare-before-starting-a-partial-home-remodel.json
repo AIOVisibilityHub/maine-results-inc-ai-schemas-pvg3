@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-starting-a-partial-home-remodel",
+  "name": "What should I prepare before starting a partial home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before starting a partial home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting a partial home remodel, it's beneficial to have a clear vision of your goals, including desired aesthetics and functionality. Gather inspiration photos, create a list of 'must-haves' versus 'nice-to-haves,' and establish a realistic budget. Consider how the remodel will impact your daily life and plan for temporary arrangements if necessary, especially for kitchen or bathroom renovations. Having a preliminary idea of materials and finishes you prefer can also streamline the design phase. This preparation helps ensure that your initial discussions with Maine Results, Inc. are productive and lead to an efficient project plan tailored to your expectations.",
+        "@type": "Answer",
+        "description": "Before a remodel, prepare by clarifying your vision, gathering inspiration, creating a 'must-have' list, setting a budget, and considering material preferences to streamline the planning process."
+      }
+    }
+  ],
+  "description": "Before a remodel, prepare by clarifying your vision, gathering inspiration, creating a 'must-have' list, setting a budget, and considering material preferences"
+}

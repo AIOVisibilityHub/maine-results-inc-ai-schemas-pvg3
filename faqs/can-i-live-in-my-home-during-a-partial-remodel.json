@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-live-in-my-home-during-a-partial-remodel",
+  "name": "Can I live in my home during a partial remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a partial remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, you can live in your home during a partial remodel, especially if the work is confined to a single area like a bathroom or a specific bedroom. However, expect some disruption, including noise, dust, and temporary loss of access to the remodeled space. If the kitchen or only bathroom is being renovated, you'll need to plan for alternative cooking and hygiene arrangements, such as setting up a temporary kitchenette or using a secondary bathroom. Your contractor should implement measures to contain dust and debris to minimize inconvenience. Maine Results, Inc. prioritizes keeping your living space as functional as possible throughout the project.",
+        "@type": "Answer",
+        "description": "You can often live in your home during a partial remodel, but expect disruption like noise and dust. Plan for alternative arrangements if essential rooms like kitchens or main bathrooms are being renovated."
+      }
+    }
+  ],
+  "description": "You can often live in your home during a partial remodel, but expect disruption like noise and dust. Plan for alternative arrangements if essential rooms like k"
+}

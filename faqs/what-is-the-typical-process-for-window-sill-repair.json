@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-window-sill-repair",
+  "name": "What is the typical process for window sill repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for window sill repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for window sill repair involves several steps. First, the damaged section is carefully removed. Next, the area is cleaned and prepared, ensuring any remaining rot or debris is completely gone. New material, whether wood or composite, is then cut to size and installed, often with weather-resistant sealants to prevent future moisture intrusion. Finally, the repaired area is sanded and painted or stained to match the existing trim. We prioritize efficient and clean workmanship to minimize disruption to your home.",
+        "@type": "Answer",
+        "description": "Window sill repair involves removing damaged sections, preparing the area, installing new material, sealing, and finishing to match existing trim."
+      }
+    }
+  ],
+  "description": "Window sill repair involves removing damaged sections, preparing the area, installing new material, sealing, and finishing to match existing trim."
+}

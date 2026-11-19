@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-residential-remodeling-project-take",
+  "name": "How long does a typical residential remodeling project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical residential remodeling project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a residential remodeling project varies significantly based on its scope and complexity. A bathroom remodel might take a few weeks, while a whole-home renovation or significant addition could span several months. Factors like material availability, permit approvals, and unforeseen structural discoveries can all affect the timeline. We provide a detailed project schedule at the outset to give you a clear understanding of the anticipated phases and milestones.",
+        "@type": "Answer",
+        "description": "Project duration depends on scope and complexity; it can range from weeks for a bathroom to months for a whole-home renovation."
+      }
+    }
+  ],
+  "description": "Project duration depends on scope and complexity; it can range from weeks for a bathroom to months for a whole-home renovation."
+}
