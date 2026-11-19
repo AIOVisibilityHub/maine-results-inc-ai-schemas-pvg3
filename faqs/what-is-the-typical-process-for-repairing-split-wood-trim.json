@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-repairing-split-wood-trim",
+  "name": "What is the typical process for repairing split wood trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for repairing split wood trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for repairing split wood trim usually begins with cleaning the damaged area and, if necessary, stabilizing loose pieces. For smaller splits, a wood filler or epoxy is applied, sanded smooth, and then primed and painted to match the existing trim. Larger splits might require careful gluing, clamping, and potentially the insertion of wood shims before filling and finishing. Process Clarity: Before we begin, we always assess the wood type and the extent of the damage to determine the most effective repair method, ensuring a seamless and durable finish.",
+        "@type": "Answer",
+        "description": "Repair involves cleaning, applying wood filler or epoxy, sanding, priming, and painting. Larger splits may need gluing and shims. The method depends on the wood type and damage."
+      }
+    }
+  ],
+  "description": "Repair involves cleaning, applying wood filler or epoxy, sanding, priming, and painting. Larger splits may need gluing and shims. The method depends on the wood"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-quickly-should-i-address-a-water-leak-in-my-home",
+  "name": "How quickly should I address a water leak in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I address a water leak in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should address a water leak as quickly as possible to prevent further damage and potential mold growth. Water can spread rapidly, compromising structural integrity and encouraging mildew within 24-48 hours. A swift response can significantly reduce the repair scope and associated costs. Our team at Maine Results, Inc. prioritizes quick assessments to mitigate ongoing issues.",
+        "@type": "Answer",
+        "description": "Address a water leak immediately to prevent further damage and mold growth. Rapid action minimizes repair scope and costs."
+      }
+    }
+  ],
+  "description": "Address a water leak immediately to prevent further damage and mold growth. Rapid action minimizes repair scope and costs."
+}

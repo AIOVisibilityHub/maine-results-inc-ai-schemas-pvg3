@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-home-s-exterior-trim-needs-to-be-replaced",
+  "name": "How do I know if my home's exterior trim needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my home's exterior trim needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can identify the need for exterior trim replacement by inspecting for visible signs of deterioration. Look for peeling paint, soft or crumbling wood, cracks, gaps, or signs of insect activity. Pay close attention to areas exposed to direct sunlight and moisture, such as window and door frames, fascia, and soffits. If you can easily push a screwdriver into the wood, it indicates rot. Early detection and replacement prevent further damage to your home's structure. As a preparation step, identify areas of concern and take photos to discuss with a contractor.",
+        "@type": "Answer",
+        "description": "Inspect for peeling paint, soft wood, cracks, gaps, or insect damage, especially in high-moisture areas."
+      }
+    }
+  ],
+  "description": "Inspect for peeling paint, soft wood, cracks, gaps, or insect damage, especially in high-moisture areas."
+}

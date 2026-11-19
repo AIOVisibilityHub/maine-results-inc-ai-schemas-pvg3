@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-damage-can-wind-cause-to-my-roof",
+  "name": "What kind of damage can wind cause to my roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of damage can wind cause to my roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Strong winds can cause a variety of issues for your roof, from lifting or tearing off shingles to dislodging larger sections of roofing material. Even if you don't see immediate missing shingles, wind can loosen their seals, making them vulnerable to future weather or creating pathways for water intrusion. Our team inspects for both visible damage and subtle signs like creased or curled shingles that indicate potential hidden issues requiring repair to prevent leaks.",
+        "@type": "Answer",
+        "description": "Wind can lift, tear off, or loosen shingles, potentially leading to leaks and further damage. We inspect for both obvious and subtle signs of wind damage to your roof."
+      }
+    }
+  ],
+  "description": "Wind can lift, tear off, or loosen shingles, potentially leading to leaks and further damage. We inspect for both obvious and subtle signs of wind damage to you"
+}

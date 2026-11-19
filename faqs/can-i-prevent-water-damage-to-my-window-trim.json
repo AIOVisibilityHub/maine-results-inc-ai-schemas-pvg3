@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-prevent-water-damage-to-my-window-trim",
+  "name": "Can I prevent water damage to my window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I prevent water damage to my window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, preventative measures can significantly reduce the risk of water damage to your window trim. Regularly inspect your window caulking and repaint or reseal exterior trim as needed to maintain its protective barrier. Ensure your gutters and downspouts are clear and properly divert water away from your home's foundation and windows. For residences in areas with significant seasonal weather changes like Caldwell, these routine maintenance tasks are crucial to protecting your investment.",
+        "@type": "Answer",
+        "description": "Regularly inspect and reseal caulking, repaint trim, and ensure proper gutter function to prevent damage."
+      }
+    }
+  ],
+  "description": "Regularly inspect and reseal caulking, repaint trim, and ensure proper gutter function to prevent damage."
+}

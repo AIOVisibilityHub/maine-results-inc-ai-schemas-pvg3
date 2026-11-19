@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-wash-my-walls-before-painting-them",
+  "name": "Should I wash my walls before painting them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I wash my walls before painting them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, washing walls before painting is a critical preparation step that should not be skipped. Dust, grease, grime, and other residues can prevent new paint from adhering properly, leading to peeling or an uneven finish. Use a mild detergent solution and a sponge, then rinse with clean water and allow the walls to dry completely. This step ensures a clean, smooth surface that allows the paint to bond securely. As part of our service in places like Garden City and Kuna, we always include thorough wall cleaning to maximize paint adhesion and finish quality.",
+        "@type": "Answer",
+        "description": "Yes, wash walls to remove dust, grease, and grime, ensuring paint adheres properly for a smooth and lasting finish."
+      }
+    }
+  ],
+  "description": "Yes, wash walls to remove dust, grease, and grime, ensuring paint adheres properly for a smooth and lasting finish."
+}

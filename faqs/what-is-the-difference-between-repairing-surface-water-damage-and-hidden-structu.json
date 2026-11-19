@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-repairing-surface-water-damage-and-hidden-structu",
+  "name": "What is the difference between repairing surface water damage and hidden structural water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between repairing surface water damage and hidden structural water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Surface water damage typically affects visible layers like paint, wallpaper, or the outermost drywall. This type of damage is often straightforward to repair once the moisture source is addressed. Hidden structural water damage, however, penetrates deeper, impacting framing, insulation, or subflooring, and often involves prolonged moisture exposure or a significant leak. This requires more extensive demolition, drying, and rebuilding to ensure structural integrity and prevent mold. A critical decision factor is identifying if moisture has reached beyond the surface, as this changes the scope and complexity of the repair significantly.",
+        "@type": "Answer",
+        "description": "Surface damage affects visible layers; hidden damage impacts structural elements, requiring more extensive repairs. Identifying the depth of damage is crucial."
+      }
+    }
+  ],
+  "description": "Surface damage affects visible layers; hidden damage impacts structural elements, requiring more extensive repairs. Identifying the depth of damage is crucial."
+}

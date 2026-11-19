@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/will-cracked-trim-repair-affect-my-home-s-curb-appeal",
+  "name": "Will cracked trim repair affect my home's curb appeal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will cracked trim repair affect my home's curb appeal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, successfully repairing cracked trim can significantly improve your home's curb appeal. Cracked or deteriorating trim detracts from a home's aesthetic, making it appear poorly maintained. By repairing these imperfections, the exterior looks cleaner, well-kept, and more attractive. Our goal is to seamlessly blend repairs with your existing trim, ensuring the repaired sections are virtually indistinguishable and enhance your home's overall appearance.",
+        "@type": "Answer",
+        "description": "Repairing cracked trim significantly improves curb appeal by making the home's exterior look well-maintained and aesthetically pleasing."
+      }
+    }
+  ],
+  "description": "Repairing cracked trim significantly improves curb appeal by making the home's exterior look well-maintained and aesthetically pleasing."
+}

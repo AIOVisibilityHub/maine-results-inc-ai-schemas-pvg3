@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-water-damaged-wall-repair-typically-cost-in-areas-like-meridian-or",
+  "name": "How much does water damaged wall repair typically cost in areas like Meridian or Eagle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does water damaged wall repair typically cost in areas like Meridian or Eagle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of water damaged wall repair varies significantly based on the extent of the damage, the type of wall material, and the cause of the water intrusion. Minor repairs, such as patching and repainting small sections, will be less expensive than repairs involving structural elements, mold remediation, or extensive drywall replacement. A practical tradeoff is balancing immediate repair costs against the potential for higher expenses later if underlying issues like leaks or mold are not fully addressed. Maine Results, Inc. provides detailed estimates after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Repair costs depend on damage extent and wall material. Minor repairs are cheaper than structural or mold-related issues. Estimates are provided after assessment."
+      }
+    }
+  ],
+  "description": "Repair costs depend on damage extent and wall material. Minor repairs are cheaper than structural or mold-related issues. Estimates are provided after assessmen"
+}

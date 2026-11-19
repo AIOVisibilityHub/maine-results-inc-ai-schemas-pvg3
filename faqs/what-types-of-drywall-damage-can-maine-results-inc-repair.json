@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-drywall-damage-can-maine-results-inc-repair",
+  "name": "What types of drywall damage can Maine Results Inc. repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of drywall damage can Maine Results Inc. repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results Inc. handles a variety of drywall damage, from small dents and holes to larger sections needing replacement. This includes impacts from furniture, moisture damage leading to soft spots or discoloration, cracks from settling, and damage from plumbing or electrical work. When assessing the repair, our team considers the extent of the damage and its underlying cause to ensure a lasting solution. For instance, if water is the culprit, we'll first ensure the source of moisture is addressed before proceeding with the drywall fix to prevent recurrence.",
+        "@type": "Answer",
+        "description": "Maine Results Inc. repairs dents, holes, cracks, and moisture-related drywall damage."
+      }
+    }
+  ],
+  "description": "Maine Results Inc. repairs dents, holes, cracks, and moisture-related drywall damage."
+}

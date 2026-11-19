@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-roof-has-storm-damage-that-needs-professional-repair",
+  "name": "How do I know if my roof has storm damage that needs professional repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my roof has storm damage that needs professional repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should check for visible signs of damage after a storm, such as missing or torn shingles, dents on soft metals like gutters or downspouts, and granules in your gutters. Interior water stains on ceilings or walls are also clear indicators of a roof leak. Even if damage isn't immediately obvious, a professional inspection is crucial because hidden issues like loosened sealants or subtle impact damage can worsen over time. Maine Results, Inc. can provide a comprehensive assessment to identify all damage.",
+        "@type": "Answer",
+        "description": "Look for missing shingles, dents on metal, granules in gutters, or interior water stains. A professional inspection identifies hidden issues."
+      }
+    }
+  ],
+  "description": "Look for missing shingles, dents on metal, granules in gutters, or interior water stains. A professional inspection identifies hidden issues."
+}

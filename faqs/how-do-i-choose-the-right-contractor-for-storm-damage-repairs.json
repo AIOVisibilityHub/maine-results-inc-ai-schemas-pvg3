@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-the-right-contractor-for-storm-damage-repairs",
+  "name": "How do I choose the right contractor for storm damage repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for storm damage repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for storm damage repairs, look for a company with a proven track record, positive local references, and proper licensing and insurance. It's important to choose a contractor familiar with insurance claims processes to ensure smooth coordination. Ask for a detailed, written estimate that clearly outlines the scope of work and materials. Maine Results, Inc. emphasizes transparency, provides comprehensive estimates, and actively assists clients through the insurance claim process.",
+        "@type": "Answer",
+        "description": "Choose a contractor with a proven track record, local references, proper licensing, insurance, and experience with insurance claims."
+      }
+    }
+  ],
+  "description": "Choose a contractor with a proven track record, local references, proper licensing, insurance, and experience with insurance claims."
+}

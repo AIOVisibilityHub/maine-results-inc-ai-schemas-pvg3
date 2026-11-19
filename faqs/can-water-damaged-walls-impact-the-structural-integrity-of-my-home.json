@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-water-damaged-walls-impact-the-structural-integrity-of-my-home",
+  "name": "Can water damaged walls impact the structural integrity of my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can water damaged walls impact the structural integrity of my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, water damaged walls can significantly impact the structural integrity of your home, especially if the damage is extensive or prolonged. Moisture can weaken wooden studs, compromise drywall, and lead to rot, which reduces the load-bearing capacity of walls. This can result in sagging floors, bowing walls, or even roof issues over time. A critical decision factor is assessing if the damage extends beyond cosmetic issues to include framing or foundational elements, as structural repairs are complex and vital for safety. Maine Results, Inc. evaluates for hidden structural damage during initial assessments.",
+        "@type": "Answer",
+        "description": "Yes, extensive or prolonged water damage can weaken structural components like studs and drywall, affecting the home's integrity. Assessment is crucial."
+      }
+    }
+  ],
+  "description": "Yes, extensive or prolonged water damage can weaken structural components like studs and drywall, affecting the home's integrity. Assessment is crucial."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-do-first-if-i-discover-water-damage-in-a-wall-at-my-home-in-garden",
+  "name": "What should I do first if I discover water damage in a wall at my home in Garden City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do first if I discover water damage in a wall at my home in Garden City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover water damage, your first step is to immediately identify and stop the water source to prevent further damage. This might involve turning off a water supply valve or addressing a leaky pipe. Next, remove any standing water and begin drying the area using fans or dehumidifiers if possible. This initial preparation can significantly limit the damage and aid in the subsequent professional repair. Contacting Maine Results, Inc. promptly after mitigating the source allows us to assess the situation and plan an effective repair strategy, preventing escalation.",
+        "@type": "Answer",
+        "description": "First, stop the water source and begin drying the area. This limits damage and prepares for professional assessment and repair."
+      }
+    }
+  ],
+  "description": "First, stop the water source and begin drying the area. This limits damage and prepares for professional assessment and repair."
+}

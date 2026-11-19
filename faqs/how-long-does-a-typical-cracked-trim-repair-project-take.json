@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-cracked-trim-repair-project-take",
+  "name": "How long does a typical cracked trim repair project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical cracked trim repair project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a cracked trim repair project varies significantly based on the number of areas needing attention, the extent of the damage, and the type of material being repaired or replaced. A small, isolated repair might only take a few hours, while extensive damage across multiple sections could require several days. During our initial consultation, we provide an estimated timeline based on a thorough assessment of your specific repair needs.",
+        "@type": "Answer",
+        "description": "Repair time depends on the damage's extent and number of areas, ranging from a few hours for minor cracks to several days for extensive work."
+      }
+    }
+  ],
+  "description": "Repair time depends on the damage's extent and number of areas, ranging from a few hours for minor cracks to several days for extensive work."
+}

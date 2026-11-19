@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-contact-my-insurance-company-before-getting-a-wind-damage-repair-qu",
+  "name": "Do I need to contact my insurance company before getting a wind damage repair quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to contact my insurance company before getting a wind damage repair quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's often beneficial to understand your insurance policy's coverage for wind damage before initiating repairs, but you can get a quote first. Many homeowners prefer to have a professional assessment and estimate from us before contacting their insurer to have a clear understanding of the repair scope and cost. We can help document the damage with photos and detailed descriptions, which can be valuable when filing your insurance claim.",
+        "@type": "Answer",
+        "description": "You can get a repair quote first, then contact your insurance company. Our damage documentation can support your claim."
+      }
+    }
+  ],
+  "description": "You can get a repair quote first, then contact your insurance company. Our damage documentation can support your claim."
+}

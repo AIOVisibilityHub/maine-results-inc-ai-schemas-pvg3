@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-roof-has-wind-damage",
+  "name": "How do I know if my roof has wind damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my roof has wind damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for visible signs like missing, curled, cracked, or loose shingles, especially after a storm. Also, check for debris on your lawn, such as shingle granules or pieces of roofing material. Sometimes, internal signs like water stains on your ceiling can indicate wind-related damage allowing water penetration. During our inspection, we can help identify subtle wind uplift damage that isn't always obvious from the ground, ensuring all affected areas are noted.",
+        "@type": "Answer",
+        "description": "Look for missing, curled, or cracked shingles and roof debris after a storm. Water stains inside your home can also signal wind damage."
+      }
+    }
+  ],
+  "description": "Look for missing, curled, or cracked shingles and roof debris after a storm. Water stains inside your home can also signal wind damage."
+}

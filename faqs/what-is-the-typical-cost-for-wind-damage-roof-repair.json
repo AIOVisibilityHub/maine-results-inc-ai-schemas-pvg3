@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-cost-for-wind-damage-roof-repair",
+  "name": "What is the typical cost for wind damage roof repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for wind damage roof repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of wind damage roof repair is highly variable, depending on the type and extent of damage, roofing materials involved, and any underlying structural issues. Simple repairs like replacing a few shingles will be significantly less expensive than repairing widespread damage or a full roof section. We provide detailed, transparent estimates after a thorough inspection, so you understand the specific costs associated with your home's wind damage repair in areas like Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "Repair costs vary greatly based on damage extent and materials. We provide detailed estimates after inspection for your specific project."
+      }
+    }
+  ],
+  "description": "Repair costs vary greatly based on damage extent and materials. We provide detailed estimates after inspection for your specific project."
+}

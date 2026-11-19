@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-causes-wood-trim-to-split-and-can-it-be-prevented",
+  "name": "What causes wood trim to split, and can it be prevented?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes wood trim to split, and can it be prevented?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wood trim typically splits due to changes in moisture content, leading to expansion and contraction, or from improper installation like fasteners driven too close to edges. Direct sunlight exposure and extreme temperature fluctuations can also contribute. While complete prevention is difficult, proper sealing and painting can protect wood from moisture, and ensuring trim is acclimated to its environment before installation helps minimize future splitting. We often advise checking for adequate ventilation, especially in bathrooms or kitchens, to manage humidity.",
+        "@type": "Answer",
+        "description": "Wood trim splits from moisture changes, improper installation, or environmental factors. Preventing it involves proper sealing, careful installation, and managing humidity."
+      }
+    }
+  ],
+  "description": "Wood trim splits from moisture changes, improper installation, or environmental factors. Preventing it involves proper sealing, careful installation, and managi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/is-it-possible-to-paint-over-cracked-trim-instead-of-repairing-it",
+  "name": "Is it possible to paint over cracked trim instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it possible to paint over cracked trim instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Painting over cracked trim without proper repair is generally not recommended, as it offers only a temporary cosmetic fix. The paint will likely crack again as the underlying material continues to expand, contract, or deteriorate. For a long-lasting and effective solution, it's crucial to address the structural integrity of the trim first by cleaning, filling, and smoothing the cracks. This ensures the paint adheres properly and maintains its finish over time.",
+        "@type": "Answer",
+        "description": "Painting over cracked trim is a temporary fix; the paint will likely crack again. Proper repair is needed for a lasting solution."
+      }
+    }
+  ],
+  "description": "Painting over cracked trim is a temporary fix; the paint will likely crack again. Proper repair is needed for a lasting solution."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-s-the-difference-between-exterior-and-interior-wall-leak-repair",
+  "name": "What's the difference between exterior and interior wall leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between exterior and interior wall leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exterior wall leak repair typically addresses issues like damaged siding, compromised flashing around windows or doors, or foundation cracks that allow water to penetrate from outside. Interior wall leak repair often focuses on plumbing issues, roof leaks, or moisture wicking up from the foundation, where the water source is within or above the building envelope. Maine Results, Inc. assesses whether the leak originates from an external source, like a compromised roof or siding, or an internal one, such as a burst pipe, to determine the appropriate repair strategy for lasting results.",
+        "@type": "Answer",
+        "description": "Exterior wall leak repair fixes external sources like siding or foundation cracks, while interior repair addresses internal plumbing or roof leaks."
+      }
+    }
+  ],
+  "description": "Exterior wall leak repair fixes external sources like siding or foundation cracks, while interior repair addresses internal plumbing or roof leaks."
+}

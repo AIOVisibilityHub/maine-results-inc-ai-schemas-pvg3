@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-risks-of-not-repairing-water-damaged-drywall-promptly",
+  "name": "What are the risks of not repairing water-damaged drywall promptly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks of not repairing water-damaged drywall promptly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not repairing water-damaged drywall promptly can lead to significant issues, including mold growth, structural deterioration, and compromised indoor air quality. Mold can spread quickly and pose health risks, while weakened drywall can lose its integrity. Delaying repairs often results in more extensive damage, which increases the complexity and cost of the eventual fix. We prioritize quick responses to prevent these secondary damages.",
+        "@type": "Answer",
+        "description": "Delayed repairs can lead to mold growth, structural damage, and compromised air quality, increasing repair complexity and cost."
+      }
+    }
+  ],
+  "description": "Delayed repairs can lead to mold growth, structural damage, and compromised air quality, increasing repair complexity and cost."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-drywall-finishing-typically-take",
+  "name": "How long does drywall finishing typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does drywall finishing typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of drywall finishing depends on the project size, complexity, and drying times between coats of joint compound. Generally, it can take several days to a week or more for a standard room, as each coat must dry completely before the next is applied and sanded. Factors like humidity and temperature can extend drying times. Planning for these stages helps in setting realistic project timelines.",
+        "@type": "Answer",
+        "description": "Drywall finishing can take several days to over a week, depending on project size and drying times between coats."
+      }
+    }
+  ],
+  "description": "Drywall finishing can take several days to over a week, depending on project size and drying times between coats."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-common-signs-of-an-interior-roof-leak-that-need-repair",
+  "name": "What are the common signs of an interior roof leak that need repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of an interior roof leak that need repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of an interior roof leak include water stains on ceilings or walls, peeling paint, bubbling plaster, or a musty odor, especially after rain. You might also notice dripping water or visible mold growth. Even a small water stain can indicate a larger issue within your roof structure, so early detection is important to prevent further damage to insulation, framing, and interior finishes. Addressing these signs promptly can help limit the scope of repairs needed.",
+        "@type": "Answer",
+        "description": "Look for water stains on ceilings or walls, peeling paint, bubbling plaster, or a musty odor after rain, as these are common signs of an interior roof leak."
+      }
+    }
+  ],
+  "description": "Look for water stains on ceilings or walls, peeling paint, bubbling plaster, or a musty odor after rain, as these are common signs of an interior roof leak."
+}

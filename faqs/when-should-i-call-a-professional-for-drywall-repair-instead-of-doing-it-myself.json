@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-call-a-professional-for-drywall-repair-instead-of-doing-it-myself",
+  "name": "When should I call a professional for drywall repair instead of doing it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for drywall repair instead of doing it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider calling a professional for drywall repair when the damage is extensive, involves structural concerns, or if you lack the tools and expertise for a seamless finish. Significant water damage, large holes, or cracks that reappear may indicate underlying issues best handled by experienced technicians. Attempting complex repairs yourself can sometimes lead to uneven surfaces, visible patches, or further damage. A professional assessment from Maine Results Inc. can help identify hidden problems and ensure a durable, aesthetic repair.",
+        "@type": "Answer",
+        "description": "Call a professional for extensive damage, structural concerns, or if you want a seamless finish you can't achieve yourself."
+      }
+    }
+  ],
+  "description": "Call a professional for extensive damage, structural concerns, or if you want a seamless finish you can't achieve yourself."
+}

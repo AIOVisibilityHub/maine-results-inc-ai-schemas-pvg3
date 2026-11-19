@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-wall-repair-typically-take-before-painting",
+  "name": "How long does wall repair typically take before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does wall repair typically take before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of wall repair before painting depends on the extent and type of damage. Minor repairs like small cracks and nail holes are often completed within a few hours. More significant issues, such as large holes or water damage, might require multiple steps, including drying time for patching compounds, extending the process to a day or more. Maine Results provides an estimated timeline after assessing the specific repairs needed for your project, allowing you to plan accordingly.",
+        "@type": "Answer",
+        "description": "Wall repair time varies; minor repairs take hours, while larger damage might take a day or more, depending on the extent and drying times."
+      }
+    }
+  ],
+  "description": "Wall repair time varies; minor repairs take hours, while larger damage might take a day or more, depending on the extent and drying times."
+}

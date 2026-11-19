@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-wall-repair-before-painting-cost",
+  "name": "How much does wall repair before painting cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does wall repair before painting cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of wall repair before painting varies significantly based on the type, extent, and complexity of the damage. Minor repairs, such as filling a few nail holes, are generally inexpensive or may be included as part of a larger painting service. Larger repairs involving extensive drywall patching, water damage remediation, or texture matching will incur higher costs due to increased labor and material requirements. Maine Results provides a detailed estimate after an on-site assessment, ensuring transparency regarding all repair expenses before any work begins.",
+        "@type": "Answer",
+        "description": "Wall repair costs vary by damage type and extent; minor fixes are less expensive than extensive drywall or water damage repairs."
+      }
+    }
+  ],
+  "description": "Wall repair costs vary by damage type and extent; minor fixes are less expensive than extensive drywall or water damage repairs."
+}

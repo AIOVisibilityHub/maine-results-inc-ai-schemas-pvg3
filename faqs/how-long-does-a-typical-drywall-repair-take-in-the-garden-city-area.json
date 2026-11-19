@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-drywall-repair-take-in-the-garden-city-area",
+  "name": "How long does a typical drywall repair take in the Garden City area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical drywall repair take in the Garden City area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a drywall repair in areas like Garden City depends on the extent of the damage. Small patches, like nail holes or minor dents, might take a few hours to complete, including drying time for joint compound. Larger repairs, such as replacing significant sections due to water damage, could extend over one to two days to allow for proper drying between coats of mud and sanding. We aim to complete repairs efficiently while ensuring proper curing and a smooth finish.",
+        "@type": "Answer",
+        "description": "Drywall repair times vary from a few hours for small patches to 1-2 days for larger sections, depending on damage size."
+      }
+    }
+  ],
+  "description": "Drywall repair times vary from a few hours for small patches to 1-2 days for larger sections, depending on damage size."
+}

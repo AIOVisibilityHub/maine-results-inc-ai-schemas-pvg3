@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-involved-in-the-leak-damage-repair-process",
+  "name": "What is involved in the leak damage repair process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the leak damage repair process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The leak damage repair process typically starts with identifying and stopping the water source. Next, affected materials are dried and, if necessary, removed to prevent mold. Finally, damaged areas are reconstructed and restored to their original condition. The complexity of the repair often depends on the type of leak and how long it has been active, influencing the materials and techniques required for restoration.",
+        "@type": "Answer",
+        "description": "The repair process involves stopping the leak, drying affected areas, removing damaged materials, and then reconstructing. The type of leak and its duration can affect complexity."
+      }
+    }
+  ],
+  "description": "The repair process involves stopping the leak, drying affected areas, removing damaged materials, and then reconstructing. The type of leak and its duration can"
+}

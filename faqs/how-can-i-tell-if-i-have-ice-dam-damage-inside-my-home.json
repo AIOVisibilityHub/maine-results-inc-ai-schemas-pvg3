@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-tell-if-i-have-ice-dam-damage-inside-my-home",
+  "name": "How can I tell if I have ice dam damage inside my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if I have ice dam damage inside my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of ice dam damage inside your home often include water stains on ceilings or walls, peeling paint, or dampness in your attic. You might also notice leaks around window frames or in exterior walls. Catching these signs early is important, as prolonged moisture can lead to more significant issues like mold growth or structural damage. Maine Results, Inc. can assess these signs to determine the extent of the damage.",
+        "@type": "Answer",
+        "description": "Look for water stains on ceilings or walls, peeling paint, or dampness in your attic. These are common indicators of internal ice dam damage."
+      }
+    }
+  ],
+  "description": "Look for water stains on ceilings or walls, peeling paint, or dampness in your attic. These are common indicators of internal ice dam damage."
+}

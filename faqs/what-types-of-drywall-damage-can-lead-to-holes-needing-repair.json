@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-drywall-damage-can-lead-to-holes-needing-repair",
+  "name": "What types of drywall damage can lead to holes needing repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of drywall damage can lead to holes needing repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drywall holes can result from various types of damage, including accidental impacts from moving furniture, doorknobs slamming into walls, or children's play. Water damage is another common cause, as moisture weakens drywall, leading to soft spots or crumbling. Even pests can create holes in walls. Identifying the cause helps us determine the best repair strategy and advise on potential preventative measures to avoid future issues.",
+        "@type": "Answer",
+        "description": "Holes can come from impacts, water damage, or pests; knowing the cause helps determine the best repair and prevention."
+      }
+    }
+  ],
+  "description": "Holes can come from impacts, water damage, or pests; knowing the cause helps determine the best repair and prevention."
+}

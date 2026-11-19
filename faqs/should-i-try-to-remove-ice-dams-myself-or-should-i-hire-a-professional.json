@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-try-to-remove-ice-dams-myself-or-should-i-hire-a-professional",
+  "name": "Should I try to remove ice dams myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I try to remove ice dams myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Attempting to remove ice dams yourself can be dangerous and potentially cause more damage to your roof and gutters, especially if you use improper tools or techniques like chipping or using salt directly on the ice. Hiring a professional like Maine Results, Inc. is safer and more effective. Our team uses specialized equipment and methods to safely remove ice and assess underlying damage, ensuring repairs are done correctly without compromising your roof's integrity.",
+        "@type": "Answer",
+        "description": "Hiring a professional for ice dam removal is safer and prevents further roof damage than attempting it yourself. Professionals use specialized tools and techniques."
+      }
+    }
+  ],
+  "description": "Hiring a professional for ice dam removal is safer and prevents further roof damage than attempting it yourself. Professionals use specialized tools and techniq"
+}

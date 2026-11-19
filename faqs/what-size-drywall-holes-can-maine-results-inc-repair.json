@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-size-drywall-holes-can-maine-results-inc-repair",
+  "name": "What size drywall holes can Maine Results, Inc. repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What size drywall holes can Maine Results, Inc. repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. can repair a wide range of drywall hole sizes, from small nail pops and screw holes to larger penetrations caused by accidents or water damage. Our team assesses the damage to determine the most effective repair method, whether it's patching a small area or replacing a larger section of drywall to ensure a seamless finish. We aim to restore the wall's integrity and appearance effectively.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. repairs drywall holes of various sizes, from small nail pops to larger damage requiring section replacement."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. repairs drywall holes of various sizes, from small nail pops to larger damage requiring section replacement."
+}

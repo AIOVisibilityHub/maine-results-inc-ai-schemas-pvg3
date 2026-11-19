@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-call-a-professional-for-a-door-leak-versus-trying-to-fix-it-myself",
+  "name": "When should I call a professional for a door leak, versus trying to fix it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for a door leak, versus trying to fix it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor issues like small gaps in caulk can sometimes be addressed with DIY methods, it's best to call a professional for persistent leaks, signs of extensive water damage like rot, or if you can't identify the source of the leak. Professionals have the experience and tools to diagnose complex issues accurately and ensure repairs are done effectively, preventing further damage. A practical tradeoff is that a professional service might cost more upfront, but it reduces the risk of incorrect repairs that could lead to more significant, costlier problems down the line.",
+        "@type": "Answer",
+        "description": "Call a professional for persistent leaks, extensive water damage, or if you can't find the source. While DIY saves initial cost, professionals ensure correct repairs and prevent future damage."
+      }
+    }
+  ],
+  "description": "Call a professional for persistent leaks, extensive water damage, or if you can't find the source. While DIY saves initial cost, professionals ensure correct re"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-wind-damage-affect-parts-of-my-home-other-than-the-roof",
+  "name": "Can wind damage affect parts of my home other than the roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can wind damage affect parts of my home other than the roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, strong winds can impact various parts of your home beyond just the roof. Siding can be torn or loosened, windows can be damaged by flying debris, and fences or outdoor structures can be toppled. Wind-driven rain can also lead to water intrusion through compromised areas. Our comprehensive assessments for wind damage extend to examining these other potential vulnerabilities to ensure all affected areas are identified and included in the repair plan.",
+        "@type": "Answer",
+        "description": "Beyond the roof, wind can damage siding, windows, fences, and cause water intrusion. We assess all affected areas during inspection."
+      }
+    }
+  ],
+  "description": "Beyond the roof, wind can damage siding, windows, fences, and cause water intrusion. We assess all affected areas during inspection."
+}

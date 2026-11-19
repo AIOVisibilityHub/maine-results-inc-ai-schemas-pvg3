@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-common-signs-of-water-damage-from-a-leak",
+  "name": "What are the common signs of water damage from a leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of water damage from a leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of water damage include visible water stains on walls or ceilings, peeling paint, warped flooring, or a musty odor. Even if you don't see standing water, these indicators suggest a hidden leak. Early detection is crucial, as delayed action can lead to more extensive damage and repair costs. Maine Results, Inc. assesses the full scope of damage to ensure a comprehensive repair plan.",
+        "@type": "Answer",
+        "description": "Look for water stains, peeling paint, warped floors, or a musty smell as signs of water damage from a leak."
+      }
+    }
+  ],
+  "description": "Look for water stains, peeling paint, warped floors, or a musty smell as signs of water damage from a leak."
+}

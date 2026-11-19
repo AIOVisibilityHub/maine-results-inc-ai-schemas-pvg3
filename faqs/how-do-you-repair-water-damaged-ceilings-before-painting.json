@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-repair-water-damaged-ceilings-before-painting",
+  "name": "How do you repair water-damaged ceilings before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you repair water-damaged ceilings before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing water-damaged ceilings before painting involves several steps. First, the source of the water leak must be identified and fixed completely to prevent future damage. After the area is dry, any loose or damaged drywall or plaster is removed. New material is patched in, taped, and mudded to create a smooth surface. Finally, a stain-blocking primer is applied to seal the area and prevent the stain from bleeding through the new paint. Maine Results, Inc. ensures the underlying cause is resolved before cosmetic repairs begin.",
+        "@type": "Answer",
+        "description": "Water-damaged ceilings require fixing the leak source, replacing damaged material, smoothing, and applying a stain-blocking primer before painting."
+      }
+    }
+  ],
+  "description": "Water-damaged ceilings require fixing the leak source, replacing damaged material, smoothing, and applying a stain-blocking primer before painting."
+}

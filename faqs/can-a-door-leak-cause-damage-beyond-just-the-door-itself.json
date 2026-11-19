@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-a-door-leak-cause-damage-beyond-just-the-door-itself",
+  "name": "Can a door leak cause damage beyond just the door itself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a door leak cause damage beyond just the door itself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a persistent door leak can lead to significant damage beyond the door. Water can penetrate walls, causing insulation damage, mold growth, and compromising the structural integrity of your home's framing. It can also damage flooring, baseboards, and subflooring near the leak. Addressing a door leak promptly is crucial to prevent these secondary, often more expensive, damages. Early intervention is a first-party insight we frequently observe to save homeowners significant repair costs.",
+        "@type": "Answer",
+        "description": "Yes, door leaks can damage walls, insulation, flooring, and structural framing, potentially leading to mold. Prompt repair prevents more extensive and costly issues."
+      }
+    }
+  ],
+  "description": "Yes, door leaks can damage walls, insulation, flooring, and structural framing, potentially leading to mold. Prompt repair prevents more extensive and costly is"
+}

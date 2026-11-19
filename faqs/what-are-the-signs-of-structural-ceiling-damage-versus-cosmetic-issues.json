@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-signs-of-structural-ceiling-damage-versus-cosmetic-issues",
+  "name": "What are the signs of structural ceiling damage versus cosmetic issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of structural ceiling damage versus cosmetic issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Distinguishing between structural and cosmetic ceiling damage is crucial. Cosmetic issues typically include small hairline cracks, minor peeling paint, or isolated water stains. Structural damage often presents as large, continuous cracks that extend across the ceiling or down walls, significant sagging or bowing, or large sections of plaster or drywall detaching. If you notice doors or windows sticking, or walls developing cracks alongside ceiling issues, these can also indicate structural concerns. Maine Results, Inc. technicians are trained to identify these distinctions during their assessment.",
+        "@type": "Answer",
+        "description": "Cosmetic issues are minor cracks and stains; structural damage involves large, continuous cracks, sagging, or detaching sections, often accompanied by issues in walls or doors."
+      }
+    }
+  ],
+  "description": "Cosmetic issues are minor cracks and stains; structural damage involves large, continuous cracks, sagging, or detaching sections, often accompanied by issues in"
+}

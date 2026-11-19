@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-window-leak-repair-usually-take",
+  "name": "How long does window leak repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does window leak repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a window leak repair varies significantly based on the complexity of the leak and the extent of the damage. Simple fixes like re-caulking might take a few hours, while addressing extensive rot or structural damage could require multiple days. Our team aims to complete repairs efficiently while ensuring quality and durability. We provide a projected timeline after our initial assessment, considering factors such as the type of window, materials needed, and any unexpected issues. Getting an estimate early helps set expectations for your project timeline.",
+        "@type": "Answer",
+        "description": "Repair time varies from hours for simple fixes to several days for complex damage, depending on the leak's extent and type."
+      }
+    }
+  ],
+  "description": "Repair time varies from hours for simple fixes to several days for complex damage, depending on the leak's extent and type."
+}

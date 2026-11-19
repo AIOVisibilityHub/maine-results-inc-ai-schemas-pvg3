@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-materials-are-used-for-ceiling-repair-after-water-damage",
+  "name": "What kind of materials are used for ceiling repair after water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of materials are used for ceiling repair after water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The materials used for ceiling repair depend on the original ceiling type and the extent of the water damage. Common materials include new drywall sheets, joint compound, primer, and paint. For textured ceilings, specific texturing compounds are used to match the existing finish. If structural components like joists are affected, lumber may be required for replacement or reinforcement. Maine Results, Inc. sources high-quality materials to ensure the repaired section blends seamlessly with your existing ceiling and provides long-term durability against future issues.",
+        "@type": "Answer",
+        "description": "Materials depend on ceiling type and damage, typically including drywall, joint compound, primer, paint, and sometimes lumber. We use quality materials for seamless and durable repairs."
+      }
+    }
+  ],
+  "description": "Materials depend on ceiling type and damage, typically including drywall, joint compound, primer, paint, and sometimes lumber. We use quality materials for seam"
+}

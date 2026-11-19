@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-repair-loose-exterior-trim",
+  "name": "How long does it take to repair loose exterior trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair loose exterior trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to repair loose exterior trim varies greatly depending on the scope of the damage. A small section of loose trim might take only a few hours to clean, reattach, and seal. However, if the repair involves significant wood rot, multiple sections of trim, or requires custom cutting and painting, the project could extend to a full day or even several days. Maine Results, Inc. provides a timeline estimate after assessing the specific project details, ensuring you understand the expected duration for your home in locales such as Garden City or Meridian.",
+        "@type": "Answer",
+        "description": "Repair time for loose exterior trim ranges from a few hours for minor fixes to several days for extensive damage, depending on the project's scope."
+      }
+    }
+  ],
+  "description": "Repair time for loose exterior trim ranges from a few hours for minor fixes to several days for extensive damage, depending on the project's scope."
+}

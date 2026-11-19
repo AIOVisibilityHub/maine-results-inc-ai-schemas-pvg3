@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-indicate-i-need-drywall-replacement",
+  "name": "What are common signs that indicate I need drywall replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that indicate I need drywall replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that you need drywall replacement include significant water damage, large holes or cracks that compromise structural integrity, and extensive mold growth that cannot be treated superficially. Bubbling or peeling paint can also suggest underlying drywall issues. For homes in areas like Meridian or Eagle, especially older properties, assessing for moisture damage or wear is important, as timely replacement can prevent more widespread structural problems.",
+        "@type": "Answer",
+        "description": "Look for significant water damage, large holes, deep cracks, or extensive mold growth. These signs indicate that patching may not be enough and full replacement is necessary."
+      }
+    }
+  ],
+  "description": "Look for significant water damage, large holes, deep cracks, or extensive mold growth. These signs indicate that patching may not be enough and full replacement"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-repairs-should-be-done-to-walls-before-painting",
+  "name": "What kind of repairs should be done to walls before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of repairs should be done to walls before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before painting, you should repair any imperfections on your walls to ensure a smooth, professional finish. This includes filling nail holes, minor cracks, and small dents with spackling paste. For larger holes or more significant damage, joint compound or drywall patching might be required. Always sand repaired areas smooth after they dry to blend them seamlessly with the surrounding wall. Neglecting these repairs can result in an uneven texture visible through the new paint. Our team inspects walls thoroughly as part of our process to identify all necessary repairs.",
+        "@type": "Answer",
+        "description": "Repair nail holes, cracks, and dents with spackling or joint compound, then sand smooth for a flawless paint finish."
+      }
+    }
+  ],
+  "description": "Repair nail holes, cracks, and dents with spackling or joint compound, then sand smooth for a flawless paint finish."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-repair-a-wall-leak",
+  "name": "How long does it take to repair a wall leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a wall leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of wall leak repair depends on the complexity of the leak and the extent of damage. A minor repair, such as sealing a small crack, might take a few hours, while more significant issues involving structural repairs or mold remediation could take several days. Maine Results, Inc. prioritizes efficient and thorough work. During your consultation, our team will provide an estimated timeline based on the assessment, helping you plan for the repair process and minimize disruption.",
+        "@type": "Answer",
+        "description": "Repair time for a wall leak depends on its complexity and damage extent; minor repairs take hours, significant ones can take days."
+      }
+    }
+  ],
+  "description": "Repair time for a wall leak depends on its complexity and damage extent; minor repairs take hours, significant ones can take days."
+}

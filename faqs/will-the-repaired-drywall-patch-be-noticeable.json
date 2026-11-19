@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/will-the-repaired-drywall-patch-be-noticeable",
+  "name": "Will the repaired drywall patch be noticeable?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will the repaired drywall patch be noticeable?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our goal at Maine Results, Inc. is to make drywall repairs virtually unnoticeable. We achieve this by meticulously blending the new patch with the existing wall texture and ensuring smooth transitions. The final appearance, however, can be affected by the quality of the original drywall, the texture, and the final paint application. With proper care and matching, the repaired area should integrate seamlessly with the rest of your wall.",
+        "@type": "Answer",
+        "description": "We aim for unnoticeable repairs by blending texture and ensuring smooth transitions; final appearance depends on original wall quality and paint."
+      }
+    }
+  ],
+  "description": "We aim for unnoticeable repairs by blending texture and ensuring smooth transitions; final appearance depends on original wall quality and paint."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-it-cost-to-repair-loose-trim-in-the-boise-area",
+  "name": "How much does it cost to repair loose trim in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair loose trim in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair loose trim in the Boise area varies widely based on the extent of the damage, the type of trim, and the accessibility of the affected area. Minor repairs, like reattaching a small section, will be less expensive than repairs involving significant wood rot or multiple sections. The material used for any necessary replacements—such as PVC, composite, or different wood species—also impacts the price. Maine Results, Inc. provides detailed estimates after a thorough on-site assessment in your specific location within our service areas like Garden City, Meridian, Eagle, or Kuna, ensuring all variables are considered for accurate pricing.",
+        "@type": "Answer",
+        "description": "Loose trim repair costs in the Boise area depend on damage extent, trim type, and accessibility; Maine Results, Inc. offers detailed, on-site estimates."
+      }
+    }
+  ],
+  "description": "Loose trim repair costs in the Boise area depend on damage extent, trim type, and accessibility; Maine Results, Inc. offers detailed, on-site estimates."
+}

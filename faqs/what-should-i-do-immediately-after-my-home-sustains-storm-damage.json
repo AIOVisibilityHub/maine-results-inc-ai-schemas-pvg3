@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-do-immediately-after-my-home-sustains-storm-damage",
+  "name": "What should I do immediately after my home sustains storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after my home sustains storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after storm damage, prioritize safety by checking for hazards like downed power lines or structural instability. Take temporary measures to prevent further damage, such as covering a broken window or placing a tarp over a leaking roof. Document everything by taking clear photos and videos of the damage before any temporary repairs. Then, contact your insurance company to report the damage and reach out to a trusted repair professional like Maine Results, Inc. for a detailed assessment.",
+        "@type": "Answer",
+        "description": "Prioritize safety, prevent further damage with temporary fixes, document everything, then contact your insurer and a repair professional."
+      }
+    }
+  ],
+  "description": "Prioritize safety, prevent further damage with temporary fixes, document everything, then contact your insurer and a repair professional."
+}

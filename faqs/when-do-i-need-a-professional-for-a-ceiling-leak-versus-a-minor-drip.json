@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-do-i-need-a-professional-for-a-ceiling-leak-versus-a-minor-drip",
+  "name": "When do I need a professional for a ceiling leak, versus a minor drip?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a professional for a ceiling leak, versus a minor drip?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Any persistent or recurring ceiling leak, even a minor drip, warrants professional attention. While a small drip might seem insignificant, it indicates an ongoing issue that can cause unseen damage within your walls and ceiling structure, including wood rot and mold. A professional can accurately identify the source, assess the full extent of hidden damage, and ensure the repair is comprehensive and lasting, preventing future problems. Maine Results, Inc. handles leaks of all sizes.",
+        "@type": "Answer",
+        "description": "Even a minor, persistent drip requires professional assessment, as it indicates a hidden problem that can cause significant unseen damage like mold and rot."
+      }
+    }
+  ],
+  "description": "Even a minor, persistent drip requires professional assessment, as it indicates a hidden problem that can cause significant unseen damage like mold and rot."
+}

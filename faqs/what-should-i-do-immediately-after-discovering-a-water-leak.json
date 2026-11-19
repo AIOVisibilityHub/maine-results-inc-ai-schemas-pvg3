@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-do-immediately-after-discovering-a-water-leak",
+  "name": "What should I do immediately after discovering a water leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after discovering a water leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after discovering a water leak, your first step should be to stop the water flow if possible, usually by turning off the main water supply. Next, clear any valuables from the affected area to prevent further damage. Document the damage with photos or videos, which will be useful for insurance claims. Contacting a professional leak detection and repair service like Maine Results, Inc. soon after is crucial for assessment and remediation.",
+        "@type": "Answer",
+        "description": "Immediately turn off the water, remove valuables, and document the damage with photos. Then, contact a professional repair service for assessment."
+      }
+    }
+  ],
+  "description": "Immediately turn off the water, remove valuables, and document the damage with photos. Then, contact a professional repair service for assessment."
+}

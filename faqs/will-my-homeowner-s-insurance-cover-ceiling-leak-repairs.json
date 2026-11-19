@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/will-my-homeowner-s-insurance-cover-ceiling-leak-repairs",
+  "name": "Will my homeowner's insurance cover ceiling leak repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover ceiling leak repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance typically covers sudden and accidental water damage, which often includes ceiling leaks from events like burst pipes or storm damage to your roof. However, damage resulting from lack of maintenance or long-term neglect, such as a slow, unaddressed leak that causes rot, is usually not covered. It's crucial to review your specific policy details or contact your insurance provider to understand your coverage. Maine Results, Inc. can provide detailed documentation of the damage for your claim.",
+        "@type": "Answer",
+        "description": "Homeowner's insurance usually covers sudden, accidental leaks, but not damage from neglect; check your policy for specific coverage details."
+      }
+    }
+  ],
+  "description": "Homeowner's insurance usually covers sudden, accidental leaks, but not damage from neglect; check your policy for specific coverage details."
+}

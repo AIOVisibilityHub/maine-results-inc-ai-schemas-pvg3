@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-common-ceiling-issues-need-repair-before-painting",
+  "name": "What common ceiling issues need repair before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common ceiling issues need repair before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before painting, common ceiling issues include water stains, cracks, small holes from previous fixtures, and peeling paint. Water stains often indicate a leak that needs addressing first to prevent recurrence. Cracks can range from hairline to structural, requiring different repair methods. Small holes need filling, and any loose or peeling paint must be scraped and sanded smooth to ensure new paint adheres properly. Addressing these concerns ensures a uniform and long-lasting finish, which Maine Results, Inc. focuses on for durability.",
+        "@type": "Answer",
+        "description": "Common ceiling issues needing repair before painting include water stains, cracks, holes, and peeling paint, all of which must be addressed for a lasting finish."
+      }
+    }
+  ],
+  "description": "Common ceiling issues needing repair before painting include water stains, cracks, holes, and peeling paint, all of which must be addressed for a lasting finish"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-water-damaged-window-trim-repair-services-in-boise-id",
+  "name": "Do you offer water damaged window trim repair services in Boise, ID?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer water damaged window trim repair services in Boise, ID?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, while our primary service areas are Garden City, Meridian, Eagle, Kuna, and Star, we do serve parts of Boise, including neighborhoods like Downtown Boise and the North End. For water damaged window trim repair, we can typically extend our services to these specific Boise locations. Contact us to discuss your specific address and project needs, and we can confirm if your property falls within our service range for this type of repair.",
+        "@type": "Answer",
+        "description": "Yes, we offer services in specific Boise neighborhoods, including Downtown Boise and the North End. Contact us to confirm your location."
+      }
+    }
+  ],
+  "description": "Yes, we offer services in specific Boise neighborhoods, including Downtown Boise and the North End. Contact us to confirm your location."
+}

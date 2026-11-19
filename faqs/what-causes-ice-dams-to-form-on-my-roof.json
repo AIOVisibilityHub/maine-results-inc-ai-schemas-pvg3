@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-causes-ice-dams-to-form-on-my-roof",
+  "name": "What causes ice dams to form on my roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes ice dams to form on my roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ice dams typically form when snow on a warmer part of your roof melts, runs down to a colder eave or gutter, and refreezes. This cycle creates a barrier of ice that prevents further meltwater from draining off the roof, causing it to back up under shingles and into your home. Poor attic insulation, inadequate ventilation, and clogged gutters can contribute to uneven roof temperatures, which are key factors in ice dam formation.",
+        "@type": "Answer",
+        "description": "Ice dams form when melting snow refreezes at colder roof edges, often due to poor insulation or ventilation, causing water to back up under shingles."
+      }
+    }
+  ],
+  "description": "Ice dams form when melting snow refreezes at colder roof edges, often due to poor insulation or ventilation, causing water to back up under shingles."
+}

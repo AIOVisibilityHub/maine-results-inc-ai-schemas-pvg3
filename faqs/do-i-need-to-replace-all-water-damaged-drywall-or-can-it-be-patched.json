@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-replace-all-water-damaged-drywall-or-can-it-be-patched",
+  "name": "Do I need to replace all water-damaged drywall, or can it be patched?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace all water-damaged drywall, or can it be patched?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to replace or patch water-damaged drywall depends on the extent of the damage and whether the drywall's structural integrity has been compromised. Small, superficial areas might be suitable for patching after thorough drying. However, if the drywall is soft, crumbling, or shows signs of swelling or widespread mold, full replacement is usually necessary to ensure a lasting repair. Attempting to patch severely compromised drywall often leads to a weaker, less durable finish.",
+        "@type": "Answer",
+        "description": "Patching is suitable for minor damage, but full replacement is needed for soft, crumbling, or mold-affected drywall to ensure integrity."
+      }
+    }
+  ],
+  "description": "Patching is suitable for minor damage, but full replacement is needed for soft, crumbling, or mold-affected drywall to ensure integrity."
+}

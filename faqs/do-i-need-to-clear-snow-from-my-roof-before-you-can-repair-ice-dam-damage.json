@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-clear-snow-from-my-roof-before-you-can-repair-ice-dam-damage",
+  "name": "Do I need to clear snow from my roof before you can repair ice dam damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to clear snow from my roof before you can repair ice dam damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not strictly required for us to begin the assessment, safely removing snow from your roof can help prevent further water intrusion and allow for a clearer view of the damage. However, improper snow removal can also cause damage to your roof. We can advise on safe snow removal practices or include professional snow removal as part of our service if it's necessary for the repair work. For most jobs, we can handle the necessary snow clearing as part of our service.",
+        "@type": "Answer",
+        "description": "Safely clearing snow can prevent further damage, but it's not strictly required before we assess. We can advise on or include professional snow removal as part of our service."
+      }
+    }
+  ],
+  "description": "Safely clearing snow can prevent further damage, but it's not strictly required before we assess. We can advise on or include professional snow removal as part"
+}

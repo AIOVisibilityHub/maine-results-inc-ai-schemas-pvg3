@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-affect-the-cost-of-door-leak-repair",
+  "name": "What factors affect the cost of door leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the cost of door leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of door leak repair is influenced by several factors, including the source and extent of the damage, the type of door, and the materials required for the repair. Simple repairs like re-caulking or weatherstripping are less expensive than replacing a rotted door frame or addressing underlying structural issues. Access to the damaged area can also affect labor costs. During our consultation, we provide a detailed estimate after assessing your specific repair needs, which is a key decision factor.",
+        "@type": "Answer",
+        "description": "Cost is based on the leak's source and extent, door type, and materials. Simple repairs are cheaper than structural work. We provide a detailed estimate after assessment."
+      }
+    }
+  ],
+  "description": "Cost is based on the leak's source and extent, door type, and materials. Simple repairs are cheaper than structural work. We provide a detailed estimate after a"
+}

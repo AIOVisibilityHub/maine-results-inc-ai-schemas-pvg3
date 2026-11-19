@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-commonly-used-for-wall-leak-repair",
+  "name": "What materials are commonly used for wall leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for wall leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Materials used for wall leak repair depend heavily on the source and extent of the damage. Common materials include sealants like caulk or epoxy for cracks, patching compounds for drywall, waterproofing membranes for foundations, and new siding or roofing materials if the exterior envelope is compromised. For plumbing leaks, specific pipe repair components are used. Maine Results, Inc. selects high-quality, durable materials appropriate for the specific repair, ensuring the solution is effective and long-lasting to prevent future water intrusion.",
+        "@type": "Answer",
+        "description": "Common materials for wall leak repair include sealants, patching compounds, waterproofing membranes, or new siding/roofing, depending on the leak's source."
+      }
+    }
+  ],
+  "description": "Common materials for wall leak repair include sealants, patching compounds, waterproofing membranes, or new siding/roofing, depending on the leak's source."
+}

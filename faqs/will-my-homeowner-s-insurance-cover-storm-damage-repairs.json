@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/will-my-homeowner-s-insurance-cover-storm-damage-repairs",
+  "name": "Will my homeowner's insurance cover storm damage repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover storm damage repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard homeowner's insurance policies cover damage caused by wind, hail, and lightning, which are common culprits in storm events. However, coverage specifics can vary based on your individual policy and deductible. For instance, flood damage typically requires a separate flood insurance policy. It's important to review your policy details or contact your insurance provider to understand your specific coverage before starting repairs. We can help assess the damage to prepare for your claim.",
+        "@type": "Answer",
+        "description": "Most homeowner's insurance covers wind, hail, and lightning damage. Review your specific policy for details, as flood damage usually needs separate coverage."
+      }
+    }
+  ],
+  "description": "Most homeowner's insurance covers wind, hail, and lightning damage. Review your specific policy for details, as flood damage usually needs separate coverage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-s-the-difference-between-taping-and-mudding-in-drywall-finishing",
+  "name": "What's the difference between taping and mudding in drywall finishing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between taping and mudding in drywall finishing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Taping and mudding are sequential steps within drywall finishing. Taping involves embedding paper or fiberglass mesh tape over drywall seams using joint compound to reinforce them and prevent cracking. Mudding refers to applying subsequent, wider coats of joint compound over the taped seams and fastener heads. Each mudding coat is feathered out and sanded smooth, building up the surface to be flush and ready for priming and painting.",
+        "@type": "Answer",
+        "description": "Taping reinforces seams with tape and joint compound, while mudding involves applying additional layers of compound to smooth the surface."
+      }
+    }
+  ],
+  "description": "Taping reinforces seams with tape and joint compound, while mudding involves applying additional layers of compound to smooth the surface."
+}

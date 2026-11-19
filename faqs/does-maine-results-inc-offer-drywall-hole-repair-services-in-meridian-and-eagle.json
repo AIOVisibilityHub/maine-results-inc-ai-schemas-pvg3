@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/does-maine-results-inc-offer-drywall-hole-repair-services-in-meridian-and-eagle",
+  "name": "Does Maine Results, Inc. offer drywall hole repair services in Meridian and Eagle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Maine Results, Inc. offer drywall hole repair services in Meridian and Eagle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. proudly offers comprehensive drywall hole repair services throughout our service areas, including Meridian and Eagle. Our team is equipped to handle various repair needs for both residential and commercial properties in these communities. When you contact us, we'll schedule an assessment to understand the scope of the repair needed at your specific location and provide a clear plan.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. provides drywall hole repair services in Meridian and Eagle for residential and commercial properties."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. provides drywall hole repair services in Meridian and Eagle for residential and commercial properties."
+}

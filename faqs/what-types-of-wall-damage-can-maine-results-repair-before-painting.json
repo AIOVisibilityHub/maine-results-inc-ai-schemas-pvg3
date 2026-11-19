@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-wall-damage-can-maine-results-repair-before-painting",
+  "name": "What types of wall damage can Maine Results repair before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wall damage can Maine Results repair before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results can repair various types of wall damage, including minor cracks, nail holes, dents, and larger areas of drywall damage. This preparation is crucial to ensure a smooth, professional finish for your new paint. Depending on the extent of the damage, repairs can range from simple spackling to more involved drywall patching and texturing. We assess each situation to determine the most effective repair method, ensuring the wall is perfectly prepped for painting.",
+        "@type": "Answer",
+        "description": "Maine Results repairs minor cracks, nail holes, dents, and larger drywall damage to prepare walls for painting."
+      }
+    }
+  ],
+  "description": "Maine Results repairs minor cracks, nail holes, dents, and larger drywall damage to prepare walls for painting."
+}

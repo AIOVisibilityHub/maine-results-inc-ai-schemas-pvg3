@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-do-i-need-to-do-before-maine-results-arrives-for-wall-repair-an",
+  "name": "What preparation do I need to do before Maine Results arrives for wall repair and painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before Maine Results arrives for wall repair and painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before Maine Results arrives for wall repair and painting, you can help streamline the process by clearing the work area. This includes moving furniture away from the walls, removing wall hangings, and taking down outlet covers or switch plates if you're comfortable doing so. While our team will protect your belongings and floors, having the space accessible ensures we can begin repairs promptly. This preparation allows our technicians to focus directly on assessing and repairing your walls efficiently.",
+        "@type": "Answer",
+        "description": "Before wall repair, clear the work area by moving furniture, removing wall hangings, and making walls accessible."
+      }
+    }
+  ],
+  "description": "Before wall repair, clear the work area by moving furniture, removing wall hangings, and making walls accessible."
+}

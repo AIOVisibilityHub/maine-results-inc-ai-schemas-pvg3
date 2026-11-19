@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-ensure-a-window-leak-repair-will-last",
+  "name": "How do you ensure a window leak repair will last?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure a window leak repair will last?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We ensure a window leak repair will last by first accurately identifying the root cause of the leak, rather than just addressing the symptoms. Our approach involves using high-quality, durable materials that are appropriate for the specific repair and local Idaho climate conditions, such as robust sealants and weather-resistant components. We also focus on proper installation techniques to create a long-lasting barrier against water intrusion. After the repair, we perform thorough checks to confirm the integrity of the new seal or repaired area, providing you with confidence in the longevity of our work.",
+        "@type": "Answer",
+        "description": "We ensure lasting repairs by identifying the root cause, using high-quality materials suited for the climate, and employing proper installation techniques."
+      }
+    }
+  ],
+  "description": "We ensure lasting repairs by identifying the root cause, using high-quality materials suited for the climate, and employing proper installation techniques."
+}

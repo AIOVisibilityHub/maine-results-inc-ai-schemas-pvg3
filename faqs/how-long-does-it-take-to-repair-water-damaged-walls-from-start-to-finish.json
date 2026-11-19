@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-repair-water-damaged-walls-from-start-to-finish",
+  "name": "How long does it take to repair water damaged walls, from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair water damaged walls, from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for repairing water damaged walls varies significantly depending on the severity and scope of the damage. Minor repairs might take a few days, while extensive damage requiring structural drying, mold remediation, and significant material replacement can take several weeks. Factors like humidity levels and the efficiency of drying equipment also play a role. To achieve process clarity, discuss a detailed timeline with your contractor, including expected drying periods and material lead times, as these elements can impact the overall project duration. Timely action can often reduce repair time.",
+        "@type": "Answer",
+        "description": "Repair time varies from days for minor damage to several weeks for extensive issues, depending on severity and drying time."
+      }
+    }
+  ],
+  "description": "Repair time varies from days for minor damage to several weeks for extensive issues, depending on severity and drying time."
+}

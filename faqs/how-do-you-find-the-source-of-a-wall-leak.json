@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-find-the-source-of-a-wall-leak",
+  "name": "How do you find the source of a wall leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you find the source of a wall leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finding the source of a wall leak involves a systematic inspection, often starting from the highest point of water entry. Maine Results, Inc. uses methods such as visual inspection for obvious cracks or damaged flashing, moisture meters to detect hidden dampness, and sometimes even thermal imaging to pinpoint temperature differences caused by water. Understanding the building's structure and the path water typically takes helps technicians trace the leak back to its origin, which can be an external issue like a damaged roof or an internal plumbing problem.",
+        "@type": "Answer",
+        "description": "Finding the source of a wall leak involves systematic inspection, visual checks, moisture meters, and sometimes thermal imaging to trace water back to its origin."
+      }
+    }
+  ],
+  "description": "Finding the source of a wall leak involves systematic inspection, visual checks, moisture meters, and sometimes thermal imaging to trace water back to its origi"
+}

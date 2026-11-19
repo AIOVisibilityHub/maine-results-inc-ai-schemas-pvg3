@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-causes-trim-to-become-loose-on-a-home-s-exterior",
+  "name": "What causes trim to become loose on a home's exterior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes trim to become loose on a home's exterior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exterior trim can become loose due to several factors, primarily weather exposure, wood rot, or improper installation. Over time, constant expansion and contraction from temperature changes, combined with moisture intrusion, can cause fasteners to lose their grip. Water damage leading to wood rot is a common culprit, weakening the material around the nails or screws. Maine Results, Inc. assesses the underlying cause during an inspection to ensure the repair addresses the root problem, preventing recurrence. Understanding the cause helps determine if a simple refastening is sufficient or if partial replacement is necessary.",
+        "@type": "Answer",
+        "description": "Loose exterior trim is often caused by weather exposure, wood rot, or incorrect installation, leading fasteners to fail or the material to weaken."
+      }
+    }
+  ],
+  "description": "Loose exterior trim is often caused by weather exposure, wood rot, or incorrect installation, leading fasteners to fail or the material to weaken."
+}

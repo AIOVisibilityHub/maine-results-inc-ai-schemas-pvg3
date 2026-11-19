@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-ice-dam-damage-repair",
+  "name": "What factors influence the cost of ice dam damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of ice dam damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of ice dam damage repair is influenced by several factors, including the extent of the water damage inside your home, the size and complexity of the ice dams, and the necessary repairs to your roof and attic. Factors like the type of roofing materials, the slope of your roof, and whether insulation or ventilation upgrades are needed also play a role. We provide a detailed estimate after assessing these specific conditions at your property in areas like Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "Cost factors include damage extent, ice dam size, roof complexity, and necessary insulation or ventilation upgrades. We provide estimates after assessing your property."
+      }
+    }
+  ],
+  "description": "Cost factors include damage extent, ice dam size, roof complexity, and necessary insulation or ventilation upgrades. We provide estimates after assessing your p"
+}

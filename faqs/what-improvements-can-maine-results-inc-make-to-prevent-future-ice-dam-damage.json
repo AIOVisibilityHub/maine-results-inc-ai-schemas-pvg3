@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-improvements-can-maine-results-inc-make-to-prevent-future-ice-dam-damage",
+  "name": "What improvements can Maine Results, Inc. make to prevent future ice dam damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What improvements can Maine Results, Inc. make to prevent future ice dam damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future ice dam damage, Maine Results, Inc. focuses on improving your roof's thermal envelope and drainage. This can include enhancing attic insulation to keep the roof deck uniformly cold, installing or improving roof ventilation to dissipate heat, and ensuring proper flashing and gutter function. We also check for and seal any air leaks from your living space into the attic. These upgrades are critical for managing snowmelt and preventing ice buildup.",
+        "@type": "Answer",
+        "description": "We prevent future ice dams by improving attic insulation, enhancing roof ventilation, ensuring proper flashing and gutters, and sealing air leaks to manage snowmelt."
+      }
+    }
+  ],
+  "description": "We prevent future ice dams by improving attic insulation, enhancing roof ventilation, ensuring proper flashing and gutters, and sealing air leaks to manage snow"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-window-leak-repair",
+  "name": "What factors influence the cost of window leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of window leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the cost of window leak repair, including the source and severity of the leak, the type of window, and whether there's hidden damage to the wall or frame. Simple re-caulking is less expensive than replacing a rotted sill or repairing water-damaged drywall. Accessibility to the window can also play a role; repairs on upper stories might require specialized equipment. We provide detailed estimates after assessing your specific situation. This helps you understand what you are paying for and why, ensuring transparency in the process.",
+        "@type": "Answer",
+        "description": "Cost depends on leak severity, window type, hidden damage, and accessibility, with simple re-caulking being less expensive than major structural repairs."
+      }
+    }
+  ],
+  "description": "Cost depends on leak severity, window type, hidden damage, and accessibility, with simple re-caulking being less expensive than major structural repairs."
+}

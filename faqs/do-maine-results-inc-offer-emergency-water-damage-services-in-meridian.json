@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-maine-results-inc-offer-emergency-water-damage-services-in-meridian",
+  "name": "Do Maine Results, Inc. offer emergency water damage services in Meridian?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do Maine Results, Inc. offer emergency water damage services in Meridian?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. offers emergency water damage services in Meridian and our other service areas like Garden City, Eagle, Kuna, and Star. We understand that water damage can happen unexpectedly and requires a swift response to minimize further harm. Contacting us promptly allows us to assess the situation quickly and begin the necessary mitigation and repair work to protect your property.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. provides emergency water damage services in Meridian and our other service areas to address urgent needs."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. provides emergency water damage services in Meridian and our other service areas to address urgent needs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-you-come-to-assess-my-water-damaged-window-trim",
+  "name": "What should I prepare before you come to assess my water damaged window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before you come to assess my water damaged window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our assessment, please ensure clear access to the affected windows, both inside and out if possible. It can also be helpful to point out any areas where you've noticed leaks or signs of water intrusion. If you have any records of previous repairs or renovations, sharing those details can also provide valuable context. This preparation helps us conduct a thorough inspection and accurately evaluate the scope of work needed for your property.",
+        "@type": "Answer",
+        "description": "Ensure clear access to windows, point out leak areas, and provide any prior repair records."
+      }
+    }
+  ],
+  "description": "Ensure clear access to windows, point out leak areas, and provide any prior repair records."
+}

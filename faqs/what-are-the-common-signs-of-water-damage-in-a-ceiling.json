@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-common-signs-of-water-damage-in-a-ceiling",
+  "name": "What are the common signs of water damage in a ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of water damage in a ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of water damage in a ceiling include discoloration, sagging plaster or drywall, peeling paint, and a musty odor. You might also notice drips or a persistent wet spot. Early detection is crucial, as prolonged water exposure can lead to structural damage and mold growth. Our team at Maine Results, Inc. recommends a professional inspection if you observe any of these indicators, especially if the source of the water is not immediately obvious, to prevent further deterioration and ensure a comprehensive repair plan.",
+        "@type": "Answer",
+        "description": "Look for discoloration, sagging, peeling paint, or a musty smell in your ceiling. Early detection helps prevent structural issues and mold."
+      }
+    }
+  ],
+  "description": "Look for discoloration, sagging, peeling paint, or a musty smell in your ceiling. Early detection helps prevent structural issues and mold."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-ice-dam-repairs-differ-from-standard-roof-repairs",
+  "name": "How do ice dam repairs differ from standard roof repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do ice dam repairs differ from standard roof repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ice dam repairs often involve not just fixing the damaged areas of your roof and interior, but also addressing the root causes of ice dam formation. This can include improving attic insulation, enhancing roof ventilation, and ensuring proper gutter function, which go beyond typical shingle replacement or flashing repair. Standard roof repairs usually focus on specific wear, tear, or isolated damage, whereas ice dam repair often requires a more holistic approach to your roof system to prevent recurrence.",
+        "@type": "Answer",
+        "description": "Ice dam repairs involve fixing damage and addressing root causes like insulation and ventilation issues, unlike standard roof repairs that focus on isolated damage."
+      }
+    }
+  ],
+  "description": "Ice dam repairs involve fixing damage and addressing root causes like insulation and ventilation issues, unlike standard roof repairs that focus on isolated dam"
+}

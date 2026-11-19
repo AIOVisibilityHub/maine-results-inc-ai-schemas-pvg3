@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-ceiling-leak-repair-typically-take-in-meridian",
+  "name": "How long does ceiling leak repair typically take in Meridian?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does ceiling leak repair typically take in Meridian?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of ceiling leak repair in Meridian varies based on the leak's source and the extent of damage. A simple patch after a minor plumbing repair might take a day or two for drying and finishing, while extensive roof repairs or significant water damage requiring mold remediation could take several days or even a week to complete the full restoration. Our team will provide a more accurate timeline after a thorough inspection of your specific situation, factoring in material drying times.",
+        "@type": "Answer",
+        "description": "Repair time varies from a couple of days to over a week, depending on the leak's source, the extent of water damage, and necessary drying times."
+      }
+    }
+  ],
+  "description": "Repair time varies from a couple of days to over a week, depending on the leak's source, the extent of water damage, and necessary drying times."
+}

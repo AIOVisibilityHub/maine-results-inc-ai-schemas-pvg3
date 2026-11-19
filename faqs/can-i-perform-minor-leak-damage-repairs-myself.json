@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-perform-minor-leak-damage-repairs-myself",
+  "name": "Can I perform minor leak damage repairs myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform minor leak damage repairs myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface damage from a small, contained leak might seem manageable, addressing the source and ensuring complete drying can be complex. Without proper drying and remediation, unseen moisture can lead to mold, which poses health risks and structural issues. Deciding whether to DIY depends on your comfort with identifying the leak source and your ability to fully dry and treat affected areas to prevent secondary problems. Professional contractors confirm complete moisture removal.",
+        "@type": "Answer",
+        "description": "You can fix minor surface damage, but identifying the leak source and ensuring complete drying to prevent mold is challenging and often requires professional expertise."
+      }
+    }
+  ],
+  "description": "You can fix minor surface damage, but identifying the leak source and ensuring complete drying to prevent mold is challenging and often requires professional ex"
+}

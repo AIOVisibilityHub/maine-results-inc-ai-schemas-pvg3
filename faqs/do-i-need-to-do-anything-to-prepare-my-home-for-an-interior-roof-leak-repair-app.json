@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-do-anything-to-prepare-my-home-for-an-interior-roof-leak-repair-app",
+  "name": "Do I need to do anything to prepare my home for an interior roof leak repair appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to do anything to prepare my home for an interior roof leak repair appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, preparing your home for an interior roof leak repair appointment can help streamline the process. You should clear the area directly beneath the leak inside your home, moving furniture, electronics, and valuable items to prevent damage and allow our team clear access. If the leak is actively dripping, placing buckets or tarps can help manage water. Additionally, ensuring clear access to your attic or the exterior of your home, if safe, can speed up the inspection and repair process for our technicians. Our team will advise on specific preparations during scheduling.",
+        "@type": "Answer",
+        "description": "Prepare by clearing the area under the leak, moving furniture and valuables, and ensuring access to the attic or exterior to help streamline the repair process."
+      }
+    }
+  ],
+  "description": "Prepare by clearing the area under the leak, moving furniture and valuables, and ensuring access to the attic or exterior to help streamline the repair process."
+}

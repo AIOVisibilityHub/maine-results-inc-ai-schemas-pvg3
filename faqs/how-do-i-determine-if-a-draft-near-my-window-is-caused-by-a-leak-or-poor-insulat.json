@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-determine-if-a-draft-near-my-window-is-caused-by-a-leak-or-poor-insulat",
+  "name": "How do I determine if a draft near my window is caused by a leak or poor insulation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I determine if a draft near my window is caused by a leak or poor insulation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To determine if a draft is from a leak or poor insulation, you can perform a simple test: light a candle or incense stick and hold it near the window frame. If the flame flickers or smoke wavers, it indicates an air current. A leak often has visible water damage accompanying the draft, while poor insulation might just present as a cold spot. Understanding the source helps define the repair scope, as a leak repair typically addresses compromised seals or structural gaps, which is distinct from upgrading insulation within the wall cavity. This distinction is crucial for an effective solution.",
+        "@type": "Answer",
+        "description": "Use a candle or incense stick near the window to detect drafts. A leak often shows water damage, while poor insulation might just be a cold spot."
+      }
+    }
+  ],
+  "description": "Use a candle or incense stick near the window to detect drafts. A leak often shows water damage, while poor insulation might just be a cold spot."
+}

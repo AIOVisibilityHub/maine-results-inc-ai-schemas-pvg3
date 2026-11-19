@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-repair-water-damaged-window-trim",
+  "name": "How long does it take to repair water damaged window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair water damaged window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for repairing water damaged window trim depends on the severity and scope of the damage. Minor repairs might take a few hours to a day, while more extensive projects involving structural elements or multiple windows could take several days. The availability of matching materials can also affect the schedule. We aim to provide a clear timeframe during our initial assessment for properties in areas like Star, ensuring you know what to expect.",
+        "@type": "Answer",
+        "description": "Repair time varies from hours to several days, depending on damage severity and material availability."
+      }
+    }
+  ],
+  "description": "Repair time varies from hours to several days, depending on damage severity and material availability."
+}

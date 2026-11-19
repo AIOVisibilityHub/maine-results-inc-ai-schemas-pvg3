@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-do-immediately-if-i-discover-a-ceiling-leak",
+  "name": "What should I do immediately if I discover a ceiling leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I discover a ceiling leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover a ceiling leak, first, try to contain the water by placing buckets or towels to protect your belongings and floors. If safe to do so, move furniture out of the affected area. If the leak is significant, consider turning off the main water supply to your house if you suspect a plumbing issue, or safely shutting off electricity to the affected room to prevent electrical hazards. Then, contact a professional service like Maine Results, Inc. for immediate inspection and repair.",
+        "@type": "Answer",
+        "description": "Immediately contain the water, protect belongings, and if safe, turn off water or electricity; then contact a professional for inspection."
+      }
+    }
+  ],
+  "description": "Immediately contain the water, protect belongings, and if safe, turn off water or electricity; then contact a professional for inspection."
+}

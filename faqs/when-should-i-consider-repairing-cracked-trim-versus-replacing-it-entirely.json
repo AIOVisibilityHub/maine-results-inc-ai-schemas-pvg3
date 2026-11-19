@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-repairing-cracked-trim-versus-replacing-it-entirely",
+  "name": "When should I consider repairing cracked trim versus replacing it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing cracked trim versus replacing it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider repairing cracked trim when the damage is localized, minor, and hasn't compromised the structural integrity of the material or the home's moisture barrier. If the cracks are widespread, deep, indicate significant rot, or if the trim is severely deteriorated, replacement is generally the more effective and durable solution. Our team can assess the extent of the damage during an on-site visit to your property in areas like Eagle or Kuna, helping you determine the most cost-effective approach.",
+        "@type": "Answer",
+        "description": "Repair minor, localized cracks; replace trim with widespread damage, deep cracks, or rot to ensure structural integrity and moisture protection."
+      }
+    }
+  ],
+  "description": "Repair minor, localized cracks; replace trim with widespread damage, deep cracks, or rot to ensure structural integrity and moisture protection."
+}

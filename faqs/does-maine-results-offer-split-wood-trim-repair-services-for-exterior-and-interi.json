@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/does-maine-results-offer-split-wood-trim-repair-services-for-exterior-and-interi",
+  "name": "Does Maine Results offer split wood trim repair services for exterior and interior trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Maine Results offer split wood trim repair services for exterior and interior trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. provides comprehensive split wood trim repair services for both exterior and interior trim throughout our service areas, including Garden City, Meridian, Eagle, Kuna, and Star. We understand that both indoor aesthetics and outdoor protection are crucial. Whether it's decorative baseboards inside your home or weather-exposed fascia boards outside, our skilled team is equipped to handle various types of wood and repair challenges. This Contextual Relevance ensures residents in these communities have a reliable local option for maintaining their property's integrity and appearance.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results offers split wood trim repair for both exterior and interior trim in Garden City, Meridian, Eagle, Kuna, and Star. We handle various wood types and repair challenges in these communities."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results offers split wood trim repair for both exterior and interior trim in Garden City, Meridian, Eagle, Kuna, and Star. We handle various wood typ"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-drywall-replacement-project-take",
+  "name": "How long does a typical drywall replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical drywall replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a drywall replacement project varies based on the scope of work, such as the number of rooms or sections needing attention, and the complexity of the damage. A small repair might take a day, while replacing drywall in an entire room could take several days to a week, including drying and finishing. Our team at Maine Results, Inc. works to provide a clear timeline after an initial assessment, ensuring we account for factors like drying times for mud and paint, which are crucial for a durable finish.",
+        "@type": "Answer",
+        "description": "Project duration depends on scope and complexity; small repairs can take a day, while a full room might take several days to a week, including drying times."
+      }
+    }
+  ],
+  "description": "Project duration depends on scope and complexity; small repairs can take a day, while a full room might take several days to a week, including drying times."
+}

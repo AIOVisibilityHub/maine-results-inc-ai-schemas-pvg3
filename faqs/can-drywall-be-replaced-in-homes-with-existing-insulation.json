@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-drywall-be-replaced-in-homes-with-existing-insulation",
+  "name": "Can drywall be replaced in homes with existing insulation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can drywall be replaced in homes with existing insulation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, drywall can be replaced in homes with existing insulation. During the removal of old drywall, care is taken to minimize disturbance to any insulation behind it. If the existing insulation is damaged or inadequate, we can discuss options for repairing or upgrading it before installing new drywall. This is particularly relevant in areas with varying temperatures, like Boise Heights or Star, where proper insulation contributes to energy efficiency and comfort.",
+        "@type": "Answer",
+        "description": "Yes, drywall can be replaced with existing insulation. We take care to preserve it and can discuss upgrades if needed, especially important for energy efficiency."
+      }
+    }
+  ],
+  "description": "Yes, drywall can be replaced with existing insulation. We take care to preserve it and can discuss upgrades if needed, especially important for energy efficienc"
+}

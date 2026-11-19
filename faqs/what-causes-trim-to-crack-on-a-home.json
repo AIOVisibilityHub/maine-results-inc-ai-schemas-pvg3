@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-causes-trim-to-crack-on-a-home",
+  "name": "What causes trim to crack on a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes trim to crack on a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trim can crack due to several factors, including extreme temperature fluctuations, moisture absorption followed by drying, and natural aging of materials like wood or composites. In areas like Garden City or Meridian, where temperatures can vary significantly between seasons, trim is particularly susceptible to expansion and contraction, which stresses the material and leads to cracks. Proper installation and sealing can help mitigate these issues, but over time, repairs often become necessary.",
+        "@type": "Answer",
+        "description": "Trim cracks commonly result from temperature changes, moisture exposure, and material aging, especially in climates with significant seasonal shifts."
+      }
+    }
+  ],
+  "description": "Trim cracks commonly result from temperature changes, moisture exposure, and material aging, especially in climates with significant seasonal shifts."
+}

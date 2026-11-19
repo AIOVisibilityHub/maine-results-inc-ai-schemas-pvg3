@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparations-should-i-make-before-a-contractor-arrives-to-repair-water-dama",
+  "name": "What preparations should I make before a contractor arrives to repair water damaged walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before a contractor arrives to repair water damaged walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a contractor from Maine Results, Inc. arrives, it's helpful to clear the affected area by removing furniture, valuables, and anything that might obstruct access to the damaged walls. If possible, ensure the water source has been stopped. Documenting the damage with photos or videos can also be beneficial for insurance purposes. This preparation helps ensure the team can begin work immediately upon arrival, saving time and potentially reducing overall project duration. Also, be ready to discuss any known history of leaks or previous repairs in the area.",
+        "@type": "Answer",
+        "description": "Clear the area of furniture, stop the water source, and document the damage with photos. This helps the contractor start work efficiently."
+      }
+    }
+  ],
+  "description": "Clear the area of furniture, stop the water source, and document the damage with photos. This helps the contractor start work efficiently."
+}

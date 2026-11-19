@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-drywall-patches-be-done-on-textured-walls-and-how-is-the-texture-matched",
+  "name": "Can drywall patches be done on textured walls, and how is the texture matched?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can drywall patches be done on textured walls, and how is the texture matched?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, drywall patches can be done on textured walls. Matching the existing texture is a critical step for a seamless repair. After the drywall patch is smooth and dry, our team uses specialized techniques and tools, such as spray-on texture, brushes, or sponges, to replicate the original texture pattern. This can include orange peel, knockdown, or skip trowel finishes. Achieving a precise match often requires skill and experience to blend the new texture invisibly with the surrounding surface.",
+        "@type": "Answer",
+        "description": "Yes, patches can be done on textured walls. We match textures like orange peel or knockdown using specialized tools and techniques for a seamless blend."
+      }
+    }
+  ],
+  "description": "Yes, patches can be done on textured walls. We match textures like orange peel or knockdown using specialized tools and techniques for a seamless blend."
+}

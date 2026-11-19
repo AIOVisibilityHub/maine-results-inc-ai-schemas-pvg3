@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-repair-or-replace-my-roof-after-wind-damage",
+  "name": "Should I repair or replace my roof after wind damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my roof after wind damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace depends on the extent and severity of the wind damage. Minor localized damage, like a few missing shingles, can often be repaired. However, widespread damage affecting a significant portion of the roof, or if your roof is older, might necessitate a full replacement for long-term structural integrity. We provide a thorough assessment to help you understand the scope of damage and recommend the most cost-effective and durable solution for your specific situation.",
+        "@type": "Answer",
+        "description": "Repair minor, localized wind damage; replace for widespread damage or older roofs. We assess the damage to recommend the best solution."
+      }
+    }
+  ],
+  "description": "Repair minor, localized wind damage; replace for widespread damage or older roofs. We assess the damage to recommend the best solution."
+}

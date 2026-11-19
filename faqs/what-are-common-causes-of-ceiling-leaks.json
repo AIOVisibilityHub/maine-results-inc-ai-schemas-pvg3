@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-causes-of-ceiling-leaks",
+  "name": "What are common causes of ceiling leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common causes of ceiling leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ceiling leaks often stem from issues with your roof, such as damaged shingles, flashing, or an improperly sealed skylight. Plumbing problems in an upstairs bathroom or kitchen, like a leaky pipe or overflowing toilet, are also frequent culprits. Less commonly, condensation from uninsulated attics or damaged HVAC drip pans can lead to ceiling stains. Identifying the source is crucial, as the repair approach varies significantly depending on whether the issue is external (roof) or internal (plumbing, condensation).",
+        "@type": "Answer",
+        "description": "Common causes of ceiling leaks include damaged roofs, plumbing issues from upstairs, or condensation problems in attics."
+      }
+    }
+  ],
+  "description": "Common causes of ceiling leaks include damaged roofs, plumbing issues from upstairs, or condensation problems in attics."
+}

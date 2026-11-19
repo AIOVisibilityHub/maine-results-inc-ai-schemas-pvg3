@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-a-window-leak-repair-service-visit",
+  "name": "What should I prepare before a window leak repair service visit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a window leak repair service visit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a window leak repair service visit, it's helpful to clear the area around the affected window, both inside and outside. Remove any furniture, window treatments, or decorative items that might obstruct access. If the leak is active, place towels or buckets to manage any dripping water. Having any notes about when you first noticed the leak or specific observations can also assist our team in their assessment. This preparation allows our technicians to efficiently access the repair site and begin work immediately, streamlining the service process.",
+        "@type": "Answer",
+        "description": "Clear the area around the window, remove obstructions, and note any observations about the leak before the service visit."
+      }
+    }
+  ],
+  "description": "Clear the area around the window, remove obstructions, and note any observations about the leak before the service visit."
+}

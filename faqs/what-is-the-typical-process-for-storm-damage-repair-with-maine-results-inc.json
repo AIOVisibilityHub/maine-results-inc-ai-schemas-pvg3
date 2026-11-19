@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-storm-damage-repair-with-maine-results-inc",
+  "name": "What is the typical process for storm damage repair with Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for storm damage repair with Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our storm damage repair process begins with a detailed inspection to document all damage for both you and your insurance provider. We then provide a transparent estimate for the necessary repairs. Once approved, our team schedules and performs the repairs, focusing on restoring your property efficiently and to a high standard. A key part of our service is assisting you with the insurance claim process, ensuring all documentation is submitted correctly and promptly to facilitate smoother claim resolution.",
+        "@type": "Answer",
+        "description": "The process involves inspection, detailed estimate, repair scheduling, and completion, with assistance for your insurance claim."
+      }
+    }
+  ],
+  "description": "The process involves inspection, detailed estimate, repair scheduling, and completion, with assistance for your insurance claim."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-professional-drywall-water-damage-repair",
+  "name": "When should I consider professional drywall water damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider professional drywall water damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider professional drywall water damage repair when the damaged area is larger than a few square feet, if the damage is near electrical outlets, or if there's any suspicion of structural involvement or mold growth. Professionals can assess the extent of the damage, identify the source of the water, and ensure proper drying and repair to prevent future issues. We often see homeowners attempt DIY repairs for larger issues, only to find the problem reoccurs or worsens.",
+        "@type": "Answer",
+        "description": "Seek professional repair for large damaged areas, damage near electricals, or suspected structural issues or mold."
+      }
+    }
+  ],
+  "description": "Seek professional repair for large damaged areas, damage near electricals, or suspected structural issues or mold."
+}

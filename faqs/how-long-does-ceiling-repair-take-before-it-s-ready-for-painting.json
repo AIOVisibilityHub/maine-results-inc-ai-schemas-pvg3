@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-ceiling-repair-take-before-it-s-ready-for-painting",
+  "name": "How long does ceiling repair take before it's ready for painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does ceiling repair take before it's ready for painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for ceiling repair before painting depends on the nature and extent of the damage. Minor repairs, like filling small holes or patching small cracks, might only take a few hours to a day for drying and sanding. More extensive repairs, such as addressing water damage involving drywall replacement and multiple coats of joint compound, can take several days due to drying times between layers. It's crucial not to rush this process, as proper drying ensures paint adhesion and a smooth finish. Maine Results, Inc. schedules repair work to allow adequate drying time.",
+        "@type": "Answer",
+        "description": "Ceiling repair time varies from hours for minor issues to several days for extensive damage, primarily due to necessary drying times between steps."
+      }
+    }
+  ],
+  "description": "Ceiling repair time varies from hours for minor issues to several days for extensive damage, primarily due to necessary drying times between steps."
+}

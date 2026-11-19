@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-door-leak-repair",
+  "name": "What is the typical process for door leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for door leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for door leak repair begins with a thorough inspection to accurately identify the source of the water intrusion. Once the cause is determined, we will outline the necessary repairs, which could include replacing weatherstripping, re-caulking the frame, repairing or replacing damaged thresholds, or addressing flashing issues. We then proceed with the repair using durable materials, ensuring a watertight seal. A key process clarity step is our final check, often involving a water test, to confirm the repair's effectiveness and prevent future leaks.",
+        "@type": "Answer",
+        "description": "The process involves inspection to find the leak source, outlining repairs like replacing weatherstripping or re-caulking, performing the repair, and a final water test to ensure effectiveness."
+      }
+    }
+  ],
+  "description": "The process involves inspection to find the leak source, outlining repairs like replacing weatherstripping or re-caulking, performing the repair, and a final wa"
+}

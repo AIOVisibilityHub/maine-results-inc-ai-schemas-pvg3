@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-maine-results-inc-offer-drywall-patch-repair-services-in-meridian-idaho",
+  "name": "Do Maine Results, Inc. offer drywall patch repair services in Meridian, Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do Maine Results, Inc. offer drywall patch repair services in Meridian, Idaho?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. proudly offers drywall patch repair services in Meridian, Idaho, as well as Garden City, Eagle, and Kuna. Our team is equipped to handle various types of drywall damage, from minor dings to larger sections requiring replacement. We understand the specific needs of properties in the Meridian area and aim to provide efficient, high-quality repairs that restore the appearance and integrity of your walls. Feel free to contact us for a local estimate.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. provides drywall patch repair services in Meridian, Idaho, along with Garden City, Eagle, and Kuna, for various damage types."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. provides drywall patch repair services in Meridian, Idaho, along with Garden City, Eagle, and Kuna, for various damage types."
+}

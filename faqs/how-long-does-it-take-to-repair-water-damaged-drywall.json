@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-repair-water-damaged-drywall",
+  "name": "How long does it take to repair water-damaged drywall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair water-damaged drywall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to repair water-damaged drywall varies depending on the severity and size of the damage, as well as the drying time required. Small repairs might take a day or two, while larger projects involving structural drying and extensive replacement could take several days to a week or more. Factors like humidity and the specific materials affected can influence the drying phase. We ensure the area is completely dry before proceeding with new drywall installation to prevent mold.",
+        "@type": "Answer",
+        "description": "Repair time for water-damaged drywall depends on the damage's size and severity, ranging from a few days to over a week."
+      }
+    }
+  ],
+  "description": "Repair time for water-damaged drywall depends on the damage's size and severity, ranging from a few days to over a week."
+}

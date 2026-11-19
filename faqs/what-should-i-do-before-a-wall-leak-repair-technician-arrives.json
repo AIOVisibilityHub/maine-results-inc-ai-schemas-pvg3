@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-do-before-a-wall-leak-repair-technician-arrives",
+  "name": "What should I do before a wall leak repair technician arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do before a wall leak repair technician arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a wall leak repair technician arrives, you can help by clearing the area around the affected wall, removing any furniture or belongings that might obstruct access. If safe to do so, try to identify when and under what conditions the leak is most noticeable, as this information can be valuable for diagnosis. Maine Results, Inc. appreciates any details you can provide about the leak's history, such as recent plumbing work or severe weather, to assist in quickly pinpointing the source and planning an effective repair.",
+        "@type": "Answer",
+        "description": "Before a technician arrives, clear the area around the leak and note any observations about when the leak is most noticeable to aid diagnosis."
+      }
+    }
+  ],
+  "description": "Before a technician arrives, clear the area around the leak and note any observations about when the leak is most noticeable to aid diagnosis."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-is-professional-wall-repair-necessary-versus-a-diy-fix-before-painting",
+  "name": "When is professional wall repair necessary versus a DIY fix before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is professional wall repair necessary versus a DIY fix before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional wall repair is often necessary for damage that impacts the structural integrity of the wall, such as large holes, extensive cracking, or water damage that could lead to mold. While small nail holes and minor scuffs can be DIY fixes, complex issues require the expertise of professionals like Maine Results to ensure proper repair, texturing, and sanding. Attempting complex repairs without proper tools or experience can lead to visible imperfections even after painting, compromising the overall finish.",
+        "@type": "Answer",
+        "description": "Professional wall repair is necessary for large holes, extensive cracking, or water damage; minor scuffs can be DIY."
+      }
+    }
+  ],
+  "description": "Professional wall repair is necessary for large holes, extensive cracking, or water damage; minor scuffs can be DIY."
+}

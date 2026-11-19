@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-repairing-split-wood-trim-versus-replacing-it-entirely",
+  "name": "When should I consider repairing split wood trim versus replacing it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing split wood trim versus replacing it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repairing split wood trim when the damage is localized and structurally minor, such as small cracks or surface splits. Repair is often more cost-effective and less disruptive for minor issues. Replacement is advisable if the trim is severely warped, has extensive rot, or is splintered beyond cosmetic repair, compromising its structural integrity. As a First-Party Insight, our team at Maine Results often recommends replacement if more than 30% of a trim piece is damaged, as repairs can become less durable and more visible than new material in such cases.",
+        "@type": "Answer",
+        "description": "Repair minor, localized splits; replace trim that is severely warped, rotten, or extensively splintered. Maine Results recommends replacement if over 30% of a trim piece is damaged."
+      }
+    }
+  ],
+  "description": "Repair minor, localized splits; replace trim that is severely warped, rotten, or extensively splintered. Maine Results recommends replacement if over 30% of a t"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-repairing-a-leaking-window",
+  "name": "What is the typical process for repairing a leaking window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for repairing a leaking window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for repairing a leaking window starts with a thorough inspection to identify the exact source and extent of the leak. Our team in Idaho will assess the window frame, seals, siding, and surrounding structure. Once the cause is found, repairs can range from re-caulking and weatherstripping to replacing damaged sashes, frames, or even sections of the exterior wall. We prioritize solutions that prevent future leaks and maintain your home's integrity. For older homes, especially in areas like Eagle or Kuna, the repair might also involve addressing underlying structural issues that contribute to leaks.",
+        "@type": "Answer",
+        "description": "Window leak repair involves inspecting the source, then re-caulking, replacing seals, or repairing structural damage to prevent future issues."
+      }
+    }
+  ],
+  "description": "Window leak repair involves inspecting the source, then re-caulking, replacing seals, or repairing structural damage to prevent future issues."
+}

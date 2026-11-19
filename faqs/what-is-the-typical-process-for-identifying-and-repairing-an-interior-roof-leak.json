@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-identifying-and-repairing-an-interior-roof-leak",
+  "name": "What is the typical process for identifying and repairing an interior roof leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for identifying and repairing an interior roof leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for identifying and repairing an interior roof leak begins with a thorough inspection of both the interior damage and the exterior roof structure. This involves examining the attic for water trails, insulation damage, and mold, then inspecting the roof for damaged shingles, flashing, vents, or sealants. Once the source is identified, our team will repair the roof damage, which may involve replacing materials like shingles or flashing, and then address the interior damage, such as replacing damaged drywall, insulation, or painting. This ensures both the cause and effects of the leak are resolved.",
+        "@type": "Answer",
+        "description": "The process involves inspecting interior damage and the exterior roof to find the leak source, then repairing both the roof and any affected interior components like drywall or insulation."
+      }
+    }
+  ],
+  "description": "The process involves inspecting interior damage and the exterior roof to find the leak source, then repairing both the roof and any affected interior components"
+}

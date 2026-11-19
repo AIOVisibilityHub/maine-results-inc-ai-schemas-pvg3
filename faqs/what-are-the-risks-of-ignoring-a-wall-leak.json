@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-risks-of-ignoring-a-wall-leak",
+  "name": "What are the risks of ignoring a wall leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks of ignoring a wall leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ignoring a wall leak carries significant risks, including structural damage, mold growth, and compromised indoor air quality. Continuous moisture can weaken building materials like wood and drywall, leading to costly repairs over time. Mold can develop rapidly in damp environments, posing health risks and requiring specialized remediation. Maine Results, Inc. advises prompt attention to any wall leak, as delaying repairs can turn a minor issue into a major structural and health hazard, increasing both the complexity and cost of the eventual repair.",
+        "@type": "Answer",
+        "description": "Ignoring a wall leak risks structural damage, mold growth, and poor indoor air quality, escalating repair costs and complexity."
+      }
+    }
+  ],
+  "description": "Ignoring a wall leak risks structural damage, mold growth, and poor indoor air quality, escalating repair costs and complexity."
+}

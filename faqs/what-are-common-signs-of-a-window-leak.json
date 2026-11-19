@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-of-a-window-leak",
+  "name": "What are common signs of a window leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of a window leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a window leak include visible water stains on walls or sills, peeling paint around the window frame, warped wood, or a musty odor. You might also feel a draft, notice condensation between glass panes, or experience higher utility bills due to compromised insulation. Identifying these signs early can help prevent more extensive damage to your home's structure. For properties in areas like Garden City or Meridian, where weather can vary, it's important to regularly inspect windows for these indicators.",
+        "@type": "Answer",
+        "description": "Common signs of a window leak include water stains, peeling paint, warped wood, drafts, or condensation between panes."
+      }
+    }
+  ],
+  "description": "Common signs of a window leak include water stains, peeling paint, warped wood, drafts, or condensation between panes."
+}

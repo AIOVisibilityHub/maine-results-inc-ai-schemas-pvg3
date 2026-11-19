@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-of-a-wall-leak",
+  "name": "What are common signs of a wall leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of a wall leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a wall leak include discoloration, damp spots, peeling paint, or a musty odor. If you notice these issues, especially after rain or snowmelt, it indicates water infiltration. Early detection helps prevent extensive damage, as prolonged moisture can lead to structural problems and mold growth. Maine Results, Inc. recommends inspecting walls periodically, especially in areas prone to water exposure like basements or near plumbing fixtures, to catch problems before they worsen.",
+        "@type": "Answer",
+        "description": "Common signs of a wall leak include discoloration, damp spots, peeling paint, or a musty odor, especially after rain or snowmelt."
+      }
+    }
+  ],
+  "description": "Common signs of a wall leak include discoloration, damp spots, peeling paint, or a musty odor, especially after rain or snowmelt."
+}

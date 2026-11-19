@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-loose-trim-needs-repair-or-full-replacement",
+  "name": "How do I know if my loose trim needs repair or full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my loose trim needs repair or full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining whether loose trim needs repair or full replacement depends on the extent of the damage. If the trim is only slightly detached and the wood is still sound, a simple reattachment with appropriate fasteners and sealant may suffice. However, if the trim shows signs of extensive rot, significant cracking, or structural compromise, replacement is typically the more durable solution. Maine Results, Inc. will inspect the trim to evaluate its condition, checking for moisture damage, integrity of the material, and the effectiveness of existing fasteners to recommend the most cost-effective and long-lasting approach.",
+        "@type": "Answer",
+        "description": "Assess if the trim is just loose or also rotten/damaged; minor detachment often means repair, while significant rot usually requires replacement."
+      }
+    }
+  ],
+  "description": "Assess if the trim is just loose or also rotten/damaged; minor detachment often means repair, while significant rot usually requires replacement."
+}

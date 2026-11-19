@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-do-immediately-after-wind-damage-occurs-to-my-home",
+  "name": "What should I do immediately after wind damage occurs to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after wind damage occurs to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After ensuring your safety, visually inspect your property from the ground for obvious signs of damage, such as missing shingles or fallen tree limbs. Take photos of any visible damage for your records. If there's a risk of water intrusion, consider temporary measures like tarping, if safe to do so, to prevent further damage. Then, contact a professional like us for a thorough inspection to accurately assess all damage, including less visible issues.",
+        "@type": "Answer",
+        "description": "After a storm, prioritize safety, document visible damage with photos, and consider temporary tarping if safe. Then, contact us for a professional inspection."
+      }
+    }
+  ],
+  "description": "After a storm, prioritize safety, document visible damage with photos, and consider temporary tarping if safe. Then, contact us for a professional inspection."
+}

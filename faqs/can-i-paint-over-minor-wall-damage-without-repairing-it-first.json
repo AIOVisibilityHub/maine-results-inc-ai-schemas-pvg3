@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-paint-over-minor-wall-damage-without-repairing-it-first",
+  "name": "Can I paint over minor wall damage without repairing it first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I paint over minor wall damage without repairing it first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Painting over minor wall damage without repairing it first is generally not recommended, as imperfections like cracks, nail holes, or dents will still be visible, or even more noticeable, through the new paint. Paint tends to highlight surface flaws rather than conceal them. While a very light scuff might be forgiving, even small defects can compromise the smooth finish of a fresh coat. For a truly professional and long-lasting result, Maine Results always advises proper preparation and repair, ensuring a flawless base for your new paint.",
+        "@type": "Answer",
+        "description": "Painting over minor wall damage is not recommended as imperfections will remain visible, compromising the new paint's finish."
+      }
+    }
+  ],
+  "description": "Painting over minor wall damage is not recommended as imperfections will remain visible, compromising the new paint's finish."
+}

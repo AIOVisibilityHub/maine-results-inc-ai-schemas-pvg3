@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-do-immediately-after-discovering-water-damage-in-my-ceiling",
+  "name": "What should I do immediately after discovering water damage in my ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after discovering water damage in my ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First, identify and stop the water source immediately, if possible. Next, contain the water by placing buckets or towels under the damaged area. Then, open windows and use fans or dehumidifiers to begin drying the space to prevent mold growth. Contacting a professional like Maine Results, Inc. promptly is a crucial next step. We can assess the full extent of the damage, including hidden moisture, and plan for comprehensive repairs in your home in areas like Garden City or Meridian, addressing both the visible and underlying issues effectively.",
+        "@type": "Answer",
+        "description": "Stop the water source, contain drips, and start drying the area. Then, contact a professional to assess hidden damage and plan comprehensive repairs."
+      }
+    }
+  ],
+  "description": "Stop the water source, contain drips, and start drying the area. Then, contact a professional to assess hidden damage and plan comprehensive repairs."
+}

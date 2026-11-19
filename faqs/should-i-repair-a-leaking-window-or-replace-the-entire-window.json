@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-repair-a-leaking-window-or-replace-the-entire-window",
+  "name": "Should I repair a leaking window or replace the entire window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair a leaking window or replace the entire window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repairing a leak or replacing the entire window depends on the extent of the damage, the window's age, and its overall condition. If the leak is due to a minor issue like degraded caulk or weatherstripping, a repair is often sufficient and more cost-effective. However, if the frame is severely rotted, the glass is compromised, or the window is old and inefficient, replacement might offer better long-term value, improving energy efficiency and home comfort. Consider the long-term benefits and costs before making your choice, as a full replacement can prevent recurring issues.",
+        "@type": "Answer",
+        "description": "Repair minor leaks, but consider full replacement for severe damage, old age, or poor efficiency for better long-term value."
+      }
+    }
+  ],
+  "description": "Repair minor leaks, but consider full replacement for severe damage, old age, or poor efficiency for better long-term value."
+}

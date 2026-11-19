@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-it-cost-to-repair-split-wood-trim",
+  "name": "How much does it cost to repair split wood trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair split wood trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair split wood trim can vary significantly based on factors such as the amount of trim needing repair, the type of wood, the severity of the damage, and whether painting or staining is included. Small, isolated repairs are generally less expensive than extensive damage across multiple pieces of trim. For a local perspective, Maine Results provides detailed estimates after assessing the specific conditions of your trim in areas like Garden City, Meridian, Eagle, Kuna, or Star. We prioritize transparency in our pricing, allowing you to understand the full scope of work.",
+        "@type": "Answer",
+        "description": "Cost varies by damage extent, wood type, and finishing needs. Maine Results provides estimates for specific repairs in areas like Garden City, Meridian, Eagle, Kuna, or Star, ensuring transparent pricing."
+      }
+    }
+  ],
+  "description": "Cost varies by damage extent, wood type, and finishing needs. Maine Results provides estimates for specific repairs in areas like Garden City, Meridian, Eagle,"
+}

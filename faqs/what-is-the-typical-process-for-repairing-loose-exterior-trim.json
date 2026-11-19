@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-repairing-loose-exterior-trim",
+  "name": "What is the typical process for repairing loose exterior trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for repairing loose exterior trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for repairing loose exterior trim involves inspection, preparation, reattachment, and finishing. First, Maine Results, Inc. will inspect the trim to identify the cause of looseness and assess the wood's condition. Preparation includes cleaning the area and removing any deteriorated material. Next, the trim is securely reattached using appropriate fasteners, such as galvanized nails or screws, often with construction adhesive for added hold. Finally, any gaps are sealed with exterior-grade caulk, and the area is prepped for painting to match the existing finish, ensuring weather resistance and a seamless look.",
+        "@type": "Answer",
+        "description": "The process involves inspection, preparing the area, securely reattaching the trim with fasteners and adhesive, then sealing and finishing."
+      }
+    }
+  ],
+  "description": "The process involves inspection, preparing the area, securely reattaching the trim with fasteners and adhesive, then sealing and finishing."
+}

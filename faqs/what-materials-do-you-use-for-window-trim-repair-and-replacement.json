@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-do-you-use-for-window-trim-repair-and-replacement",
+  "name": "What materials do you use for window trim repair and replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials do you use for window trim repair and replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We use durable, weather-resistant materials for window trim repair and replacement to ensure longevity. For repairs, we often use high-quality epoxy fillers designed for exterior wood. For replacements, we might use rot-resistant wood species, composite materials, or PVC trim, depending on the existing trim, your home's style, and your budget. Our material selection aims to match your home's aesthetics and provide superior protection against future water damage, especially important for varying climates in areas like Middleton.",
+        "@type": "Answer",
+        "description": "We use durable materials like epoxy fillers, rot-resistant wood, composite, or PVC trim for repairs and replacements."
+      }
+    }
+  ],
+  "description": "We use durable materials like epoxy fillers, rot-resistant wood, composite, or PVC trim for repairs and replacements."
+}

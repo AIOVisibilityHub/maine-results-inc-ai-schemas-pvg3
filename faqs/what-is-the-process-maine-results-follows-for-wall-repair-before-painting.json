@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-maine-results-follows-for-wall-repair-before-painting",
+  "name": "What is the process Maine Results follows for wall repair before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process Maine Results follows for wall repair before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results begins the wall repair process with a thorough assessment of all damaged areas. We then clean and prepare the surfaces, removing any loose debris. For small imperfections, we apply spackle or joint compound, sanding it smooth once dry. Larger damage involves cutting out compromised drywall, installing patches, taping seams, and applying multiple layers of compound and sanding for a seamless finish. We match existing wall textures where necessary, ensuring the surface is perfectly smooth and ready for primer and paint, providing a consistent base for the final coat.",
+        "@type": "Answer",
+        "description": "Maine Results assesses damage, cleans surfaces, applies spackle or patches, sands smooth, and matches textures to prepare walls for painting."
+      }
+    }
+  ],
+  "description": "Maine Results assesses damage, cleans surfaces, applies spackle or patches, sands smooth, and matches textures to prepare walls for painting."
+}

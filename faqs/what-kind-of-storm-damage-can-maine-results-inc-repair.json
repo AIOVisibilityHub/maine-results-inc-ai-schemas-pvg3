@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-storm-damage-can-maine-results-inc-repair",
+  "name": "What kind of storm damage can Maine Results, Inc. repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of storm damage can Maine Results, Inc. repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. handles a wide range of storm damage repairs, including issues caused by high winds, hail, and heavy rain. This typically involves roofing damage such as missing shingles, leaks, punctures, or structural compromises, as well as siding issues like cracks, dents, or detachment. We also address water intrusion problems that can affect interior structures. A key step in our process is a thorough inspection to accurately assess all visible and hidden damage.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. repairs storm damage from high winds, hail, and heavy rain, focusing on roofing, siding, and water intrusion."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. repairs storm damage from high winds, hail, and heavy rain, focusing on roofing, siding, and water intrusion."
+}

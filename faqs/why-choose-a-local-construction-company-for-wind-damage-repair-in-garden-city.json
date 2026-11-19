@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/why-choose-a-local-construction-company-for-wind-damage-repair-in-garden-city",
+  "name": "Why choose a local construction company for wind damage repair in Garden City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why choose a local construction company for wind damage repair in Garden City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a local company like Maine Results, Inc. for wind damage repair in Garden City means we are familiar with local building codes, common weather patterns, and the specific needs of homes in the Boise metropolitan area. Our proximity allows for quicker response times for inspections and emergency repairs, which is critical after a storm. We also have a vested interest in maintaining our reputation within the communities we serve, including Garden City, Meridian, and Eagle.",
+        "@type": "Answer",
+        "description": "A local company understands regional building codes and weather patterns, offering quicker response times and community-focused service for wind damage repair."
+      }
+    }
+  ],
+  "description": "A local company understands regional building codes and weather patterns, offering quicker response times and community-focused service for wind damage repair."
+}

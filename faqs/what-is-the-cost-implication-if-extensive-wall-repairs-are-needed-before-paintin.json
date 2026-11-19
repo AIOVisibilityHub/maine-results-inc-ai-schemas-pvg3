@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-cost-implication-if-extensive-wall-repairs-are-needed-before-paintin",
+  "name": "What is the cost implication if extensive wall repairs are needed before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost implication if extensive wall repairs are needed before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If extensive wall repairs are needed before painting, it will typically add to the overall project cost. Minor repairs like small nail holes are often included in standard preparation, but significant issues such as large drywall patches, extensive crack filling, or texture matching require additional labor and materials. These costs are usually itemized separately from the painting itself, reflecting the extra time and skill involved. We provide a detailed estimate after assessing your walls, so you understand the full scope and cost of preparation before any work begins, ensuring transparency for homeowners in areas like Boise Heights.",
+        "@type": "Answer",
+        "description": "Extensive wall repairs add to the overall painting cost due to extra labor and materials; these are typically itemized separately."
+      }
+    }
+  ],
+  "description": "Extensive wall repairs add to the overall painting cost due to extra labor and materials; these are typically itemized separately."
+}

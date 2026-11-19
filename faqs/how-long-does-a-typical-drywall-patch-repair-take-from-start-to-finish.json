@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-drywall-patch-repair-take-from-start-to-finish",
+  "name": "How long does a typical drywall patch repair take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical drywall patch repair take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a drywall patch repair depends on the size and complexity of the damage. A small hole might be patched within a few hours of active work. However, the process often includes multiple applications of joint compound, each requiring several hours to dry thoroughly before the next coat or sanding can occur. This means a complete repair, including drying time, can span one to three days to ensure proper adhesion and a durable, smooth finish. We factor in these drying times when scheduling your project.",
+        "@type": "Answer",
+        "description": "Repair time varies by damage size, but typically ranges from a few hours for small holes to 1-3 days including drying times for larger patches."
+      }
+    }
+  ],
+  "description": "Repair time varies by damage size, but typically ranges from a few hours for small holes to 1-3 days including drying times for larger patches."
+}

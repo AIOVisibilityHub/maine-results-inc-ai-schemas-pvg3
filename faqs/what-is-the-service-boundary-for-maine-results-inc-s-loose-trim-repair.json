@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-service-boundary-for-maine-results-inc-s-loose-trim-repair",
+  "name": "What is the service boundary for Maine Results, Inc.'s loose trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the service boundary for Maine Results, Inc.'s loose trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. provides loose trim repair services to homeowners and businesses in specific communities within Idaho. Our primary service areas include Garden City, Meridian, Eagle, Kuna, and Star. We focus our operations within these areas to ensure efficient service delivery and timely response for our clients. If you are located in one of these communities, or a closely surrounding area, please contact us to schedule an assessment. Our team is committed to delivering high-quality construction and repair solutions within these established service boundaries.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. offers loose trim repair in Garden City, Meridian, Eagle, Kuna, and Star, focusing on efficient service within these communities."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. offers loose trim repair in Garden City, Meridian, Eagle, Kuna, and Star, focusing on efficient service within these communities."
+}

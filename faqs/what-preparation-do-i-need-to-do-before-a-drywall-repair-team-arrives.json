@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-do-i-need-to-do-before-a-drywall-repair-team-arrives",
+  "name": "What preparation do I need to do before a drywall repair team arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before a drywall repair team arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our drywall repair team arrives, please clear the work area of any furniture, decorations, or delicate items to prevent damage and allow easy access to the wall. If possible, remove pictures or wall hangings. Covering nearby items with drop cloths or plastic sheeting can help protect them from dust, although we take precautions to minimize mess. Providing clear access helps us start work efficiently and ensures a smoother, quicker repair process.",
+        "@type": "Answer",
+        "description": "Before arrival, clear the work area of furniture and decor to allow access. Protecting nearby items from dust can also be helpful."
+      }
+    }
+  ],
+  "description": "Before arrival, clear the work area of furniture and decor to allow access. Protecting nearby items from dust can also be helpful."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-leave-furniture-in-the-room-during-interior-painting-preparation",
+  "name": "Can I leave furniture in the room during interior painting preparation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I leave furniture in the room during interior painting preparation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's ideal to remove all furniture from a room, you can leave larger or heavier items if they are moved to the center of the room and thoroughly covered. Use plastic sheeting to protect them from paint splatters and dust. Ensure there's ample space around the perimeter for painters to work efficiently and safely. However, moving items out completely offers the best access and minimizes any risk to your belongings. When working in your Kuna or Star home, we always discuss these options to find the best balance between convenience and thoroughness.",
+        "@type": "Answer",
+        "description": "Large furniture can stay in the room if moved to the center and covered with plastic, but removal offers best access."
+      }
+    }
+  ],
+  "description": "Large furniture can stay in the room if moved to the center and covered with plastic, but removal offers best access."
+}

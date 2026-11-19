@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-a-full-roof-replacement-instead-of-just-an-interior-leak",
+  "name": "When should I consider a full roof replacement instead of just an interior leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a full roof replacement instead of just an interior leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a full roof replacement instead of just an interior leak repair when the roof is nearing the end of its lifespan, exhibits widespread damage beyond the leak, or has multiple leaks. If the leak is a symptom of general roof deterioration, such as widespread shingle damage, significant granule loss, or sagging, a full replacement often provides a more cost-effective and long-term solution. Our team can assess the overall condition of your roof to help you make an informed decision between targeted repair and a comprehensive replacement.",
+        "@type": "Answer",
+        "description": "Consider a full roof replacement if your roof is old, has widespread damage, or multiple leaks, as it's often more cost-effective than repeated repairs."
+      }
+    }
+  ],
+  "description": "Consider a full roof replacement if your roof is old, has widespread damage, or multiple leaks, as it's often more cost-effective than repeated repairs."
+}

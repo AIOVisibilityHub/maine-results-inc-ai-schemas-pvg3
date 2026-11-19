@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-information-should-i-gather-before-contacting-maine-results-inc-for-cracked",
+  "name": "What information should I gather before contacting Maine Results, Inc. for cracked trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I gather before contacting Maine Results, Inc. for cracked trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting us for cracked trim repair, it's helpful to gather some basic information. This includes identifying the general location of the cracked trim (e.g., front porch, window frames, fascia), noting the type of material if known (wood, composite, etc.), and roughly estimating the extent of the damage. Taking a few photos of the affected areas can also be very useful for our initial assessment. This preparation helps us understand your needs better and provide a more accurate service estimate.",
+        "@type": "Answer",
+        "description": "Before contacting us, identify cracked trim locations and material, estimate damage extent, and take photos to help with our initial assessment."
+      }
+    }
+  ],
+  "description": "Before contacting us, identify cracked trim locations and material, estimate damage extent, and take photos to help with our initial assessment."
+}

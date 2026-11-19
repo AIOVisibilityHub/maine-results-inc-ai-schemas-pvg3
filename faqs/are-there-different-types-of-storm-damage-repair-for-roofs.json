@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/are-there-different-types-of-storm-damage-repair-for-roofs",
+  "name": "Are there different types of storm damage repair for roofs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different types of storm damage repair for roofs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, roof storm damage repair can range from minor fixes to complete replacements. Small issues like a few missing shingles or minor dents might only require patching or localized replacement. However, widespread damage, such as significant hail impact across large roof sections, extensive wind damage leading to structural issues, or severe water intrusion, often necessitates a full roof replacement. The type of repair depends on the severity and widespread nature of the damage and the underlying structural integrity.",
+        "@type": "Answer",
+        "description": "Roof storm damage repairs vary from patching minor issues like missing shingles to full replacements for extensive hail or wind damage."
+      }
+    }
+  ],
+  "description": "Roof storm damage repairs vary from patching minor issues like missing shingles to full replacements for extensive hail or wind damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-repairing-small-drywall-holes-versus-large-sectio",
+  "name": "What is the difference between repairing small drywall holes versus large sections?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between repairing small drywall holes versus large sections?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing small drywall holes, such as those from nails or anchors, typically involves filling with spackle or joint compound, sanding, and priming. This is a quick process. For large sections, especially those with significant damage like water intrusion or large impacts, the process is more involved. It often requires cutting out the damaged area, installing a new piece of drywall, reinforcing it with tape, and then applying multiple coats of joint compound, sanding between each. This ensures structural integrity and a smooth, level finish for a lasting repair.",
+        "@type": "Answer",
+        "description": "Small holes are filled with spackle; large sections require cutting out damage, installing new drywall, taping, and multiple mud/sanding coats."
+      }
+    }
+  ],
+  "description": "Small holes are filled with spackle; large sections require cutting out damage, installing new drywall, taping, and multiple mud/sanding coats."
+}

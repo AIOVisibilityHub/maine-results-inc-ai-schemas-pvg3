@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-common-signs-of-water-damage-in-walls-that-require-repair",
+  "name": "What are the common signs of water damage in walls that require repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of water damage in walls that require repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of water damage include discolored or stained drywall, peeling paint or wallpaper, soft or bulging areas, and a musty odor. You might also notice visible mold growth, especially if the water exposure has been ongoing. Catching these signs early helps prevent more extensive and costly repairs. Maine Results, Inc. recommends a professional assessment if you suspect any hidden water intrusion, as underlying issues like structural damage or mold can worsen quickly.",
+        "@type": "Answer",
+        "description": "Look for discolored walls, peeling paint, soft spots, or a musty smell. Early detection helps prevent extensive damage."
+      }
+    }
+  ],
+  "description": "Look for discolored walls, peeling paint, soft spots, or a musty smell. Early detection helps prevent extensive damage."
+}

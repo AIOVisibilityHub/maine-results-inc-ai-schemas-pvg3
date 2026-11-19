@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-a-professional-drywall-patch-repair",
+  "name": "What is the typical process for a professional drywall patch repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a professional drywall patch repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional drywall patch repair typically involves assessing the damage, preparing the area by cleaning and removing loose debris, and then cutting out the damaged section if necessary. A new piece of drywall is installed, taped, and covered with multiple layers of joint compound, with drying time between coats. Finally, the repaired area is sanded smooth, feathered into the surrounding wall, and primed, making it ready for paint. We always aim to match the surrounding wall texture for a seamless finish.",
+        "@type": "Answer",
+        "description": "The process involves assessing damage, preparing the area, installing new drywall, applying joint compound, sanding, and priming for a seamless finish."
+      }
+    }
+  ],
+  "description": "The process involves assessing damage, preparing the area, installing new drywall, applying joint compound, sanding, and priming for a seamless finish."
+}

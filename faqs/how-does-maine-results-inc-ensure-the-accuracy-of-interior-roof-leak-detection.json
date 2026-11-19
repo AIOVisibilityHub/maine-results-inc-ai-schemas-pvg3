@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-does-maine-results-inc-ensure-the-accuracy-of-interior-roof-leak-detection",
+  "name": "How does Maine Results, Inc. ensure the accuracy of interior roof leak detection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Maine Results, Inc. ensure the accuracy of interior roof leak detection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. ensures accurate interior roof leak detection through a systematic inspection approach. Our technicians are trained to identify subtle signs of water entry and follow water trails back to their source, which may not always be directly above the interior damage. We examine all common leak points on the roof, including flashing, vents, skylights, and seams, as well as the condition of the roofing materials themselves. This thorough process helps us pinpoint the exact cause of the leak, even when it's hidden, ensuring a durable repair and preventing recurrence.",
+        "@type": "Answer",
+        "description": "We use a systematic inspection, tracing water trails, and examining all common roof leak points to accurately pinpoint the source and ensure durable repairs."
+      }
+    }
+  ],
+  "description": "We use a systematic inspection, tracing water trails, and examining all common roof leak points to accurately pinpoint the source and ensure durable repairs."
+}

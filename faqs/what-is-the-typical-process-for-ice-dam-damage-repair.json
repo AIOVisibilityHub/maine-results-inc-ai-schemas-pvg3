@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-ice-dam-damage-repair",
+  "name": "What is the typical process for ice dam damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for ice dam damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our repair process begins with a thorough inspection to assess the full extent of the damage, both visible and hidden. This includes checking your roof, attic, and interior spaces. We then provide a detailed repair plan and estimate. Once approved, we address immediate water entry points, remove damaged materials, dry affected areas, and perform necessary structural or cosmetic repairs. The process concludes with a final inspection to ensure quality and prevent recurrence, keeping you informed at each step.",
+        "@type": "Answer",
+        "description": "The repair process involves inspection, damage assessment, a detailed repair plan, addressing leaks, repairing damaged areas, and a final inspection to ensure quality."
+      }
+    }
+  ],
+  "description": "The repair process involves inspection, damage assessment, a detailed repair plan, addressing leaks, repairing damaged areas, and a final inspection to ensure q"
+}

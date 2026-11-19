@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-prevent-future-water-leaks-in-my-home",
+  "name": "How can I prevent future water leaks in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future water leaks in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing future water leaks involves regular maintenance and inspections of your plumbing, roof, and appliances. Check for deteriorating caulk, loose pipe fittings, and proper drainage. Installing water leak detection sensors can provide early warnings, especially in areas prone to leaks like basements or under sinks. These proactive steps can significantly reduce the risk of future water damage. Consider a seasonal check for any visible signs of wear.",
+        "@type": "Answer",
+        "description": "Regularly inspect plumbing, roof, and appliances, and consider leak detection sensors to prevent future water damage. Seasonal checks help prevent issues."
+      }
+    }
+  ],
+  "description": "Regularly inspect plumbing, roof, and appliances, and consider leak detection sensors to prevent future water damage. Seasonal checks help prevent issues."
+}

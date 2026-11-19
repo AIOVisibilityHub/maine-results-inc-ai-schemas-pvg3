@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-causes-a-door-to-leak-water",
+  "name": "What causes a door to leak water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a door to leak water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water leaks around doors are commonly caused by worn weatherstripping, deteriorated caulking around the door frame, or issues with the door's threshold or sill. Sometimes, problems with the exterior trim or flashing above the door can also direct water inwards. Identifying the exact source of the leak is the first step in effective repair. We thoroughly inspect these areas to pinpoint where water is entering your home.",
+        "@type": "Answer",
+        "description": "Door leaks are usually caused by worn weatherstripping, degraded caulking, or issues with the threshold or sill. Exterior trim or flashing problems can also contribute to leaks."
+      }
+    }
+  ],
+  "description": "Door leaks are usually caused by worn weatherstripping, degraded caulking, or issues with the threshold or sill. Exterior trim or flashing problems can also con"
+}

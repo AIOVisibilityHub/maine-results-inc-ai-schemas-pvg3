@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-drywall-holes-be-repaired-without-repainting-the-entire-wall",
+  "name": "Can drywall holes be repaired without repainting the entire wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can drywall holes be repaired without repainting the entire wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's possible to repair a drywall hole and only repaint the patched area, achieving an exact color match can be challenging, especially on older walls where paint has faded. Our team at Maine Results, Inc. can feather the new paint out to minimize the appearance of a patch. However, for the most uniform and seamless appearance, painting the entire wall or at least the entire section from corner to corner, is often recommended, which is a practical tradeoff to consider.",
+        "@type": "Answer",
+        "description": "You can touch up only the patched area, but for a uniform look, painting the entire wall section is often recommended."
+      }
+    }
+  ],
+  "description": "You can touch up only the patched area, but for a uniform look, painting the entire wall section is often recommended."
+}

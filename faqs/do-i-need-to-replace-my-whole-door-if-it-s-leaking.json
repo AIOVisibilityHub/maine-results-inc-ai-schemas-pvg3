@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-replace-my-whole-door-if-it-s-leaking",
+  "name": "Do I need to replace my whole door if it's leaking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace my whole door if it's leaking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not necessarily. Often, door leaks can be resolved with targeted repairs, such as replacing weatherstripping, re-caulking, or repairing the threshold. A full door replacement is typically only needed if the door slab itself is severely rotted, warped beyond repair, or if the frame is extensively damaged structurally. We always assess the extent of the damage to determine if repair or replacement is the most cost-effective and durable solution. This comparison helps you make the best decision for your home.",
+        "@type": "Answer",
+        "description": "You don't always need to replace a leaking door; often, repairs like weatherstripping or re-caulking suffice. Replacement is usually needed only for severe damage to the door slab or frame."
+      }
+    }
+  ],
+  "description": "You don't always need to replace a leaking door; often, repairs like weatherstripping or re-caulking suffice. Replacement is usually needed only for severe dama"
+}

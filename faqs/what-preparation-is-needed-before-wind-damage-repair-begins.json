@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-is-needed-before-wind-damage-repair-begins",
+  "name": "What preparation is needed before wind damage repair begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before wind damage repair begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before wind damage repair starts, you may need to clear the immediate work area of personal belongings, vehicles, and sensitive plants to ensure safe access for our team and prevent damage. If temporary tarping was installed, our crew will remove it before beginning permanent repairs. We will communicate any specific requirements based on your project, helping you prepare your property to facilitate an efficient and smooth repair process.",
+        "@type": "Answer",
+        "description": "Prepare for wind damage repair by clearing the work area of belongings. We will communicate specific needs to ensure a smooth process."
+      }
+    }
+  ],
+  "description": "Prepare for wind damage repair by clearing the work area of belongings. We will communicate specific needs to ensure a smooth process."
+}

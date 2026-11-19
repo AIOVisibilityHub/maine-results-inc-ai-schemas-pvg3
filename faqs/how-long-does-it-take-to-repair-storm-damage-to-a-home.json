@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-repair-storm-damage-to-a-home",
+  "name": "How long does it take to repair storm damage to a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair storm damage to a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for storm damage repair varies significantly based on the extent of the damage, the type of repairs needed (e.g., minor roof patch versus full roof replacement), and material availability. Minor repairs might take a day or two, while more extensive projects could span several weeks. For example, a complete roof replacement due to severe hail damage will naturally take longer than fixing a few loose shingles. After our initial inspection, we can provide a more precise estimate for your specific project.",
+        "@type": "Answer",
+        "description": "Repair time depends on damage extent and type, from days for minor fixes to weeks for major overhauls like roof replacements."
+      }
+    }
+  ],
+  "description": "Repair time depends on damage extent and type, from days for minor fixes to weeks for major overhauls like roof replacements."
+}

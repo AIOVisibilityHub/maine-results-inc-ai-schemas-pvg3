@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-also-paint-the-repaired-drywall-or-just-prepare-it",
+  "name": "Do you also paint the repaired drywall, or just prepare it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you also paint the repaired drywall, or just prepare it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our primary service for drywall repair focuses on preparing the surface to be paint-ready. This includes patching, taping, mudding, sanding smooth, and applying primer to ensure a consistent base. While our core offering concludes before final paint coats, we ensure the repaired area is perfectly primed and ready for your chosen finish. We always recommend applying a topcoat of paint across the entire wall to achieve the most uniform and seamless appearance after repairs.",
+        "@type": "Answer",
+        "description": "We prepare and prime the repaired drywall, making it ready for painting, but do not typically apply the final paint coats."
+      }
+    }
+  ],
+  "description": "We prepare and prime the repaired drywall, making it ready for painting, but do not typically apply the final paint coats."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-cracked-trim-also-has-underlying-water-damage",
+  "name": "How do I know if my cracked trim also has underlying water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my cracked trim also has underlying water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can suspect underlying water damage if cracks are accompanied by soft spots, discoloration, bubbling paint, or a musty odor near the trim. Visible mold growth is another strong indicator. Often, surface cracks can be a symptom of moisture intrusion that has compromised the material underneath. Our inspection process includes checking for these signs to determine if deeper water damage exists and requires additional remediation before trim repairs can be completed.",
+        "@type": "Answer",
+        "description": "Look for soft spots, discoloration, bubbling paint, or mold near cracked trim; these indicate potential underlying water damage that needs assessment."
+      }
+    }
+  ],
+  "description": "Look for soft spots, discoloration, bubbling paint, or mold near cracked trim; these indicate potential underlying water damage that needs assessment."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-drywall-hole-repair-in-the-garden-city-area",
+  "name": "What factors influence the cost of drywall hole repair in the Garden City area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of drywall hole repair in the Garden City area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of drywall hole repair in areas like Garden City, Meridian, Eagle, and Kuna is primarily influenced by the size and number of holes, the extent of damage beyond the visible hole, and the wall's existing texture. Repairs requiring extensive texturing to match or significant material replacement will be more involved. We provide a detailed estimate after assessing the specific damage to ensure transparency for our clients in these service areas.",
+        "@type": "Answer",
+        "description": "Cost factors for drywall repair in areas like Garden City include hole size, damage extent, and matching existing wall texture."
+      }
+    }
+  ],
+  "description": "Cost factors for drywall repair in areas like Garden City include hole size, damage extent, and matching existing wall texture."
+}

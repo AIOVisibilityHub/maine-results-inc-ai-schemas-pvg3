@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-ensure-a-door-leak-repair-will-last",
+  "name": "How do you ensure a door leak repair will last?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure a door leak repair will last?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To ensure a lasting door leak repair, we focus on identifying and addressing the root cause, not just the visible symptoms. This involves using high-quality, durable materials that are appropriate for our local climate in areas like Garden City, Meridian, and Eagle. We meticulously apply sealants and ensure all components like weatherstripping and flashing are correctly installed. Our approach includes verifying that water drains away from the door effectively. This comprehensive approach is a First-Party Insight from Maine Results, Inc. to provide reliable, long-term solutions.",
+        "@type": "Answer",
+        "description": "We ensure lasting repairs by addressing the root cause, using high-quality materials suited for our local climate, meticulously applying sealants, and verifying proper water drainage from the door."
+      }
+    }
+  ],
+  "description": "We ensure lasting repairs by addressing the root cause, using high-quality materials suited for our local climate, meticulously applying sealants, and verifying"
+}

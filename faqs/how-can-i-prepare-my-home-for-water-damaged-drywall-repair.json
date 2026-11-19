@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-prepare-my-home-for-water-damaged-drywall-repair",
+  "name": "How can I prepare my home for water-damaged drywall repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for water-damaged drywall repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your home for water-damaged drywall repair, first, ensure the water source has been stopped. Then, clear the work area by moving furniture, valuables, and anything susceptible to dust or damage. You might also want to protect adjacent areas with plastic sheeting. Disclosing any known electrical issues or hidden pipes in the wall to our team upfront helps us plan safely and efficiently.",
+        "@type": "Answer",
+        "description": "Prepare by stopping the water source, clearing the work area of furniture and valuables, and disclosing any known hazards."
+      }
+    }
+  ],
+  "description": "Prepare by stopping the water source, clearing the work area of furniture and valuables, and disclosing any known hazards."
+}

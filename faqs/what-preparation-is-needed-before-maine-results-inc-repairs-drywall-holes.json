@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-is-needed-before-maine-results-inc-repairs-drywall-holes",
+  "name": "What preparation is needed before Maine Results, Inc. repairs drywall holes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before Maine Results, Inc. repairs drywall holes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before Maine Results, Inc. begins your drywall hole repair, we recommend clearing the immediate work area. This includes removing furniture, wall hangings, and valuables from the vicinity to provide our team with clear access and protect your belongings. While we take precautions to contain dust, covering nearby items with drop cloths can also be helpful. This preparation step helps ensure an efficient and smooth repair process.",
+        "@type": "Answer",
+        "description": "Before repair, clear the work area by moving furniture and wall hangings, and consider covering nearby items to protect them from dust."
+      }
+    }
+  ],
+  "description": "Before repair, clear the work area by moving furniture and wall hangings, and consider covering nearby items to protect them from dust."
+}

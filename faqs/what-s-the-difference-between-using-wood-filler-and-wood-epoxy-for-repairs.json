@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-s-the-difference-between-using-wood-filler-and-wood-epoxy-for-repairs",
+  "name": "What's the difference between using wood filler and wood epoxy for repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between using wood filler and wood epoxy for repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wood filler is generally used for smaller imperfections, nail holes, and minor splits. It's often water-based, easier to sand, and dries faster but offers less structural strength. Wood epoxy, on the other hand, is a two-part adhesive that cures to a very hard, durable, and waterproof finish, making it ideal for larger, structural splits or exterior trim where greater resilience is needed. A Practical Tradeoff is that while epoxy provides superior strength and weather resistance, it's typically harder to sand and has a longer cure time than standard wood filler, requiring careful application.",
+        "@type": "Answer",
+        "description": "Wood filler suits small imperfections, while wood epoxy is for larger, structural splits needing durability and water resistance. Epoxy is stronger but harder to sand and has a longer cure time."
+      }
+    }
+  ],
+  "description": "Wood filler suits small imperfections, while wood epoxy is for larger, structural splits needing durability and water resistance. Epoxy is stronger but harder t"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-preparation-do-i-need-to-do-before-drywall-texture-matching",
+  "name": "What kind of preparation do I need to do before drywall texture matching?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of preparation do I need to do before drywall texture matching?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before Maine Results, Inc. arrives for drywall texture matching, minimal preparation on your part can help expedite the process. Please clear the work area of furniture, décor, and anything that could obstruct access to the wall or ceiling. Covering nearby items with plastic sheeting is also advisable to protect them from dust and overspray. A preparation tip is to ensure the repair area is dry and free of debris. If there's any active water leak or structural issue, addressing that first is crucial before texture matching can begin.",
+        "@type": "Answer",
+        "description": "Clear the work area of furniture and valuables, and cover nearby items. Ensure the repair area is dry and free of debris."
+      }
+    }
+  ],
+  "description": "Clear the work area of furniture and valuables, and cover nearby items. Ensure the repair area is dry and free of debris."
+}

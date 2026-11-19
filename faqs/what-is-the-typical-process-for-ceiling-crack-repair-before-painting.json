@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-ceiling-crack-repair-before-painting",
+  "name": "What is the typical process for ceiling crack repair before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for ceiling crack repair before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for ceiling crack repair before painting depends on the crack's size and cause. For hairline cracks, cleaning the crack, applying a flexible caulk or spackling compound, and then sanding smooth is often sufficient. Larger or structural cracks may require opening the crack slightly, filling with a patching compound, applying mesh tape for reinforcement, and then layering with joint compound. Each layer needs to dry and be sanded before priming. Maine Results, Inc. assesses cracks to determine the appropriate method for a lasting repair, ensuring the surface is stable for paint.",
+        "@type": "Answer",
+        "description": "Ceiling crack repair involves cleaning, filling with appropriate compound or caulk, sanding, and potentially using mesh tape for larger cracks, followed by priming."
+      }
+    }
+  ],
+  "description": "Ceiling crack repair involves cleaning, filling with appropriate compound or caulk, sanding, and potentially using mesh tape for larger cracks, followed by prim"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-common-signs-of-drywall-water-damage",
+  "name": "What are the common signs of drywall water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of drywall water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of drywall water damage include discoloration, such as yellow or brown stains, bubbling or peeling paint, and a soft or crumbling texture when touched. You might also notice a musty odor, indicating potential mold growth. Identifying these signs early helps prevent more extensive damage and costly repairs. We recommend checking areas near plumbing, windows, and exterior walls for any changes.",
+        "@type": "Answer",
+        "description": "Discoloration, bubbling paint, a soft texture, and musty odors are common signs of drywall water damage."
+      }
+    }
+  ],
+  "description": "Discoloration, bubbling paint, a soft texture, and musty odors are common signs of drywall water damage."
+}

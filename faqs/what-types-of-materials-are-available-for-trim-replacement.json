@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-materials-are-available-for-trim-replacement",
+  "name": "What types of materials are available for trim replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are available for trim replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trim replacement offers a variety of material choices, each with different properties. Common options include natural wood (pine, cedar, redwood), engineered wood products, PVC, fiber cement, and composite materials. Natural wood offers a classic aesthetic but requires more maintenance. PVC and composite options are highly durable, moisture-resistant, and require less upkeep. The best choice often depends on your budget, desired aesthetic, and the specific exposure conditions for the trim. Considering the climate in areas like Meridian or Eagle, opting for moisture-resistant materials can offer better longevity.",
+        "@type": "Answer",
+        "description": "Options include natural wood, engineered wood, PVC, fiber cement, and composites, each with varying durability and maintenance needs."
+      }
+    }
+  ],
+  "description": "Options include natural wood, engineered wood, PVC, fiber cement, and composites, each with varying durability and maintenance needs."
+}

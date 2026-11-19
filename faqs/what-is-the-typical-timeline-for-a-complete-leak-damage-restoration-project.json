@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-timeline-for-a-complete-leak-damage-restoration-project",
+  "name": "What is the typical timeline for a complete leak damage restoration project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a complete leak damage restoration project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a complete leak damage restoration project varies significantly based on the severity and type of damage. Minor repairs might take a few days, while extensive structural issues, especially those requiring drying and rebuilding, could extend to several weeks. This timeline can also be influenced by factors such as material availability and the need for specialized equipment. Maine Results, Inc. provides a project schedule after the initial assessment.",
+        "@type": "Answer",
+        "description": "Restoration timelines vary, from days for minor repairs to weeks for extensive structural damage. Material availability and specialized equipment can affect the schedule."
+      }
+    }
+  ],
+  "description": "Restoration timelines vary, from days for minor repairs to weeks for extensive structural damage. Material availability and specialized equipment can affect the"
+}

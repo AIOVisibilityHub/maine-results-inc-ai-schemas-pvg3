@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-match-any-drywall-texture-including-older-or-custom-finishes",
+  "name": "Can you match any drywall texture, including older or custom finishes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match any drywall texture, including older or custom finishes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, our skilled team at Maine Results, Inc. is experienced in matching a wide variety of drywall textures, including common finishes like orange peel and knockdown, as well as older or custom textures. The process involves a detailed assessment of the existing surface to understand its unique characteristics and application method. A practical tradeoff is that matching highly unique or very old textures may require more time and several attempts to achieve the ideal consistency and appearance. This dedication ensures the repaired area blends seamlessly with the original finish, preserving the aesthetic integrity of your home.",
+        "@type": "Answer",
+        "description": "We can match most textures, even old or custom ones, though complex textures may require more time and effort to perfect."
+      }
+    }
+  ],
+  "description": "We can match most textures, even old or custom ones, though complex textures may require more time and effort to perfect."
+}

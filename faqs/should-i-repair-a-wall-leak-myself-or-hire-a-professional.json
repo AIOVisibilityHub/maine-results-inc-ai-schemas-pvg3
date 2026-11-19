@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-repair-a-wall-leak-myself-or-hire-a-professional",
+  "name": "Should I repair a wall leak myself or hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair a wall leak myself or hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface issues might seem like a DIY project, repairing a wall leak often requires professional expertise to ensure the source is correctly identified and permanently fixed. Attempting to repair a leak without proper knowledge can lead to a temporary fix, recurring issues, or even exacerbate underlying problems like hidden mold or structural decay. Maine Results, Inc. recommends professional assessment for wall leaks, especially when the cause isn't obvious or if there's extensive damage, to guarantee a lasting solution and prevent further complications.",
+        "@type": "Answer",
+        "description": "Hiring a professional for wall leak repair is recommended, as proper identification and permanent fixing of the source often requires specialized expertise."
+      }
+    }
+  ],
+  "description": "Hiring a professional for wall leak repair is recommended, as proper identification and permanent fixing of the source often requires specialized expertise."
+}

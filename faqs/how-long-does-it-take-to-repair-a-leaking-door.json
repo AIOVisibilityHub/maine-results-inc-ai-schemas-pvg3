@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-repair-a-leaking-door",
+  "name": "How long does it take to repair a leaking door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to repair a leaking door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a door leak repair varies depending on the complexity and extent of the damage. Simple fixes, like replacing weatherstripping or re-caulking, might take a few hours. More involved repairs, such as replacing a damaged door frame or addressing structural rot, could take a full day or more. During our initial assessment, we provide an estimated timeline for your specific situation. The timing can also be affected by material availability, especially for custom parts.",
+        "@type": "Answer",
+        "description": "Repair time depends on the damage; simple fixes take hours, while complex repairs may take a day or more. We provide an estimated timeline after assessment, with timing potentially affected by material availability."
+      }
+    }
+  ],
+  "description": "Repair time depends on the damage; simple fixes take hours, while complex repairs may take a day or more. We provide an estimated timeline after assessment, wit"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-call-a-professional-for-water-damaged-wall-repair-instead-of-attem",
+  "name": "When should I call a professional for water damaged wall repair instead of attempting DIY fixes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for water damaged wall repair instead of attempting DIY fixes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for water damaged wall repair if the damage covers a large area, involves structural components, or if you suspect mold growth. Professionals have the tools and expertise to properly assess the extent of damage, identify hidden issues, and ensure thorough drying and remediation. A practical tradeoff to consider is the potential for incomplete repairs or missed underlying problems with DIY, which could lead to recurring issues or further damage, outweighing initial cost savings. Maine Results, Inc. offers comprehensive services for various water damage scenarios.",
+        "@type": "Answer",
+        "description": "Call a professional for large areas of damage, structural concerns, or suspected mold. DIY may miss hidden issues leading to bigger problems."
+      }
+    }
+  ],
+  "description": "Call a professional for large areas of damage, structural concerns, or suspected mold. DIY may miss hidden issues leading to bigger problems."
+}

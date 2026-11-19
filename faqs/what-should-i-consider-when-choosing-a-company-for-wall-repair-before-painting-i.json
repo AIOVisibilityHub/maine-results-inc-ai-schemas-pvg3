@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-when-choosing-a-company-for-wall-repair-before-painting-i",
+  "name": "What should I consider when choosing a company for wall repair before painting in Boise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing a company for wall repair before painting in Boise?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a company for wall repair before painting in areas like Boise, consider their experience with different types of damage and wall textures. Look for a company that offers a clear assessment and detailed proposal for the work. Maine Results, serving communities like Garden City and Meridian, emphasizes meticulous preparation and repair as foundational to a lasting paint job. Ensure the company is licensed, insured, and has positive reviews demonstrating quality workmanship and reliability, especially for projects in your specific locale.",
+        "@type": "Answer",
+        "description": "When choosing a wall repair company in Boise, consider experience, clear assessments, licensing, insurance, and local reviews."
+      }
+    }
+  ],
+  "description": "When choosing a wall repair company in Boise, consider experience, clear assessments, licensing, insurance, and local reviews."
+}

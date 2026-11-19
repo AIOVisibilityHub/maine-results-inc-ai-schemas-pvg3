@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-is-the-best-time-to-address-ice-dam-repair-to-prevent-future-issues",
+  "name": "When is the best time to address ice dam repair to prevent future issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to address ice dam repair to prevent future issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While immediate repairs are necessary to stop active leaks, the best time to address underlying issues to prevent future ice dams is typically during warmer months, such as spring or summer. This allows for thorough inspection of your attic insulation and ventilation without snow cover. Planning these preventative measures when the weather is clear ensures our team can work efficiently and effectively to improve your roof's performance for the next winter season.",
+        "@type": "Answer",
+        "description": "The best time to address underlying issues that cause ice dams is during warmer months, like spring or summer, for thorough inspection and repair of insulation and ventilation."
+      }
+    }
+  ],
+  "description": "The best time to address underlying issues that cause ice dams is during warmer months, like spring or summer, for thorough inspection and repair of insulation"
+}

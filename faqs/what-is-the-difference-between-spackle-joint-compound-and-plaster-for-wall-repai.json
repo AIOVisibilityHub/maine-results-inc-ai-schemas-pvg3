@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-spackle-joint-compound-and-plaster-for-wall-repai",
+  "name": "What is the difference between spackle, joint compound, and plaster for wall repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between spackle, joint compound, and plaster for wall repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Spackle, joint compound, and plaster are all used for wall repair but have different properties. Spackle is best for small holes and cracks, drying quickly and shrinking minimally. Joint compound, also known as drywall mud, is ideal for filling larger gaps, taping drywall seams, and creating smooth surfaces, though it requires longer drying times and multiple coats. Plaster is a traditional material often used for older homes or specific textured finishes, offering high durability but being more challenging to work with. Maine Results selects the appropriate material based on the specific repair needed for your walls, ensuring the best outcome.",
+        "@type": "Answer",
+        "description": "Spackle is for small holes, joint compound for larger gaps and seams, and plaster for older homes or specific textures, each chosen for the specific repair."
+      }
+    }
+  ],
+  "description": "Spackle is for small holes, joint compound for larger gaps and seams, and plaster for older homes or specific textures, each chosen for the specific repair."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-tell-if-my-door-is-leaking-even-if-i-don-t-see-water",
+  "name": "How can I tell if my door is leaking, even if I don't see water?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my door is leaking, even if I don't see water?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond visible water, signs of a door leak include warped or stained flooring near the door, peeling paint or bubbling drywall around the frame, and a musty odor suggesting mold or mildew. You might also feel drafts even when the door is closed, indicating gaps that allow water intrusion. If you suspect a leak, a simple test is to spray water gently on the outside of the door while someone observes the inside for signs of moisture. However, our professionals have specialized tools for detection. As a preparation step, noting any such signs before contacting us can help us diagnose the issue more quickly.",
+        "@type": "Answer",
+        "description": "Look for warped flooring, peeling paint, musty odors, or drafts near the door. A gentle water spray test can help confirm a leak, but professional inspection is recommended."
+      }
+    }
+  ],
+  "description": "Look for warped flooring, peeling paint, musty odors, or drafts near the door. A gentle water spray test can help confirm a leak, but professional inspection is"
+}

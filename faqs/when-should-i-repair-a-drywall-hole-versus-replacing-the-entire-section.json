@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-repair-a-drywall-hole-versus-replacing-the-entire-section",
+  "name": "When should I repair a drywall hole versus replacing the entire section?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair a drywall hole versus replacing the entire section?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repairing a drywall hole if it's small, typically less than six inches in diameter, and the surrounding drywall is structurally sound without moisture damage. Replacement of a larger section is advisable for extensive damage, such as large holes, widespread cracks, or significant water damage where the drywall integrity is compromised. Our assessment helps determine the most effective and durable solution, balancing repair costs against the longevity of a full replacement.",
+        "@type": "Answer",
+        "description": "Repair small holes (under six inches) if the surrounding area is sound; replace larger sections for extensive damage or compromised integrity."
+      }
+    }
+  ],
+  "description": "Repair small holes (under six inches) if the surrounding area is sound; replace larger sections for extensive damage or compromised integrity."
+}

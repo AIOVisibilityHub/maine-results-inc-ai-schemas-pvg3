@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-do-i-need-to-call-a-professional-for-a-wall-leak-in-garden-city",
+  "name": "When do I need to call a professional for a wall leak in Garden City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to call a professional for a wall leak in Garden City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional for a wall leak in Garden City if you observe persistent dampness, visible water stains that return after cleaning, a musty smell, or actual water dripping from your walls. Especially after significant weather events like heavy rains or snowmelt, it's crucial to address leaks promptly to prevent extensive damage to your property's structure and interior. Maine Results, Inc. serves Garden City and surrounding areas, providing timely inspections to accurately diagnose and resolve wall leaks before they worsen.",
+        "@type": "Answer",
+        "description": "Call a professional for a wall leak in Garden City when you see persistent dampness, stains, musty odors, or dripping water, especially after heavy weather."
+      }
+    }
+  ],
+  "description": "Call a professional for a wall leak in Garden City when you see persistent dampness, stains, musty odors, or dripping water, especially after heavy weather."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-best-for-repairing-or-replacing-exterior-trim",
+  "name": "What materials are best for repairing or replacing exterior trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are best for repairing or replacing exterior trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best materials for repairing or replacing exterior trim depend on factors like durability, maintenance requirements, and aesthetic preferences. Common options include treated wood, composite, and PVC. Treated wood offers a traditional look but requires regular painting and sealing. Composite trim, often made from wood fibers and plastic, is more resistant to rot and insects and requires less maintenance. PVC trim is highly durable, moisture-resistant, and won't rot or warp. Maine Results, Inc. can advise on the most suitable material for your specific home in areas like Eagle or Star, considering local weather conditions and your desired aesthetic to ensure a long-lasting and appropriate choice.",
+        "@type": "Answer",
+        "description": "Treated wood, composite, and PVC are common trim materials; the best choice depends on durability, maintenance, and desired look, which Maine Results, Inc. helps assess."
+      }
+    }
+  ],
+  "description": "Treated wood, composite, and PVC are common trim materials; the best choice depends on durability, maintenance, and desired look, which Maine Results, Inc. help"
+}

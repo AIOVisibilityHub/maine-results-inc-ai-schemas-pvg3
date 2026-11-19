@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/does-my-homeowner-s-insurance-cover-water-damaged-ceiling-repair",
+  "name": "Does my homeowner's insurance cover water-damaged ceiling repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does my homeowner's insurance cover water-damaged ceiling repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance typically covers water damage if it's sudden and accidental, such as a burst pipe or storm damage. However, damage from neglected maintenance, like a long-term leaky roof or unaddressed plumbing issues, may not be covered. Review your specific policy or contact your insurance provider to understand your coverage. Maine Results, Inc. can provide detailed documentation and estimates for your claim, outlining the scope of work and costs, which can be helpful when communicating with your insurance company to facilitate your claim process.",
+        "@type": "Answer",
+        "description": "Coverage usually applies to sudden, accidental water damage, not neglect. Check your policy. Maine Results, Inc. provides detailed estimates to assist with insurance claims."
+      }
+    }
+  ],
+  "description": "Coverage usually applies to sudden, accidental water damage, not neglect. Check your policy. Maine Results, Inc. provides detailed estimates to assist with insu"
+}

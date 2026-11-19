@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-wind-damage-repair-take",
+  "name": "How long does wind damage repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does wind damage repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of wind damage repair varies based on the extent of the damage and the materials needed. Minor repairs, such as replacing a few shingles, can often be completed in a day. More extensive damage requiring larger sections of roof replacement or structural repairs will naturally take longer, potentially several days. After our initial assessment, we can provide a more accurate timeline and communicate expectations clearly for your project.",
+        "@type": "Answer",
+        "description": "Repair time depends on damage severity, from a day for minor fixes to several days for extensive work. We provide an estimated timeline after assessment."
+      }
+    }
+  ],
+  "description": "Repair time depends on damage severity, from a day for minor fixes to several days for extensive work. We provide an estimated timeline after assessment."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-file-an-insurance-claim-for-storm-damage-and-how-can-maine-results-inc",
+  "name": "Should I file an insurance claim for storm damage, and how can Maine Results, Inc. help?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I file an insurance claim for storm damage, and how can Maine Results, Inc. help?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding to file a claim depends on your deductible and the estimated repair costs; if repairs are less than your deductible, filing might not be beneficial. It's often best to get a professional assessment first. Maine Results, Inc. assists by conducting a thorough damage inspection and providing detailed documentation with photos and an estimate, which is crucial for your insurance claim. We work with you to submit the necessary information to your insurance company, aiming to streamline the claims process.",
+        "@type": "Answer",
+        "description": "File a claim if repair costs exceed your deductible. Maine Results, Inc. aids by providing detailed documentation and working with your insurer."
+      }
+    }
+  ],
+  "description": "File a claim if repair costs exceed your deductible. Maine Results, Inc. aids by providing detailed documentation and working with your insurer."
+}

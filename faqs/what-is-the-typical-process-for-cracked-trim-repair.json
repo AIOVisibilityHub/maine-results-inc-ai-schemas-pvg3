@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-cracked-trim-repair",
+  "name": "What is the typical process for cracked trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for cracked trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for cracked trim repair begins with cleaning the damaged area and removing any loose debris or paint. Next, the crack is prepared, which might involve sanding or scraping. Then, an appropriate filler or sealant is applied, smoothed, and allowed to cure. Finally, the repaired area is sanded flush and primed before being painted to match the surrounding trim. For homes in our service areas, we ensure careful material selection and application techniques for a durable and aesthetically pleasing finish.",
+        "@type": "Answer",
+        "description": "The repair process involves cleaning, preparing, filling, curing, sanding, priming, and painting the cracked trim for a durable finish."
+      }
+    }
+  ],
+  "description": "The repair process involves cleaning, preparing, filling, curing, sanding, priming, and painting the cracked trim for a durable finish."
+}

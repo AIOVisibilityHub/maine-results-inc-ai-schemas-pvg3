@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-drywall-hole-repair-take",
+  "name": "How long does a typical drywall hole repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical drywall hole repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a drywall hole repair depends on the size and complexity of the damage. Small repairs, like patching a minor puncture, might take a few hours to complete, including drying times between coats. Larger repairs involving replacing a section of drywall could extend over a day or two, especially when accounting for proper drying, texturing, and painting. We prioritize efficient work without compromising quality.",
+        "@type": "Answer",
+        "description": "Repair time varies based on hole size and complexity, from a few hours for small patches to a couple of days for larger sections."
+      }
+    }
+  ],
+  "description": "Repair time varies based on hole size and complexity, from a few hours for small patches to a couple of days for larger sections."
+}

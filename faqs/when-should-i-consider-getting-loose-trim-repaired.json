@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-getting-loose-trim-repaired",
+  "name": "When should I consider getting loose trim repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider getting loose trim repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider getting loose trim repaired as soon as you notice it to prevent further damage to your home's exterior. Loose trim can allow moisture to penetrate behind the siding, leading to wood rot, mold growth, and potential structural issues. Addressing the problem promptly can save you from more extensive and costly repairs down the line. Maine Results, Inc. recommends a timely inspection, especially after harsh weather conditions, to catch and rectify issues early, protecting your property in areas like Kuna or Star from water intrusion.",
+        "@type": "Answer",
+        "description": "Repair loose trim immediately upon notice to prevent moisture intrusion, wood rot, and more extensive damage to your home's exterior."
+      }
+    }
+  ],
+  "description": "Repair loose trim immediately upon notice to prevent moisture intrusion, wood rot, and more extensive damage to your home's exterior."
+}

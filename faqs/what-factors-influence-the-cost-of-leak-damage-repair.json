@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-leak-damage-repair",
+  "name": "What factors influence the cost of leak damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of leak damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of leak damage repair is influenced by several factors, including the extent of the damage, the type of materials affected, and the source of the leak. For instance, structural repairs are typically more expensive than minor drywall replacements. The longer a leak goes unnoticed, the more extensive and costly the repairs tend to be. A thorough assessment is critical to understand the total repair investment.",
+        "@type": "Answer",
+        "description": "Repair costs depend on damage extent, affected materials, and leak source. Structural repairs are pricier than minor fixes. Longer-undetected leaks cost more."
+      }
+    }
+  ],
+  "description": "Repair costs depend on damage extent, affected materials, and leak source. Structural repairs are pricier than minor fixes. Longer-undetected leaks cost more."
+}

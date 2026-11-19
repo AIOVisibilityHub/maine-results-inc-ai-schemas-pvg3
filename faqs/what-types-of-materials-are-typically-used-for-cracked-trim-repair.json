@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-materials-are-typically-used-for-cracked-trim-repair",
+  "name": "What types of materials are typically used for cracked trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are typically used for cracked trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For cracked trim repair, common materials include exterior-grade wood filler, epoxy, or specialized sealants designed for outdoor use. The choice of material depends on the trim's original composition and the severity of the crack. For instance, small hairline cracks in painted wood trim might be filled with a flexible caulk, while larger cracks in composite trim may require a two-part epoxy for a lasting bond. Our experts can advise on the best materials suitable for your home's existing trim in areas we serve like Star.",
+        "@type": "Answer",
+        "description": "Materials for cracked trim repair include wood filler, epoxy, or sealants, chosen based on the trim's material and crack severity."
+      }
+    }
+  ],
+  "description": "Materials for cracked trim repair include wood filler, epoxy, or sealants, chosen based on the trim's material and crack severity."
+}

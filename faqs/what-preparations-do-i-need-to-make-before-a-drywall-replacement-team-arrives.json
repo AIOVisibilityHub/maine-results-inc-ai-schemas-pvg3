@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparations-do-i-need-to-make-before-a-drywall-replacement-team-arrives",
+  "name": "What preparations do I need to make before a drywall replacement team arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations do I need to make before a drywall replacement team arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our team arrives for drywall replacement, it's helpful if you clear the work area of furniture, wall decorations, and delicate items. Removing pictures, shelves, and anything attached to the walls in the affected room streamlines our setup and protects your belongings. If possible, covering large, immovable items with sheets or tarps can also help minimize dust, though we take precautions to contain dust during the project. This preparation helps us start working efficiently upon arrival.",
+        "@type": "Answer",
+        "description": "Before the team arrives, clear furniture, wall decorations, and delicate items from the work area, and if possible, cover large immovable items to minimize dust."
+      }
+    }
+  ],
+  "description": "Before the team arrives, clear furniture, wall decorations, and delicate items from the work area, and if possible, cover large immovable items to minimize dust"
+}

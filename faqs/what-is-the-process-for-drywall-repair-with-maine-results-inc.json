@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-drywall-repair-with-maine-results-inc",
+  "name": "What is the process for drywall repair with Maine Results Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for drywall repair with Maine Results Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our drywall repair process typically begins with an assessment of the damage to determine the best repair method. For small holes, we often use patching compounds or mesh. Larger sections may require cutting out the damaged area and installing new drywall, followed by taping, mudding, sanding, and priming for a seamless blend. We prioritize clear communication throughout the project, letting you know what to expect at each stage. For example, during the mudding and sanding phases, dust control measures are put in place to minimize disruption in your home.",
+        "@type": "Answer",
+        "description": "The process involves damage assessment, repair (patching or replacement), taping, mudding, sanding, and priming."
+      }
+    }
+  ],
+  "description": "The process involves damage assessment, repair (patching or replacement), taping, mudding, sanding, and priming."
+}

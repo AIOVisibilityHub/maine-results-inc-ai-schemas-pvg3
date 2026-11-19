@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-s-the-typical-process-for-ceiling-leak-repair",
+  "name": "What's the typical process for ceiling leak repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the typical process for ceiling leak repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process typically begins with identifying and stopping the source of the leak, which might involve roof repair or plumbing work. Once the source is fixed, our team will assess the damage to your ceiling, which could include removing saturated drywall, drying the affected area thoroughly, and treating for potential mold. Finally, we perform the necessary ceiling repairs, such as patching, re-texturing, and painting, to restore its original appearance. The scope of work depends heavily on the extent of water damage.",
+        "@type": "Answer",
+        "description": "The typical process involves identifying and stopping the leak source, assessing and mitigating water damage, then repairing and restoring the ceiling surface."
+      }
+    }
+  ],
+  "description": "The typical process involves identifying and stopping the leak source, assessing and mitigating water damage, then repairing and restoring the ceiling surface."
+}

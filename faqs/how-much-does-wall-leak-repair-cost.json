@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-wall-leak-repair-cost",
+  "name": "How much does wall leak repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does wall leak repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of wall leak repair varies significantly depending on the leak's source, extent of damage, and materials required. A small, accessible leak might be less expensive to fix than a larger issue involving structural damage or extensive mold remediation. Maine Results, Inc. provides detailed estimates after a thorough inspection, which considers factors like the type of repair needed, labor, and materials. We always aim to provide a clear breakdown of costs, allowing homeowners to understand the investment required to fully address the problem.",
+        "@type": "Answer",
+        "description": "Wall leak repair costs vary based on the leak's source, damage extent, and materials; a detailed estimate is provided after inspection."
+      }
+    }
+  ],
+  "description": "Wall leak repair costs vary based on the leak's source, damage extent, and materials; a detailed estimate is provided after inspection."
+}
