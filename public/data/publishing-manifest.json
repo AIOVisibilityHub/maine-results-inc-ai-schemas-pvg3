@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-11-19T23:03:00.800Z",
+  "generatedAt": "2026-11-19T23:03:47.175Z",
   "client": {
     "name": "Maine Results, Inc.",
     "canonicalUrl": "https://ai-data.maineresults.com",
@@ -433,7 +433,7 @@
   },
   "package": {
     "totalFiles": 3367,
-    "totalBytes": 10932288,
+    "totalBytes": 10895778,
     "stats": {
       "faqs": 2988,
       "helpArticles": 0,
@@ -17211,32 +17211,32 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 23058,
+        "bytes": 16606,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 101441,
+        "bytes": 95129,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 303058,
+        "bytes": 296647,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 21822,
+        "bytes": 15637,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 2189184,
+        "bytes": 2182963,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 31067,
+        "bytes": 24904,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -17248,7 +17248,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 11835,
+        "bytes": 11968,
         "purpose": "LLM hint"
       },
       {
@@ -17268,32 +17268,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 2769,
+        "bytes": 3054,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1517582,
+        "bytes": 1517866,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 403301,
+        "bytes": 403434,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 403301,
+        "bytes": 403434,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 11818,
+        "bytes": 11951,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 542393,
+        "bytes": 542526,
         "purpose": "Repository README"
       },
       {
@@ -17311,7 +17311,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/maine-results-inc-ai-schemas-pvg3",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/maine-results-inc-ai-schemas-pvg3/",
       "repo": "AIOVisibilityHub/maine-results-inc-ai-schemas-pvg3"
     }
   }

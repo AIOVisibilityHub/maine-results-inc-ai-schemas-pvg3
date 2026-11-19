@@ -19,6 +19,7 @@ Canonical AI Data Package for Maine Results, Inc..
 - [canonical] Maine Results, Inc. — canonical website — https://ai-data.maineresults.com
 - [ai-data-hub] Maine Results, Inc. — AI Data Hub — https://ai-data.maineresults.com/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/maine-results-inc-ai-schemas-pvg3
+- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/maine-results-inc-ai-schemas-pvg3/ai-data.html
 - [same-as] Maine Results, Inc. on linkedin.com — https://www.linkedin.com/in/wilkinsjohn
 - [same-as] Maine Results, Inc. on buildzoom.com — https://www.buildzoom.com/contractor/maine-results-inc
 - [same-as] Maine Results, Inc. on bbb.org — https://www.bbb.org/us/id/boise/profile/construction-services/maine-results-inc-1296-1000019242
