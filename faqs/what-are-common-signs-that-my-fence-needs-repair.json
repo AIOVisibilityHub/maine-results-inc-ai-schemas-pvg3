@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-my-fence-needs-repair",
+  "name": "What are common signs that my fence needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my fence needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for visible damage such as leaning posts, loose or broken pickets, sagging sections, splintered wood, rust on metal components, or cracked vinyl. Additionally, if your fence no longer provides the security or privacy it once did, or if you notice difficulty opening gates, these are strong indicators that professional repair is needed. Early detection can prevent more extensive and costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Common signs include leaning posts, broken pickets, sagging sections, or difficulty with gates. Early repair can prevent worse damage."
+      }
+    }
+  ],
+  "description": "Common signs include leaning posts, broken pickets, sagging sections, or difficulty with gates. Early repair can prevent worse damage."
+}

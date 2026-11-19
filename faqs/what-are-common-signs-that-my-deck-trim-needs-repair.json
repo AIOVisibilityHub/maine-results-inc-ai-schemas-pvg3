@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-my-deck-trim-needs-repair",
+  "name": "What are common signs that my deck trim needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my deck trim needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your deck trim requires repair include visible cracking, splintering, rot, or discoloration. You might also notice loose pieces, gaps between trim boards, or a general weathered appearance. Water damage, indicated by soft spots or swelling, is another critical sign that necessitates prompt attention. Addressing these issues early helps prevent further deterioration and maintains the structural integrity and appearance of your deck.",
+        "@type": "Answer",
+        "description": "Look for visible cracking, splintering, rot, discoloration, loose pieces, or gaps in your deck trim. Water damage, like soft spots, also indicates a need for repair."
+      }
+    }
+  ],
+  "description": "Look for visible cracking, splintering, rot, discoloration, loose pieces, or gaps in your deck trim. Water damage, like soft spots, also indicates a need for re"
+}

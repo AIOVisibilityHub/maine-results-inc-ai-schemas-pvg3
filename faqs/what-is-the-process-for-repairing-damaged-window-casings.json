@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-repairing-damaged-window-casings",
+  "name": "What is the process for repairing damaged window casings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing damaged window casings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for repairing damaged window casings typically begins with a thorough inspection to assess the extent and type of damage. We then remove any compromised material, prepare the surface, and either repair existing casings with patching compounds or replace sections with new materials. For areas with significant rot or moisture issues, we address the underlying cause to prevent future damage. The repair concludes with finishing touches like sanding, priming, and painting to match your home's aesthetics. The complexity and duration of the process depend directly on the severity of the damage.",
+        "@type": "Answer",
+        "description": "The repair process involves inspection, removing damaged material, repairing or replacing sections, addressing root causes, and finishing to match your home."
+      }
+    }
+  ],
+  "description": "The repair process involves inspection, removing damaged material, repairing or replacing sections, addressing root causes, and finishing to match your home."
+}

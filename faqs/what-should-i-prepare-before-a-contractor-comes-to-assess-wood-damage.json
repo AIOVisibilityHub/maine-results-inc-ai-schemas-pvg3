@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-a-contractor-comes-to-assess-wood-damage",
+  "name": "What should I prepare before a contractor comes to assess wood damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a contractor comes to assess wood damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a contractor assesses your weather-damaged wood, preparing a few things can make the process more efficient. Clear the area around the damaged wood to allow easy access for inspection. If you have any records of when the wood was installed, what type of wood it is, or when it was last treated, this information can be helpful. Also, consider any specific concerns or questions you have regarding the damage or potential repairs. This preparation allows our team to focus directly on the problem areas and provide a more accurate assessment and estimate for your property in areas such as Nampa or Caldwell.",
+        "@type": "Answer",
+        "description": "Before an assessment, clear the area around the damage, gather any relevant wood history, and note your specific concerns."
+      }
+    }
+  ],
+  "description": "Before an assessment, clear the area around the damage, gather any relevant wood history, and note your specific concerns."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-do-i-need-to-do-before-my-exterior-window-trim-installation-pro",
+  "name": "What preparation do I need to do before my exterior window trim installation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before my exterior window trim installation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your exterior window trim installation, you should clear the area around your windows of any obstructions, such as potted plants, furniture, or decorations, to provide easy access for the installation team. If you have any specific aesthetic preferences or concerns, it's helpful to discuss these during the initial consultation. Consider if you'd like to update the window sills at the same time for a complete refresh. This preparation helps ensure a smooth and efficient installation process for our team.",
+        "@type": "Answer",
+        "description": "Before installation, clear obstructions around your windows for easy access. Discuss any aesthetic preferences and consider updating window sills simultaneously for a smooth project."
+      }
+    }
+  ],
+  "description": "Before installation, clear obstructions around your windows for easy access. Discuss any aesthetic preferences and consider updating window sills simultaneously"
+}

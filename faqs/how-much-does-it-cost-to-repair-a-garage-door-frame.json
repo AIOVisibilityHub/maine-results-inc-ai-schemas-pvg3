@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-it-cost-to-repair-a-garage-door-frame",
+  "name": "How much does it cost to repair a garage door frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a garage door frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a garage door frame varies significantly based on the extent of the damage, the materials needed, and the complexity of the repair. Minor fixes like filling small cracks or replacing a small section of trim will be less expensive than extensive rot removal or structural frame reconstruction. Factors such as the type of material (wood, aluminum, vinyl) and the need for painting or sealing also influence the total price. It's recommended to get a professional assessment to understand the specific repair scope and associated costs. A professional evaluation can help you understand the long-term value of a repair versus a full replacement.",
+        "@type": "Answer",
+        "description": "Repair costs depend on damage extent, materials, and complexity; minor fixes are less expensive than structural reconstruction."
+      }
+    }
+  ],
+  "description": "Repair costs depend on damage extent, materials, and complexity; minor fixes are less expensive than structural reconstruction."
+}

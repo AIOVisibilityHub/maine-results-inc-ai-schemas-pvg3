@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-repair-my-fence-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair my fence myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair my fence myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For minor issues like reattaching a loose board or tightening a gate hinge, many homeowners can perform repairs themselves. However, for structural problems such as leaning posts, extensive rot, or significant damage from storms, hiring a professional is often more efficient and ensures long-lasting results. Professionals like Maine Results, Inc. have the specialized tools and expertise to address complex issues safely and correctly, preventing future problems.",
+        "@type": "Answer",
+        "description": "Minor repairs can be DIY, but structural issues or significant damage are best handled by professionals for lasting results."
+      }
+    }
+  ],
+  "description": "Minor repairs can be DIY, but structural issues or significant damage are best handled by professionals for lasting results."
+}

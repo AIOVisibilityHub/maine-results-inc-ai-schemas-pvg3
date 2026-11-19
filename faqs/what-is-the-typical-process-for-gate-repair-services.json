@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-gate-repair-services",
+  "name": "What is the typical process for gate repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for gate repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for gate repair begins with an initial assessment where a technician inspects the gate to diagnose the problem. Following this, you will receive a detailed estimate outlining the necessary repairs and associated costs. Upon your approval, the repairs are scheduled and completed. For residents in Boise Heights or Garden City, we recommend providing specific details about the gate type (e.g., sliding, swing) and its power source (e.g., electric, manual) when you schedule the initial assessment. This preparation helps ensure the technician arrives with appropriate tools or preliminary parts, potentially streamlining the repair process.",
+        "@type": "Answer",
+        "description": "Gate repair involves diagnosis, an estimate, and then scheduled repair. Providing gate type and power source details beforehand can make the process more efficient."
+      }
+    }
+  ],
+  "description": "Gate repair involves diagnosis, an estimate, and then scheduled repair. Providing gate type and power source details beforehand can make the process more effici"
+}

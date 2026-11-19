@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-is-it-better-to-replace-a-fence-instead-of-repairing-it",
+  "name": "When is it better to replace a fence instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it better to replace a fence instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider replacing a fence if more than 20-30% of its structure is damaged, if multiple posts are rotted or broken, or if the cost of repairs approaches or exceeds half the cost of a new fence. If the fence is very old and showing widespread deterioration, or if you frequently face recurring issues after repairs, a full replacement can be a more cost-effective long-term solution. Maine Results, Inc. can advise on the best option based on your fence's condition.",
+        "@type": "Answer",
+        "description": "Replace a fence if over 20-30% is damaged, repair costs are high, or it's very old with widespread deterioration."
+      }
+    }
+  ],
+  "description": "Replace a fence if over 20-30% is damaged, repair costs are high, or it's very old with widespread deterioration."
+}

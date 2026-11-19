@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/is-dry-rot-removal-a-diy-project-or-should-i-hire-professionals",
+  "name": "Is dry rot removal a DIY project, or should I hire professionals?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is dry rot removal a DIY project, or should I hire professionals?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface mold can sometimes be handled by homeowners, dry rot is a serious structural issue that typically requires professional intervention. The fungus can spread invisibly through hidden areas, and improper removal can lead to recurrence or further damage. Professionals like Maine Results, Inc. have the expertise, equipment, and fungicidal treatments to ensure complete eradication and proper structural repairs, especially for homes in areas like Star or Nampa.",
+        "@type": "Answer",
+        "description": "Dry rot is a serious structural issue requiring professional removal due to its invasive nature and the need for specialized treatment and repairs."
+      }
+    }
+  ],
+  "description": "Dry rot is a serious structural issue requiring professional removal due to its invasive nature and the need for specialized treatment and repairs."
+}

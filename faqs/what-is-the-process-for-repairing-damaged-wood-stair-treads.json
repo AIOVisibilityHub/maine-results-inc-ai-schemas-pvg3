@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-repairing-damaged-wood-stair-treads",
+  "name": "What is the process for repairing damaged wood stair treads?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing damaged wood stair treads?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing damaged wood stair treads typically involves several steps. First, we assess the damage to determine if the tread can be repaired or if it needs replacement. For minor issues like deep scratches or small gouges, sanding and refinishing may suffice. If the tread is cracked or severely damaged, we might need to remove the old tread, prepare the sub-structure, and install a new, matching tread. The final steps often include sanding the new or repaired tread to match existing stairs and applying a protective finish. During our assessment, we'll consider the existing stair design to ensure any repairs integrate seamlessly with your current aesthetic.",
+        "@type": "Answer",
+        "description": "The process involves assessing damage, repairing minor issues with sanding/refinishing, or replacing severely damaged treads, followed by sanding and finishing."
+      }
+    }
+  ],
+  "description": "The process involves assessing damage, repairing minor issues with sanding/refinishing, or replacing severely damaged treads, followed by sanding and finishing."
+}

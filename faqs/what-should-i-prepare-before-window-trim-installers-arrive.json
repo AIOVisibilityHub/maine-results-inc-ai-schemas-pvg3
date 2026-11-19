@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-window-trim-installers-arrive",
+  "name": "What should I prepare before window trim installers arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before window trim installers arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before window trim installers arrive, clear the area around each window of furniture, curtains, and any decorative items to allow unobstructed access. It's also helpful to cover nearby items with drop cloths to protect them from dust and debris, especially if old trim is being removed. If you have specific aesthetic preferences, such as a particular paint color or stain finish, discuss these details beforehand with your contractor. This preparation helps ensure a smooth and efficient installation process for our team.",
+        "@type": "Answer",
+        "description": "Clear furniture and decorations around windows, and cover nearby items. Discuss any aesthetic preferences with the contractor beforehand."
+      }
+    }
+  ],
+  "description": "Clear furniture and decorations around windows, and cover nearby items. Discuss any aesthetic preferences with the contractor beforehand."
+}

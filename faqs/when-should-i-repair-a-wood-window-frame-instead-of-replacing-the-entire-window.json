@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-repair-a-wood-window-frame-instead-of-replacing-the-entire-window",
+  "name": "When should I repair a wood window frame instead of replacing the entire window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair a wood window frame instead of replacing the entire window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a wood window frame is often appropriate when the damage is localized, such as minor rot, cracks, or loose joints, and the overall structural integrity of the frame remains sound. It's also a cost-effective choice for historical homes where preserving original features is important. Our team assesses the extent of the damage during an initial consultation in areas like Garden City or Meridian to determine if repair can fully restore functionality and appearance, considering factors like the age of the window and the condition of surrounding components.",
+        "@type": "Answer",
+        "description": "Repairing a wood window frame is suitable for localized damage or historical preservation when the frame's core structure is intact. An assessment can determine if repair is the best solution."
+      }
+    }
+  ],
+  "description": "Repairing a wood window frame is suitable for localized damage or historical preservation when the frame's core structure is intact. An assessment can determine"
+}

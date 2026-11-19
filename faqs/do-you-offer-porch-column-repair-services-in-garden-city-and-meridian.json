@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-porch-column-repair-services-in-garden-city-and-meridian",
+  "name": "Do you offer porch column repair services in Garden City and Meridian?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer porch column repair services in Garden City and Meridian?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. proudly offers porch column repair services to residents and businesses in Garden City, Meridian, and other surrounding areas like Eagle, Kuna, and Star. Our local presence means we are familiar with the common issues affecting porch columns in these climates and can respond efficiently to your repair needs. You can contact us to schedule an on-site assessment for your property in these areas.",
+        "@type": "Answer",
+        "description": "Yes, we offer porch column repair services in Garden City, Meridian, Eagle, Kuna, and Star."
+      }
+    }
+  ],
+  "description": "Yes, we offer porch column repair services in Garden City, Meridian, Eagle, Kuna, and Star."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/is-it-more-cost-effective-to-repair-or-replace-a-damaged-handrail",
+  "name": "Is it more cost-effective to repair or replace a damaged handrail?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it more cost-effective to repair or replace a damaged handrail?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement depends on the severity of the damage, the handrail's age, and its overall structural integrity. Minor issues like loose connections or surface damage are typically more cost-effective to repair. However, if the handrail has significant structural rot, extensive rust, or multiple broken components, replacement might be the safer and more economical long-term solution. We can help assess the best approach for your situation.",
+        "@type": "Answer",
+        "description": "Minor damage usually makes repair more cost-effective. Extensive structural issues or multiple broken components may warrant replacement for long-term value."
+      }
+    }
+  ],
+  "description": "Minor damage usually makes repair more cost-effective. Extensive structural issues or multiple broken components may warrant replacement for long-term value."
+}

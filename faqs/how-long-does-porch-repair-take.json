@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-porch-repair-take",
+  "name": "How long does porch repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does porch repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of porch repair depends heavily on the project's complexity and scope. Minor repairs, like fixing a few loose boards, might take a single day. More extensive work, such as rebuilding a significant section or repairing structural damage, could take several days to a week or more. Weather conditions can also influence the timeline, especially for outdoor projects. We always provide an estimated project timeline after our initial assessment in areas like Nampa and Caldwell.",
+        "@type": "Answer",
+        "description": "Repair time varies; minor fixes can take a day, while extensive structural work might take several days to over a week, depending on complexity and weather."
+      }
+    }
+  ],
+  "description": "Repair time varies; minor fixes can take a day, while extensive structural work might take several days to over a week, depending on complexity and weather."
+}

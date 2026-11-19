@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-approximate-cost-to-replace-a-porch-post-in-the-garden-city-area",
+  "name": "What is the approximate cost to replace a porch post in the Garden City area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the approximate cost to replace a porch post in the Garden City area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to replace a porch post in the Garden City area varies based on factors like the material chosen, the height and size of the post, and any necessary repairs to surrounding structures. Complex installations requiring additional structural reinforcement or custom finishes will also affect the overall price. To get an accurate estimate, it's best to have a professional assessment. Maine Results, Inc. provides detailed quotes after evaluating the specific conditions of your porch in Garden City.",
+        "@type": "Answer",
+        "description": "Cost varies by material, size, and additional repairs. A professional assessment provides an accurate quote for porch post replacement in Garden City."
+      }
+    }
+  ],
+  "description": "Cost varies by material, size, and additional repairs. A professional assessment provides an accurate quote for porch post replacement in Garden City."
+}

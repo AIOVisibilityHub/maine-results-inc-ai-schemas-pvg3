@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-repair-both-interior-and-exterior-wood-stairs",
+  "name": "Can you repair both interior and exterior wood stairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair both interior and exterior wood stairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we are equipped to repair both interior and exterior wood stairs. The approach differs slightly due to environmental exposure. Exterior wood stairs often require weather-resistant materials, sealants, and finishes to withstand rain, sun, and temperature fluctuations. Interior stairs may focus more on aesthetics and matching existing finishes. Regardless of location, the goal is to restore safety and appearance. During our initial consultation, we specifically evaluate the environmental factors of your property in areas like Garden City or Meridian to ensure the right materials and techniques are used for long-lasting results.",
+        "@type": "Answer",
+        "description": "We repair both interior and exterior wood stairs, adapting materials and techniques to environmental factors for durability and aesthetics."
+      }
+    }
+  ],
+  "description": "We repair both interior and exterior wood stairs, adapting materials and techniques to environmental factors for durability and aesthetics."
+}

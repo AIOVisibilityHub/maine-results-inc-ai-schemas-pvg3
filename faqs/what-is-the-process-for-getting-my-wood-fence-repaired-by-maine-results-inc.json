@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-getting-my-wood-fence-repaired-by-maine-results-inc",
+  "name": "What is the process for getting my wood fence repaired by Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting my wood fence repaired by Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for wood fence repair with Maine Results, Inc. begins when you contact us to schedule an initial consultation. One of our team members will visit your property to thoroughly inspect the fence, identify the issues, and discuss potential repair options with you. We then provide a detailed, transparent estimate outlining the scope of work and associated costs. Once you approve the estimate, we schedule the repair at your convenience, acquire the necessary materials, and our experienced crew performs the work efficiently and professionally, ensuring minimal disruption to your property in areas like Borah or Centennial.",
+        "@type": "Answer",
+        "description": "Our process starts with an on-site consultation and inspection, followed by a detailed estimate. Upon approval, we schedule the repair, acquire materials, and complete the work professionally."
+      }
+    }
+  ],
+  "description": "Our process starts with an on-site consultation and inspection, followed by a detailed estimate. Upon approval, we schedule the repair, acquire materials, and c"
+}

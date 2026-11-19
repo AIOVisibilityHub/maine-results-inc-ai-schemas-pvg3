@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-maine-results-repair-both-interior-and-exterior-handrails",
+  "name": "Can Maine Results repair both interior and exterior handrails?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Maine Results repair both interior and exterior handrails?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results can repair both interior and exterior handrails. We have experience with a variety of materials and applications, whether it's a wooden banister inside your home or a metal railing on an outdoor deck. The repair approach often differs based on the material and exposure to elements; exterior handrails might require more weather-resistant treatments or materials to ensure durability.",
+        "@type": "Answer",
+        "description": "Maine Results repairs both interior and exterior handrails. Repair methods vary based on material and environmental exposure for durability."
+      }
+    }
+  ],
+  "description": "Maine Results repairs both interior and exterior handrails. Repair methods vary based on material and environmental exposure for durability."
+}

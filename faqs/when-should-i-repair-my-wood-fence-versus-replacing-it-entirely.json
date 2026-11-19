@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-repair-my-wood-fence-versus-replacing-it-entirely",
+  "name": "When should I repair my wood fence versus replacing it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair my wood fence versus replacing it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing your wood fence is often a cost-effective solution if only a few posts, panels, or pickets are damaged, or if the overall structure remains sound. For instance, if you have localized rot near the ground on a few posts, spot repairs can extend the fence's life. However, if more than 20-30% of your fence shows signs of extensive rot, widespread structural instability, or significant insect damage, a full replacement might offer better long-term value. Our team at Maine Results, Inc. can assess the extent of the damage during an on-site visit in areas like Garden City or Meridian to help you make an informed decision based on your fence's condition and your budget.",
+        "@type": "Answer",
+        "description": "Consider repair for localized damage, but replacement might be better for widespread rot or structural issues affecting over 20-30% of the fence. An on-site assessment can determine the best approach."
+      }
+    }
+  ],
+  "description": "Consider repair for localized damage, but replacement might be better for widespread rot or structural issues affecting over 20-30% of the fence. An on-site ass"
+}

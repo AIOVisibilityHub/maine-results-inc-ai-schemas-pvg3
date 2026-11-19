@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/are-there-specific-types-of-wood-that-are-more-resistant-to-weather-damage",
+  "name": "Are there specific types of wood that are more resistant to weather damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific types of wood that are more resistant to weather damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, some types of wood inherently offer greater resistance to weather damage. Naturally durable woods like cedar, redwood, and cypress contain natural oils and tannins that repel insects and resist rot and decay more effectively than softer woods. Treated lumber, often pressure-treated with preservatives, is also highly resistant to moisture, rot, and insects, making it a common choice for exterior applications. A practical tradeoff to consider is cost versus longevity; while more resistant woods may have a higher upfront cost, they often require less frequent maintenance and repair over their lifespan, offering long-term savings and peace of mind.",
+        "@type": "Answer",
+        "description": "Naturally durable woods like cedar and redwood, or pressure-treated lumber, are more weather-resistant, offering a long-term tradeoff for higher initial cost."
+      }
+    }
+  ],
+  "description": "Naturally durable woods like cedar and redwood, or pressure-treated lumber, are more weather-resistant, offering a long-term tradeoff for higher initial cost."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-repair-both-wood-and-composite-porch-railings",
+  "name": "Can you repair both wood and composite porch railings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair both wood and composite porch railings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. has expertise in repairing both wood and composite porch railings. Wood railings often require attention to rot, insect damage, or splintering, and repairs involve matching wood types and finishes. Composite railings, while durable, can still experience issues like warping from extreme heat, fading, or damage from impacts. Our team understands the specific techniques and materials needed for each type, ensuring that the repair is not only effective but also maintains the original aesthetic and structural integrity of your porch.",
+        "@type": "Answer",
+        "description": "Yes, we repair both wood and composite porch railings. We address specific issues for each material, like rot in wood or warping in composite, to maintain integrity and appearance."
+      }
+    }
+  ],
+  "description": "Yes, we repair both wood and composite porch railings. We address specific issues for each material, like rot in wood or warping in composite, to maintain integ"
+}

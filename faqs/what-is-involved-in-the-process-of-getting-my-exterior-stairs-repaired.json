@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-involved-in-the-process-of-getting-my-exterior-stairs-repaired",
+  "name": "What is involved in the process of getting my exterior stairs repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of getting my exterior stairs repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process of getting your exterior stairs repaired typically begins with an initial consultation where Maine Results, Inc. assesses the damage and discusses your specific needs and preferences. We then provide a detailed estimate outlining the scope of work, materials, and projected costs. Once approved, we schedule the repair work, preparing the site and performing the necessary carpentry or masonry work. After completion, we conduct a final inspection with you to ensure satisfaction. This step-by-step approach ensures clarity and addresses potential issues proactively, which helps keep the project on track.",
+        "@type": "Answer",
+        "description": "The repair process involves an initial assessment, detailed estimate, scheduling, repair work, and a final inspection to ensure satisfaction."
+      }
+    }
+  ],
+  "description": "The repair process involves an initial assessment, detailed estimate, scheduling, repair work, and a final inspection to ensure satisfaction."
+}

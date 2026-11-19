@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-window-frame-repair-typically-cost-in-areas-like-meridian-or-eagle",
+  "name": "How much does window frame repair typically cost in areas like Meridian or Eagle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does window frame repair typically cost in areas like Meridian or Eagle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of window frame repair varies significantly based on the type of frame material, the extent of the damage, and the labor involved. Simple repairs, such as filling small cracks or replacing a minor section, will cost less than extensive rot removal or structural reinforcement. We provide detailed, transparent quotes after a thorough on-site assessment in your Garden City, Meridian, Eagle, Kuna, or Star home. Getting an accurate estimate involves understanding the specific issues with your window frames.",
+        "@type": "Answer",
+        "description": "Window frame repair costs vary by frame material, damage extent, and labor. We provide quotes after on-site assessment in our service areas."
+      }
+    }
+  ],
+  "description": "Window frame repair costs vary by frame material, damage extent, and labor. We provide quotes after on-site assessment in our service areas."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-window-frame-repair-for-historical-homes-in-areas-like-boise-height",
+  "name": "Do you offer window frame repair for historical homes in areas like Boise Heights?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer window frame repair for historical homes in areas like Boise Heights?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While Maine Results, Inc. primarily serves Garden City, Meridian, Eagle, Kuna, and Star, window frame repair for historical homes requires specialized techniques and materials to maintain architectural integrity. If your property is outside our primary service area but within a neighboring community like Boise Heights, we encourage you to contact us. We may be able to provide recommendations or, depending on our current project load and specific historical requirements, offer a specialized assessment to determine if your project aligns with our expertise in preserving historical features while ensuring structural soundness.",
+        "@type": "Answer",
+        "description": "Specialized repair for historical homes requires specific techniques. Contact us if outside our primary service areas of Garden City, Meridian, Eagle, Kuna, and Star for possible assessment or recommendations."
+      }
+    }
+  ],
+  "description": "Specialized repair for historical homes requires specific techniques. Contact us if outside our primary service areas of Garden City, Meridian, Eagle, Kuna, and"
+}

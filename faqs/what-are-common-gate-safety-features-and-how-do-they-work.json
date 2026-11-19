@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-gate-safety-features-and-how-do-they-work",
+  "name": "What are common gate safety features, and how do they work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common gate safety features, and how do they work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern gates typically include several safety features designed to prevent accidents, such as photo-electric eyes and pressure sensors. Photo-electric eyes create a beam across the gate's path; if the beam is broken while the gate is closing, the gate will stop or reverse. Pressure sensors detect resistance, causing the gate to stop if it encounters an obstruction. These features are crucial for preventing injury or property damage. A key decision factor in maintenance or repair is ensuring all safety features are fully functional; disabling them, even temporarily, significantly increases risk and should always be avoided. Regular testing is part of proper gate upkeep.",
+        "@type": "Answer",
+        "description": "Common gate safety features include photo-electric eyes and pressure sensors, which stop or reverse the gate upon detecting obstructions. Ensuring these features are functional is crucial for safety."
+      }
+    }
+  ],
+  "description": "Common gate safety features include photo-electric eyes and pressure sensors, which stop or reverse the gate upon detecting obstructions. Ensuring these feature"
+}

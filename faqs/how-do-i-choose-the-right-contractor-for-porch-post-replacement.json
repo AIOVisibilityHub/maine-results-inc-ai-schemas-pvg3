@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-the-right-contractor-for-porch-post-replacement",
+  "name": "How do I choose the right contractor for porch post replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for porch post replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for porch post replacement, look for companies with experience in structural repairs and a strong local reputation. Key factors include checking their licensing and insurance, reviewing their portfolio of past projects, and reading customer testimonials. A contractor who communicates clearly and provides a detailed proposal is also important. Maine Results, Inc. focuses on providing transparent service and clear explanations of the process and material options.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience, local reputation, licensing, insurance, and clear communication for porch post replacement."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience, local reputation, licensing, insurance, and clear communication for porch post replacement."
+}

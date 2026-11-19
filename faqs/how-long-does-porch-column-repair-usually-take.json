@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-porch-column-repair-usually-take",
+  "name": "How long does porch column repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does porch column repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of porch column repair varies depending on the complexity and scope of the damage. Minor cosmetic repairs, like filling small cracks or repainting, might take a day or less. More extensive repairs involving structural issues, material replacement, or custom fabrication could take several days to a week. During our project planning, we will provide an estimated timeline. Unforeseen issues, such as discovering more extensive rot once work begins, can sometimes extend this duration.",
+        "@type": "Answer",
+        "description": "Repair time depends on damage complexity, ranging from less than a day for minor fixes to several days for extensive repairs."
+      }
+    }
+  ],
+  "description": "Repair time depends on damage complexity, ranging from less than a day for minor fixes to several days for extensive repairs."
+}

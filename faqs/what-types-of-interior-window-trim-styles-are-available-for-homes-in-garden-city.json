@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-interior-window-trim-styles-are-available-for-homes-in-garden-city",
+  "name": "What types of interior window trim styles are available for homes in Garden City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of interior window trim styles are available for homes in Garden City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior window trim frames your windows and can significantly impact your home's aesthetic. Common styles include Craftsman, featuring wider, flat casing; Colonial, with traditional, decorative profiles; and Modern, often using simple, clean lines. We help homeowners in Garden City choose the right style by considering the architectural period of their home and their personal design preferences. The chosen style should complement the existing door casings and baseboards for a cohesive look throughout your living space.",
+        "@type": "Answer",
+        "description": "Common interior window trim styles include Craftsman, Colonial, and Modern, each offering a distinct aesthetic. We help select a style that complements your home's architecture and existing trim."
+      }
+    }
+  ],
+  "description": "Common interior window trim styles include Craftsman, Colonial, and Modern, each offering a distinct aesthetic. We help select a style that complements your hom"
+}

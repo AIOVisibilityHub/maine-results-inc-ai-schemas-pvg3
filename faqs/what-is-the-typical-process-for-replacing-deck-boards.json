@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-replacing-deck-boards",
+  "name": "What is the typical process for replacing deck boards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for replacing deck boards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The deck board replacement process begins with removing all existing deck boards and fasteners. Following removal, the underlying substructure (joists, beams) is thoroughly inspected for any damage, rot, or weakness; any necessary repairs to the substructure are completed at this stage. New deck boards are then cut to size and securely installed using appropriate fasteners, ensuring proper spacing for drainage and expansion. The final steps often involve cleaning the new deck surface. Maine Results, Inc. ensures the substructure is sound before installing new boards, which is crucial for the longevity and safety of your refreshed deck.",
+        "@type": "Answer",
+        "description": "The deck board replacement process involves removing old boards, inspecting and repairing the substructure, then installing new boards with proper spacing and fasteners."
+      }
+    }
+  ],
+  "description": "The deck board replacement process involves removing old boards, inspecting and repairing the substructure, then installing new boards with proper spacing and f"
+}

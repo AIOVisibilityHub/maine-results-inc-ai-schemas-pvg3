@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/does-maine-results-inc-repair-all-types-of-fences",
+  "name": "Does Maine Results, Inc. repair all types of fences?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Maine Results, Inc. repair all types of fences?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. offers repair services for a variety of fence types, including wood, vinyl, chain link, and ornamental iron fences. Our team has experience addressing common issues specific to each material, from replacing rotted wooden posts to mending bent chain link sections or re-welding wrought iron. When you contact us, please specify your fence material so we can ensure the appropriate technician and tools are dispatched.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. repairs various fence types including wood, vinyl, chain link, and ornamental iron."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. repairs various fence types including wood, vinyl, chain link, and ornamental iron."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparations-should-i-make-before-maine-results-arrives-for-handrail-repair",
+  "name": "What preparations should I make before Maine Results arrives for handrail repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before Maine Results arrives for handrail repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our team arrives for handrail repair, it's helpful to clear the work area of any personal items, furniture, or obstructions that might impede access to the handrail. This ensures a safe and efficient workspace. Inform us of any specific concerns or details about the handrail you'd like us to address during our initial setup, allowing us to focus directly on the necessary repairs.",
+        "@type": "Answer",
+        "description": "Clear the work area of obstructions and personal items. Inform us of any specific concerns about the handrail for an efficient repair process."
+      }
+    }
+  ],
+  "description": "Clear the work area of obstructions and personal items. Inform us of any specific concerns about the handrail for an efficient repair process."
+}

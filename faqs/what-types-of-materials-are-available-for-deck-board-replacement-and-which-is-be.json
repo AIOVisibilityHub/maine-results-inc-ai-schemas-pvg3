@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-materials-are-available-for-deck-board-replacement-and-which-is-be",
+  "name": "What types of materials are available for deck board replacement, and which is best for my needs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are available for deck board replacement, and which is best for my needs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common deck board replacement materials include pressure-treated lumber, cedar, redwood, and composite decking. Pressure-treated lumber is an economical choice, offering good resistance to rot and insects. Cedar and redwood provide natural beauty and decay resistance, though they require more maintenance. Composite decking, made from wood fibers and plastic, offers low maintenance and a long lifespan with various color options. The 'best' material depends on your budget, desired aesthetics, maintenance commitment, and expected lifespan. Maine Results, Inc. can discuss the pros and cons of each in relation to your specific use and local weather conditions in areas like Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "Deck board materials include pressure-treated, cedar, redwood, and composite; the best choice depends on your budget, aesthetics, and maintenance preferences."
+      }
+    }
+  ],
+  "description": "Deck board materials include pressure-treated, cedar, redwood, and composite; the best choice depends on your budget, aesthetics, and maintenance preferences."
+}

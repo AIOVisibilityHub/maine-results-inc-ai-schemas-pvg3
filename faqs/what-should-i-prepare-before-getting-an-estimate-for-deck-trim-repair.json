@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-getting-an-estimate-for-deck-trim-repair",
+  "name": "What should I prepare before getting an estimate for deck trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before getting an estimate for deck trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before we visit for an estimate, it's helpful if you can clear any furniture, planters, or obstructions from around the deck area that might impede access. Taking a few photos of the damaged sections beforehand can also be useful for initial discussions. Consider any specific concerns or preferences you have regarding materials or aesthetics. This preparation helps us conduct a thorough assessment more efficiently and provide you with an accurate and timely quote.",
+        "@type": "Answer",
+        "description": "Clear the deck area of obstructions and take photos of damaged sections. Also, consider your material and aesthetic preferences to help with the assessment and quote."
+      }
+    }
+  ],
+  "description": "Clear the deck area of obstructions and take photos of damaged sections. Also, consider your material and aesthetic preferences to help with the assessment and"
+}

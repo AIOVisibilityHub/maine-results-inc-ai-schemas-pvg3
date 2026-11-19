@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-common-signs-that-my-window-frame-needs-repair",
+  "name": "What are the common signs that my window frame needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my window frame needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating window frame repair is needed include visible rot, cracks, soft spots in the wood, difficulty opening or closing the window, drafts, and condensation between panes. These issues often worsen over time, leading to higher energy bills or further damage to your home. Addressing them promptly can prevent more extensive and costly repairs later on. Before contacting us, consider noting the specific locations of the damage and any changes in window function, as this helps us assess the situation more accurately during the initial consultation.",
+        "@type": "Answer",
+        "description": "Visible rot, cracks, soft spots, drafts, difficulty operating, or condensation between panes are common signs a window frame needs repair."
+      }
+    }
+  ],
+  "description": "Visible rot, cracks, soft spots, drafts, difficulty operating, or condensation between panes are common signs a window frame needs repair."
+}

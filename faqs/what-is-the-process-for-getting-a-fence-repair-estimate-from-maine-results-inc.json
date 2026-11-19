@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-getting-a-fence-repair-estimate-from-maine-results-inc",
+  "name": "What is the process for getting a fence repair estimate from Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting a fence repair estimate from Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To get a fence repair estimate from Maine Results, Inc., simply contact us to schedule an on-site assessment. A technician will visit your property in Garden City, Meridian, Eagle, or Kuna to inspect the damage, discuss your repair needs, and provide a detailed quote. This allows us to accurately assess the scope of work and materials required, ensuring a precise estimate with no hidden fees.",
+        "@type": "Answer",
+        "description": "Contact Maine Results, Inc. for an on-site assessment; a technician will inspect the damage and provide a detailed quote."
+      }
+    }
+  ],
+  "description": "Contact Maine Results, Inc. for an on-site assessment; a technician will inspect the damage and provide a detailed quote."
+}

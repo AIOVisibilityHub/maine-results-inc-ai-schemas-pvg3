@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-common-issues-necessitate-wood-fence-repair",
+  "name": "What common issues necessitate wood fence repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common issues necessitate wood fence repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common issues requiring wood fence repair include leaning posts due to rot or frost heave, broken or loose pickets, damaged panels from strong winds or impacts, and gates that sag or no longer latch properly. Wood fences can also suffer from insect infestations, splintering, or general deterioration from prolonged exposure to weather elements. In our service areas like Eagle and Kuna, specific challenges like expansive clay soils can contribute to post instability over time, making regular inspections and timely repairs important to maintain structural integrity.",
+        "@type": "Answer",
+        "description": "Typical problems include leaning posts, broken pickets, damaged panels, and sagging gates. Environmental factors, like specific soil types in our service areas, can also contribute to fence issues."
+      }
+    }
+  ],
+  "description": "Typical problems include leaning posts, broken pickets, damaged panels, and sagging gates. Environmental factors, like specific soil types in our service areas,"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-deck-fascia-repair-typically-take",
+  "name": "How long does deck fascia repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does deck fascia repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of deck fascia repair varies significantly based on the scope of the damage and the size of your deck. Minor repairs might only take a few hours to a day, while extensive replacement projects could span several days. Weather conditions, especially in areas like Star, can also affect the timeline, as certain materials and sealants require dry conditions to cure properly. We prioritize efficient work while ensuring quality, and we will provide an estimated timeline after assessing your specific project.",
+        "@type": "Answer",
+        "description": "Repair time varies from hours to several days, depending on damage scope and deck size. Weather, especially in places like Star, can influence the schedule."
+      }
+    }
+  ],
+  "description": "Repair time varies from hours to several days, depending on damage scope and deck size. Weather, especially in places like Star, can influence the schedule."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-typically-used-for-wood-stair-repair",
+  "name": "What materials are typically used for wood stair repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are typically used for wood stair repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For wood stair repair, we use materials that match or complement your existing staircase. This often includes various types of hardwood such as oak, maple, or cherry for treads, risers, and handrails. For structural repairs, we may use specific fasteners, wood glues, and reinforcement materials designed for durability. Finishing products like stains, varnishes, or polyurethane are used to protect the wood and restore its appearance. When sourcing materials for repairs in areas like Star, we prioritize quality to ensure the repaired sections blend seamlessly and last for years.",
+        "@type": "Answer",
+        "description": "Materials include hardwoods (oak, maple), glues, fasteners, and protective finishes (stains, varnishes) to match existing stairs."
+      }
+    }
+  ],
+  "description": "Materials include hardwoods (oak, maple), glues, fasteners, and protective finishes (stains, varnishes) to match existing stairs."
+}

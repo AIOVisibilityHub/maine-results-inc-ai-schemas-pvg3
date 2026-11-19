@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-look-for-when-hiring-a-company-for-exterior-stair-repair-in-garden",
+  "name": "What should I look for when hiring a company for exterior stair repair in Garden City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when hiring a company for exterior stair repair in Garden City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When hiring a company for exterior stair repair in Garden City, look for licensed and insured contractors with demonstrable experience in both wooden and concrete stair repairs. Check their portfolio for similar projects and inquire about their warranty for workmanship and materials. It's also beneficial to choose a company that provides clear, itemized estimates and communicates effectively throughout the process. Maine Results, Inc. focuses on transparent communication and detailed project planning, which helps ensure clarity and a smooth process for clients in our service areas.",
+        "@type": "Answer",
+        "description": "Look for licensed, insured contractors with experience in both wood and concrete stair repairs, a strong portfolio, clear estimates, and good communication."
+      }
+    }
+  ],
+  "description": "Look for licensed, insured contractors with experience in both wood and concrete stair repairs, a strong portfolio, clear estimates, and good communication."
+}

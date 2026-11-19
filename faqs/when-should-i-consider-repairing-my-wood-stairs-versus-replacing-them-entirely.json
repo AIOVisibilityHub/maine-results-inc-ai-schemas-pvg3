@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-repairing-my-wood-stairs-versus-replacing-them-entirely",
+  "name": "When should I consider repairing my wood stairs versus replacing them entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing my wood stairs versus replacing them entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace wood stairs depends on the extent of the damage and the overall structural integrity. If only a few treads are loose, a railing is wobbly, or there are surface imperfections, repairs are often a more cost-effective and practical solution. However, if the entire staircase has significant structural rot, extensive pest damage, or multiple components are failing, replacement might be the safer and more durable option. We can assess your stairs and provide an honest recommendation, considering both the longevity and aesthetic goals for your property.",
+        "@type": "Answer",
+        "description": "Repair when damage is localized; replace when there's extensive structural rot, widespread damage, or multiple failing components."
+      }
+    }
+  ],
+  "description": "Repair when damage is localized; replace when there's extensive structural rot, widespread damage, or multiple failing components."
+}

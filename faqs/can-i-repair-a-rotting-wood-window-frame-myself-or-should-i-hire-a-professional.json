@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-repair-a-rotting-wood-window-frame-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair a rotting wood window frame myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a rotting wood window frame myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor surface rot on a wood window frame might be manageable with DIY solutions like wood hardeners and fillers, but extensive rot or damage affecting the structural integrity usually requires professional expertise. Our team at Maine Results, Inc. specializes in assessing the extent of the damage to determine if a repair is viable or if replacement is more appropriate. Attempting complex repairs without experience can lead to ineffective fixes, recurring issues, or even further damage, making the overall cost higher in the long run.",
+        "@type": "Answer",
+        "description": "Minor surface rot might be DIY, but extensive or structural rot typically requires a professional for proper assessment and repair."
+      }
+    }
+  ],
+  "description": "Minor surface rot might be DIY, but extensive or structural rot typically requires a professional for proper assessment and repair."
+}

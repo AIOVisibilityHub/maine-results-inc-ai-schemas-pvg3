@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-repairing-and-repainting-window-casings",
+  "name": "What is the difference between repairing and repainting window casings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between repairing and repainting window casings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing window casings involves fixing structural or material damage like cracks, rot, or gaps, often requiring sanding, filling, patching, or replacing sections. Repainting, on the other hand, is a cosmetic process that involves applying a fresh coat of paint to casings that are structurally sound but show signs of wear, fading, or peeling paint. While repainting can refresh the appearance, it won't address underlying issues like water damage or rot. A key process clarity point is that repairs are often necessary before repainting to ensure the new paint adheres properly and the underlying issues don't quickly resurface.",
+        "@type": "Answer",
+        "description": "Repairing fixes material damage like rot or cracks, while repainting is a cosmetic update for sound casings. Repairs often precede repainting."
+      }
+    }
+  ],
+  "description": "Repairing fixes material damage like rot or cracks, while repainting is a cosmetic update for sound casings. Repairs often precede repainting."
+}

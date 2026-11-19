@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-deck-trim-repair-typically-take",
+  "name": "How long does deck trim repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does deck trim repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of deck trim repair depends on the extent of the damage, the type of trim material, and the size of your deck. Minor repairs, such as replacing a few boards, might take a few hours to a day. More extensive damage, or repairs involving custom trim work, can take several days. During our assessment, we provide an estimated timeline. The project's timing can also be affected by weather conditions, especially for outdoor work in areas like Garden City or Meridian.",
+        "@type": "Answer",
+        "description": "Repair time varies based on damage extent, material, and deck size, from a few hours for minor fixes to several days for extensive work. Weather can also influence the schedule."
+      }
+    }
+  ],
+  "description": "Repair time varies based on damage extent, material, and deck size, from a few hours for minor fixes to several days for extensive work. Weather can also influe"
+}

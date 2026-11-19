@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-typically-used-for-garage-door-frame-repair",
+  "name": "What materials are typically used for garage door frame repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are typically used for garage door frame repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For garage door frame repair, the materials used depend on the existing frame and the nature of the damage. Wood frames often require exterior-grade lumber, such as rot-resistant treated wood or a durable hardwood, for replacement sections. Metal frames might involve steel or aluminum components. Sealants, caulk, and exterior-grade paints are commonly used to protect the repaired areas from weather elements. Choosing the right material ensures the repair matches your home's existing aesthetic and provides long-lasting protection against local weather conditions. Selecting high-quality, weather-resistant materials is crucial for the longevity of the repair.",
+        "@type": "Answer",
+        "description": "Common materials include exterior-grade lumber for wood frames, steel or aluminum for metal frames, and sealants or paints for protection."
+      }
+    }
+  ],
+  "description": "Common materials include exterior-grade lumber for wood frames, steel or aluminum for metal frames, and sealants or paints for protection."
+}

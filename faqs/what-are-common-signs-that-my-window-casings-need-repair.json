@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-my-window-casings-need-repair",
+  "name": "What are common signs that my window casings need repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my window casings need repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your window casings need repair include visible cracks, rot, softness to the touch, peeling paint, or gaps between the casing and the wall or window frame. These issues can indicate water damage, pest infestation, or simply wear and tear over time. Addressing these promptly helps prevent further damage to your home's structure and maintains energy efficiency. Early detection can often lead to less extensive and costly repairs.",
+        "@type": "Answer",
+        "description": "Look for cracks, rot, soft spots, peeling paint, or gaps around your window casings as signs they need repair."
+      }
+    }
+  ],
+  "description": "Look for cracks, rot, soft spots, peeling paint, or gaps around your window casings as signs they need repair."
+}

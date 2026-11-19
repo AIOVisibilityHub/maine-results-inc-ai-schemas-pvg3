@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-all-types-of-weather-damaged-wood-be-repaired-or-does-some-always-need-repla",
+  "name": "Can all types of weather-damaged wood be repaired, or does some always need replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can all types of weather-damaged wood be repaired, or does some always need replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not all weather-damaged wood can be effectively repaired; the decision to repair versus replace hinges on the severity and location of the damage. Minor surface issues, shallow cracks, or small areas of rot can often be repaired with appropriate fillers, epoxies, or by cutting out and patching. However, if the damage is extensive, deep-seated, compromises the structural integrity, or affects load-bearing elements, replacement is usually the safer and more durable option. A decision factor here is the overall cost-effectiveness; sometimes, replacing a heavily damaged section is more economical in the long run than repeatedly attempting to repair compromised wood.",
+        "@type": "Answer",
+        "description": "Minor damage can often be repaired, but extensive or structural damage typically requires replacement for safety and durability."
+      }
+    }
+  ],
+  "description": "Minor damage can often be repaired, but extensive or structural damage typically requires replacement for safety and durability."
+}

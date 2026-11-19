@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-prepare-my-home-for-window-casing-repair-services",
+  "name": "How can I prepare my home for window casing repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for window casing repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your home for window casing repair, please clear the area around the affected windows, both inside and out, removing furniture, decorations, and any plants or obstructions. This provides our team with clear access to the work area. If the repair is interior, you might want to cover nearby furniture or flooring to protect it from dust or debris. Providing easy access ensures our crew can work efficiently and safely, helping to keep the project on schedule.",
+        "@type": "Answer",
+        "description": "Clear the area around the windows, both inside and out, removing furniture and obstructions to provide clear access for repairs."
+      }
+    }
+  ],
+  "description": "Clear the area around the windows, both inside and out, removing furniture and obstructions to provide clear access for repairs."
+}

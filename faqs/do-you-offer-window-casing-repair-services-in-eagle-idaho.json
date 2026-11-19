@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-window-casing-repair-services-in-eagle-idaho",
+  "name": "Do you offer window casing repair services in Eagle, Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer window casing repair services in Eagle, Idaho?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. proudly offers window casing repair services to residents and businesses in Eagle, Idaho, and the surrounding communities. As a local construction company, we are familiar with the specific challenges and architectural styles common in the Eagle area. We are committed to providing high-quality, durable repairs that withstand local climate conditions. Please contact us to schedule an assessment for your property in Eagle.",
+        "@type": "Answer",
+        "description": "Yes, we offer window casing repair services in Eagle, Idaho, and surrounding areas, addressing local architectural and climate needs."
+      }
+    }
+  ],
+  "description": "Yes, we offer window casing repair services in Eagle, Idaho, and surrounding areas, addressing local architectural and climate needs."
+}

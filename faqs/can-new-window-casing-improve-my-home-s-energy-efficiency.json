@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-new-window-casing-improve-my-home-s-energy-efficiency",
+  "name": "Can new window casing improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can new window casing improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While window casing itself is primarily decorative, its proper installation can indirectly contribute to energy efficiency. When installed correctly, the casing helps seal the gap between the window frame and the wall, preventing air leaks. Using caulk and sealants during installation enhances this effect, reducing drafts and improving your home's insulation. This can lead to more stable indoor temperatures and potentially lower heating and cooling costs, a practical tradeoff for a well-sealed home.",
+        "@type": "Answer",
+        "description": "Properly installed window casing, sealed with caulk, can reduce air leaks around windows. This improves insulation, lessens drafts, and may enhance energy efficiency."
+      }
+    }
+  ],
+  "description": "Properly installed window casing, sealed with caulk, can reduce air leaks around windows. This improves insulation, lessens drafts, and may enhance energy effic"
+}

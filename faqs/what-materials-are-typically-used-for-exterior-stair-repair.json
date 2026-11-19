@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-typically-used-for-exterior-stair-repair",
+  "name": "What materials are typically used for exterior stair repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are typically used for exterior stair repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The materials used for exterior stair repair depend on the existing stair material and the extent of the damage. For wooden stairs, we often use pressure-treated lumber, cedar, or composite materials known for their durability and resistance to rot and insects. For concrete stairs, repairs might involve patching compounds, resurfacers, or replacing damaged sections with new concrete. Railing repairs can involve wood, metal, or composite components. We carefully select materials that match the existing structure's aesthetic and ensure the repaired stairs can withstand local weather conditions, particularly in areas like Kuna and Star where varied weather can impact material longevity.",
+        "@type": "Answer",
+        "description": "Exterior stair repair uses materials like pressure-treated lumber, cedar, or composite for wood, and patching compounds or new concrete for concrete stairs."
+      }
+    }
+  ],
+  "description": "Exterior stair repair uses materials like pressure-treated lumber, cedar, or composite for wood, and patching compounds or new concrete for concrete stairs."
+}

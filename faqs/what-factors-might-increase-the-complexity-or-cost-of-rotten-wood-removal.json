@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-might-increase-the-complexity-or-cost-of-rotten-wood-removal",
+  "name": "What factors might increase the complexity or cost of rotten wood removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors might increase the complexity or cost of rotten wood removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors can increase the complexity and cost of rotten wood removal. These include the presence of extensive structural damage, difficult-to-access locations such as crawl spaces or high eaves, and the need to address the underlying cause of moisture, like a failing roof or plumbing leak. Hazardous materials like lead paint or asbestos in older homes could also add to the complexity. The type of wood and specific finishing requirements also play a role. We carefully evaluate these aspects during our inspection to provide a comprehensive plan.",
+        "@type": "Answer",
+        "description": "Complexity and cost increase with extensive structural damage, difficult access, underlying moisture issues, or hazardous materials. These factors are assessed during inspection."
+      }
+    }
+  ],
+  "description": "Complexity and cost increase with extensive structural damage, difficult access, underlying moisture issues, or hazardous materials. These factors are assessed"
+}

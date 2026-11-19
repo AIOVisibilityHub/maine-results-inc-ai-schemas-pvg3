@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-repair-my-garage-door-frame-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair my garage door frame myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair my garage door frame myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor cosmetic issues like superficial cracks or peeling paint on a garage door frame might be manageable for an experienced DIYer, structural damage, extensive rot, or problems affecting the door's operation should be handled by a professional. Garage door systems are heavy and involve tension springs, which can be dangerous if mishandled. A professional has the tools, expertise, and safety knowledge to correctly assess the damage, ensure proper alignment, and guarantee the repair's structural integrity, preventing further complications or safety hazards. Hiring a professional helps ensure the repair is done safely and correctly.",
+        "@type": "Answer",
+        "description": "Hire a professional for structural damage or issues affecting door operation; minor cosmetic fixes can be DIY, but safety is paramount."
+      }
+    }
+  ],
+  "description": "Hire a professional for structural damage or issues affecting door operation; minor cosmetic fixes can be DIY, but safety is paramount."
+}

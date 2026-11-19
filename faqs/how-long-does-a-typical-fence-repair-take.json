@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-fence-repair-take",
+  "name": "How long does a typical fence repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical fence repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a fence repair depends on the scope of the damage and the type of fence. Minor repairs, such as replacing a few pickets or fixing a gate latch, might take a few hours. More extensive repairs involving multiple post replacements or section rebuilds could take one to two days. When scheduling, we will provide an estimated timeline based on our assessment of your specific fence issue.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours for minor fixes to one or two days for extensive damage, depending on the scope."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours for minor fixes to one or two days for extensive damage, depending on the scope."
+}

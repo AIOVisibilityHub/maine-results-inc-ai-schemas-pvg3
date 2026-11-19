@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-interior-window-trim-installation",
+  "name": "What should I prepare before interior window trim installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before interior window trim installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before interior window trim installation, you should clear the area around your windows of furniture, decorations, and drapes to provide clear access for our team. It's also helpful to decide on your preferred trim style and material, and any desired finish (paint or stain color) if you plan for us to handle the finishing. We recommend discussing these choices during your initial consultation so we can bring the appropriate materials and plan accordingly for your project in the Southeast Boise area.",
+        "@type": "Answer",
+        "description": "Clear the area around windows, and finalize your trim style, material, and desired finish before installation."
+      }
+    }
+  ],
+  "description": "Clear the area around windows, and finalize your trim style, material, and desired finish before installation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-can-i-do-to-prevent-dry-rot-after-removal",
+  "name": "What can I do to prevent dry rot after removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can I do to prevent dry rot after removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After professional dry rot removal, preventing its return involves controlling moisture and ensuring good ventilation throughout your home. This includes regularly checking for and repairing leaks in plumbing and roofing, improving airflow in crawl spaces and attics, and ensuring proper drainage around your foundation. Maine Results, Inc. can offer advice on maintaining a dry environment to safeguard your property against future dry rot infestations.",
+        "@type": "Answer",
+        "description": "Preventing dry rot after removal requires consistent moisture control and good ventilation, including fixing leaks and improving airflow."
+      }
+    }
+  ],
+  "description": "Preventing dry rot after removal requires consistent moisture control and good ventilation, including fixing leaks and improving airflow."
+}

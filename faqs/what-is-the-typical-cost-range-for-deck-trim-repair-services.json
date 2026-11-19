@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-cost-range-for-deck-trim-repair-services",
+  "name": "What is the typical cost range for deck trim repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for deck trim repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of deck trim repair varies widely based on factors such as the type of material (e.g., wood, composite), the amount of trim needing replacement, the complexity of the trim profiles, and the labor involved. Small repairs might be a few hundred dollars, while extensive overhauls can be more significant. We provide a detailed quote after an on-site assessment to give you an accurate estimate. Gathering photos of the damaged areas can help us provide a more initial estimate before an in-person visit.",
+        "@type": "Answer",
+        "description": "Cost depends on material type, repair extent, and labor. Small repairs are less, while extensive work costs more. A detailed quote follows an on-site assessment."
+      }
+    }
+  ],
+  "description": "Cost depends on material type, repair extent, and labor. Small repairs are less, while extensive work costs more. A detailed quote follows an on-site assessment"
+}

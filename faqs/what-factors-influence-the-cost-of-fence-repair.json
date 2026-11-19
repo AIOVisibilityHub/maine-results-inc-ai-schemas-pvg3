@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-fence-repair",
+  "name": "What factors influence the cost of fence repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of fence repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of fence repair is influenced by several factors, including the type of fencing material (wood, vinyl, chain link, etc.), the extent of the damage, and the number of sections or posts requiring replacement. Accessibility to the damaged area can also affect labor costs. More extensive structural damage, like multiple broken posts, typically costs more than replacing a few loose pickets.",
+        "@type": "Answer",
+        "description": "Repair costs depend on fence material, extent of damage, number of sections/posts needing replacement, and accessibility."
+      }
+    }
+  ],
+  "description": "Repair costs depend on fence material, extent of damage, number of sections/posts needing replacement, and accessibility."
+}

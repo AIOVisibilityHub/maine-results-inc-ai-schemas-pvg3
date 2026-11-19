@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-it-cost-to-repair-a-porch-railing",
+  "name": "How much does it cost to repair a porch railing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a porch railing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to repair a porch railing varies widely based on the type of material, the extent of the damage, and the labor required. Simple fixes like replacing a few balusters will be less expensive than repairing a significant section with extensive rot or structural issues. Factors like painting or staining after the repair can also add to the overall cost. For an accurate estimate tailored to your home in areas like Garden City or Kuna, Maine Results, Inc. provides free, no-obligation quotes after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Repair costs depend on material, damage extent, and labor. Simple fixes are less costly than extensive structural repairs. Maine Results, Inc. offers free on-site quotes."
+      }
+    }
+  ],
+  "description": "Repair costs depend on material, damage extent, and labor. Simple fixes are less costly than extensive structural repairs. Maine Results, Inc. offers free on-si"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-my-window-casings-instead-of-repairing-them",
+  "name": "When should I consider replacing my window casings instead of repairing them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my window casings instead of repairing them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your window casings when the damage is extensive, such as widespread rot, significant structural integrity loss, or if repair costs approach or exceed the cost of replacement. If there's persistent moisture intrusion despite previous repairs, or if you're upgrading your windows entirely, it's often more practical and cost-effective in the long run to replace the casings. This decision factor often comes down to evaluating the overall condition against the expected lifespan and cost-effectiveness of repair versus full replacement.",
+        "@type": "Answer",
+        "description": "Replace casings when damage is extensive, repair costs are high, there's persistent water intrusion, or when upgrading windows."
+      }
+    }
+  ],
+  "description": "Replace casings when damage is extensive, repair costs are high, there's persistent water intrusion, or when upgrading windows."
+}

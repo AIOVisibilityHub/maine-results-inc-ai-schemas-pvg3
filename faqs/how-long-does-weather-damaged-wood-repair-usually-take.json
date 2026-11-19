@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-weather-damaged-wood-repair-usually-take",
+  "name": "How long does weather-damaged wood repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does weather-damaged wood repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for weather-damaged wood repair is highly dependent on the project's scope and complexity. Small repairs, such as filling a few cracks or replacing a single board, might take a few hours to a day. Larger projects, like repairing extensive rot on a deck or siding for an entire section of a house, could take several days or even weeks. Process clarity regarding timing is important; factors such as the need for specialized materials, weather conditions during the repair, and the drying times for epoxies, stains, or paints can all extend the overall project duration. We aim to provide clear timelines after an initial assessment.",
+        "@type": "Answer",
+        "description": "Repair time varies from hours for small fixes to several days or weeks for extensive damage, depending on complexity, materials, and weather conditions."
+      }
+    }
+  ],
+  "description": "Repair time varies from hours for small fixes to several days or weeks for extensive damage, depending on complexity, materials, and weather conditions."
+}

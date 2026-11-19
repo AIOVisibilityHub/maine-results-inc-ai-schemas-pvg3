@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-wood-deck-or-siding-needs-professional-repair-versus-a-diy-f",
+  "name": "How do I know if my wood deck or siding needs professional repair versus a DIY fix?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my wood deck or siding needs professional repair versus a DIY fix?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining whether to undertake a DIY fix or hire a professional depends on the extent and type of damage. Minor issues like surface scratches, small cracks, or faded finishes that don't compromise structural integrity can often be handled by a homeowner. However, extensive rot, significant structural damage, large splits, or issues affecting critical load-bearing elements typically require professional assessment and repair. A key decision factor is the safety aspect; if the damage impacts the structural stability of a deck or railing, professional expertise is essential to ensure a safe and lasting repair.",
+        "@type": "Answer",
+        "description": "Minor surface damage is often a DIY fix, but extensive rot, structural issues, or large splits typically require professional repair for safety and durability."
+      }
+    }
+  ],
+  "description": "Minor surface damage is often a DIY fix, but extensive rot, structural issues, or large splits typically require professional repair for safety and durability."
+}

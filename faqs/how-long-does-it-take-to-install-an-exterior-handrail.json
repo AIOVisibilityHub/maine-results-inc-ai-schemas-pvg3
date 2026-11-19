@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-install-an-exterior-handrail",
+  "name": "How long does it take to install an exterior handrail?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install an exterior handrail?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for exterior handrail installation depends on the project's scope, material availability, and design complexity. A straightforward installation of a pre-fabricated rail on an existing structure might take a day or two. However, custom designs, specialized materials, or projects requiring extensive site modifications, like new concrete footings in areas such as Middleton or Kuna, can extend the duration. Weather conditions can also affect the schedule, particularly for outdoor work. We provide an estimated timeline during your initial consultation after assessing your specific project details.",
+        "@type": "Answer",
+        "description": "Installation time varies based on scope, material availability, design complexity, and site preparation, typically ranging from a few days for simpler projects to longer for custom work."
+      }
+    }
+  ],
+  "description": "Installation time varies based on scope, material availability, design complexity, and site preparation, typically ranging from a few days for simpler projects"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-deck-fascia-repair",
+  "name": "What factors influence the cost of deck fascia repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of deck fascia repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of deck fascia repair depends on several factors, including the extent of the damage, the type of material needed (wood, composite), the linear footage requiring repair or replacement, and accessibility to the damaged areas. For example, repairing localized damage on a readily accessible deck will be less costly than extensive rot requiring partial deck disassembly. During our assessment, we consider these elements to provide an accurate estimate. Getting a precise measurement of the damaged sections can help us provide a more immediate preliminary quote.",
+        "@type": "Answer",
+        "description": "Cost is influenced by damage extent, material type, linear footage, and accessibility. Localized repairs are typically less expensive than extensive work."
+      }
+    }
+  ],
+  "description": "Cost is influenced by damage extent, material type, linear footage, and accessibility. Localized repairs are typically less expensive than extensive work."
+}

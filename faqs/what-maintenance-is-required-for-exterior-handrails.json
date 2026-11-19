@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-maintenance-is-required-for-exterior-handrails",
+  "name": "What maintenance is required for exterior handrails?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for exterior handrails?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The maintenance required for exterior handrails depends significantly on the material chosen. Aluminum handrails are generally low maintenance, often only needing occasional cleaning with soap and water. Steel and wrought iron options, while durable, may require periodic inspection for rust, especially in damp climates, and can benefit from touch-up painting or sealing. Wooden handrails, popular in neighborhoods like the Highlands or West Bench, typically demand the most upkeep, including regular cleaning, staining, or sealing every few years to protect against weathering, rot, and insects. Consistent maintenance helps extend the lifespan and preserve the appearance of your handrail.",
+        "@type": "Answer",
+        "description": "Maintenance varies by material: aluminum needs minimal cleaning, steel/wrought iron may need rust inspection/touch-ups, and wood requires regular cleaning, staining, or sealing."
+      }
+    }
+  ],
+  "description": "Maintenance varies by material: aluminum needs minimal cleaning, steel/wrought iron may need rust inspection/touch-ups, and wood requires regular cleaning, stai"
+}

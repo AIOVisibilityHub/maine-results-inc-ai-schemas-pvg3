@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-my-entire-garage-door-frame-instead-of-just-rep",
+  "name": "When should I consider replacing my entire garage door frame instead of just repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my entire garage door frame instead of just repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your entire garage door frame if the damage is widespread, structural, or if significant portions are compromised by rot, severe warping, or insect infestation. If more than 50% of the frame's structural integrity is affected, or if multiple sections require extensive repair, a full replacement can be a more durable and cost-effective long-term solution. While repair might seem cheaper initially, frequent repairs on a severely compromised frame can accumulate costs and offer less reliable performance over time. This decision often presents a practical tradeoff between immediate cost savings and long-term durability.",
+        "@type": "Answer",
+        "description": "Replace the frame if damage is widespread, structural, or extensive, as frequent repairs on a compromised frame can be less cost-effective in the long run."
+      }
+    }
+  ],
+  "description": "Replace the frame if damage is widespread, structural, or extensive, as frequent repairs on a compromised frame can be less cost-effective in the long run."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-styles-of-window-trim-are-available-to-match-my-home-s-architecture",
+  "name": "What styles of window trim are available to match my home's architecture?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What styles of window trim are available to match my home's architecture?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many window trim styles are available to complement various architectural designs, from simple and modern to ornate and traditional. Common styles include colonial, craftsman, ranch, and contemporary. Colonial trim often features decorative elements and broader profiles, while craftsman trim is typically simpler with clean lines. Ranch style is minimalist, and contemporary designs can vary widely, often favoring sleek, unadorned profiles. When choosing a style, consider your home's existing architectural period, the size of your windows, and your personal aesthetic preferences to ensure a cohesive look. Our team can help you select options that enhance your home's character.",
+        "@type": "Answer",
+        "description": "Window trim styles include colonial, craftsman, ranch, and contemporary, each suiting different architectural designs. Choose a style that complements your home's existing look and period."
+      }
+    }
+  ],
+  "description": "Window trim styles include colonial, craftsman, ranch, and contemporary, each suiting different architectural designs. Choose a style that complements your home"
+}

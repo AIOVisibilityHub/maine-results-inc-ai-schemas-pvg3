@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-deck-substructure-is-still-sound-enough-for-new-boards",
+  "name": "How do I know if my deck substructure is still sound enough for new boards?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my deck substructure is still sound enough for new boards?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining the soundness of your deck's substructure (joists, beams, posts) is critical before installing new boards. Signs of a compromised substructure include visible rot, widespread cracking, excessive sagging, or movement when walked upon. A professional inspection is the most reliable way to assess its condition, as hidden damage can exist. Maine Results, Inc. always conducts a thorough inspection of your deck's existing framework once the old boards are removed, identifying any issues that need addressing to ensure the safety and longevity of your new deck surface.",
+        "@type": "Answer",
+        "description": "Assess your deck's substructure for rot, cracks, or sagging; a professional inspection is crucial to ensure it's sound enough for new boards."
+      }
+    }
+  ],
+  "description": "Assess your deck's substructure for rot, cracks, or sagging; a professional inspection is crucial to ensure it's sound enough for new boards."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-repair-my-porch-or-replace-it-entirely",
+  "name": "Should I repair my porch or replace it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair my porch or replace it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace your porch depends on the extent of the damage and its overall structural integrity. If damage is localized to a few boards or railings, repair is often the more cost-effective solution. However, if there is widespread rot, significant structural instability, or continuous issues, a full replacement might be safer and more durable in the long run. We can help assess your porch's condition and recommend the best approach during a consultation in your Boise-area home, considering factors like age and original construction quality.",
+        "@type": "Answer",
+        "description": "Repair if damage is localized; replace if there's widespread rot, significant instability, or recurring issues."
+      }
+    }
+  ],
+  "description": "Repair if damage is localized; replace if there's widespread rot, significant instability, or recurring issues."
+}

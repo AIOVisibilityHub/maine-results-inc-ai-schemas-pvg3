@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-type-of-wood-do-you-use-for-fence-repairs",
+  "name": "What type of wood do you use for fence repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of wood do you use for fence repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For wood fence repairs, we prioritize using materials that match your existing fence as closely as possible in terms of wood type and quality to ensure a consistent appearance and durability. Common choices include pressure-treated pine for its resistance to rot and insects, or cedar for its natural beauty and longevity. If your existing fence is a specific species, we strive to source the same to maintain aesthetic harmony. We discuss material options with you during the assessment phase, particularly for repairs in neighborhoods like Collister or Depot Bench, to align with both your fence's needs and your preferences.",
+        "@type": "Answer",
+        "description": "We use wood types that match your existing fence, such as pressure-treated pine or cedar, to ensure consistent appearance and durability. Material options are discussed during the assessment."
+      }
+    }
+  ],
+  "description": "We use wood types that match your existing fence, such as pressure-treated pine or cedar, to ensure consistent appearance and durability. Material options are d"
+}

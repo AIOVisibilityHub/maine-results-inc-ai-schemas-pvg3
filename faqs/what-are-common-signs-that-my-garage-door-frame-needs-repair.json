@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-my-garage-door-frame-needs-repair",
+  "name": "What are common signs that my garage door frame needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my garage door frame needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your garage door frame needs repair include visible cracks, rot, moisture damage, peeling paint, or gaps between the frame and the wall. You might also notice difficulty in opening or closing the garage door smoothly, which can indicate the frame is no longer providing proper support or alignment. Addressing these issues early can prevent further damage to your garage door system. For example, if you see wood rot, it's essential to assess the extent of the damage to determine if a full replacement of the affected section is needed, or if minor repairs can suffice.",
+        "@type": "Answer",
+        "description": "Look for cracks, rot, moisture damage, or difficulty operating your garage door, as these are common indicators of a damaged frame."
+      }
+    }
+  ],
+  "description": "Look for cracks, rot, moisture damage, or difficulty operating your garage door, as these are common indicators of a damaged frame."
+}

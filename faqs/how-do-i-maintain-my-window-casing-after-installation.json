@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-maintain-my-window-casing-after-installation",
+  "name": "How do I maintain my window casing after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I maintain my window casing after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining your window casing involves regular cleaning with a damp cloth to remove dust and dirt. For painted or stained wood casing, periodically inspect for cracks in the paint or finish, especially in areas with high humidity. Address any damage promptly by repairing, repainting, or restaining to prevent moisture intrusion. For PVC or composite casings, maintenance is minimal, usually just cleaning. This preparation helps preserve the casing's appearance and structural integrity for years to come.",
+        "@type": "Answer",
+        "description": "Maintain casing by cleaning regularly and inspecting for finish cracks, especially on wood. Promptly repair any damage. PVC/composite requires minimal upkeep."
+      }
+    }
+  ],
+  "description": "Maintain casing by cleaning regularly and inspecting for finish cracks, especially on wood. Promptly repair any damage. PVC/composite requires minimal upkeep."
+}

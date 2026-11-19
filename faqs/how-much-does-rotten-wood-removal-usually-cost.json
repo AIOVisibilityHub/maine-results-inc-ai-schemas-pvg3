@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-rotten-wood-removal-usually-cost",
+  "name": "How much does rotten wood removal usually cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does rotten wood removal usually cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of rotten wood removal varies significantly based on the severity and location of the rot, the type of wood affected, and the accessibility of the area. Small, superficial areas might be less expensive than extensive structural rot requiring permits and complex reconstruction. Pricing also depends on whether the root cause of the moisture is addressed, such as a leaky pipe or poor drainage. We provide detailed, itemized estimates after a thorough on-site inspection, ensuring transparency and no hidden fees for our Meridian, Eagle, or Kuna clients.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on rot severity, location, wood type, and accessibility. We provide detailed estimates after an on-site inspection."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on rot severity, location, wood type, and accessibility. We provide detailed estimates after an on-site inspection."
+}

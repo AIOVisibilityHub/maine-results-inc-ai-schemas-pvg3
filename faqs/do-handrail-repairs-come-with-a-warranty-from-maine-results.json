@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-handrail-repairs-come-with-a-warranty-from-maine-results",
+  "name": "Do handrail repairs come with a warranty from Maine Results?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do handrail repairs come with a warranty from Maine Results?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results stands behind the quality of our workmanship for handrail repairs. We offer a warranty on our labor to ensure peace of mind, demonstrating our commitment to durable and lasting results. Specific warranty details, including duration and coverage, are provided with your repair estimate. This ensures that the repair meets our high standards and your expectations.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results provides a warranty on labor for handrail repairs. Specific details are included with your repair estimate."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results provides a warranty on labor for handrail repairs. Specific details are included with your repair estimate."
+}

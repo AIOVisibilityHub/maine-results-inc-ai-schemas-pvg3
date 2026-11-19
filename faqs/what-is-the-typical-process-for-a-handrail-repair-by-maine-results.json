@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-a-handrail-repair-by-maine-results",
+  "name": "What is the typical process for a handrail repair by Maine Results?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a handrail repair by Maine Results?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our typical handrail repair process begins with an assessment to identify the extent of the damage and the best repair strategy. We then provide a detailed estimate. Once approved, we schedule the repair, which may involve securing loose components, replacing damaged sections, or restoring the finish. The exact steps depend on the material and damage, and we aim to complete the work efficiently while ensuring structural integrity and a safe result.",
+        "@type": "Answer",
+        "description": "The process starts with an assessment and estimate. We then schedule the repair, which involves securing, replacing, or restoring components, depending on the damage."
+      }
+    }
+  ],
+  "description": "The process starts with an assessment and estimate. We then schedule the repair, which involves securing, replacing, or restoring components, depending on the d"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-common-causes-of-damage-to-exterior-stairs-in-the-boise-area",
+  "name": "What are the common causes of damage to exterior stairs in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common causes of damage to exterior stairs in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exterior stairs in the Boise area often face damage from fluctuating weather conditions, including freezing and thawing cycles that can crack concrete or wood. Exposure to sunlight can also degrade wood and paint finishes over time. Additionally, improper drainage, ground movement, and regular wear and tear contribute to deterioration. Our team, serving areas like Garden City and Meridian, frequently addresses issues stemming from these regional environmental factors, which can include foundational shifts affecting stair stability.",
+        "@type": "Answer",
+        "description": "Common causes of damage to exterior stairs in the Boise area include freeze-thaw cycles, sun exposure, poor drainage, and ground movement."
+      }
+    }
+  ],
+  "description": "Common causes of damage to exterior stairs in the Boise area include freeze-thaw cycles, sun exposure, poor drainage, and ground movement."
+}

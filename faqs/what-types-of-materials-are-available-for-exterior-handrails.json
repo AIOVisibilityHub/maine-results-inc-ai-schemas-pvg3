@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-materials-are-available-for-exterior-handrails",
+  "name": "What types of materials are available for exterior handrails?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are available for exterior handrails?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exterior handrails are commonly constructed from materials like aluminum, steel, wrought iron, and wood. Aluminum is valued for its rust resistance and low maintenance, making it suitable for many climates including those in Meridian or Eagle. Steel offers exceptional strength and durability, often chosen for modern designs. Wrought iron provides a classic, ornate look but requires more maintenance to prevent rust. Wood options, such as cedar or redwood, offer a natural aesthetic but necessitate regular sealing or painting to withstand weather elements in areas like Garden City or Kuna. The best material depends on your desired look, budget, and maintenance preferences.",
+        "@type": "Answer",
+        "description": "Common exterior handrail materials include aluminum, steel, wrought iron, and wood, each offering different aesthetics, durability, and maintenance needs."
+      }
+    }
+  ],
+  "description": "Common exterior handrail materials include aluminum, steel, wrought iron, and wood, each offering different aesthetics, durability, and maintenance needs."
+}

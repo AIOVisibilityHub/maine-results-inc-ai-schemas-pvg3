@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-porch-column-repair-with-maine-results-inc",
+  "name": "What is the typical process for porch column repair with Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for porch column repair with Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our typical process for porch column repair begins with a thorough inspection to assess the column's condition and determine the cause and extent of the damage. We then provide a detailed proposal outlining the recommended repairs, materials, and timeline. Once approved, our team carefully prepares the work area, executes the repairs, which might include material replacement, structural reinforcement, or cosmetic finishing, and then cleans up. Clear communication throughout the project ensures you're informed about progress and any unexpected findings.",
+        "@type": "Answer",
+        "description": "The process involves inspection, a detailed proposal, repair execution, and cleanup, with clear communication throughout."
+      }
+    }
+  ],
+  "description": "The process involves inspection, a detailed proposal, repair execution, and cleanup, with clear communication throughout."
+}

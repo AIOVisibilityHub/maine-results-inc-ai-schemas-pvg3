@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-does-rotten-wood-removal-protect-my-home",
+  "name": "How does rotten wood removal protect my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does rotten wood removal protect my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing rotten wood protects your home by preventing structural compromise and stopping the spread of decay. Rot often indicates moisture intrusion, which can lead to further damage to adjacent sound wood, insulation, or drywall. Addressing it promptly helps maintain the integrity of your home's framework and prevents more costly repairs down the line. It also reduces the risk of pests that are attracted to moist, decaying wood. We prioritize a thorough assessment to ensure all affected areas are identified and removed, safeguarding your property.",
+        "@type": "Answer",
+        "description": "Removing rotten wood prevents structural damage and stops decay from spreading. It also mitigates moisture issues and deters pests, protecting your home's integrity."
+      }
+    }
+  ],
+  "description": "Removing rotten wood prevents structural damage and stops decay from spreading. It also mitigates moisture issues and deters pests, protecting your home's integ"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-do-i-need-to-do-before-garage-door-trim-repair-work-begins",
+  "name": "What preparation do I need to do before garage door trim repair work begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before garage door trim repair work begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before garage door trim repair work begins, you should clear the area immediately around your garage door. This includes moving vehicles, tools, storage bins, or any potted plants that might obstruct access. If you have sensitive landscaping near the trim, you might want to cover it to protect it from dust or debris. Ensure that the repair team has clear access to electrical outlets if power tools are needed. Discuss any specific concerns or access limitations with Maine Results, Inc. during the initial consultation to help streamline the repair process and ensure a smooth start on the day of service.",
+        "@type": "Answer",
+        "description": "Before repair, clear the area around your garage door, moving vehicles and obstacles. Protect sensitive landscaping and ensure clear access for the repair team."
+      }
+    }
+  ],
+  "description": "Before repair, clear the area around your garage door, moving vehicles and obstacles. Protect sensitive landscaping and ensure clear access for the repair team."
+}

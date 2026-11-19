@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-materials-are-commonly-used-for-window-trim",
+  "name": "What types of materials are commonly used for window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are commonly used for window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window trim is commonly made from wood, PVC, composite materials, or medium-density fiberboard (MDF). Wood offers a classic look and can be stained or painted, but requires maintenance to prevent rot or warping. PVC and composite options are durable, moisture-resistant, and low-maintenance, ideal for humid environments or exterior applications. MDF is an economical choice for interior trim that will be painted. When selecting materials, consider your home's existing style, exposure to moisture, and desired maintenance level, as these factors will influence the long-term performance and appearance of the trim.",
+        "@type": "Answer",
+        "description": "Common window trim materials include wood, PVC, composite, and MDF. Each offers different aesthetic, durability, and maintenance characteristics."
+      }
+    }
+  ],
+  "description": "Common window trim materials include wood, PVC, composite, and MDF. Each offers different aesthetic, durability, and maintenance characteristics."
+}

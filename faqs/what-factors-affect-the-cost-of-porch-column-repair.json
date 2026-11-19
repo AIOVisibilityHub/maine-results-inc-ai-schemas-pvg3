@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-affect-the-cost-of-porch-column-repair",
+  "name": "What factors affect the cost of porch column repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the cost of porch column repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of porch column repair is influenced by several factors, including the type and extent of the damage, the column material (wood, fiberglass, masonry), and whether structural reinforcement is required. For instance, repairing a simple crack in a decorative column will be less costly than addressing extensive rot in a load-bearing column. Access to the column and any necessary scaffolding can also impact labor time and, consequently, the overall cost. We provide a transparent estimate after our initial assessment.",
+        "@type": "Answer",
+        "description": "Cost factors include damage type and extent, column material, structural needs, and access to the column."
+      }
+    }
+  ],
+  "description": "Cost factors include damage type and extent, column material, structural needs, and access to the column."
+}

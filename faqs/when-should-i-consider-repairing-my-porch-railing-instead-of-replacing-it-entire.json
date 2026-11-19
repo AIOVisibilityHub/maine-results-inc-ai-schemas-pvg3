@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-repairing-my-porch-railing-instead-of-replacing-it-entire",
+  "name": "When should I consider repairing my porch railing instead of replacing it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing my porch railing instead of replacing it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repairing your porch railing if the damage is localized, such as a few loose balusters, a cracked top rail section, or minor rot in a small area. Repair is often more cost-effective when the structural integrity of the majority of the railing remains sound. However, if there's widespread rot, significant structural damage, or multiple sections are compromised, replacement might be a safer and more durable long-term solution. Our team at Maine Results, Inc. can assess the extent of the damage during an initial consultation and provide a recommendation based on the condition of your specific railing.",
+        "@type": "Answer",
+        "description": "Repair is suitable for localized damage like loose balusters or small areas of rot; replacement is better for widespread structural issues. An assessment helps determine the best approach."
+      }
+    }
+  ],
+  "description": "Repair is suitable for localized damage like loose balusters or small areas of rot; replacement is better for widespread structural issues. An assessment helps"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-maintenance-can-extend-the-life-of-my-gate",
+  "name": "What kind of maintenance can extend the life of my gate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance can extend the life of my gate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance can significantly extend the lifespan of your gate and prevent unexpected breakdowns. This includes keeping tracks clear of debris, lubricating moving parts like hinges and rollers, checking for loose hardware, and testing safety features such as photo-eyes. For gates in high-traffic areas like Downtown Boise or for commercial properties, more frequent checks are advisable. A useful preparation step is to establish a routine for these checks, perhaps quarterly, which can help you identify potential issues early before they escalate into costly repairs.",
+        "@type": "Answer",
+        "description": "Extend gate life with regular maintenance like clearing tracks, lubricating parts, checking hardware, and testing safety features. A quarterly routine is recommended."
+      }
+    }
+  ],
+  "description": "Extend gate life with regular maintenance like clearing tracks, lubricating parts, checking hardware, and testing safety features. A quarterly routine is recomm"
+}

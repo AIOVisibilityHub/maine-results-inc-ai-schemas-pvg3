@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-cost-range-for-wood-window-frame-repair-services",
+  "name": "What is the cost range for wood window frame repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost range for wood window frame repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of wood window frame repair is highly variable, depending on the extent of the damage, the type of wood, and the specific repair techniques required. Minor repairs might cost a few hundred dollars, while extensive rot or structural issues could be more substantial. Factors like lead paint abatement requirements can also add to the cost. We offer detailed, transparent estimates after an on-site evaluation, ensuring you understand the scope of work and associated expenses before any project begins.",
+        "@type": "Answer",
+        "description": "Repair costs vary widely based on damage severity and wood type. We provide detailed estimates after an on-site evaluation."
+      }
+    }
+  ],
+  "description": "Repair costs vary widely based on damage severity and wood type. We provide detailed estimates after an on-site evaluation."
+}

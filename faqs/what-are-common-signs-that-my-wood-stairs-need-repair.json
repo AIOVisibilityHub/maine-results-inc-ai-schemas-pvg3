@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-my-wood-stairs-need-repair",
+  "name": "What are common signs that my wood stairs need repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my wood stairs need repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your wood stairs need repair include creaking noises, loose or wobbly treads, railings that feel unstable, visible cracks or splinters in the wood, or significant wear on the surface. These issues can compromise safety and indicate structural problems. Addressing them promptly can prevent further damage and more extensive repairs down the line. We often find that addressing minor issues early, like loose balusters, can prevent them from developing into larger, more complex repairs involving the entire railing system or stair structure.",
+        "@type": "Answer",
+        "description": "Signs include creaking, loose treads, wobbly railings, cracks, or excessive wear. Addressing these can prevent further damage and ensure safety."
+      }
+    }
+  ],
+  "description": "Signs include creaking, loose treads, wobbly railings, cracks, or excessive wear. Addressing these can prevent further damage and ensure safety."
+}

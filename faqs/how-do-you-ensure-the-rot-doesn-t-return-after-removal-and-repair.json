@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-ensure-the-rot-doesn-t-return-after-removal-and-repair",
+  "name": "How do you ensure the rot doesn't return after removal and repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure the rot doesn't return after removal and repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent rot recurrence, we don't just remove the damaged wood; we identify and address the source of moisture. This might involve improving drainage, sealing leaks, enhancing ventilation, or redirecting water away from the structure. We also use moisture-resistant materials for replacement where appropriate, and apply protective coatings if necessary. Proper installation techniques are crucial to ensure new wood is not exposed to the same conditions that caused the original rot. Our goal is a durable repair that lasts.",
+        "@type": "Answer",
+        "description": "We prevent rot recurrence by identifying and fixing the moisture source, using appropriate materials, and employing proper installation techniques for a durable repair."
+      }
+    }
+  ],
+  "description": "We prevent rot recurrence by identifying and fixing the moisture source, using appropriate materials, and employing proper installation techniques for a durable"
+}

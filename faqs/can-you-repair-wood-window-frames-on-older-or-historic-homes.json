@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-repair-wood-window-frames-on-older-or-historic-homes",
+  "name": "Can you repair wood window frames on older or historic homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair wood window frames on older or historic homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we specialize in repairing wood window frames on older and historic homes, which often feature unique craftsmanship and materials that are worth preserving. Our team understands the specific challenges and techniques required for such projects, including matching existing wood types, profiles, and finishes. We focus on restoration methods that maintain the architectural integrity and historical value of the property, providing tailored solutions for homes in areas like the East End or Borah neighborhood.",
+        "@type": "Answer",
+        "description": "Yes, we specialize in repairing wood window frames on older and historic homes, using specialized techniques to preserve architectural integrity and historical value."
+      }
+    }
+  ],
+  "description": "Yes, we specialize in repairing wood window frames on older and historic homes, using specialized techniques to preserve architectural integrity and historical"
+}

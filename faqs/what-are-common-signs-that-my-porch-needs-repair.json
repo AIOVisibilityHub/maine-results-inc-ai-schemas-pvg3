@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-my-porch-needs-repair",
+  "name": "What are common signs that my porch needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my porch needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for visible signs of wear and tear such as rotting wood, loose railings, uneven surfaces, or cracks in concrete. Splintered floorboards, unstable steps, or a deck that sways when walked on also indicate potential structural issues. Addressing these early can prevent more extensive and costly damage. When we inspect porches in areas like Meridian and Eagle, we often find that water damage is a primary culprit, making timely repairs crucial.",
+        "@type": "Answer",
+        "description": "Common signs include rotting wood, loose railings, uneven surfaces, cracks, splintered floorboards, and unstable steps."
+      }
+    }
+  ],
+  "description": "Common signs include rotting wood, loose railings, uneven surfaces, cracks, splintered floorboards, and unstable steps."
+}

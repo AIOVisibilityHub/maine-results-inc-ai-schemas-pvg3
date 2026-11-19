@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-my-existing-window-trim",
+  "name": "When should I consider replacing my existing window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my existing window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your window trim if it shows signs of damage like rot, cracks, warping, or insect infestation. Deteriorated trim not only looks unsightly but can also compromise your home's energy efficiency by allowing air and moisture infiltration. Additionally, if you're updating your home's aesthetic or replacing windows, it's an ideal time to update the trim to match the new style. Old, damaged trim can also indicate underlying issues that should be addressed before new trim is installed.",
+        "@type": "Answer",
+        "description": "Replace window trim if it's damaged (rot, cracks, warping) or if you are updating your home's aesthetic or replacing windows."
+      }
+    }
+  ],
+  "description": "Replace window trim if it's damaged (rot, cracks, warping) or if you are updating your home's aesthetic or replacing windows."
+}

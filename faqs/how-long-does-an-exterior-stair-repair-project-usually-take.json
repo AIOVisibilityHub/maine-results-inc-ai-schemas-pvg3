@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-an-exterior-stair-repair-project-usually-take",
+  "name": "How long does an exterior stair repair project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an exterior stair repair project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an exterior stair repair project varies significantly based on the scope of work, the materials involved, and weather conditions. A minor repair, such as replacing a few treads or fixing a loose handrail, might take a day or two. More extensive repairs involving structural elements or multiple sections could take several days to a week. We aim to complete projects efficiently while maintaining quality. We will provide a detailed timeline after assessing your specific needs, allowing you to plan for the duration of the work, which is an important step in our project management.",
+        "@type": "Answer",
+        "description": "Exterior stair repair time varies from a day for minor fixes to several days or a week for extensive structural repairs, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Exterior stair repair time varies from a day for minor fixes to several days or a week for extensive structural repairs, depending on scope and materials."
+}

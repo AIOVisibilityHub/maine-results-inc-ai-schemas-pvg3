@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-does-exterior-window-trim-differ-from-interior-window-trim",
+  "name": "How does exterior window trim differ from interior window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does exterior window trim differ from interior window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exterior window trim, also called exterior casing, is exposed to the elements and primarily functions to seal the window unit against weather, provide a finished appearance, and shed water. It must be made from durable, weather-resistant materials like PVC, composite, or rot-resistant wood. Interior window trim, or interior casing, is mainly aesthetic, covering the gap between the window and the wall inside your home. It can be made from a wider range of materials, including less weather-resistant options like MDF, and is often designed to complement your home's indoor decor. The choice of material for both needs to align with the specific environmental conditions it will face.",
+        "@type": "Answer",
+        "description": "Exterior trim is weather-resistant and seals the window from elements; interior trim is primarily aesthetic and covers inside gaps."
+      }
+    }
+  ],
+  "description": "Exterior trim is weather-resistant and seals the window from elements; interior trim is primarily aesthetic and covers inside gaps."
+}

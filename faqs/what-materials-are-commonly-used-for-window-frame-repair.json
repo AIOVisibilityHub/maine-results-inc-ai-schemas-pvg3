@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-commonly-used-for-window-frame-repair",
+  "name": "What materials are commonly used for window frame repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for window frame repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials used for window frame repair vary depending on the original frame material and the extent of the damage. For wood frames, we often use wood epoxies, wood fillers, and custom-cut wood sections to match existing profiles. Aluminum and vinyl frames typically require specific patching compounds or replacement sections. Our approach is to select materials that ensure durability and blend seamlessly with your current windows. Before we begin, we ensure we have the appropriate materials on hand for your specific window type to avoid delays.",
+        "@type": "Answer",
+        "description": "Common repair materials include wood epoxies, fillers, and custom wood for wood frames, or specific patching compounds for aluminum/vinyl frames."
+      }
+    }
+  ],
+  "description": "Common repair materials include wood epoxies, fillers, and custom wood for wood frames, or specific patching compounds for aluminum/vinyl frames."
+}

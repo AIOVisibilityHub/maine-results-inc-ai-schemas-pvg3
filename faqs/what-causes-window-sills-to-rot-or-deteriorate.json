@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-causes-window-sills-to-rot-or-deteriorate",
+  "name": "What causes window sills to rot or deteriorate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes window sills to rot or deteriorate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window sills primarily rot due to prolonged exposure to moisture and UV radiation. Rain, snow, and condensation can seep into cracks or poorly sealed areas, leading to wood decay. Over time, sunlight also degrades materials, making them more susceptible to water damage. Regular inspection for peeling paint or soft spots helps identify potential issues early, allowing for timely repairs before extensive damage occurs.",
+        "@type": "Answer",
+        "description": "Window sills rot from prolonged moisture exposure and UV damage, which can lead to wood decay."
+      }
+    }
+  ],
+  "description": "Window sills rot from prolonged moisture exposure and UV damage, which can lead to wood decay."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-call-a-professional-for-rotten-wood-removal-versus-attempting-a-di",
+  "name": "When should I call a professional for rotten wood removal versus attempting a DIY repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I call a professional for rotten wood removal versus attempting a DIY repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should call a professional if the rotten area is extensive, affects structural components like beams or subflooring, or if you're unsure of the rot's cause. Professionals can identify underlying moisture issues, ensure proper structural support, and use appropriate replacement materials and techniques to prevent recurrence. DIY is generally suitable only for very small, non-structural areas with clear, resolved moisture sources. Improper DIY repairs can lead to further damage or safety risks. Consider our expertise in the Treasure Valley area for complex issues.",
+        "@type": "Answer",
+        "description": "Call a professional for extensive, structural, or unexplained rot, as improper DIY can worsen damage. DIY is only for very small, non-structural areas with resolved moisture."
+      }
+    }
+  ],
+  "description": "Call a professional for extensive, structural, or unexplained rot, as improper DIY can worsen damage. DIY is only for very small, non-structural areas with reso"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-materials-are-commonly-used-for-exterior-window-trim-and-which-is",
+  "name": "What types of materials are commonly used for exterior window trim and which is best for my climate in Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are commonly used for exterior window trim and which is best for my climate in Idaho?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common exterior window trim materials include wood, vinyl, cellular PVC, and fiber cement. Wood offers a classic look but requires regular maintenance. Vinyl and cellular PVC are low-maintenance and resistant to rot and insects. Fiber cement is highly durable and fire-resistant. For the Idaho climate, which experiences seasonal temperature fluctuations, materials like cellular PVC or fiber cement often provide excellent long-term performance and weather resistance with minimal upkeep. The 'best' material depends on your aesthetic preference, budget, and desired maintenance level.",
+        "@type": "Answer",
+        "description": "Common exterior window trim materials include wood, vinyl, cellular PVC, and fiber cement. For Idaho's climate, cellular PVC or fiber cement offer durability and low maintenance."
+      }
+    }
+  ],
+  "description": "Common exterior window trim materials include wood, vinyl, cellular PVC, and fiber cement. For Idaho's climate, cellular PVC or fiber cement offer durability an"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-commonly-used-for-interior-window-trim",
+  "name": "What materials are commonly used for interior window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for interior window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior window trim is commonly made from several materials, each with distinct advantages. Medium-density fiberboard (MDF) is cost-effective, takes paint well, and is resistant to warping. Natural wood options like pine or oak offer a classic look, can be stained or painted, and add warmth, but are typically more expensive. Composite materials offer durability and moisture resistance. The choice often comes down to budget, desired aesthetic, and the room's environment, such as in a humid bathroom versus a dry living area.",
+        "@type": "Answer",
+        "description": "Common materials include MDF for cost-effectiveness, natural woods like pine or oak for classic aesthetics, and composites for durability."
+      }
+    }
+  ],
+  "description": "Common materials include MDF for cost-effectiveness, natural woods like pine or oak for classic aesthetics, and composites for durability."
+}

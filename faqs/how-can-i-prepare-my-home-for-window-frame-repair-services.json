@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-prepare-my-home-for-window-frame-repair-services",
+  "name": "How can I prepare my home for window frame repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for window frame repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your home for window frame repair, we recommend clearing the area around the affected windows, both inside and outside, to allow our team easy access. Remove any curtains, blinds, or decorative items, and move furniture away from the work zone. While we take precautions to protect your property, covering nearby items with drop cloths can help minimize dust and debris. If you have pets, consider securing them in a separate area to ensure their safety and prevent disruption during the repair process.",
+        "@type": "Answer",
+        "description": "Clear the area around affected windows, remove coverings, move furniture, and secure pets to prepare your home for repair services."
+      }
+    }
+  ],
+  "description": "Clear the area around affected windows, remove coverings, move furniture, and secure pets to prepare your home for repair services."
+}

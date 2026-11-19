@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-wood-fence-repair",
+  "name": "What factors influence the cost of wood fence repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of wood fence repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of wood fence repair is primarily influenced by the type and quantity of materials needed, the labor involved, and the complexity of the damage. For instance, repairing a single broken picket is less expensive than replacing multiple rotted posts that require concrete work. The type of wood, such as cedar versus pressure-treated pine, also affects material costs. During our consultation, Maine Results, Inc. provides a detailed estimate based on a thorough inspection of your fence in areas including Caldwell and Middleton, ensuring transparency about all cost factors before work begins.",
+        "@type": "Answer",
+        "description": "Cost is determined by material type and quantity, labor, and damage complexity. Replacing rotted posts is costlier than a few pickets. We provide detailed estimates after inspection."
+      }
+    }
+  ],
+  "description": "Cost is determined by material type and quantity, labor, and damage complexity. Replacing rotted posts is costlier than a few pickets. We provide detailed estim"
+}

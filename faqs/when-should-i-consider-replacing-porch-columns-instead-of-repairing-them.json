@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-porch-columns-instead-of-repairing-them",
+  "name": "When should I consider replacing porch columns instead of repairing them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing porch columns instead of repairing them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing porch columns when the damage is extensive, such as severe structural compromise, widespread rot beyond repair, or if the column material has deteriorated significantly. If repair costs approach or exceed the cost of replacement, opting for new columns might be more cost-effective in the long run. We often find that columns with severe internal rot, especially near the base or cap, are better candidates for full replacement to ensure the porch's structural integrity.",
+        "@type": "Answer",
+        "description": "Consider replacement if damage is extensive, structural, or if repair costs are comparable to replacement."
+      }
+    }
+  ],
+  "description": "Consider replacement if damage is extensive, structural, or if repair costs are comparable to replacement."
+}

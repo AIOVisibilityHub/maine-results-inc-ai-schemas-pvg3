@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-do-i-need-an-exterior-handrail",
+  "name": "When do I need an exterior handrail?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need an exterior handrail?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need an exterior handrail primarily for safety and accessibility, especially on steps, ramps, or elevated surfaces. Building codes often require handrails for stairs with more than a certain number of risers or for decks and porches above a specific height. For example, in a home in Borah or Lusk District, a handrail provides essential support to prevent falls, particularly for children, the elderly, or anyone with mobility challenges. Even if not legally mandated, adding a handrail can significantly enhance the safety and usability of your outdoor spaces and is often a wise decision for peace of mind.",
+        "@type": "Answer",
+        "description": "Exterior handrails are needed for safety on steps, ramps, or elevated surfaces, often mandated by building codes, and they enhance accessibility and prevent falls."
+      }
+    }
+  ],
+  "description": "Exterior handrails are needed for safety on steps, ramps, or elevated surfaces, often mandated by building codes, and they enhance accessibility and prevent fal"
+}

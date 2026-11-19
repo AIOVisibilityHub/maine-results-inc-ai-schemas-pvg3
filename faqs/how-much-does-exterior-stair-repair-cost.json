@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-exterior-stair-repair-cost",
+  "name": "How much does exterior stair repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does exterior stair repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of exterior stair repair varies widely based on factors such as the extent of the damage, the materials required, the complexity of the repair, and accessibility to the work area. Minor repairs, like replacing a single tread, will be less expensive than significant structural work or multiple section replacements. We provide a detailed, itemized estimate after a thorough assessment of your stairs. This allows you to understand all cost components and compare options if there are different ways to approach the repair, which is a practical tradeoff in balancing immediate needs with long-term investment.",
+        "@type": "Answer",
+        "description": "Exterior stair repair costs vary based on damage extent, materials, and complexity; a detailed estimate is provided after assessment."
+      }
+    }
+  ],
+  "description": "Exterior stair repair costs vary based on damage extent, materials, and complexity; a detailed estimate is provided after assessment."
+}

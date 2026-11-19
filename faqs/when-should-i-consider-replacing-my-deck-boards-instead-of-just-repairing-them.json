@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-my-deck-boards-instead-of-just-repairing-them",
+  "name": "When should I consider replacing my deck boards instead of just repairing them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my deck boards instead of just repairing them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider full deck board replacement if there is widespread damage such as extensive rot, deep cracks, significant splintering, or if the boards feel spongy and unsafe. While minor issues like a few loose boards or small cosmetic flaws can often be repaired, widespread deterioration indicates that the structural integrity and safety of the entire deck surface are compromised. Maine Results, Inc. assesses the overall condition of your deck to determine if a full replacement offers a more durable and cost-effective long-term solution than continuous repairs, especially if multiple sections show similar wear.",
+        "@type": "Answer",
+        "description": "Replace deck boards when there's widespread damage like extensive rot, deep cracks, or when they feel unsafe, rather than attempting minor repairs."
+      }
+    }
+  ],
+  "description": "Replace deck boards when there's widespread damage like extensive rot, deep cracks, or when they feel unsafe, rather than attempting minor repairs."
+}

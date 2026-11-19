@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-a-contractor-inspects-my-property-for-rotten-wood",
+  "name": "What should I prepare before a contractor inspects my property for rotten wood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a contractor inspects my property for rotten wood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a contractor inspects your property for rotten wood, it's helpful to clear any obstructions around the affected areas, such as furniture, plants, or stored items, to allow easy access. If you know the source of moisture, like a leaky faucet or a roof drip, pointing it out can assist in our assessment. Note any specific concerns or observations you've made about the rot's progression. Having this information ready helps us conduct a thorough and efficient inspection, leading to a more accurate estimate and repair plan.",
+        "@type": "Answer",
+        "description": "Clear obstructions around affected areas and be ready to point out any known moisture sources or observations you have about the rot. This aids in a thorough inspection."
+      }
+    }
+  ],
+  "description": "Clear obstructions around affected areas and be ready to point out any known moisture sources or observations you have about the rot. This aids in a thorough in"
+}

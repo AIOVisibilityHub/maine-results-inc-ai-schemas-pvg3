@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-garage-door-frame-repair",
+  "name": "What is the typical process for garage door frame repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for garage door frame repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for garage door frame repair begins with an inspection to identify the type and extent of the damage. For wood frames, this often involves removing rotten or compromised sections, treating any remaining wood for moisture or pests, and then fitting new, matching material. Metal frames might require straightening, welding, or replacing bent sections. The repair is usually finished with sealing, painting, or re-trimming to match your home's exterior. The complexity of the repair can affect the timeline; extensive structural damage will naturally take longer than superficial fixes. We aim to complete most standard repairs efficiently.",
+        "@type": "Answer",
+        "description": "The repair process involves inspection, removing damaged sections, replacing or mending materials, and finishing with sealing or painting."
+      }
+    }
+  ],
+  "description": "The repair process involves inspection, removing damaged sections, replacing or mending materials, and finishing with sealing or painting."
+}

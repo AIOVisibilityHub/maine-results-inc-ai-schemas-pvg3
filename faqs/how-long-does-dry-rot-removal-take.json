@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-dry-rot-removal-take",
+  "name": "How long does dry rot removal take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does dry rot removal take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of dry rot removal depends on the severity and location of the infestation. Small, localized areas might only take a few days, while extensive dry rot affecting structural components could require several weeks to properly remediate and restore. Maine Results, Inc. aims for efficient completion but prioritizes thoroughness to prevent recurrence. Factors like material drying times and structural repair needs can influence the overall timeline.",
+        "@type": "Answer",
+        "description": "Dry rot removal time varies from days to weeks, depending on severity and location; thoroughness is key to preventing recurrence."
+      }
+    }
+  ],
+  "description": "Dry rot removal time varies from days to weeks, depending on severity and location; thoroughness is key to preventing recurrence."
+}

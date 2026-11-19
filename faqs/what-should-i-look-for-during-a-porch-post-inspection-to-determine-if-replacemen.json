@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-look-for-during-a-porch-post-inspection-to-determine-if-replacemen",
+  "name": "What should I look for during a porch post inspection to determine if replacement is needed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for during a porch post inspection to determine if replacement is needed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a porch post inspection, look for soft or spongy spots when pressing on the wood, which indicates rot. Also check for extensive cracking, insect holes or sawdust trails, visible leaning or shifting of the post, and signs of water damage at the base or where the post meets the roof structure. These are clear indicators that the post's structural integrity may be compromised. Documenting any observed issues with photos or notes can be helpful for a contractor, providing preparation for an accurate assessment.",
+        "@type": "Answer",
+        "description": "Look for rot, cracks, insect damage, leaning, or water damage during inspection to determine if a porch post needs replacement."
+      }
+    }
+  ],
+  "description": "Look for rot, cracks, insect damage, leaning, or water damage during inspection to determine if a porch post needs replacement."
+}

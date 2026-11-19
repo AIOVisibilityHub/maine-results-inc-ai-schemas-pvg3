@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-a-garage-door-frame-repair-appointment",
+  "name": "What should I prepare before a garage door frame repair appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a garage door frame repair appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your garage door frame repair appointment, it's helpful to clear the area around the garage door, both inside and out, to provide our technicians with unobstructed access. Remove any vehicles, bicycles, or storage items that might be in the way. If you have noticed specific issues or problem areas, be prepared to point them out during the initial inspection. Gathering any information about previous repairs or the age of your garage door can also be beneficial. This preparation helps ensure that our team can efficiently assess the damage and begin the repair process without delay, saving you time and expediting the service.",
+        "@type": "Answer",
+        "description": "Clear the area around the garage door, inside and out, remove obstacles, and be ready to point out specific issues to the technicians."
+      }
+    }
+  ],
+  "description": "Clear the area around the garage door, inside and out, remove obstacles, and be ready to point out specific issues to the technicians."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-match-existing-handrail-styles-during-a-repair",
+  "name": "Can you match existing handrail styles during a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match existing handrail styles during a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We strive to match existing handrail styles as closely as possible during a repair to maintain aesthetic consistency. This involves carefully sourcing materials that match the original in type, color, and finish, and often requires custom milling or fabrication for exact profiles. While perfect replication can sometimes be challenging with very old or unique designs, our goal is to blend the repair seamlessly with the existing structure.",
+        "@type": "Answer",
+        "description": "We aim to match existing handrail styles during repair by sourcing materials and custom fabricating when needed, to maintain aesthetic consistency."
+      }
+    }
+  ],
+  "description": "We aim to match existing handrail styles during repair by sourcing materials and custom fabricating when needed, to maintain aesthetic consistency."
+}

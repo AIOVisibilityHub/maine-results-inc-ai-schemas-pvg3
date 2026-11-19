@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-maine-results-inc-follows-for-deck-trim-repair",
+  "name": "What is the process Maine Results, Inc. follows for deck trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process Maine Results, Inc. follows for deck trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our deck trim repair process begins with a thorough on-site inspection to assess the extent of the damage and identify the type of trim material. We then provide a detailed estimate outlining the scope of work, recommended materials, and project timeline. Once approved, our team carefully removes damaged trim, prepares the surface, installs new trim, and ensures proper sealing and finishing. Throughout the process, we prioritize clear communication and meticulous craftsmanship to ensure a durable and aesthetically pleasing result for your property in the Boise area.",
+        "@type": "Answer",
+        "description": "We inspect damage, provide a detailed estimate, remove old trim, install new trim, and ensure proper sealing and finishing. Communication is key throughout the process."
+      }
+    }
+  ],
+  "description": "We inspect damage, provide a detailed estimate, remove old trim, install new trim, and ensure proper sealing and finishing. Communication is key throughout the"
+}

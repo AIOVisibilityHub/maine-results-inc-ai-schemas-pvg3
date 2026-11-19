@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-my-handrail-needs-repair",
+  "name": "What are common signs that my handrail needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my handrail needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that indicate your handrail needs repair include wobbling, loose fasteners, cracks or splinters in wood, rust on metal, or significant wear on the finish. These issues can compromise safety and lead to further damage if not addressed. Early repair can prevent minor problems from becoming major structural concerns, which helps maintain the safety and integrity of your stairs or deck.",
+        "@type": "Answer",
+        "description": "Wobbling, loose fasteners, cracks, rust, or significant wear are common signs your handrail needs repair. Addressing these promptly maintains safety and prevents further damage."
+      }
+    }
+  ],
+  "description": "Wobbling, loose fasteners, cracks, rust, or significant wear are common signs your handrail needs repair. Addressing these promptly maintains safety and prevent"
+}

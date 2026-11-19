@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-repair-all-types-of-porch-columns-including-wood-fiberglass-and-masonry",
+  "name": "Can you repair all types of porch columns, including wood, fiberglass, and masonry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair all types of porch columns, including wood, fiberglass, and masonry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. has experience repairing a variety of porch column materials, including traditional wood, durable fiberglass, and masonry. Each material requires specific techniques and products for effective repair. For example, wood columns often need rot treatment and wood fillers or sections replaced, while fiberglass columns might require specialized patching and painting. Our team's expertise allows us to correctly identify the material and apply the appropriate repair methods to restore its integrity and appearance.",
+        "@type": "Answer",
+        "description": "Yes, we can repair wood, fiberglass, and masonry columns, using material-specific techniques for each."
+      }
+    }
+  ],
+  "description": "Yes, we can repair wood, fiberglass, and masonry columns, using material-specific techniques for each."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-exterior-handrails-require-permits-in-boise-or-surrounding-areas",
+  "name": "Do exterior handrails require permits in Boise or surrounding areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do exterior handrails require permits in Boise or surrounding areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether an exterior handrail requires a permit depends on the specific project and local building codes in areas like Boise, Garden City, Meridian, Eagle, Kuna, or Star. Generally, new installations or significant alterations to existing structures, especially those affecting safety or structural integrity, might necessitate a permit. The exact requirements can vary, so it's always advisable to check with your local planning department before starting any construction. As a first-party insight, our team is familiar with the permitting processes in these areas and can assist you in understanding if your project requires one and help with the necessary documentation.",
+        "@type": "Answer",
+        "description": "Permit requirements for exterior handrails depend on local building codes and project scope; our team can help determine if your project in areas like Boise needs one."
+      }
+    }
+  ],
+  "description": "Permit requirements for exterior handrails depend on local building codes and project scope; our team can help determine if your project in areas like Boise nee"
+}

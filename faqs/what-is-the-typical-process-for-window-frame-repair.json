@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-window-frame-repair",
+  "name": "What is the typical process for window frame repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for window frame repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our window frame repair process typically begins with an initial inspection to assess the damage and determine the best course of action, whether it's minor repair or more extensive work. Following the assessment, we provide a detailed proposal. Once approved, our team carefully prepares the area, addresses the damage by removing compromised material, performing necessary repairs or replacements, and finishing with sealing and painting to match your existing frames. During this process, we take steps to minimize disruption to your home and ensure the work area is kept clean and safe.",
+        "@type": "Answer",
+        "description": "The process involves inspection, proposal, damage repair (material removal, repair/replacement), and finishing with sealing and painting."
+      }
+    }
+  ],
+  "description": "The process involves inspection, proposal, damage repair (material removal, repair/replacement), and finishing with sealing and painting."
+}

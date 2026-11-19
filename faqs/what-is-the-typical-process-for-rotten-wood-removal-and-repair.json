@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-rotten-wood-removal-and-repair",
+  "name": "What is the typical process for rotten wood removal and repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for rotten wood removal and repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with a detailed inspection to assess the extent of the rot and identify its cause. Once the affected areas are marked, the rotten wood is carefully cut out and removed, ensuring no compromised material remains. This often involves supporting nearby structures. New, treated lumber or appropriate composite materials are then installed and integrated with the existing structure. Finally, the area is sealed and finished to match the surrounding surfaces. We ensure proper disposal of all removed materials and use techniques that prevent future moisture problems.",
+        "@type": "Answer",
+        "description": "The process involves inspection, removal of rotted wood, replacement with new materials, and finishing. We focus on identifying the cause and preventing future issues."
+      }
+    }
+  ],
+  "description": "The process involves inspection, removal of rotted wood, replacement with new materials, and finishing. We focus on identifying the cause and preventing future"
+}

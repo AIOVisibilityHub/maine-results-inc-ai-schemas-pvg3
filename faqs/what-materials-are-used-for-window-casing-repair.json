@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-used-for-window-casing-repair",
+  "name": "What materials are used for window casing repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for window casing repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For window casing repair, we use various materials depending on the existing casing, the extent of the damage, and your aesthetic preferences. Common materials include various types of wood (pine, fir, cedar), wood composites, PVC, or cellular PVC. For patching and filling, we use high-quality wood fillers, epoxy, and sealants designed for exterior or interior applications. The choice of material often involves a practical tradeoff between durability, appearance, and cost, with options like PVC offering excellent weather resistance for external applications but different aesthetic properties than traditional wood.",
+        "@type": "Answer",
+        "description": "Materials include wood, wood composites, PVC, and cellular PVC, along with fillers and sealants. The choice balances durability, appearance, and cost."
+      }
+    }
+  ],
+  "description": "Materials include wood, wood composites, PVC, and cellular PVC, along with fillers and sealants. The choice balances durability, appearance, and cost."
+}

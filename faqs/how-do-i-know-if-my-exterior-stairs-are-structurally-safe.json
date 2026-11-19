@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-exterior-stairs-are-structurally-safe",
+  "name": "How do I know if my exterior stairs are structurally safe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my exterior stairs are structurally safe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can assess the structural safety of your exterior stairs by observing for signs like excessive wobbling, significant cracks in concrete, rotten or splintered wood, loose or broken handrails, or uneven treads. Sagging or shifting stringers (the main support beams) are also critical indicators of instability. If you notice any of these issues, it's advisable to have a professional inspection. Maine Results, Inc. can perform a thorough assessment to determine the integrity of your stairs and recommend necessary repairs to ensure safety, which is our priority in any project.",
+        "@type": "Answer",
+        "description": "Check for wobbling, significant cracks, rotten wood, loose handrails, uneven treads, or sagging stringers. If present, seek a professional safety inspection."
+      }
+    }
+  ],
+  "description": "Check for wobbling, significant cracks, rotten wood, loose handrails, uneven treads, or sagging stringers. If present, seek a professional safety inspection."
+}

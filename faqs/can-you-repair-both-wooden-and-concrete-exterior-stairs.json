@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-repair-both-wooden-and-concrete-exterior-stairs",
+  "name": "Can you repair both wooden and concrete exterior stairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair both wooden and concrete exterior stairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. has expertise in repairing both wooden and concrete exterior stairs. Our skilled team is equipped to handle a variety of issues specific to each material, from replacing rotted wood components and reinforcing structural beams to repairing cracks, spalling, or crumbling sections in concrete. Our approach involves assessing the unique characteristics of your stairs to recommend the most effective and durable repair methods for either material type, ensuring a tailored solution for your specific needs in locations such as Eagle and Caldwell.",
+        "@type": "Answer",
+        "description": "Yes, we repair both wooden and concrete exterior stairs, addressing specific issues like rotted wood or cracked concrete with appropriate methods."
+      }
+    }
+  ],
+  "description": "Yes, we repair both wooden and concrete exterior stairs, addressing specific issues like rotted wood or cracked concrete with appropriate methods."
+}

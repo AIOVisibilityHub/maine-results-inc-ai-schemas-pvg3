@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-handrail-repair-usually-take",
+  "name": "How long does a handrail repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a handrail repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a handrail repair varies significantly based on the extent of the damage, the material of the handrail, and its complexity. A simple tightening of loose fasteners might take a few hours, while replacing a damaged section or performing extensive restoration could take one to several days. We provide an estimated timeline after our initial assessment, allowing you to plan accordingly for the work at your property in areas like Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "Repair time depends on damage extent, material, and complexity, ranging from a few hours for minor fixes to several days for extensive work."
+      }
+    }
+  ],
+  "description": "Repair time depends on damage extent, material, and complexity, ranging from a few hours for minor fixes to several days for extensive work."
+}

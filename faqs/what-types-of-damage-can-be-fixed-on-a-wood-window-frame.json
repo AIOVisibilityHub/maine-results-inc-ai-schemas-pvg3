@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-damage-can-be-fixed-on-a-wood-window-frame",
+  "name": "What types of damage can be fixed on a wood window frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of damage can be fixed on a wood window frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common types of damage to wood window frames that can be repaired include rot caused by moisture, cracks, warping, chipped paint, and loose or failing joints. Minor insect damage can also often be addressed. We typically use techniques such as wood epoxy fillers, dutchman repairs (inserting new wood sections), and structural reinforcement. The specific repair method depends on the extent and location of the damage, aiming to restore both the aesthetics and the structural integrity of the frame.",
+        "@type": "Answer",
+        "description": "Repairable damages include rot, cracks, warping, chipped paint, and loose joints. Techniques like epoxy fillers or wood inserts are used."
+      }
+    }
+  ],
+  "description": "Repairable damages include rot, cracks, warping, chipped paint, and loose joints. Techniques like epoxy fillers or wood inserts are used."
+}

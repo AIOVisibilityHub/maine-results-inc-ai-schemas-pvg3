@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-wood-stair-repair-usually-take",
+  "name": "How long does wood stair repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does wood stair repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of wood stair repair depends on the scope and complexity of the project. Simple repairs, like re-securing loose treads or fixing a few balusters, might take a day or less. More extensive repairs, such as replacing multiple treads, repairing structural issues, or refinishing an entire staircase, could take several days or even a week. Factors like the type of wood, the drying time for finishes, and any custom fabrication required can also influence the timeline. We strive to complete repairs efficiently while minimizing disruption to your home in locations like Eagle or Kuna.",
+        "@type": "Answer",
+        "description": "Repair time varies from a day for minor fixes to several days or a week for extensive projects, depending on complexity and scope."
+      }
+    }
+  ],
+  "description": "Repair time varies from a day for minor fixes to several days or a week for extensive projects, depending on complexity and scope."
+}

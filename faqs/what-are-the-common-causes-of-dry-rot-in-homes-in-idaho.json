@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-common-causes-of-dry-rot-in-homes-in-idaho",
+  "name": "What are the common causes of dry rot in homes in Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common causes of dry rot in homes in Idaho?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Dry rot commonly occurs in Idaho homes due to persistent moisture issues combined with poor ventilation. Leaky roofs, plumbing leaks, condensation problems, or damp basements and crawl spaces can create the ideal environment for the fungus. In areas like Caldwell or Middleton, where humidity can fluctuate, ensuring proper drainage around your foundation and addressing any water intrusion quickly are key preventative measures to stop dry rot from taking hold.",
+        "@type": "Answer",
+        "description": "Common causes of dry rot in Idaho homes are persistent moisture from leaks or condensation, combined with poor ventilation."
+      }
+    }
+  ],
+  "description": "Common causes of dry rot in Idaho homes are persistent moisture from leaks or condensation, combined with poor ventilation."
+}

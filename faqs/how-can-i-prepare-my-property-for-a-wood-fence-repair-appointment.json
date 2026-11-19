@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-prepare-my-property-for-a-wood-fence-repair-appointment",
+  "name": "How can I prepare my property for a wood fence repair appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my property for a wood fence repair appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To help facilitate an efficient wood fence repair, you can prepare your property by clearing the fence line of any obstacles such as potted plants, patio furniture, or decorative items. If possible, ensure any pets are secured and children are supervised away from the work area for their safety. Providing clear access to the damaged sections of the fence will allow our crew to begin work immediately upon arrival. Informing us in advance about any underground utilities near the fence line can also be helpful, although we always take precautions in areas like Central Bench and Central Foothills.",
+        "@type": "Answer",
+        "description": "Clear the fence line of obstacles, secure pets, and ensure children are supervised. Provide clear access to damaged sections and inform us of any nearby underground utilities."
+      }
+    }
+  ],
+  "description": "Clear the fence line of obstacles, secure pets, and ensure children are supervised. Provide clear access to damaged sections and inform us of any nearby undergr"
+}

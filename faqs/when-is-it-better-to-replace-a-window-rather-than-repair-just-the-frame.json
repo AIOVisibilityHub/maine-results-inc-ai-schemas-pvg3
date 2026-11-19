@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-is-it-better-to-replace-a-window-rather-than-repair-just-the-frame",
+  "name": "When is it better to replace a window rather than repair just the frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it better to replace a window rather than repair just the frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally better to replace an entire window rather than just the frame when the damage is extensive, affecting multiple components beyond the frame itself, or when the window's overall efficiency is compromised. If you frequently experience drafts, condensation, or difficulty operating the window even after minor frame repairs, it might indicate a deeper issue. Consider a full replacement if your existing windows are single-pane, very old, or if a significant portion of the frame and sash are rotted, as a new, energy-efficient window offers better long-term performance and savings.",
+        "@type": "Answer",
+        "description": "Replace a window when damage is extensive, affects multiple components, or when overall efficiency is compromised, especially with older, less efficient windows."
+      }
+    }
+  ],
+  "description": "Replace a window when damage is extensive, affects multiple components, or when overall efficiency is compromised, especially with older, less efficient windows"
+}

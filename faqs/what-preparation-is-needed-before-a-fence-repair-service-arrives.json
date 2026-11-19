@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-is-needed-before-a-fence-repair-service-arrives",
+  "name": "What preparation is needed before a fence repair service arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before a fence repair service arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your fence repair service arrives, clear the area around the fence line of any obstacles like plants, furniture, or debris to allow technicians unobstructed access. If there are pets, ensure they are secured away from the work zone. It's also helpful to point out any underground utilities or sprinkler lines near the fence if you are aware of their location, though we will also take precautions to identify them.",
+        "@type": "Answer",
+        "description": "Clear the fence line of obstacles, secure pets, and identify any nearby underground utilities before the service arrives."
+      }
+    }
+  ],
+  "description": "Clear the fence line of obstacles, secure pets, and identify any nearby underground utilities before the service arrives."
+}

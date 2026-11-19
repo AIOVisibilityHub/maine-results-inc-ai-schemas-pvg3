@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-deck-board-replacement-typically-take",
+  "name": "How long does deck board replacement typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does deck board replacement typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of deck board replacement varies depending on the deck's size, complexity, and the type of materials chosen. A small, straightforward deck might take a few days, while larger or more intricate designs could require a week or more. The process often involves removing old boards, inspecting the substructure, installing new boards, and finishing. Maine Results, Inc. provides a project timeline after an initial assessment, considering factors like material availability and current weather, which can impact scheduling and efficiency.",
+        "@type": "Answer",
+        "description": "Deck board replacement duration varies by deck size and complexity, typically taking a few days for small decks to over a week for larger ones."
+      }
+    }
+  ],
+  "description": "Deck board replacement duration varies by deck size and complexity, typically taking a few days for small decks to over a week for larger ones."
+}

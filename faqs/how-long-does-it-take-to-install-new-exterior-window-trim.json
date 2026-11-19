@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-install-new-exterior-window-trim",
+  "name": "How long does it take to install new exterior window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install new exterior window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of exterior window trim installation depends on the project's scope, including the number of windows, their size, and the chosen trim material. A single window might take a few hours, while an entire home can take several days. Factors like weather conditions and the need for scaffolding for multi-story homes can also influence the timeline. Our team works efficiently to minimize disruption, and we'll provide an estimated timeline during your initial consultation based on a thorough assessment of your property.",
+        "@type": "Answer",
+        "description": "Installation time varies by project scope, number of windows, and materials. A few hours for one window; several days for a whole house. Weather and access can affect timing."
+      }
+    }
+  ],
+  "description": "Installation time varies by project scope, number of windows, and materials. A few hours for one window; several days for a whole house. Weather and access can"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-be-home-during-the-wood-fence-repair",
+  "name": "Do I need to be home during the wood fence repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during the wood fence repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not strictly necessary for you to be home for the entire duration of the wood fence repair, it is helpful if you are available at the beginning to discuss any last-minute details or specific instructions with our team. We typically require access to the fence line, which can often be managed without direct supervision once work is underway. However, if there are specific concerns, access gates, or if the repair impacts areas that require your input, your presence might be beneficial. Our team operating in the Downtown Boise and East End areas will confirm attendance expectations when scheduling your service.",
+        "@type": "Answer",
+        "description": "You don't need to be home for the entire repair, but being available at the start is helpful for last-minute details. We'll confirm attendance expectations when scheduling."
+      }
+    }
+  ],
+  "description": "You don't need to be home for the entire repair, but being available at the start is helpful for last-minute details. We'll confirm attendance expectations when"
+}

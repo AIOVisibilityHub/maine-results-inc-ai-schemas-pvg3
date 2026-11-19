@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-tell-if-my-home-has-dry-rot",
+  "name": "How can I tell if my home has dry rot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my home has dry rot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Identifying dry rot often involves looking for specific signs such as a distinct musty smell, deep cracks in wooden surfaces, or a powdery orange-brown spore dust. You might also notice fungal growth resembling cotton wool or mushroom-like fruiting bodies. Since dry rot can hide behind walls, a professional inspection from a company like Maine Results, Inc. in areas such as Garden City or Meridian can help confirm its presence and assess the extent of the damage, guiding your next steps.",
+        "@type": "Answer",
+        "description": "Look for a musty smell, deep wood cracks, orange-brown spore dust, or cotton wool-like fungal growth to identify dry rot."
+      }
+    }
+  ],
+  "description": "Look for a musty smell, deep wood cracks, orange-brown spore dust, or cotton wool-like fungal growth to identify dry rot."
+}

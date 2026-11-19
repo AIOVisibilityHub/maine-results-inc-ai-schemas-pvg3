@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-my-porch-columns-need-repair",
+  "name": "What are common signs that my porch columns need repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my porch columns need repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that porch columns need repair include visible cracks, peeling paint, rot or insect damage, and columns that appear to be leaning or unstable. Cracks can indicate structural issues or water infiltration, while soft spots when probed suggest rot. Addressing these issues early can prevent more extensive and costly repairs later on, as a failing column can compromise the porch's stability. Our team at Maine Results, Inc. assesses the column's material and the extent of the damage to determine the most effective repair approach.",
+        "@type": "Answer",
+        "description": "Visible cracks, peeling paint, rot, insect damage, or leaning columns are common signs that indicate a need for repair."
+      }
+    }
+  ],
+  "description": "Visible cracks, peeling paint, rot, insect damage, or leaning columns are common signs that indicate a need for repair."
+}

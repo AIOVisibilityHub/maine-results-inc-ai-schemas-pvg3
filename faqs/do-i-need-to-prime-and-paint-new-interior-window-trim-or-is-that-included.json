@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-prime-and-paint-new-interior-window-trim-or-is-that-included",
+  "name": "Do I need to prime and paint new interior window trim, or is that included?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to prime and paint new interior window trim, or is that included?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New interior window trim typically requires priming and painting or staining to protect the material and match your home's interior decor. Whether this is included in the installation service depends on the specific project agreement. Many installation services focus on fitting and securing the trim, leaving the finishing touches to the homeowner or a separate painting contractor. We discuss these details upfront with our clients in the Boise Heights area to clarify the scope of work and ensure all expectations are met regarding the finished appearance.",
+        "@type": "Answer",
+        "description": "New interior window trim usually needs priming and painting or staining. Whether this is included depends on your specific service agreement."
+      }
+    }
+  ],
+  "description": "New interior window trim usually needs priming and painting or staining. Whether this is included depends on your specific service agreement."
+}

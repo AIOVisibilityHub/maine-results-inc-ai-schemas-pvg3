@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-window-sill-needs-to-be-repaired-or-replaced",
+  "name": "How do I know if my window sill needs to be repaired or replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my window sill needs to be repaired or replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can determine if your window sill needs repair or replacement by checking for signs of rot, such as soft or spongy wood, discoloration, or crumbling material. Visible cracks, gaps, or signs of water leakage around the window also indicate a need for attention. If the damage is extensive or affects the structural integrity of the window frame, replacement is generally recommended over repair. Maine Results, Inc. can assess the damage to help you make an informed decision.",
+        "@type": "Answer",
+        "description": "Check for soft wood, discoloration, crumbling, or water leaks to determine if your window sill needs repair or replacement. Extensive damage often requires replacement."
+      }
+    }
+  ],
+  "description": "Check for soft wood, discoloration, crumbling, or water leaks to determine if your window sill needs repair or replacement. Extensive damage often requires repl"
+}

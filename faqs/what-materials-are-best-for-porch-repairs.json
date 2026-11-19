@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-best-for-porch-repairs",
+  "name": "What materials are best for porch repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are best for porch repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best materials for porch repairs depend on your existing porch's construction and your budget. Common options include pressure-treated lumber for its resistance to rot and insects, composite materials for low maintenance, and cedar or redwood for natural beauty and durability. Concrete can be repaired or resurfaced if your porch is masonry-based. We often recommend materials that match the original construction for a seamless look, or suggest upgrades for improved longevity, especially for homes in high-moisture areas like along the Boise River.",
+        "@type": "Answer",
+        "description": "Material choices include pressure-treated lumber, composite, cedar, redwood, or concrete, depending on existing structure and desired durability."
+      }
+    }
+  ],
+  "description": "Material choices include pressure-treated lumber, composite, cedar, redwood, or concrete, depending on existing structure and desired durability."
+}

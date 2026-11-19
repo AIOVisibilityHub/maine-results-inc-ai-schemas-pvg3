@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-cost-range-for-common-gate-repairs",
+  "name": "What is the cost range for common gate repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost range for common gate repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of gate repair varies widely based on the type of repair needed, the parts required, and the complexity of the labor. Simple fixes like adjusting sensors or tightening loose hardware might be on the lower end, whereas replacing a motor, control board, or repairing significant structural damage will incur higher costs. We provide a detailed estimate after an initial inspection, allowing you to understand the full scope before work begins. There's a practical tradeoff to consider: sometimes, a series of smaller repairs on an aging gate might approach the cost of a full replacement, which could offer newer technology and a longer warranty.",
+        "@type": "Answer",
+        "description": "Gate repair costs range from lower for simple fixes to higher for motor or structural repairs. An estimate is provided after inspection, considering replacement costs for older gates."
+      }
+    }
+  ],
+  "description": "Gate repair costs range from lower for simple fixes to higher for motor or structural repairs. An estimate is provided after inspection, considering replacement"
+}

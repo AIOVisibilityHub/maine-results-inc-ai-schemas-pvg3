@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-weather-damaged-wood-repair-cost",
+  "name": "How much does weather-damaged wood repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does weather-damaged wood repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of weather-damaged wood repair varies significantly based on the type of wood, the extent of the damage, the repair method chosen (e.g., patching vs. full replacement), and the labor involved. Small, localized repairs might be less expensive, while extensive structural repairs or the replacement of large sections of a deck or siding will incur higher costs. Practical tradeoff: while DIY repairs might seem cheaper initially, professional repairs often offer greater durability, a longer lifespan, and can prevent more costly issues down the line by using the correct materials and techniques, especially for exterior structures in the harsh Idaho weather.",
+        "@type": "Answer",
+        "description": "Repair costs depend on wood type, damage extent, repair method, and labor, with professional repairs often providing better durability and long-term value."
+      }
+    }
+  ],
+  "description": "Repair costs depend on wood type, damage extent, repair method, and labor, with professional repairs often providing better durability and long-term value."
+}

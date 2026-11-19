@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-repair-a-porch-column-that-has-rot-or-water-damage",
+  "name": "How do you repair a porch column that has rot or water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you repair a porch column that has rot or water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a porch column with rot or water damage typically involves removing the damaged section, treating any remaining affected areas, and then replacing the material. For minor rot, we might use epoxy fillers and wood hardeners. For more significant damage, we'll replace the rotted section with new, durable material, often matching the existing column's profile. During our initial assessment, we identify the cause of the water damage to prevent future occurrences, which is a critical step in ensuring the longevity of the repair.",
+        "@type": "Answer",
+        "description": "Rot or water damage repair involves removing damaged material, treating, and replacing it, with methods varying by damage extent."
+      }
+    }
+  ],
+  "description": "Rot or water damage repair involves removing damaged material, treating, and replacing it, with methods varying by damage extent."
+}

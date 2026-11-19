@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-typically-take-to-install-new-interior-window-trim",
+  "name": "How long does it typically take to install new interior window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to install new interior window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for new interior window trim varies depending on the number of windows, the complexity of the trim style, and whether old trim needs to be removed. For a standard home with an average number of windows, installation can often be completed within one to three days. More intricate designs or a larger number of windows will naturally extend this timeline. During our consultation, we provide a more precise estimate based on your specific project scope in areas like Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "Installation time for interior window trim typically ranges from one to three days, depending on the number of windows and trim complexity."
+      }
+    }
+  ],
+  "description": "Installation time for interior window trim typically ranges from one to three days, depending on the number of windows and trim complexity."
+}

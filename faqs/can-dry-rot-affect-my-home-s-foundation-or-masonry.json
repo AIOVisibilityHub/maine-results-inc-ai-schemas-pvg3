@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-dry-rot-affect-my-home-s-foundation-or-masonry",
+  "name": "Can dry rot affect my home's foundation or masonry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can dry rot affect my home's foundation or masonry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, dry rot can affect more than just wood; the fungal strands (hyphae) can grow through masonry and brickwork in search of more timber to infest. While it doesn't directly 'eat' stone or concrete, it can undermine their integrity by growing within cracks and behind plaster, causing decay in adjacent wooden elements. Addressing any signs of dry rot early is crucial to prevent its spread into these less obvious areas of your home.",
+        "@type": "Answer",
+        "description": "Dry rot can spread through masonry and brickwork, undermining structural integrity by seeking new wood to infest, even if it doesn't consume stone directly."
+      }
+    }
+  ],
+  "description": "Dry rot can spread through masonry and brickwork, undermining structural integrity by seeking new wood to infest, even if it doesn't consume stone directly."
+}

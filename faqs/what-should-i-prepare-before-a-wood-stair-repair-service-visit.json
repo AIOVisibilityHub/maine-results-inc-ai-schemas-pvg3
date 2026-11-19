@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-a-wood-stair-repair-service-visit",
+  "name": "What should I prepare before a wood stair repair service visit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a wood stair repair service visit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a wood stair repair service visit, you should clear the area around the staircase. This includes removing any rugs, decorations, or furniture that might obstruct access to the stairs or the work area. If possible, ensure pets and small children are kept away from the work zone for safety. You might also consider documenting any specific concerns or problem areas you want to highlight to the repair team. Providing a clear path and workspace allows our team to begin the assessment and repair process efficiently upon arrival.",
+        "@type": "Answer",
+        "description": "Clear the staircase area of rugs, decorations, and furniture. Ensure pets and children are away from the work zone for safety."
+      }
+    }
+  ],
+  "description": "Clear the staircase area of rugs, decorations, and furniture. Ensure pets and children are away from the work zone for safety."
+}

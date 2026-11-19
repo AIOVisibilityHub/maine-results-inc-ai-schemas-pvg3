@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-prepare-my-deck-and-yard-for-board-replacement-work",
+  "name": "How can I prepare my deck and yard for board replacement work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my deck and yard for board replacement work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before deck board replacement begins, it's helpful to clear the deck of all furniture, planters, grills, and other personal items. We also recommend clearing the area immediately surrounding the deck, especially if there's landscaping, to provide our team with clear access and prevent damage to plants. If you have pets or young children, it's wise to plan for them to be safely away from the construction zone during work hours. Maine Results, Inc. appreciates clients ensuring a clear work area to help us complete the project efficiently and safely.",
+        "@type": "Answer",
+        "description": "Prepare for deck board replacement by clearing all furniture and items from the deck, and ensure the surrounding yard is accessible and safe."
+      }
+    }
+  ],
+  "description": "Prepare for deck board replacement by clearing all furniture and items from the deck, and ensure the surrounding yard is accessible and safe."
+}

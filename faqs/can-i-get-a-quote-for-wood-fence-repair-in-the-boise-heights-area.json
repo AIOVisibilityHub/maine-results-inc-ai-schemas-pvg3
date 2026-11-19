@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-get-a-quote-for-wood-fence-repair-in-the-boise-heights-area",
+  "name": "Can I get a quote for wood fence repair in the Boise Heights area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get a quote for wood fence repair in the Boise Heights area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. provides quotes for wood fence repair in the Boise Heights area and throughout our expanded service regions. To receive an accurate quote, we typically schedule an on-site visit to assess the specific damage, measure the affected sections, and discuss your preferred repair solutions. This allows us to account for factors like accessibility, the extent of post rot, or panel replacement needs. Contact us to arrange a convenient time for our team to evaluate your fence's condition and provide a detailed estimate without obligation.",
+        "@type": "Answer",
+        "description": "Yes, we offer wood fence repair quotes in Boise Heights and surrounding areas. We conduct on-site visits to assess damage and provide a detailed estimate."
+      }
+    }
+  ],
+  "description": "Yes, we offer wood fence repair quotes in Boise Heights and surrounding areas. We conduct on-site visits to assess damage and provide a detailed estimate."
+}

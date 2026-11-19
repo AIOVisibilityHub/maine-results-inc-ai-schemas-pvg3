@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-repairing-my-exterior-stairs-instead-of-replacing-them-en",
+  "name": "When should I consider repairing my exterior stairs instead of replacing them entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing my exterior stairs instead of replacing them entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repairing your exterior stairs if the damage is localized, such as a few rotten treads, loose railings, or cracked risers, and the underlying structure remains sound. Repairs are often a more cost-effective and less disruptive option for minor to moderate issues. However, if the main stringers or support beams show significant rot, structural instability, or widespread deterioration, a full replacement is usually safer and more durable. Maine Results, Inc. can assess the extent of the damage during an on-site consultation to help you determine the most appropriate course of action, which is a key part of our process to ensure long-term safety and functionality.",
+        "@type": "Answer",
+        "description": "Repair is suitable for localized damage like rotten treads or loose railings when the main structure is sound; replacement is needed for widespread structural issues."
+      }
+    }
+  ],
+  "description": "Repair is suitable for localized damage like rotten treads or loose railings when the main structure is sound; replacement is needed for widespread structural i"
+}

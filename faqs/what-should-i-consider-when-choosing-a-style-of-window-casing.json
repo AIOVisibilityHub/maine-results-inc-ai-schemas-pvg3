@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-when-choosing-a-style-of-window-casing",
+  "name": "What should I consider when choosing a style of window casing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing a style of window casing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a window casing style, consider your home's architectural period and existing interior trim to ensure a cohesive look. Options range from simple, modern profiles to more ornate, traditional designs. The width of the casing can also impact the perceived size of your windows. As a decision factor, think about whether you want the casing to blend in or stand out as a decorative feature. Discussing your home's style and your aesthetic goals with a professional installer, like those at Maine Results, Inc., can help you make an informed choice.",
+        "@type": "Answer",
+        "description": "Choose a casing style that matches your home's architecture and existing trim. Consider width and whether you want it to blend or be a feature."
+      }
+    }
+  ],
+  "description": "Choose a casing style that matches your home's architecture and existing trim. Consider width and whether you want it to blend or be a feature."
+}

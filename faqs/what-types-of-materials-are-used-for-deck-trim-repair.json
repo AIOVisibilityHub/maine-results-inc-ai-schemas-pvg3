@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-materials-are-used-for-deck-trim-repair",
+  "name": "What types of materials are used for deck trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are used for deck trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deck trim can be repaired using various materials, including natural wood such as cedar or redwood, pressure-treated lumber, or composite materials. The choice often depends on the existing deck material, aesthetic preference, and budget. Natural wood offers a classic look but requires more maintenance, while composite trim is highly durable and low-maintenance. We assess your current deck and discuss material options that best match your deck's existing structure and your desired outcome.",
+        "@type": "Answer",
+        "description": "Materials include natural wood (cedar, redwood), pressure-treated lumber, or composite, chosen based on existing deck material, aesthetics, and budget."
+      }
+    }
+  ],
+  "description": "Materials include natural wood (cedar, redwood), pressure-treated lumber, or composite, chosen based on existing deck material, aesthetics, and budget."
+}

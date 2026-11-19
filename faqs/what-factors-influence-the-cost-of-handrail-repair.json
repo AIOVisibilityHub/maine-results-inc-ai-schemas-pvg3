@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-handrail-repair",
+  "name": "What factors influence the cost of handrail repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of handrail repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of handrail repair is influenced by several factors, including the material of the handrail (wood, metal, composite), the extent of the damage, the complexity of the repair required, and access to the handrail. For example, custom-matched wood sections or specialized welding for metal can increase costs. We provide clear, itemized estimates to ensure you understand all components of the pricing before work begins.",
+        "@type": "Answer",
+        "description": "Cost factors include material, damage extent, repair complexity, and access. Custom materials or specialized work can affect the price."
+      }
+    }
+  ],
+  "description": "Cost factors include material, damage extent, repair complexity, and access. Custom materials or specialized work can affect the price."
+}

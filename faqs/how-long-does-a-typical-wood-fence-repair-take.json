@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-wood-fence-repair-take",
+  "name": "How long does a typical wood fence repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical wood fence repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a wood fence repair depends significantly on the extent and type of damage. Minor repairs, such as replacing a few pickets or adjusting a gate, might be completed in a few hours. More extensive repairs, like replacing several rotted posts or multiple fence panels, could take one to two days. During our initial assessment, a representative from Maine Results, Inc. will provide an estimated timeline for your specific project, considering factors like material availability and current scheduling in our operational regions like Star and Nampa.",
+        "@type": "Answer",
+        "description": "Repair time varies; minor fixes can take hours, while extensive post or panel replacements might require one to two days. We provide a timeline after assessing the damage."
+      }
+    }
+  ],
+  "description": "Repair time varies; minor fixes can take hours, while extensive post or panel replacements might require one to two days. We provide a timeline after assessing"
+}

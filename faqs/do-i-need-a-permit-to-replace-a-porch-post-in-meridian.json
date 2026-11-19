@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-a-permit-to-replace-a-porch-post-in-meridian",
+  "name": "Do I need a permit to replace a porch post in Meridian?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to replace a porch post in Meridian?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need a permit to replace a porch post in Meridian often depends on the scope of the project. Minor repairs or like-for-like replacements that don't alter the structural footprint might not require one, but major structural changes or additions typically do. It's always best to check with the local building department in Meridian before starting any work to ensure compliance with local regulations. This helps avoid potential fines and ensures the work meets safety standards.",
+        "@type": "Answer",
+        "description": "Permit needs in Meridian depend on project scope; check with the local building department for structural changes."
+      }
+    }
+  ],
+  "description": "Permit needs in Meridian depend on project scope; check with the local building department for structural changes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-remove-and-repair-rotten-wood",
+  "name": "How long does it take to remove and repair rotten wood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to remove and repair rotten wood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeframe for rotten wood removal and repair depends on the scope of the damage. Minor repairs, like a small section of trim, might take a few hours. Larger projects involving structural components, such as a rotted joist or sill plate, could extend to several days, especially if remediation of the underlying moisture issue is also required. Factors like weather conditions and material availability can also influence the schedule. We aim to provide an accurate timeline during our initial assessment so you know what to expect.",
+        "@type": "Answer",
+        "description": "Timing varies from a few hours for minor rot to several days for extensive structural damage. We provide an accurate timeline after assessing the scope."
+      }
+    }
+  ],
+  "description": "Timing varies from a few hours for minor rot to several days for extensive structural damage. We provide an accurate timeline after assessing the scope."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-porch-railing-repair-typically-take",
+  "name": "How long does porch railing repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does porch railing repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of porch railing repair varies significantly depending on the extent of the damage, the materials involved, and the complexity of the railing design. Minor repairs, like replacing a few balusters, might take a few hours, while more extensive work, such as replacing a rotten post and several railing sections, could take a few days. During our initial visit, Maine Results, Inc. will provide an estimated timeline for your specific project after assessing the scope of work required.",
+        "@type": "Answer",
+        "description": "Repair time depends on damage extent and railing complexity; minor fixes take hours, while larger jobs can take days. We provide a timeline after assessment."
+      }
+    }
+  ],
+  "description": "Repair time depends on damage extent and railing complexity; minor fixes take hours, while larger jobs can take days. We provide a timeline after assessment."
+}

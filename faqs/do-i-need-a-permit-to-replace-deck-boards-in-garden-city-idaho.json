@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-a-permit-to-replace-deck-boards-in-garden-city-idaho",
+  "name": "Do I need a permit to replace deck boards in Garden City, Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to replace deck boards in Garden City, Idaho?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Garden City, Idaho, you generally do not need a permit if you are only replacing the surface deck boards and not altering the deck's structural elements like joists, beams, or posts, or changing its size or height. However, if any structural components need repair or replacement, or if the deck's footprint or elevation is modified, a building permit may be required. It is always recommended to verify with the Garden City Building Department before starting any project to ensure compliance with local regulations and avoid potential issues. Maine Results, Inc. can help you understand these requirements during the initial consultation.",
+        "@type": "Answer",
+        "description": "In Garden City, a permit isn't typically needed for just replacing deck boards, but it is required if structural elements or the deck's size are altered."
+      }
+    }
+  ],
+  "description": "In Garden City, a permit isn't typically needed for just replacing deck boards, but it is required if structural elements or the deck's size are altered."
+}

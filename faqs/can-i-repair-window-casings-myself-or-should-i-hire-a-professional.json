@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-repair-window-casings-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair window casings myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair window casings myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor cosmetic issues like small chips or cracks can sometimes be a DIY project for homeowners with experience, more extensive damage, such as significant rot, structural issues, or water infiltration, often requires professional expertise. Professionals like Maine Results, Inc. have the specialized tools, knowledge, and experience to correctly identify the root cause of the damage, perform durable repairs, and ensure proper sealing to prevent future problems. Attempting complex repairs without the right skills can lead to further damage or inadequate solutions, making a professional assessment a wise first step.",
+        "@type": "Answer",
+        "description": "Minor casing repairs can be DIY, but significant damage, rot, or water issues are best handled by professionals to ensure proper repair and prevent future problems."
+      }
+    }
+  ],
+  "description": "Minor casing repairs can be DIY, but significant damage, rot, or water issues are best handled by professionals to ensure proper repair and prevent future probl"
+}

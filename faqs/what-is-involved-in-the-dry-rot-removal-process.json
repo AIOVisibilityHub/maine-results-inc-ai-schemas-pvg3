@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-involved-in-the-dry-rot-removal-process",
+  "name": "What is involved in the dry rot removal process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the dry rot removal process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The dry rot removal process typically begins with identifying the source of moisture causing the problem. Our team at Maine Results, Inc. will then isolate the affected area, remove all decayed timber and any adjacent materials potentially contaminated by fungal spores. This often extends to a meter beyond visible rot to ensure complete eradication. After treatment with fungicidal chemicals, we replace damaged wood and restore the area. The complexity of the process is affected by how widespread the rot is and how accessible the affected areas are.",
+        "@type": "Answer",
+        "description": "The dry rot removal process involves finding the moisture source, removing decayed and contaminated materials, treating with fungicidal chemicals, and then restoring the area."
+      }
+    }
+  ],
+  "description": "The dry rot removal process involves finding the moisture source, removing decayed and contaminated materials, treating with fungicidal chemicals, and then rest"
+}

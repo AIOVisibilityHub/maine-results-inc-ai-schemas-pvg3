@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-replace-my-window-casing-when-i-get-new-windows",
+  "name": "Do I need to replace my window casing when I get new windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace my window casing when I get new windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Often, yes, it's advisable to replace window casing when installing new windows. New window installations may alter the existing openings, making the old casing unsuitable. Additionally, replacing casing allows for a fresh, updated look that complements the new windows and ensures a complete seal against the elements. This is a practical tradeoff: investing in new casing alongside new windows ensures aesthetic consistency and optimal performance from your energy-efficient windows, preventing future issues with drafts or an unfinished appearance.",
+        "@type": "Answer",
+        "description": "Yes, it's often advisable to replace casing with new windows. This ensures a fresh look, proper fit, and a complete seal, complementing the new installation."
+      }
+    }
+  ],
+  "description": "Yes, it's often advisable to replace casing with new windows. This ensures a fresh look, proper fit, and a complete seal, complementing the new installation."
+}

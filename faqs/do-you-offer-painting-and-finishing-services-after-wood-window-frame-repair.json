@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-painting-and-finishing-services-after-wood-window-frame-repair",
+  "name": "Do you offer painting and finishing services after wood window frame repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer painting and finishing services after wood window frame repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, after completing structural or cosmetic repairs to your wood window frames, we offer painting and finishing services to ensure a seamless and durable result. This final step is crucial for protecting the repaired wood from weather elements and matching the aesthetic of your home. We can discuss color matching and finish options during the initial consultation to ensure the repaired frames blend perfectly with your existing windows and home exterior.",
+        "@type": "Answer",
+        "description": "Yes, we offer painting and finishing after repairs to protect the wood and match your home's aesthetic, which we discuss during consultation."
+      }
+    }
+  ],
+  "description": "Yes, we offer painting and finishing after repairs to protect the wood and match your home's aesthetic, which we discuss during consultation."
+}

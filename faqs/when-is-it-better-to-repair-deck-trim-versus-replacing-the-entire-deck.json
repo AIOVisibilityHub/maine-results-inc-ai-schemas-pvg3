@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-is-it-better-to-repair-deck-trim-versus-replacing-the-entire-deck",
+  "name": "When is it better to repair deck trim versus replacing the entire deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it better to repair deck trim versus replacing the entire deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repairing deck trim and replacing the entire deck depends on the overall condition of your deck's structure. If the damage is isolated to the trim and the main deck framing, joists, and decking boards are sound, repair is usually the more cost-effective solution. However, if there's widespread rot, significant structural damage, or multiple components failing, a full deck replacement might be necessary for safety and longevity. An inspection by a professional can help determine the best course of action.",
+        "@type": "Answer",
+        "description": "Repair trim if damage is isolated and the deck's structure is sound. Replace the deck if there's widespread rot or significant structural damage affecting multiple components."
+      }
+    }
+  ],
+  "description": "Repair trim if damage is isolated and the deck's structure is sound. Replace the deck if there's widespread rot or significant structural damage affecting multi"
+}

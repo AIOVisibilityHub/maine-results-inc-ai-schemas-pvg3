@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-deck-fascia-needs-repair-or-replacement",
+  "name": "How do I know if my deck fascia needs repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my deck fascia needs repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for visible signs of wear such as cracks, splinters, rot, discoloration, or sagging sections. Gaps between fascia boards or between the fascia and the deck surface can also indicate a need for repair, as these allow water intrusion. Soft spots when touched or prodded with a tool are strong indicators of rot. Before contacting us, consider noting the extent of the damage, the type of material (wood, composite), and when the deck was last inspected or maintained, as this information helps us assess the scope of work more accurately.",
+        "@type": "Answer",
+        "description": "Check for cracks, rot, discoloration, sagging, or gaps in your deck fascia. Soft spots indicate decay. Noticing these signs means it's time for repair or replacement."
+      }
+    }
+  ],
+  "description": "Check for cracks, rot, discoloration, sagging, or gaps in your deck fascia. Soft spots indicate decay. Noticing these signs means it's time for repair or replac"
+}

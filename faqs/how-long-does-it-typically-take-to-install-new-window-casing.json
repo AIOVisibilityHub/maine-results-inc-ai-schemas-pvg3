@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-typically-take-to-install-new-window-casing",
+  "name": "How long does it typically take to install new window casing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to install new window casing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to install new window casing varies based on several factors, including the number of windows, the type of casing material, and the complexity of the design. Simple, pre-primed casing on standard windows might take 30-60 minutes per window for an experienced installer. More intricate designs, custom cuts, or older homes requiring wall repairs can extend this time. Understanding the scope upfront is part of process clarity; Maine Results, Inc. assesses these details to provide a more accurate timeline during the initial consultation.",
+        "@type": "Answer",
+        "description": "Installation time depends on the number of windows, casing material, and design complexity. Simple installations can take 30-60 minutes per window, while intricate designs take longer."
+      }
+    }
+  ],
+  "description": "Installation time depends on the number of windows, casing material, and design complexity. Simple installations can take 30-60 minutes per window, while intric"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-garage-door-frame-repair-usually-take",
+  "name": "How long does a garage door frame repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a garage door frame repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a garage door frame repair depends on the specific issues and the scope of work. Simple repairs, such as filling minor cracks or replacing a small piece of trim, might be completed within a few hours. More complex repairs involving significant wood replacement, structural reinforcement, or custom-fitting new materials could take a full day or even longer. For example, if custom millwork is required to match historic architecture in areas like Downtown Boise, the repair might extend due to material sourcing. We strive to provide an accurate timeline after our initial assessment.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours for minor fixes to a full day or longer for complex structural repairs, depending on damage scope and materials."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours for minor fixes to a full day or longer for complex structural repairs, depending on damage scope and materials."
+}

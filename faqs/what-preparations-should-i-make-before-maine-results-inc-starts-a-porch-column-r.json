@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparations-should-i-make-before-maine-results-inc-starts-a-porch-column-r",
+  "name": "What preparations should I make before Maine Results, Inc. starts a porch column repair project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before Maine Results, Inc. starts a porch column repair project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before we begin your porch column repair project, it's helpful if you clear the immediate work area around the porch columns of any furniture, plants, or decorative items. Ensuring easy access to the columns allows our team to set up efficiently and work without obstruction. If you have any specific concerns about protecting adjacent landscaping or structures, please discuss them with us during the initial consultation so we can plan accordingly. This preparation helps ensure a smooth start to the repair work.",
+        "@type": "Answer",
+        "description": "Clear the work area around columns of furniture or plants, and discuss any protection concerns for landscaping with us."
+      }
+    }
+  ],
+  "description": "Clear the work area around columns of furniture or plants, and discuss any protection concerns for landscaping with us."
+}

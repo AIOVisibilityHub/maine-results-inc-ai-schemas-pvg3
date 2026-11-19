@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-involved-in-the-process-of-repairing-a-rotted-wood-window-frame",
+  "name": "What is involved in the process of repairing a rotted wood window frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of repairing a rotted wood window frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a rotted wood window frame typically involves several steps: first, removing all damaged and weakened wood, often by carefully carving it out. Next, the remaining sound wood is treated to prevent further decay. Then, a wood epoxy filler or new wood sections (dutchman repairs) are precisely applied and shaped to match the original profile. Finally, the repaired area is sanded, primed, and painted or stained to blend seamlessly with the existing frame. This process ensures the repair is durable and visually consistent.",
+        "@type": "Answer",
+        "description": "The process involves removing rotten wood, treating the area, applying epoxy or new wood, shaping, sanding, priming, and finishing."
+      }
+    }
+  ],
+  "description": "The process involves removing rotten wood, treating the area, applying epoxy or new wood, shaping, sanding, priming, and finishing."
+}

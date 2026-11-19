@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-a-contractor-for-wood-window-frame-repair-in-the-boise-area",
+  "name": "How do I choose a contractor for wood window frame repair in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a contractor for wood window frame repair in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for wood window frame repair in the Boise area, look for a company with proven experience specifically in wood repair and restoration. Check for local references or portfolios of past projects, especially in communities like Star or Nampa, to assess their quality of work. Ensure the contractor provides clear, detailed estimates and communicates effectively about the repair process. Maine Results, Inc. has a strong track record of successful repairs and transparent practices, prioritizing long-lasting solutions.",
+        "@type": "Answer",
+        "description": "Choose a contractor with specific wood repair experience, check local references/portfolios, and ensure they provide clear estimates and communication."
+      }
+    }
+  ],
+  "description": "Choose a contractor with specific wood repair experience, check local references/portfolios, and ensure they provide clear estimates and communication."
+}

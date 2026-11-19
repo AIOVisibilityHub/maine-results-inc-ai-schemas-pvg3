@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-wood-window-frame-repair-take",
+  "name": "How long does a typical wood window frame repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical wood window frame repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a wood window frame repair varies significantly based on the severity and complexity of the damage. A small repair, such as filling a crack or treating minor rot, might take a few hours. More extensive work, like replacing significant sections of a frame or multiple sills, could span several days. After an initial inspection, our team provides an estimated timeline, helping you plan for the work. Weather conditions in areas like Eagle or Kuna can also influence the project schedule, particularly for exterior work.",
+        "@type": "Answer",
+        "description": "Repair times vary from hours to several days, depending on damage complexity. We provide an estimate after assessment, and weather can impact the schedule."
+      }
+    }
+  ],
+  "description": "Repair times vary from hours to several days, depending on damage complexity. We provide an estimate after assessment, and weather can impact the schedule."
+}

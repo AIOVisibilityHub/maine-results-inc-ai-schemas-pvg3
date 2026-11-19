@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-weather-damage-commonly-affect-wood-structures",
+  "name": "What types of weather damage commonly affect wood structures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of weather damage commonly affect wood structures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wood structures can suffer various types of weather damage, primarily from moisture, UV radiation, and temperature fluctuations. Moisture, from rain or snow, can lead to rot, mold, mildew, and warping. Direct sunlight and UV rays can cause wood to gray, crack, and become brittle. Extreme temperature changes can also contribute to cracking and expansion/contraction issues, weakening the wood over time. Understanding the specific type of damage is crucial for selecting the most effective repair method; for example, minor surface weathering might only require sanding and refinishing, while significant rot often necessitates wood replacement.",
+        "@type": "Answer",
+        "description": "Common weather damage includes rot, mold, warping from moisture, and cracking, graying, or brittleness from UV rays and temperature changes."
+      }
+    }
+  ],
+  "description": "Common weather damage includes rot, mold, warping from moisture, and cracking, graying, or brittleness from UV rays and temperature changes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-loose-stair-railings-be-repaired-or-do-they-need-to-be-replaced",
+  "name": "Can loose stair railings be repaired, or do they need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can loose stair railings be repaired, or do they need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Loose stair railings can often be repaired, depending on the cause of the instability. If the looseness is due to inadequate fastening to the newel post, wall, or floor, reinforcement or re-securing existing components can often resolve the issue. If the wood itself is cracked, rotted, or significantly damaged at the connection points, replacement of specific balusters, sections of handrail, or even the newel post might be necessary. We prioritize repair options when viable to maintain the original character of your staircase while ensuring it meets safety standards.",
+        "@type": "Answer",
+        "description": "Loose railings can often be repaired by re-securing components, unless the wood is significantly damaged, requiring replacement of sections."
+      }
+    }
+  ],
+  "description": "Loose railings can often be repaired by re-securing components, unless the wood is significantly damaged, requiring replacement of sections."
+}

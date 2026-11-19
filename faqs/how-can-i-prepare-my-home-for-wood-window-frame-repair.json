@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-prepare-my-home-for-wood-window-frame-repair",
+  "name": "How can I prepare my home for wood window frame repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for wood window frame repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before wood window frame repair work begins, you can help by clearing the area around the windows, both inside and outside, to allow easy access for our team. Remove any curtains, blinds, or fragile items from window sills. If we are working on exterior frames, ensure any landscaping or potted plants near the window are moved. Our team takes precautions to protect your property, but these steps help streamline the process and ensure the safety of your belongings.",
+        "@type": "Answer",
+        "description": "Clear areas around windows, remove curtains/blinds, and move any landscaping or fragile items to provide clear access for repairs."
+      }
+    }
+  ],
+  "description": "Clear areas around windows, remove curtains/blinds, and move any landscaping or fragile items to provide clear access for repairs."
+}

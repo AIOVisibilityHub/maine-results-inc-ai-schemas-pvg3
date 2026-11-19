@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-wood-is-rotting-on-my-property",
+  "name": "What are common signs that wood is rotting on my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that wood is rotting on my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of rotten wood include discoloration, softness when probed, crumbling, or the presence of fungi like mushrooms or mold. You might also notice a musty odor or cracks and swelling in the wood. Early detection is key to preventing further structural damage. A good practice is to regularly inspect areas prone to moisture, such as deck supports, window sills, and trim, especially in areas like Garden City or Meridian where seasonal weather changes can contribute to moisture issues.",
+        "@type": "Answer",
+        "description": "Look for discoloration, soft spots, crumbling, or fungi on wood. A musty smell or swelling can also indicate rot, especially in moisture-prone areas."
+      }
+    }
+  ],
+  "description": "Look for discoloration, soft spots, crumbling, or fungi on wood. A musty smell or swelling can also indicate rot, especially in moisture-prone areas."
+}

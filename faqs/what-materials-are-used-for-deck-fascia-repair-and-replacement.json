@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-used-for-deck-fascia-repair-and-replacement",
+  "name": "What materials are used for deck fascia repair and replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for deck fascia repair and replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for deck fascia repair and replacement include pressure-treated lumber, cedar, redwood, and various composite decking materials. The choice depends on your existing deck materials, desired aesthetics, and budget. Pressure-treated lumber is durable and cost-effective, while cedar and redwood offer natural resistance to rot and insects. Composite fascia provides low maintenance and a wide range of colors. We can help you choose a material that best matches your current deck and the climate conditions in areas like Kuna.",
+        "@type": "Answer",
+        "description": "Materials include pressure-treated lumber, cedar, redwood, and composites, chosen based on existing deck, aesthetics, and budget, considering local climate."
+      }
+    }
+  ],
+  "description": "Materials include pressure-treated lumber, cedar, redwood, and composites, chosen based on existing deck, aesthetics, and budget, considering local climate."
+}

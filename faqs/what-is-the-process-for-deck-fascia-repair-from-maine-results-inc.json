@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-deck-fascia-repair-from-maine-results-inc",
+  "name": "What is the process for deck fascia repair from Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for deck fascia repair from Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our deck fascia repair process begins with a thorough inspection of your deck to assess the extent of the damage and identify any underlying issues. Following this, we provide a detailed proposal outlining the recommended repairs, materials, and estimated cost. Once approved, our team carefully removes the damaged fascia, prepares the surface, and installs new materials, ensuring a secure and aesthetic finish. We conclude with a final inspection to ensure your satisfaction. We always ensure minimal disruption to your property throughout the project.",
+        "@type": "Answer",
+        "description": "Our process involves inspection, proposal, removal of damaged fascia, installation of new materials, and a final inspection to ensure quality."
+      }
+    }
+  ],
+  "description": "Our process involves inspection, proposal, removal of damaged fascia, installation of new materials, and a final inspection to ensure quality."
+}

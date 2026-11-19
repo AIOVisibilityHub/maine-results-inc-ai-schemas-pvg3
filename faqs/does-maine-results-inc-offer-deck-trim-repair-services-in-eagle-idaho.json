@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/does-maine-results-inc-offer-deck-trim-repair-services-in-eagle-idaho",
+  "name": "Does Maine Results, Inc. offer deck trim repair services in Eagle, Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Maine Results, Inc. offer deck trim repair services in Eagle, Idaho?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. proudly offers deck trim repair services in Eagle, Idaho, and surrounding areas including Garden City, Meridian, Kuna, and Star. Our team is familiar with the local climate and common issues affecting outdoor structures in these regions. We are equipped to handle various types of deck trim repair, providing durable solutions that withstand local weather conditions and enhance your home's exterior.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. offers deck trim repair in Eagle, Idaho, and surrounding areas, addressing common local climate issues."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. offers deck trim repair in Eagle, Idaho, and surrounding areas, addressing common local climate issues."
+}

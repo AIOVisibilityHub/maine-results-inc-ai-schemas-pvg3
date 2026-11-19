@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-porch-post-replacement-project-take",
+  "name": "How long does a typical porch post replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical porch post replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical porch post replacement project can often be completed within one to two days, depending on the number of posts, the complexity of the existing structure, and the extent of any hidden damage. Factors like accessibility to the work area and the need for custom-cut materials can influence the timeline. Customers should prepare by clearing the area around the porch to allow for efficient access for our team and equipment, which can help streamline the project completion.",
+        "@type": "Answer",
+        "description": "Most porch post replacements take one to two days, varying with project complexity and the number of posts."
+      }
+    }
+  ],
+  "description": "Most porch post replacements take one to two days, varying with project complexity and the number of posts."
+}

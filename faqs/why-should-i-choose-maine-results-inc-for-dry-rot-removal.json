@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/why-should-i-choose-maine-results-inc-for-dry-rot-removal",
+  "name": "Why should I choose Maine Results, Inc. for dry rot removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I choose Maine Results, Inc. for dry rot removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing Maine Results, Inc. for your dry rot removal means entrusting your home to a construction company with extensive experience in the Garden City, Meridian, Eagle, Kuna, and Star areas. We understand the specific challenges local climates pose to properties. Our team provides thorough assessments, effective eradication techniques, and professional restoration services, ensuring that your home is not only free from dry rot but also structurally sound and secure. We focus on transparent communication and lasting solutions.",
+        "@type": "Answer",
+        "description": "Choose Maine Results, Inc. for dry rot removal for local expertise in areas like Garden City, thorough assessments, effective eradication, and professional restoration services."
+      }
+    }
+  ],
+  "description": "Choose Maine Results, Inc. for dry rot removal for local expertise in areas like Garden City, thorough assessments, effective eradication, and professional rest"
+}

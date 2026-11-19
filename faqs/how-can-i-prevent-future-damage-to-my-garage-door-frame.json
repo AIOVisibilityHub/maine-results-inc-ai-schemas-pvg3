@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-prevent-future-damage-to-my-garage-door-frame",
+  "name": "How can I prevent future damage to my garage door frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future damage to my garage door frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future damage to your garage door frame, regular maintenance is key. This includes routinely inspecting the frame for any signs of cracking, rot, or peeling paint and promptly addressing these minor issues. Applying fresh exterior-grade paint or sealant every few years helps protect wood frames from moisture and UV damage. Ensure that your garage door operates smoothly and is properly aligned, as a misaligned door can put undue stress on the frame. Additionally, consider installing weatherstripping around the frame to deter moisture intrusion. Proactive care like this can significantly extend the lifespan of your frame.",
+        "@type": "Answer",
+        "description": "Regularly inspect the frame, promptly address minor damage, apply fresh paint or sealant, ensure proper door alignment, and use weatherstripping."
+      }
+    }
+  ],
+  "description": "Regularly inspect the frame, promptly address minor damage, apply fresh paint or sealant, ensure proper door alignment, and use weatherstripping."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-benefits-of-repairing-wood-window-frames-compared-to-full-replaceme",
+  "name": "What are the benefits of repairing wood window frames compared to full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of repairing wood window frames compared to full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing wood window frames offers several benefits over full replacement, particularly for well-built or historically significant windows. It often costs less than a full replacement, preserves the original architectural character of your home, and reduces waste. Repair also helps maintain the existing fit within the wall opening, which can be advantageous in older homes. We prioritize repairs where feasible, especially in the unique architectural settings found in areas like Boise Heights or the North End, to retain authenticity.",
+        "@type": "Answer",
+        "description": "Repairing wood window frames often costs less, preserves architectural character, reduces waste, and maintains existing fits, especially in historical homes."
+      }
+    }
+  ],
+  "description": "Repairing wood window frames often costs less, preserves architectural character, reduces waste, and maintains existing fits, especially in historical homes."
+}

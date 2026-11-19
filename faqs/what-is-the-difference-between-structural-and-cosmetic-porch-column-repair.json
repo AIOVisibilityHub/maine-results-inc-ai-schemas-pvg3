@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-structural-and-cosmetic-porch-column-repair",
+  "name": "What is the difference between structural and cosmetic porch column repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between structural and cosmetic porch column repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Structural porch column repair addresses issues that affect the stability and load-bearing capacity of the column, such as significant rot, severe cracks, or a leaning structure. This type of repair is crucial for the safety and integrity of your porch. Cosmetic repair, on the other hand, focuses on aesthetic imperfections like chipped paint, minor surface cracks, or small dents that do not impact the column's ability to support weight. When assessing your columns, we differentiate between these to ensure the most appropriate and effective solution, prioritizing structural integrity first.",
+        "@type": "Answer",
+        "description": "Structural repair fixes stability and load-bearing issues, while cosmetic repair addresses only aesthetic imperfections."
+      }
+    }
+  ],
+  "description": "Structural repair fixes stability and load-bearing issues, while cosmetic repair addresses only aesthetic imperfections."
+}

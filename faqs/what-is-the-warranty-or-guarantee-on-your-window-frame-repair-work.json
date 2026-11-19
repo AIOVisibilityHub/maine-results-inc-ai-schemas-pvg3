@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-warranty-or-guarantee-on-your-window-frame-repair-work",
+  "name": "What is the warranty or guarantee on your window frame repair work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the warranty or guarantee on your window frame repair work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. stands behind the quality of our window frame repair work. We offer a guarantee on our craftsmanship and the materials used for a specified period, typically covering any defects in our workmanship or material failure under normal conditions. The exact terms of the warranty will be clearly outlined in your service agreement. We believe in providing lasting solutions, and understanding the warranty details ensures you have peace of mind regarding the durability of our repairs.",
+        "@type": "Answer",
+        "description": "We offer a guarantee on our window frame repair craftsmanship and materials, with specific terms outlined in your service agreement."
+      }
+    }
+  ],
+  "description": "We offer a guarantee on our window frame repair craftsmanship and materials, with specific terms outlined in your service agreement."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-gate-repair-take",
+  "name": "How long does a typical gate repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical gate repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a gate repair can vary significantly depending on the complexity of the issue and the availability of parts. Minor adjustments or sensor replacements might take only an hour or two, while more extensive repairs involving motor replacement or structural damage could require several hours or even multiple visits. Factors like custom gate designs or the need to order specialized components, particularly for older gates in areas like the North End, can extend the timeline. We aim to provide an estimated timeframe during the initial assessment.",
+        "@type": "Answer",
+        "description": "Gate repair time varies from an hour for minor fixes to multiple visits for complex issues, depending on problem complexity and parts availability."
+      }
+    }
+  ],
+  "description": "Gate repair time varies from an hour for minor fixes to multiple visits for complex issues, depending on problem complexity and parts availability."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-cost-range-for-deck-board-replacement",
+  "name": "What is the cost range for deck board replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost range for deck board replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of deck board replacement varies significantly based on factors such as the deck's size, the type of material selected (e.g., pressure-treated wood vs. composite), the complexity of the deck design, and any necessary repairs to the substructure. Generally, materials like pressure-treated pine are more economical than high-end composites or exotic hardwoods. Labor costs also contribute to the total. Maine Results, Inc. provides a detailed estimate after a site visit, which allows us to accurately assess your specific deck, material preferences, and any unforeseen challenges.",
+        "@type": "Answer",
+        "description": "Deck board replacement costs vary widely based on deck size, material choice, design complexity, and any substructure repairs needed."
+      }
+    }
+  ],
+  "description": "Deck board replacement costs vary widely based on deck size, material choice, design complexity, and any substructure repairs needed."
+}

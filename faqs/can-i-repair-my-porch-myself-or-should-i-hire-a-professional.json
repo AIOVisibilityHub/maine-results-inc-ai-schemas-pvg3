@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-repair-my-porch-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair my porch myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair my porch myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor cosmetic porch repairs like painting or replacing a single loose board might be manageable for a DIY enthusiast, structural repairs, extensive rot, or foundation issues typically require professional expertise. Professionals have the tools, experience, and knowledge to correctly identify underlying problems, ensure safety, and comply with local building codes. Attempting complex repairs yourself without proper knowledge can lead to further damage or safety hazards. We advise consulting with a professional if you're unsure about the scope or safety of the repair.",
+        "@type": "Answer",
+        "description": "Minor cosmetic repairs can be DIY, but structural issues, extensive rot, or foundation problems require professional expertise for safety and compliance."
+      }
+    }
+  ],
+  "description": "Minor cosmetic repairs can be DIY, but structural issues, extensive rot, or foundation problems require professional expertise for safety and compliance."
+}
