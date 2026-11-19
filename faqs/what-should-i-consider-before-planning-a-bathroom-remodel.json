@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-before-planning-a-bathroom-remodel",
+  "name": "What should I consider before planning a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before planning a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before planning a bathroom remodel, consider your functional needs, aesthetic preferences, and budget. Think about how the space will be used, who will use it, and what improvements are most important to you, such as increased storage, better lighting, or an updated shower. Gathering inspiration photos and making a list of 'must-haves' versus 'wish-list' items can help clarify your vision. We also recommend considering any potential issues with current plumbing or electrical systems that might need addressing during the remodel, as early identification can streamline the process.",
+        "@type": "Answer",
+        "description": "Before a remodel, consider your needs, desired aesthetics, and budget, making a 'must-have' list. Also, assess current plumbing or electrical issues early for a smoother project."
+      }
+    }
+  ],
+  "description": "Before a remodel, consider your needs, desired aesthetics, and budget, making a 'must-have' list. Also, assess current plumbing or electrical issues early for a"
+}

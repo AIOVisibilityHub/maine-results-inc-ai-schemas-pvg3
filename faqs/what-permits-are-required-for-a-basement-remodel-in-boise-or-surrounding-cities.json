@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-permits-are-required-for-a-basement-remodel-in-boise-or-surrounding-cities",
+  "name": "What permits are required for a basement remodel in Boise or surrounding cities?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a basement remodel in Boise or surrounding cities?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most basement remodels in Boise and surrounding cities like Nampa or Caldwell require permits to ensure the work meets local building codes and safety standards. This often includes permits for structural changes, electrical work, plumbing, and HVAC modifications. The specific permits needed depend on the scope of your project. We assist our clients with identifying and obtaining the necessary permits as part of our process to ensure compliance.",
+        "@type": "Answer",
+        "description": "Most basement remodels in Boise and nearby cities require permits for structural, electrical, plumbing, and HVAC work to meet local building codes."
+      }
+    }
+  ],
+  "description": "Most basement remodels in Boise and nearby cities require permits for structural, electrical, plumbing, and HVAC work to meet local building codes."
+}

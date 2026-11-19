@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-timeframe-for-a-complete-bathroom-renovation",
+  "name": "What is the typical timeframe for a complete bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for a complete bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A complete bathroom renovation typically takes between two to five weeks, depending on the complexity of the design, the extent of structural changes, and the availability of materials. Projects involving layout alterations, plumbing re-routing, or custom cabinetry usually require more time. During our initial consultation, we can provide a more accurate timeline tailored to your specific project scope and material selections.",
+        "@type": "Answer",
+        "description": "A complete bathroom renovation typically takes 2-5 weeks, depending on project complexity and material availability."
+      }
+    }
+  ],
+  "description": "A complete bathroom renovation typically takes 2-5 weeks, depending on project complexity and material availability."
+}

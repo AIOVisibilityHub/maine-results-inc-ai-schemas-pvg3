@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-do-to-prepare-my-kitchen-before-cabinet-installers-arrive",
+  "name": "What should I do to prepare my kitchen before cabinet installers arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my kitchen before cabinet installers arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our cabinet installers arrive, please ensure your kitchen is clear and accessible. This includes removing all items from existing cabinets, clearing countertops, and disconnecting any plumbing or electrical services if old cabinets are being removed. If new flooring is being installed, it should be completed before cabinet installation. We advise protecting adjacent areas with drop cloths or plastic sheeting to prevent dust and debris from spreading. Having the space ready helps our team work efficiently and keeps your project on schedule, ensuring a smoother installation process from start to finish.",
+        "@type": "Answer",
+        "description": "Before installers arrive, clear your kitchen of all items, ensure countertops are empty, and disconnect utilities if needed. Protect nearby areas from dust."
+      }
+    }
+  ],
+  "description": "Before installers arrive, clear your kitchen of all items, ensure countertops are empty, and disconnect utilities if needed. Protect nearby areas from dust."
+}

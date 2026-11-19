@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-average-cost-to-finish-a-basement",
+  "name": "What is the average cost to finish a basement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to finish a basement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to finish a basement is highly dependent on the scope of work, materials chosen, and features desired. A basic finish might range from $30,000 to $60,000, while projects including bathrooms, kitchens, or custom features can easily exceed $75,000 to $100,000+. Key cost drivers include plumbing, electrical work, egress windows, and specific flooring or cabinetry. To provide an accurate estimate, we offer a detailed consultation to understand your vision and assess your existing basement conditions in areas like Eagle and Kuna.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on scope and materials, typically from $30,000 for basic finishes to over $75,000 for complex projects with added features."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on scope and materials, typically from $30,000 for basic finishes to over $75,000 for complex projects with added features."
+}

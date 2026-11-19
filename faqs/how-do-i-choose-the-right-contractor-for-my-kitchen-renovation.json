@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-the-right-contractor-for-my-kitchen-renovation",
+  "name": "How do I choose the right contractor for my kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for your kitchen renovation, look for experience, strong communication, and transparency in their process. Request to see examples of previous kitchen projects and check references. A reputable contractor, like Maine Results, Inc., will provide a detailed proposal, clearly outline the project scope and costs, and maintain open lines of communication. This ensures you feel confident and informed throughout your renovation, especially for significant investments in your home.",
+        "@type": "Answer",
+        "description": "Choose a kitchen renovation contractor with experience, clear communication, transparency, and a detailed proposal. Check references and past projects."
+      }
+    }
+  ],
+  "description": "Choose a kitchen renovation contractor with experience, clear communication, transparency, and a detailed proposal. Check references and past projects."
+}

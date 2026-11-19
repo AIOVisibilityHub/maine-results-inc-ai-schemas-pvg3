@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-hire-separate-contractors-for-different-finish-work-tasks",
+  "name": "Do I need to hire separate contractors for different finish work tasks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to hire separate contractors for different finish work tasks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "With Maine Results, Inc., you typically do not need to hire separate contractors for different finish work tasks. As a general contractor for home additions, we manage all aspects of the finish work, from drywall and painting to flooring and fixture installation. This process clarity streamlines communication and ensures a cohesive project flow. We coordinate all trades, which can affect the overall timing and complexity, but ultimately simplifies the process for the homeowner.",
+        "@type": "Answer",
+        "description": "No, as your general contractor, Maine Results, Inc. manages all finish work tasks, coordinating trades for a streamlined process."
+      }
+    }
+  ],
+  "description": "No, as your general contractor, Maine Results, Inc. manages all finish work tasks, coordinating trades for a streamlined process."
+}

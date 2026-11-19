@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-maintain-my-new-kitchen-cabinets",
+  "name": "How do I maintain my new kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I maintain my new kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining your new kitchen cabinets involves simple, regular care to keep them looking their best. For most finishes, gently wipe surfaces with a soft, damp cloth and a mild soap solution, then dry immediately to prevent moisture damage. Avoid abrasive cleaners, harsh chemicals, or excessive water, as these can damage the finish and wood. For specific materials like wood, consider periodic polishing with a product recommended for your cabinet type. Proper care extends the life of your cabinets and preserves their appearance, ensuring your investment remains pristine for years.",
+        "@type": "Answer",
+        "description": "Maintain new cabinets by wiping with a soft, damp cloth and mild soap, then drying thoroughly. Avoid harsh cleaners to protect the finish."
+      }
+    }
+  ],
+  "description": "Maintain new cabinets by wiping with a soft, damp cloth and mild soap, then drying thoroughly. Avoid harsh cleaners to protect the finish."
+}

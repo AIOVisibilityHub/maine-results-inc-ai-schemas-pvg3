@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-prime-my-walls-before-installing-a-kitchen-backsplash",
+  "name": "Should I prime my walls before installing a kitchen backsplash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I prime my walls before installing a kitchen backsplash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Priming walls is highly recommended, especially if you are tiling over a porous surface, newly repaired drywall, or existing paint. Primer creates a consistent, non-porous surface that improves adhesion for the tile adhesive and helps prevent moisture absorption. It also ensures the color of the wall doesn't show through thin or light-colored tiles. For Maine Results, Inc. projects, we typically use a high-quality primer formulated to enhance bonding strength for tile installations.",
+        "@type": "Answer",
+        "description": "Yes, priming improves adhesion, prevents moisture absorption, and ensures consistent appearance, especially on porous or repaired walls."
+      }
+    }
+  ],
+  "description": "Yes, priming improves adhesion, prevents moisture absorption, and ensures consistent appearance, especially on porous or repaired walls."
+}

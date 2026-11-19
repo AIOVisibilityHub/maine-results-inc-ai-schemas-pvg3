@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-does-an-entryway-remodel-impact-home-value-and-curb-appeal",
+  "name": "How does an entryway remodel impact home value and curb appeal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does an entryway remodel impact home value and curb appeal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An entryway remodel can significantly enhance both your home's value and curb appeal. A well-designed, inviting entryway creates a positive first impression for visitors and potential buyers, suggesting a well-maintained and stylish interior. Updates like a new front door, attractive lighting, and cohesive flooring contribute directly to a modern aesthetic that can increase marketability. This type of renovation offers a strong return on investment by improving functionality and visual appeal, which is a practical tradeoff many homeowners consider.",
+        "@type": "Answer",
+        "description": "An entryway remodel boosts home value and curb appeal by creating a strong first impression and improving aesthetics, often yielding a good return on investment."
+      }
+    }
+  ],
+  "description": "An entryway remodel boosts home value and curb appeal by creating a strong first impression and improving aesthetics, often yielding a good return on investment"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-convert-my-garage-into-a-livable-space-like-an-adu-in-meridian",
+  "name": "Can I convert my garage into a livable space, like an ADU, in Meridian?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my garage into a livable space, like an ADU, in Meridian?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, converting your garage into a livable space or an Accessory Dwelling Unit (ADU) is often possible in Meridian, provided it complies with local zoning laws and building codes. This type of remodel involves significant changes including adding insulation, plumbing, electrical systems, and ensuring proper ventilation and egress. The primary factor in determining feasibility is often the specific zoning of your property and the requirements set by the City of Meridian for ADUs. Maine Results, Inc. can help assess your property's potential for such a conversion.",
+        "@type": "Answer",
+        "description": "Converting a garage into a livable space or ADU is possible in Meridian if it complies with local zoning and building codes, which is the main determining factor."
+      }
+    }
+  ],
+  "description": "Converting a garage into a livable space or ADU is possible in Meridian if it complies with local zoning and building codes, which is the main determining facto"
+}

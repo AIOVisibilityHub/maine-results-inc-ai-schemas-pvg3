@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-prepare-a-kitchen-wall-for-a-new-backsplash",
+  "name": "How long does it take to prepare a kitchen wall for a new backsplash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to prepare a kitchen wall for a new backsplash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wall preparation time depends on the current condition of your kitchen walls. If the walls are already smooth and clean, preparation might only take a few hours for basic cleaning and masking. However, if old tile needs to be removed, walls need patching, or existing paint needs scuffing and priming, it could take a full day or more. Maine Results, Inc. includes a thorough assessment of wall condition in our initial project planning to provide an accurate timeline, ensuring sufficient time is allocated for proper preparation.",
+        "@type": "Answer",
+        "description": "Preparation time ranges from a few hours to a full day, depending on wall condition. We assess this during planning for accurate timelines."
+      }
+    }
+  ],
+  "description": "Preparation time ranges from a few hours to a full day, depending on wall condition. We assess this during planning for accurate timelines."
+}

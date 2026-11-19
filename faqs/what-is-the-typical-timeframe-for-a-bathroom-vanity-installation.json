@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-timeframe-for-a-bathroom-vanity-installation",
+  "name": "What is the typical timeframe for a bathroom vanity installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for a bathroom vanity installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeframe for a bathroom vanity installation typically ranges from a few hours for a simple replacement to a full day or more for custom units or installations requiring plumbing modifications. Factors like the vanity's size, the complexity of plumbing work, and any necessary countertop or flooring adjustments will influence the total time. Our team in Garden City, Meridian, Eagle, and Kuna assesses each project to provide an accurate estimate.",
+        "@type": "Answer",
+        "description": "Simple vanity installations can take a few hours, while more complex projects may require a full day or longer."
+      }
+    }
+  ],
+  "description": "Simple vanity installations can take a few hours, while more complex projects may require a full day or longer."
+}

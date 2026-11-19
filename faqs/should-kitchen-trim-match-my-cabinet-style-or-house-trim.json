@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-kitchen-trim-match-my-cabinet-style-or-house-trim",
+  "name": "Should kitchen trim match my cabinet style or house trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should kitchen trim match my cabinet style or house trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen trim can either match your cabinet style for a cohesive, built-in look or complement your existing house trim for continuity throughout your home. This decision factor often comes down to your personal design preference and the overall architectural style. If your kitchen is a distinct zone, matching cabinet style works well. If you prefer a seamless flow from your dining area or living room into the kitchen, aligning with house trim can be a better choice. Consider how each option impacts the visual harmony of your entire living space.",
+        "@type": "Answer",
+        "description": "Kitchen trim can match cabinet style for a cohesive look or house trim for continuity; consider overall design harmony when deciding."
+      }
+    }
+  ],
+  "description": "Kitchen trim can match cabinet style for a cohesive look or house trim for continuity; consider overall design harmony when deciding."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-an-entryway-remodel-consultation-with-maine-results",
+  "name": "What should I prepare before an entryway remodel consultation with Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before an entryway remodel consultation with Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your entryway remodel consultation with Maine Results, Inc., it's helpful to gather any inspiration photos you like, consider your budget range, and think about your primary goals for the space—whether it's increased storage, better lighting, or an updated aesthetic. Also, be ready to discuss any specific challenges you currently face with your entryway, such as a drafty door or a lack of organization. This preparation helps us understand your vision and provide more tailored recommendations from the outset.",
+        "@type": "Answer",
+        "description": "Before your consultation, prepare inspiration photos, budget ideas, and specific goals or challenges for your entryway to help guide the discussion."
+      }
+    }
+  ],
+  "description": "Before your consultation, prepare inspiration photos, budget ideas, and specific goals or challenges for your entryway to help guide the discussion."
+}

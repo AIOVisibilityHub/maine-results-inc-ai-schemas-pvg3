@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-handle-structural-limitations-or-low-ceiling-height-in-an-attic-remod",
+  "name": "How do you handle structural limitations or low ceiling height in an attic remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle structural limitations or low ceiling height in an attic remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Addressing structural limitations or low ceiling height in an attic remodel requires careful planning and engineering. For low ceilings, we can explore options like dormer additions to create more head room and natural light, or lowering the floor joists of the floor below, if feasible. For structural concerns, we reinforce existing framing or introduce new support beams to meet code requirements and ensure safety. Our team conducts a thorough assessment of your attic's structure early in the process to determine the most effective and safe solutions for your specific space.",
+        "@type": "Answer",
+        "description": "We address low ceilings with dormers or floor modifications, and reinforce structures as needed, after a thorough attic assessment."
+      }
+    }
+  ],
+  "description": "We address low ceilings with dormers or floor modifications, and reinforce structures as needed, after a thorough attic assessment."
+}

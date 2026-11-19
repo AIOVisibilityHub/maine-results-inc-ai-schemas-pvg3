@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-a-permit-for-my-home-office-remodel",
+  "name": "Do I need a permit for my home office remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for my home office remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need a permit for your home office remodel depends on the scope of the work. Minor cosmetic changes typically do not require one. However, projects involving structural alterations, significant plumbing or electrical work, or changes to the exterior of your home often do. Maine Results, Inc. is knowledgeable about local building codes and permitting requirements in areas such as Garden City, Meridian, Eagle, Kuna, and Star, and can help you determine if a permit is necessary and assist with the application process.",
+        "@type": "Answer",
+        "description": "Permits are usually needed for structural, plumbing, or electrical changes. We help determine if one is necessary and assist with applications."
+      }
+    }
+  ],
+  "description": "Permits are usually needed for structural, plumbing, or electrical changes. We help determine if one is necessary and assist with applications."
+}

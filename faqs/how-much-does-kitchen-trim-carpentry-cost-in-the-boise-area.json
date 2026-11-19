@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-kitchen-trim-carpentry-cost-in-the-boise-area",
+  "name": "How much does kitchen trim carpentry cost in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does kitchen trim carpentry cost in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of kitchen trim carpentry in the Boise area, including Garden City and Meridian, varies significantly based on the scope, materials, and complexity of the design. Factors influencing cost include the type of wood, the intricacy of the molding profiles (e.g., stacked crown molding versus simple baseboard), and the total linear footage required. For an accurate estimate, it's beneficial to have your kitchen design plans and material preferences ready, as this preparation allows us to provide a detailed, itemized quote reflecting your specific project needs.",
+        "@type": "Answer",
+        "description": "Kitchen trim carpentry costs in the Boise area vary by scope, materials, and complexity, with detailed plans helping to get an accurate estimate."
+      }
+    }
+  ],
+  "description": "Kitchen trim carpentry costs in the Boise area vary by scope, materials, and complexity, with detailed plans helping to get an accurate estimate."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-timeframe-for-a-complete-bathroom-remodel",
+  "name": "What is the typical timeframe for a complete bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for a complete bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A complete bathroom remodel generally takes between 3 to 5 weeks from demolition to final touches, depending on the scope of work and material availability. Projects involving custom cabinetry, significant layout changes, or high-end finishes may extend this timeline. We work to coordinate all trades and material deliveries efficiently to minimize disruption and keep your project on schedule. One factor that can change the timeline is how quickly decisions are made on finishes and fixtures, as delays in these choices can impact ordering and scheduling.",
+        "@type": "Answer",
+        "description": "A complete bathroom remodel typically takes 3-5 weeks, though custom work or layout changes can extend this. Quick decisions on finishes help keep projects on schedule."
+      }
+    }
+  ],
+  "description": "A complete bathroom remodel typically takes 3-5 weeks, though custom work or layout changes can extend this. Quick decisions on finishes help keep projects on s"
+}

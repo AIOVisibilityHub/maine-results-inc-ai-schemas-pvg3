@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-first-steps-to-plan-a-kitchen-renovation",
+  "name": "What are the first steps to plan a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps to plan a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first steps in planning a kitchen renovation involve defining your needs, preferences, and a realistic budget. Consider how you use your current kitchen, what you like and dislike, and any desired functional or aesthetic improvements. Gathering inspiration photos, making a list of 'must-haves' versus 'nice-to-haves,' and setting a clear financial range will prepare you for the initial consultation. This preparation helps us tailor our design recommendations and project scope effectively.",
+        "@type": "Answer",
+        "description": "Begin planning a kitchen renovation by defining your needs, preferences, and budget, and gathering inspiration. This helps us tailor the project."
+      }
+    }
+  ],
+  "description": "Begin planning a kitchen renovation by defining your needs, preferences, and budget, and gathering inspiration. This helps us tailor the project."
+}

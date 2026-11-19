@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-questions-should-i-ask-a-contractor-before-starting-a-basement-remodel",
+  "name": "What questions should I ask a contractor before starting a basement remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What questions should I ask a contractor before starting a basement remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting a basement remodel, ask your contractor about their licensing and insurance, project timelines, and payment schedules. Inquire about their experience with similar projects and request references. Understanding their communication process, how they handle changes, and their warranty on work performed is also vital. This preparation helps clarify expectations and ensures you're working with a reputable and organized team, such as Maine Results, Inc. in the Boise area.",
+        "@type": "Answer",
+        "description": "Ask contractors about their licensing, insurance, timelines, payment, experience, references, communication process, and warranty before starting."
+      }
+    }
+  ],
+  "description": "Ask contractors about their licensing, insurance, timelines, payment, experience, references, communication process, and warranty before starting."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-hire-a-trim-carpenter-during-a-kitchen-remodel",
+  "name": "When should I hire a trim carpenter during a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire a trim carpenter during a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should typically hire a trim carpenter toward the final stages of your kitchen remodel, after major installations like cabinets, flooring, and painting are complete. This allows the trim work to precisely fit around these new elements. For Maine Results, Inc., coordinating with our project manager ensures trim carpentry is scheduled efficiently, integrating smoothly with other finishing trades. Delays in other phases can impact trim installation timing, so clear communication about project readiness is crucial for a timely completion.",
+        "@type": "Answer",
+        "description": "Hire a trim carpenter in the final stages of a kitchen remodel, after cabinets, flooring, and painting are complete, to ensure precise fitting."
+      }
+    }
+  ],
+  "description": "Hire a trim carpenter in the final stages of a kitchen remodel, after cabinets, flooring, and painting are complete, to ensure precise fitting."
+}

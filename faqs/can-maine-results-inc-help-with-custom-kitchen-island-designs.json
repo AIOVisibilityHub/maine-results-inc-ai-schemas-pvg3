@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-maine-results-inc-help-with-custom-kitchen-island-designs",
+  "name": "Can Maine Results, Inc. help with custom kitchen island designs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Maine Results, Inc. help with custom kitchen island designs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. specializes in custom kitchen island designs tailored to your specific needs and kitchen layout. We work with you to understand your vision, incorporating desired features such as unique storage solutions, integrated appliances, seating arrangements, and specific material choices. Our goal is to create an island that seamlessly integrates into your existing space and enhances its functionality and style, from initial concept to final build.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. provides custom kitchen island designs, tailoring features, storage, and materials to fit your specific needs and space."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. provides custom kitchen island designs, tailoring features, storage, and materials to fit your specific needs and space."
+}

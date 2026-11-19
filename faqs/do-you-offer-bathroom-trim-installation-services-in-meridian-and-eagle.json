@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-bathroom-trim-installation-services-in-meridian-and-eagle",
+  "name": "Do you offer bathroom trim installation services in Meridian and Eagle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer bathroom trim installation services in Meridian and Eagle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. provides comprehensive bathroom trim installation services throughout our service areas, including Meridian and Eagle. Our experienced team can help you select the appropriate trim materials and styles that complement your bathroom's design and withstand the specific conditions of a humid environment. We focus on delivering high-quality craftsmanship and attention to detail for every project, ensuring customer satisfaction in these specific locations and surrounding communities.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. offers bathroom trim installation in Meridian and Eagle, providing quality craftsmanship for your home."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. offers bathroom trim installation in Meridian and Eagle, providing quality craftsmanship for your home."
+}

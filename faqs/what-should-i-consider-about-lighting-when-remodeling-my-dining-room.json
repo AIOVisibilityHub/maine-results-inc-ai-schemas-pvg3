@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-about-lighting-when-remodeling-my-dining-room",
+  "name": "What should I consider about lighting when remodeling my dining room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider about lighting when remodeling my dining room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Effective lighting is crucial for a dining room remodel, impacting both ambiance and functionality. Consider a combination of ambient, task, and accent lighting. Ambient lighting, often from a chandelier or recessed lights, provides overall illumination. Task lighting might include dimmable fixtures over the table for meals or focused lighting for specific areas. Accent lighting, such as wall sconces or picture lights, can highlight artwork or architectural features. Planning your lighting early allows for proper electrical wiring and fixture placement, creating the desired mood and practicality for various dining occasions.",
+        "@type": "Answer",
+        "description": "Plan a mix of ambient, task, and accent lighting for your dining room remodel to ensure proper illumination, set the mood, and highlight features effectively."
+      }
+    }
+  ],
+  "description": "Plan a mix of ambient, task, and accent lighting for your dining room remodel to ensure proper illumination, set the mood, and highlight features effectively."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-does-an-entryway-remodel-typically-involve",
+  "name": "What does an entryway remodel typically involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does an entryway remodel typically involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An entryway remodel often focuses on enhancing both the functionality and aesthetic appeal of your home's entrance. This can include updating flooring, improving lighting, adding built-in storage solutions like coat racks or benches, and replacing the front door or sidelights. We consider how to best welcome guests, manage daily foot traffic, and integrate the entryway's style with the rest of your home, ensuring a cohesive design that improves curb appeal and interior flow.",
+        "@type": "Answer",
+        "description": "An entryway remodel involves updating flooring, lighting, storage, and doors to improve functionality and aesthetics."
+      }
+    }
+  ],
+  "description": "An entryway remodel involves updating flooring, lighting, storage, and doors to improve functionality and aesthetics."
+}

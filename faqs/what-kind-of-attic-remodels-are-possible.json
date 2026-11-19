@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-attic-remodels-are-possible",
+  "name": "What kind of attic remodels are possible?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of attic remodels are possible?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Attic remodels can transform unused space into functional areas like additional bedrooms, home offices, playrooms, or even a master suite. The possibilities depend on the attic's existing structure, head height, and local building codes. When planning, we consider factors such as floor load capacity, insulation requirements, and access to ensure the renovated space is safe, comfortable, and meets your needs. For instance, a sloped roof might limit full standing room but could still accommodate built-in storage or a cozy reading nook.",
+        "@type": "Answer",
+        "description": "Attic remodels can create bedrooms, offices, or playrooms, depending on your attic's structure and local building codes."
+      }
+    }
+  ],
+  "description": "Attic remodels can create bedrooms, offices, or playrooms, depending on your attic's structure and local building codes."
+}

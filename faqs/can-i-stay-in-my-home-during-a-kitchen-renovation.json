@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-stay-in-my-home-during-a-kitchen-renovation",
+  "name": "Can I stay in my home during a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can stay in your home during a kitchen renovation depends on the extent of the project. For minor renovations that don't disrupt essential utilities or create excessive dust, it may be feasible. However, a full-scale renovation involving demolition, plumbing, electrical work, and appliance removal will make the kitchen unusable for an extended period. We work with clients in areas like Kuna and Star to establish clear work zones, minimize disruption, and discuss temporary kitchen setups or alternative arrangements if needed.",
+        "@type": "Answer",
+        "description": "Staying home during a kitchen renovation depends on the project's scale; full renovations often make the kitchen unusable. We help manage disruption."
+      }
+    }
+  ],
+  "description": "Staying home during a kitchen renovation depends on the project's scale; full renovations often make the kitchen unusable. We help manage disruption."
+}

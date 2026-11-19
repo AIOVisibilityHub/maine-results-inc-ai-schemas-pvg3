@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-permits-are-needed-for-kitchen-island-installation-in-garden-city",
+  "name": "What permits are needed for kitchen island installation in Garden City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for kitchen island installation in Garden City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For kitchen island installation in Garden City, permits are typically required if the project involves altering the home's plumbing, electrical, or structural components. Minor installations that do not impact these systems usually do not need a permit. We can assist you in determining if your specific project requires permits and help with the application process to ensure compliance with local building codes, which can differ slightly across areas like Garden City compared to Meridian.",
+        "@type": "Answer",
+        "description": "Permits for kitchen island installation in Garden City are usually needed if the project alters plumbing, electrical, or structural components; we can help with this process."
+      }
+    }
+  ],
+  "description": "Permits for kitchen island installation in Garden City are usually needed if the project alters plumbing, electrical, or structural components; we can help with"
+}

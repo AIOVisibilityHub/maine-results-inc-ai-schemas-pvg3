@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-a-kitchen-renovation",
+  "name": "What factors influence the cost of a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a kitchen renovation is primarily driven by the scope of work, the quality of materials selected, and the extent of structural or utility changes. High-end finishes, custom cabinetry, appliance upgrades, and significant layout alterations that require moving plumbing or electrical lines will increase the overall investment. For clients in Garden City, Meridian, Eagle, Kuna, or Star, we provide transparent, itemized quotes after an initial consultation to reflect your specific choices and project requirements, helping you understand where your budget is allocated.",
+        "@type": "Answer",
+        "description": "Kitchen renovation costs depend on the scope, material quality, and structural changes. High-end finishes or layout changes increase the investment."
+      }
+    }
+  ],
+  "description": "Kitchen renovation costs depend on the scope, material quality, and structural changes. High-end finishes or layout changes increase the investment."
+}

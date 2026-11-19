@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/will-converting-my-garage-affect-my-property-value",
+  "name": "Will converting my garage affect my property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will converting my garage affect my property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting a garage can positively impact your property value by adding usable living space, especially if the conversion is done professionally and integrates well with the rest of the home. Factors like the quality of the finish, the functionality of the new space, and compliance with local building codes all play a role. A poorly executed conversion, however, could negatively affect value. Maine Results, Inc. focuses on quality craftsmanship to maximize your home's appeal and value.",
+        "@type": "Answer",
+        "description": "A professional garage conversion can increase property value by adding usable living space, if done well and to code."
+      }
+    }
+  ],
+  "description": "A professional garage conversion can increase property value by adding usable living space, if done well and to code."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-the-right-type-of-material-for-my-kitchen-backsplash",
+  "name": "How do I choose the right type of material for my kitchen backsplash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right type of material for my kitchen backsplash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right material depends on your aesthetic preference, budget, and functional needs. Common options include ceramic, porcelain, natural stone, glass, and metal tiles. Consider factors like durability, ease of cleaning, and how the material complements your existing kitchen decor. For projects in the Boise Heights area or other specific communities, our design consultants at Maine Results, Inc. can show you samples and discuss which materials perform best with different kitchen styles and typical use patterns.",
+        "@type": "Answer",
+        "description": "Consider aesthetics, budget, durability, and ease of cleaning. Maine Results, Inc. can help with material selection based on your kitchen style."
+      }
+    }
+  ],
+  "description": "Consider aesthetics, budget, durability, and ease of cleaning. Maine Results, Inc. can help with material selection based on your kitchen style."
+}

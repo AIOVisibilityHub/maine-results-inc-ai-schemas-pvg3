@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-installing-a-kitchen-island",
+  "name": "What factors influence the cost of installing a kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of installing a kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of kitchen island installation varies based on several factors, including the island's size, materials chosen for the countertop and cabinetry, and whether plumbing or electrical work is required. Custom designs, specialized finishes, and features like built-in appliances or extra storage can also increase the overall expense. We provide detailed estimates after an on-site consultation to account for all these elements specific to your project in areas like Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "Kitchen island installation costs are affected by size, materials, custom features, and the need for plumbing or electrical work."
+      }
+    }
+  ],
+  "description": "Kitchen island installation costs are affected by size, materials, custom features, and the need for plumbing or electrical work."
+}

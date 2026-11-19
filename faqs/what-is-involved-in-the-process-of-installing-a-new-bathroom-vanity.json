@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-involved-in-the-process-of-installing-a-new-bathroom-vanity",
+  "name": "What is involved in the process of installing a new bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of installing a new bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process of installing a new bathroom vanity typically begins with removing the old vanity and disconnecting plumbing. Then, the new vanity base is positioned, leveled, and secured to the wall. Next, the countertop and sink are installed, followed by connecting the faucet and drain lines to the water supply and waste pipes. Finally, any caulking or sealing is applied. Our team plans each step to minimize disruption and ensure a smooth transition.",
+        "@type": "Answer",
+        "description": "Installation involves removing the old vanity, positioning and securing the new one, connecting plumbing, and finishing with sealing."
+      }
+    }
+  ],
+  "description": "Installation involves removing the old vanity, positioning and securing the new one, connecting plumbing, and finishing with sealing."
+}

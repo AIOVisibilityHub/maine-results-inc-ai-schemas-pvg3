@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-needs-to-be-done-if-my-kitchen-walls-are-uneven-before-installing-a-backspl",
+  "name": "What needs to be done if my kitchen walls are uneven before installing a backsplash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What needs to be done if my kitchen walls are uneven before installing a backsplash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Uneven walls must be leveled or smoothed out before backsplash installation to ensure a flat and professional finish. This can involve sanding down high spots, filling low spots with joint compound, or applying a skim coat. Failing to address unevenness will result in an uneven backsplash with visible grout lines and potential adhesion issues. Maine Results, Inc. includes surface leveling as part of our standard preparation process to guarantee a flawless foundation for your new backsplash.",
+        "@type": "Answer",
+        "description": "Uneven walls need leveling with sanding or joint compound to ensure a flat backsplash. Maine Results, Inc. includes this in our process."
+      }
+    }
+  ],
+  "description": "Uneven walls need leveling with sanding or joint compound to ensure a flat backsplash. Maine Results, Inc. includes this in our process."
+}

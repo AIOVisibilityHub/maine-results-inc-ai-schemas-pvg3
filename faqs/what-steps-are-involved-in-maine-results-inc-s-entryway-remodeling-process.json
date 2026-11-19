@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-steps-are-involved-in-maine-results-inc-s-entryway-remodeling-process",
+  "name": "What steps are involved in Maine Results, Inc.'s entryway remodeling process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in Maine Results, Inc.'s entryway remodeling process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our entryway remodeling process begins with an initial consultation to understand your vision, needs, and budget. This is followed by a design phase where we develop plans and material selections. Once approved, we move to project scheduling and material procurement. The construction phase involves demolition, structural work if needed, installation of new flooring, trim, doors, and finishes. We maintain clear communication throughout, providing updates and ensuring your satisfaction with the progress and the final result. Understanding this process helps manage expectations from start to finish.",
+        "@type": "Answer",
+        "description": "Our process includes consultation, design, scheduling, construction, and final walkthrough, with continuous communication."
+      }
+    }
+  ],
+  "description": "Our process includes consultation, design, scheduling, construction, and final walkthrough, with continuous communication."
+}

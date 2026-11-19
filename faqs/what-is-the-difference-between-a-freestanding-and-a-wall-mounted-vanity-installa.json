@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-a-freestanding-and-a-wall-mounted-vanity-installa",
+  "name": "What is the difference between a freestanding and a wall-mounted vanity installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a freestanding and a wall-mounted vanity installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A freestanding vanity rests directly on the floor and is secured to the wall for stability, often offering more storage capacity and a traditional look. A wall-mounted (or floating) vanity is attached directly to the wall, leaving the floor space beneath clear, which can create a more open and modern aesthetic. Wall-mounted installations often require careful structural assessment and precise mounting to ensure safety and stability.",
+        "@type": "Answer",
+        "description": "Freestanding vanities sit on the floor, offering more storage, while wall-mounted vanities attach to the wall for a modern look."
+      }
+    }
+  ],
+  "description": "Freestanding vanities sit on the floor, offering more storage, while wall-mounted vanities attach to the wall for a modern look."
+}

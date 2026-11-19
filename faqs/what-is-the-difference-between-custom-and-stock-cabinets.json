@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-custom-and-stock-cabinets",
+  "name": "What is the difference between custom and stock cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between custom and stock cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom cabinets are built specifically for your kitchen's dimensions and design preferences, offering unique sizes, materials, and finishes to perfectly suit your space and style. Stock cabinets, on the other hand, are pre-manufactured in standard sizes and styles, making them a more budget-friendly and quicker option. While stock cabinets offer limited choices, custom options allow for maximizing every inch of your kitchen, which can be particularly beneficial for irregularly shaped kitchens or specific aesthetic goals in areas like Kuna. The choice often comes down to balancing cost, timeline, and personalized design needs.",
+        "@type": "Answer",
+        "description": "Custom cabinets are built to specific dimensions, offering unique options, while stock cabinets are pre-made in standard sizes, often costing less."
+      }
+    }
+  ],
+  "description": "Custom cabinets are built to specific dimensions, offering unique options, while stock cabinets are pre-made in standard sizes, often costing less."
+}

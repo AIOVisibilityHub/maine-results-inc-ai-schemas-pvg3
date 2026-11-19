@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-before-choosing-a-new-bathroom-vanity",
+  "name": "What should I consider before choosing a new bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before choosing a new bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before selecting a new bathroom vanity, consider the available space, your storage needs, and the existing plumbing layout. Measure the width, depth, and height of the area where the vanity will go, paying attention to door swings and surrounding fixtures. Think about whether you prefer a single or double sink, and if you need integrated storage solutions like drawers or shelves. Understanding your current plumbing setup can help avoid unexpected modifications during installation.",
+        "@type": "Answer",
+        "description": "Consider space, storage needs, and existing plumbing when choosing a new bathroom vanity."
+      }
+    }
+  ],
+  "description": "Consider space, storage needs, and existing plumbing when choosing a new bathroom vanity."
+}

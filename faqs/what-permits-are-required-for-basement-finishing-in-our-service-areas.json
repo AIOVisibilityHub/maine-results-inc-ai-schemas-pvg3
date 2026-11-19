@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-permits-are-required-for-basement-finishing-in-our-service-areas",
+  "name": "What permits are required for basement finishing in our service areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for basement finishing in our service areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, permits are typically required for basement finishing projects in Garden City, Meridian, Eagle, and Kuna. These permits ensure that the work complies with local building codes, safety standards, and zoning regulations. The specific permits needed can include building, electrical, plumbing, and mechanical permits. As part of our service, we assist clients with identifying and obtaining the necessary permits to ensure all work is compliant and passes inspections, avoiding future issues.",
+        "@type": "Answer",
+        "description": "Permits are usually required for basement finishing in our service areas to ensure compliance with local building codes and safety standards; we assist with this process."
+      }
+    }
+  ],
+  "description": "Permits are usually required for basement finishing in our service areas to ensure compliance with local building codes and safety standards; we assist with thi"
+}

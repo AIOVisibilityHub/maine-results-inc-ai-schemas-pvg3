@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-a-bathroom-remodel-typically-cost-in-the-garden-city-area",
+  "name": "How much does a bathroom remodel typically cost in the Garden City area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a bathroom remodel typically cost in the Garden City area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a bathroom remodel in the Garden City area can vary significantly, usually ranging from $15,000 for a basic refresh to over $40,000 for a luxury renovation with high-end materials and extensive layout changes. Factors influencing the price include the size of the bathroom, the quality of materials selected, the complexity of plumbing or electrical modifications, and whether you are changing the floor plan. We provide detailed, transparent estimates after an initial consultation to help you understand the investment for your specific project.",
+        "@type": "Answer",
+        "description": "Bathroom remodel costs in Garden City typically range from $15,000 for basic to over $40,000 for luxury. Cost depends on size, material quality, and complexity."
+      }
+    }
+  ],
+  "description": "Bathroom remodel costs in Garden City typically range from $15,000 for basic to over $40,000 for luxury. Cost depends on size, material quality, and complexity."
+}

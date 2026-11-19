@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-prepare-my-kitchen-for-island-installation",
+  "name": "How do I prepare my kitchen for island installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my kitchen for island installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before kitchen island installation, clear the designated area of all items, including furniture, rugs, and any wall decor that might be in the way. If existing flooring needs to be modified or utilities need to be accessed, these tasks should be completed prior to the island's arrival. Ensuring clear access for our installation team and materials will help streamline the process. We can advise on specific preparations during our consultation.",
+        "@type": "Answer",
+        "description": "Prepare your kitchen by clearing the installation area of all items and addressing any necessary flooring or utility modifications beforehand."
+      }
+    }
+  ],
+  "description": "Prepare your kitchen by clearing the installation area of all items and addressing any necessary flooring or utility modifications beforehand."
+}

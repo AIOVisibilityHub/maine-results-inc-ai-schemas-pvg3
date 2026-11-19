@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-before-starting-a-garage-conversion",
+  "name": "What should I consider before starting a garage conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before starting a garage conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting a garage conversion, consider your budget, the intended use of the new space, and how it will integrate with your existing home. You should also think about the current condition of your garage, including its foundation, roof, and existing utilities, as these may require upgrades. Gathering ideas for finishes and desired features will help define the scope of work. Maine Results, Inc. helps clients evaluate these factors during an initial consultation to ensure a clear project vision.",
+        "@type": "Answer",
+        "description": "Consider your budget, intended use, existing garage condition, and desired finishes before starting a conversion."
+      }
+    }
+  ],
+  "description": "Consider your budget, intended use, existing garage condition, and desired finishes before starting a conversion."
+}

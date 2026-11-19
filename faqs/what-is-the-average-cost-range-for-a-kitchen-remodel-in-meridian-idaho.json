@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-average-cost-range-for-a-kitchen-remodel-in-meridian-idaho",
+  "name": "What is the average cost range for a kitchen remodel in Meridian, Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost range for a kitchen remodel in Meridian, Idaho?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen remodel costs in Meridian can vary widely based on the size of your kitchen, the quality of materials chosen, and the extent of the renovation. A minor refresh might start around $15,000-$30,000, while a mid-range remodel could be $30,000-$75,000. A high-end, custom kitchen renovation with premium finishes and significant layout changes can exceed $75,000. These figures are estimates, and a detailed consultation helps us provide a precise quote based on your specific vision and budget.",
+        "@type": "Answer",
+        "description": "Average kitchen remodel costs in Meridian range from $15,000 for a minor refresh to over $75,000 for a high-end, custom renovation."
+      }
+    }
+  ],
+  "description": "Average kitchen remodel costs in Meridian range from $15,000 for a minor refresh to over $75,000 for a high-end, custom renovation."
+}

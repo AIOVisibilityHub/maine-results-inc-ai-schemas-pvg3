@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-convert-my-attached-garage-into-a-rental-unit",
+  "name": "Can I convert my attached garage into a rental unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my attached garage into a rental unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting an attached garage into a rental unit, often called an Accessory Dwelling Unit (ADU), is possible but involves specific regulations. These rules govern factors like separate entrances, kitchen and bathroom facilities, parking, and lot size. It's important to research local zoning ordinances in areas like Meridian or Eagle to determine feasibility. Maine Results, Inc. can assist in understanding these requirements and designing a compliant and functional ADU.",
+        "@type": "Answer",
+        "description": "Yes, converting an attached garage into a rental ADU is possible but depends on local zoning rules for features like entrances and utilities."
+      }
+    }
+  ],
+  "description": "Yes, converting an attached garage into a rental ADU is possible but depends on local zoning rules for features like entrances and utilities."
+}

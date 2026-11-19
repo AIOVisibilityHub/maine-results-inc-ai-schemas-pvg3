@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-about-appliances-when-planning-a-kitchen-renovation",
+  "name": "What should I consider about appliances when planning a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider about appliances when planning a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When planning a kitchen renovation, consider not only the type and brand of appliances but also their dimensions, utility requirements, and energy efficiency. Ensure the chosen appliances fit the available space and align with your culinary needs and lifestyle. Verify that your electrical and plumbing systems can accommodate new appliances, especially if upgrading to gas ranges or larger refrigerators. Discussing appliance choices early allows us to integrate them seamlessly into the design and ensure proper hookups during construction.",
+        "@type": "Answer",
+        "description": "Consider appliance type, dimensions, utility needs, and energy efficiency when planning. Ensure they fit your space and lifestyle, and that utilities can accommodate them."
+      }
+    }
+  ],
+  "description": "Consider appliance type, dimensions, utility needs, and energy efficiency when planning. Ensure they fit your space and lifestyle, and that utilities can accomm"
+}

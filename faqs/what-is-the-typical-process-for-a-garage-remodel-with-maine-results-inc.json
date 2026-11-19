@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-a-garage-remodel-with-maine-results-inc",
+  "name": "What is the typical process for a garage remodel with Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a garage remodel with Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for a garage remodel with Maine Results, Inc. begins with an initial consultation to discuss your vision, needs, and budget. This is followed by a site visit and detailed proposal, including a scope of work and timeline. Once approved, we assist with permit applications if necessary. Construction then proceeds, managed by our experienced team, with regular communication. Finally, we conduct a walkthrough to ensure your complete satisfaction. This structured process helps manage complexity and keeps the project on track from start to finish.",
+        "@type": "Answer",
+        "description": "The process starts with a consultation, followed by a proposal and permit assistance. Construction then begins with regular communication, concluding with a final walkthrough."
+      }
+    }
+  ],
+  "description": "The process starts with a consultation, followed by a proposal and permit assistance. Construction then begins with regular communication, concluding with a fin"
+}

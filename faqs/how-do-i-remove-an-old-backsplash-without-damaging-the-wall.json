@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-remove-an-old-backsplash-without-damaging-the-wall",
+  "name": "How do I remove an old backsplash without damaging the wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I remove an old backsplash without damaging the wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Carefully removing an old backsplash requires patience and the right tools. Start by scoring the grout lines with a utility knife and then gently pry off tiles using a putty knife or chisel. Work slowly to minimize damage to the drywall underneath. You may still need to repair minor damage to the wall surface before installing the new backsplash. Maine Results, Inc. uses specialized tools and techniques for backsplash removal to preserve the wall integrity as much as possible, minimizing subsequent repair work.",
+        "@type": "Answer",
+        "description": "Score grout and gently pry tiles with a putty knife or chisel. Maine Results, Inc. uses specialized tools to minimize wall damage during removal."
+      }
+    }
+  ],
+  "description": "Score grout and gently pry tiles with a putty knife or chisel. Maine Results, Inc. uses specialized tools to minimize wall damage during removal."
+}

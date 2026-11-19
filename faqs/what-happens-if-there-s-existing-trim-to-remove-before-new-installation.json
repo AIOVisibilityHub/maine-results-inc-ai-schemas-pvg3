@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-happens-if-there-s-existing-trim-to-remove-before-new-installation",
+  "name": "What happens if there's existing trim to remove before new installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if there's existing trim to remove before new installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If there's existing trim, the installation process begins with its careful removal. Our team takes precautions to minimize damage to walls and surrounding surfaces during this demolition phase. Once the old trim is removed, the walls are inspected for any necessary repairs or touch-ups, such as nail hole filling or smoothing out inconsistencies, to create a clean surface for the new trim. This initial step is a crucial part of the overall process clarity, ensuring a proper foundation for a flawless new installation.",
+        "@type": "Answer",
+        "description": "Existing trim is carefully removed, and walls are inspected and repaired to prepare a clean surface for new trim installation."
+      }
+    }
+  ],
+  "description": "Existing trim is carefully removed, and walls are inspected and repaired to prepare a clean surface for new trim installation."
+}

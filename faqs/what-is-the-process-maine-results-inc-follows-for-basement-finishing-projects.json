@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-maine-results-inc-follows-for-basement-finishing-projects",
+  "name": "What is the process Maine Results, Inc. follows for basement finishing projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process Maine Results, Inc. follows for basement finishing projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to discuss your vision, needs, and budget. Next, we conduct a thorough site assessment of your basement to identify any unique challenges or opportunities. We then develop a detailed design plan and provide a transparent, comprehensive proposal. Once approved, our team handles all aspects from permitting and demolition to construction, finishing, and final inspections. We maintain open communication throughout the project, ensuring a smooth and efficient experience from start to finish for our clients in the Boise area and beyond.",
+        "@type": "Answer",
+        "description": "Maine Results' process includes consultation, site assessment, design planning, proposal, permitting, construction, and final inspection, with open communication."
+      }
+    }
+  ],
+  "description": "Maine Results' process includes consultation, site assessment, design planning, proposal, permitting, construction, and final inspection, with open communicatio"
+}

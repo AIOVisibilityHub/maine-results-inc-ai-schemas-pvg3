@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-ensure-my-home-office-is-ergonomic-and-comfortable",
+  "name": "How can I ensure my home office is ergonomic and comfortable?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I ensure my home office is ergonomic and comfortable?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To ensure an ergonomic and comfortable home office, focus on proper chair and desk height, monitor placement, and adequate lighting. Your chair should support your back and allow your feet to be flat on the floor, while your monitor should be at eye level to prevent strain. Consider task lighting in addition to ambient light to reduce eye fatigue. Maine Results, Inc. can incorporate custom desk heights or built-ins designed for your specific ergonomic needs during the remodel, helping to create a healthy and productive workspace tailored for you.",
+        "@type": "Answer",
+        "description": "Ensure ergonomics with proper chair/desk height, monitor placement, and lighting. We can incorporate custom solutions into the remodel."
+      }
+    }
+  ],
+  "description": "Ensure ergonomics with proper chair/desk height, monitor placement, and lighting. We can incorporate custom solutions into the remodel."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-the-finish-work-phase-of-a-home-addition-typically-take",
+  "name": "How long does the finish work phase of a home addition typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the finish work phase of a home addition typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of finish work for a home addition varies significantly based on the size and complexity of the project, as well as the materials chosen. Simple additions might take a few weeks, while larger, more custom projects could extend to several months. A practical tradeoff is that higher-end, custom finishes often require more time for ordering, fabrication, and precise installation compared to standard options. We provide a detailed timeline upfront, accounting for these specific choices.",
+        "@type": "Answer",
+        "description": "Finish work duration depends on project size, complexity, and material choices, typically ranging from weeks to a few months."
+      }
+    }
+  ],
+  "description": "Finish work duration depends on project size, complexity, and material choices, typically ranging from weeks to a few months."
+}

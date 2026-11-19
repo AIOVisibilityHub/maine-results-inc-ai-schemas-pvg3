@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-stay-in-my-home-during-a-dining-room-remodel",
+  "name": "Can I stay in my home during a dining room remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during a dining room remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, yes, you can remain in your home during a dining room remodel, especially if the project is contained to that single room. We take measures to minimize disruption, such as setting up dust barriers and maintaining a clean work area. However, if your remodel involves extensive demolition, changes to essential utilities, or affects a primary pathway in your home, there might be periods where temporary relocation or limited access is recommended for safety and comfort. We will discuss these considerations with you during the planning phase.",
+        "@type": "Answer",
+        "description": "You can often stay home during a dining room remodel with proper dust control, but extensive work or utility changes might require temporary relocation."
+      }
+    }
+  ],
+  "description": "You can often stay home during a dining room remodel with proper dust control, but extensive work or utility changes might require temporary relocation."
+}

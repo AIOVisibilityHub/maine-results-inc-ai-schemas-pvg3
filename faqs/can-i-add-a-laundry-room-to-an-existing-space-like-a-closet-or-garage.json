@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-add-a-laundry-room-to-an-existing-space-like-a-closet-or-garage",
+  "name": "Can I add a laundry room to an existing space, like a closet or garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a laundry room to an existing space, like a closet or garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is often possible to add a laundry room to an existing space such as a closet, garage, or even a basement. This type of project typically involves extending or installing new plumbing lines for water supply and drainage, as well as new electrical circuits for appliances. Proper ventilation will also need to be installed or extended to remove moisture. The feasibility often depends on the existing utility access and structural considerations of the chosen space. We can assess your desired location and determine the most efficient and code-compliant approach during an on-site visit.",
+        "@type": "Answer",
+        "description": "Adding a laundry room to an existing space is possible, but requires careful planning for plumbing, electrical, and ventilation installations."
+      }
+    }
+  ],
+  "description": "Adding a laundry room to an existing space is possible, but requires careful planning for plumbing, electrical, and ventilation installations."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-bathroom-trim-are-available-for-installation",
+  "name": "What types of bathroom trim are available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of bathroom trim are available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom trim can include baseboards, crown molding, door and window casings, and sometimes decorative chair rails or picture rails. These elements are available in various materials such as wood (pine, oak, poplar), MDF (medium-density fiberboard), and PVC/urethane. Each material offers different aesthetic qualities, durability, and moisture resistance, which is a critical consideration in a bathroom environment. Choosing the right material often involves a practical tradeoff between cost, appearance, and longevity in a humid space.",
+        "@type": "Answer",
+        "description": "Bathroom trim options include baseboards, crown molding, and casings in materials like wood, MDF, or PVC, each with different durability and moisture resistance."
+      }
+    }
+  ],
+  "description": "Bathroom trim options include baseboards, crown molding, and casings in materials like wood, MDF, or PVC, each with different durability and moisture resistance"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-new-plumbing-or-electrical-work-for-my-kitchen-island",
+  "name": "Do I need new plumbing or electrical work for my kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need new plumbing or electrical work for my kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New plumbing or electrical work is necessary if your island will include a sink, dishwasher, garbage disposal, cooktop, or electrical outlets for small appliances. This typically involves extending existing lines from your home's main system to the island's location. Planning for these utilities early in the design process is crucial, as it affects the island's placement and the overall project timeline and cost.",
+        "@type": "Answer",
+        "description": "New plumbing or electrical is needed for islands with sinks, cooktops, or outlets; plan early for placement and cost implications."
+      }
+    }
+  ],
+  "description": "New plumbing or electrical is needed for islands with sinks, cooktops, or outlets; plan early for placement and cost implications."
+}

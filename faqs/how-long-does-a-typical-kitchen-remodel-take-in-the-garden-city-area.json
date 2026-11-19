@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-kitchen-remodel-take-in-the-garden-city-area",
+  "name": "How long does a typical kitchen remodel take in the Garden City area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical kitchen remodel take in the Garden City area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen remodel timeline can vary significantly based on the scope of work, material selections, and permit requirements. A cosmetic update might take a few weeks, while a full gut and redesign, including structural changes or reconfiguring utilities, could extend to 8-12 weeks or more. Factors like custom cabinetry lead times or unexpected findings during demolition can also influence the project duration. We work to provide a clear project schedule upfront.",
+        "@type": "Answer",
+        "description": "Kitchen remodel timelines vary, typically from a few weeks for cosmetic updates to 8-12 weeks for a full redesign, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Kitchen remodel timelines vary, typically from a few weeks for cosmetic updates to 8-12 weeks for a full redesign, depending on scope and materials."
+}

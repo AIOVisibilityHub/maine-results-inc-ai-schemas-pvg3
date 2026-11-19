@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-lifespan-of-a-newly-remodeled-kitchen",
+  "name": "What is the typical lifespan of a newly remodeled kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical lifespan of a newly remodeled kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A newly remodeled kitchen, when designed and constructed with quality materials and workmanship, can typically last 10-20 years or more before significant updates are desired or needed. The lifespan depends heavily on the durability of the materials chosen, the quality of installation, and how well the kitchen is maintained. Investing in high-quality cabinetry, countertops, and appliances contributes significantly to longevity. Regular maintenance, such as proper cleaning and care of surfaces, also helps extend its life.",
+        "@type": "Answer",
+        "description": "A well-remodeled kitchen can last 10-20+ years, depending on material quality, installation, and maintenance, before major updates are desired."
+      }
+    }
+  ],
+  "description": "A well-remodeled kitchen can last 10-20+ years, depending on material quality, installation, and maintenance, before major updates are desired."
+}

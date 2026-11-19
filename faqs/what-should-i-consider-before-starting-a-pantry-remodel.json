@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-before-starting-a-pantry-remodel",
+  "name": "What should I consider before starting a pantry remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before starting a pantry remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting a pantry remodel, consider how you currently use your pantry, what frustrations you have with its current setup, and what you hope to achieve with the new design. Think about the types of items you store, the quantity, and any specific needs like dedicated space for small appliances or bulk goods. Gathering photos of pantry designs you like can also be very helpful. This preparation helps us understand your vision and propose the most effective solutions.",
+        "@type": "Answer",
+        "description": "Before remodeling, consider current usage, frustrations, desired outcomes, item types stored, and gather design inspiration."
+      }
+    }
+  ],
+  "description": "Before remodeling, consider current usage, frustrations, desired outcomes, item types stored, and gather design inspiration."
+}

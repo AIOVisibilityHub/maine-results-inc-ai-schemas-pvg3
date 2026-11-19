@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-starting-a-hallway-remodel-with-maine-results-inc",
+  "name": "What is the process for starting a hallway remodel with Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for starting a hallway remodel with Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for starting a hallway remodel with Maine Results, Inc. begins with an initial consultation where we discuss your vision, needs, and budget. Next, we conduct an on-site visit to assess the existing space and gather measurements. We then prepare a detailed proposal and design plan for your review. Once approved, we manage all aspects of the project, from material selection to construction and final walkthrough, ensuring a smooth and efficient renovation.",
+        "@type": "Answer",
+        "description": "Our process starts with a consultation, followed by an on-site assessment, proposal, and design plan. Upon approval, we manage the entire project from material selection to completion."
+      }
+    }
+  ],
+  "description": "Our process starts with a consultation, followed by an on-site assessment, proposal, and design plan. Upon approval, we manage the entire project from material"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-is-needed-before-construction-begins-on-a-bathroom-renovation",
+  "name": "What preparation is needed before construction begins on a bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before construction begins on a bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before construction starts, you'll need to clear out all personal items from the bathroom and adjacent areas to protect them from dust and debris. Discuss with your contractor about temporary utility disruptions, like water shut-offs, and plan for alternative arrangements. It is also a good time to confirm all material selections and delivery schedules to prevent delays. A smooth start often involves good communication and preparation on both sides.",
+        "@type": "Answer",
+        "description": "Before construction, clear personal items, plan for utility disruptions, and confirm all material selections and schedules."
+      }
+    }
+  ],
+  "description": "Before construction, clear personal items, plan for utility disruptions, and confirm all material selections and schedules."
+}

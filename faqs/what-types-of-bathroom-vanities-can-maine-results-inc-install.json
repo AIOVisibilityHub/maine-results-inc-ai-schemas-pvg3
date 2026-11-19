@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-bathroom-vanities-can-maine-results-inc-install",
+  "name": "What types of bathroom vanities can Maine Results, Inc. install?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of bathroom vanities can Maine Results, Inc. install?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. can install a wide range of bathroom vanities, including freestanding, wall-mounted, custom-built, and cabinet-style units. We work with various materials, from wood and laminate to engineered stone and natural stone countertops. Our expertise allows us to handle diverse designs and specifications, ensuring a secure and functional installation tailored to your bathroom's style and needs.",
+        "@type": "Answer",
+        "description": "We install all types of bathroom vanities, including freestanding, wall-mounted, and custom-built units, across various materials."
+      }
+    }
+  ],
+  "description": "We install all types of bathroom vanities, including freestanding, wall-mounted, and custom-built units, across various materials."
+}

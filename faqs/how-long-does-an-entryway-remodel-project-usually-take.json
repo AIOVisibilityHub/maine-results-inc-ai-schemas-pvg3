@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-an-entryway-remodel-project-usually-take",
+  "name": "How long does an entryway remodel project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an entryway remodel project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for an entryway remodel varies depending on the project's scope. A minor update, such as fresh paint and new light fixtures, might take a few days. More extensive projects involving flooring replacement, custom millwork, or structural changes could extend to several weeks. We provide a detailed project schedule after the initial consultation and design phase, factoring in material delivery times and the specific work required to ensure realistic expectations for clients in areas like Meridian and Eagle.",
+        "@type": "Answer",
+        "description": "Project duration for an entryway remodel varies from a few days for minor updates to several weeks for extensive work."
+      }
+    }
+  ],
+  "description": "Project duration for an entryway remodel varies from a few days for minor updates to several weeks for extensive work."
+}

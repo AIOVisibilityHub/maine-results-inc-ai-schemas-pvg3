@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-kitchen-trim-carpentry-services-in-eagle-and-kuna",
+  "name": "Do you offer kitchen trim carpentry services in Eagle and Kuna?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer kitchen trim carpentry services in Eagle and Kuna?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. provides comprehensive kitchen trim carpentry services to clients in Eagle and Kuna, as part of our service area which also includes Garden City, Meridian, and Star. Our local presence in these communities allows us to understand specific regional design preferences and architectural styles, ensuring your trim work is tailored to your home and neighborhood. Contact us to discuss your project; we are familiar with homes across these areas and can offer design recommendations that suit the local aesthetic.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. offers kitchen trim carpentry services in Eagle and Kuna, understanding local design preferences in these areas."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. offers kitchen trim carpentry services in Eagle and Kuna, understanding local design preferences in these areas."
+}

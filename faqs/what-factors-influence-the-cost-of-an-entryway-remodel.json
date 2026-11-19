@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-an-entryway-remodel",
+  "name": "What factors influence the cost of an entryway remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of an entryway remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an entryway remodel is influenced by several key factors, including the size of the space, the quality and type of materials chosen (e.g., custom tile versus standard laminate), the extent of structural changes, and the complexity of custom features like built-in benches or intricate trim work. Labor costs also contribute significantly. We work with clients in areas like Garden City and Kuna to develop a budget that aligns with their vision while providing transparency on how different design and material choices impact the overall investment.",
+        "@type": "Answer",
+        "description": "Cost factors include space size, material quality, structural changes, custom features, and labor, with choices impacting the overall investment."
+      }
+    }
+  ],
+  "description": "Cost factors include space size, material quality, structural changes, custom features, and labor, with choices impacting the overall investment."
+}

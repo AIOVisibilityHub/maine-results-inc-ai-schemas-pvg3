@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/will-installing-a-new-vanity-require-changing-my-bathroom-s-plumbing",
+  "name": "Will installing a new vanity require changing my bathroom's plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will installing a new vanity require changing my bathroom's plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a new vanity may or may not require changes to your bathroom's plumbing, depending on the new vanity's configuration relative to the existing hookups. If your new vanity has a different sink placement, size, or style (e.g., switching from a single to a double sink), adjustments to the water supply lines and drain pipes may be necessary. Our team can assess this during a consultation to determine if plumbing modifications are needed for your specific project.",
+        "@type": "Answer",
+        "description": "Plumbing changes might be needed if your new vanity's configuration differs significantly from the existing setup."
+      }
+    }
+  ],
+  "description": "Plumbing changes might be needed if your new vanity's configuration differs significantly from the existing setup."
+}

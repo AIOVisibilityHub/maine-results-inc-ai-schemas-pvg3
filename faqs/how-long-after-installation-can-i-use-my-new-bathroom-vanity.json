@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-after-installation-can-i-use-my-new-bathroom-vanity",
+  "name": "How long after installation can I use my new bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long after installation can I use my new bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically, you can begin to use your new bathroom vanity, including the sink and faucet, shortly after installation is complete and all plumbing connections have been tested for leaks. However, if any caulking or sealing compounds were applied around the sink or backsplash, it's advisable to allow those materials to cure fully according to manufacturer instructions, which can range from a few hours to 24 hours, before exposing them to excessive moisture.",
+        "@type": "Answer",
+        "description": "You can generally use your vanity soon after installation, but allow caulking to cure for several hours to a day if applied."
+      }
+    }
+  ],
+  "description": "You can generally use your vanity soon after installation, but allow caulking to cure for several hours to a day if applied."
+}

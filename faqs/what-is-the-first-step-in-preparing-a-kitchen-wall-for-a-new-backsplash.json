@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-first-step-in-preparing-a-kitchen-wall-for-a-new-backsplash",
+  "name": "What is the first step in preparing a kitchen wall for a new backsplash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the first step in preparing a kitchen wall for a new backsplash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first step is to clear the area. Remove all items from countertops, disconnect and move appliances if necessary, and clean the wall surface thoroughly. Ensure the wall is free of grease, dirt, and debris. This initial cleaning is crucial for proper adhesion of the new backsplash materials. For Maine Results, Inc. projects, our team will help identify any items that need temporary removal or protection before starting work.",
+        "@type": "Answer",
+        "description": "Clear the area, remove items, and thoroughly clean the wall surface to ensure proper adhesion for the new backsplash."
+      }
+    }
+  ],
+  "description": "Clear the area, remove items, and thoroughly clean the wall surface to ensure proper adhesion for the new backsplash."
+}

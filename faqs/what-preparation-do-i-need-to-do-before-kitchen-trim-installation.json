@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-do-i-need-to-do-before-kitchen-trim-installation",
+  "name": "What preparation do I need to do before kitchen trim installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before kitchen trim installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before kitchen trim installation, key preparation steps include ensuring all major construction, flooring, and painting (at least the first coat) are completed. The walls should be properly prepped and free of debris. It's also beneficial to have any appliances that might impact trim placement installed or at least precisely measured. For Maine Results, Inc. projects, our team will confirm site readiness, but having clear access to walls and floors helps avoid delays and ensures the trim carpenters can work efficiently and precisely.",
+        "@type": "Answer",
+        "description": "Before trim installation, ensure major construction, flooring, and painting are done, and the space is clear with appliance measurements confirmed."
+      }
+    }
+  ],
+  "description": "Before trim installation, ensure major construction, flooring, and painting are done, and the space is clear with appliance measurements confirmed."
+}

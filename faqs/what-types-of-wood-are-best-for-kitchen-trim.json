@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-wood-are-best-for-kitchen-trim",
+  "name": "What types of wood are best for kitchen trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood are best for kitchen trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common wood types for kitchen trim include pine, oak, maple, and poplar, each offering distinct aesthetics and durability. Pine is cost-effective and takes paint well, while oak and maple provide a richer grain suitable for staining and greater resistance to dings. Poplar is a smooth, paint-grade option. When making your decision, consider the overall style of your kitchen and how the trim will complement your cabinetry and flooring, as this practical tradeoff between cost, durability, and finish will guide the best material choice for your space.",
+        "@type": "Answer",
+        "description": "Pine, oak, maple, and poplar are common woods for kitchen trim, with choices depending on desired aesthetics, durability, and cost."
+      }
+    }
+  ],
+  "description": "Pine, oak, maple, and poplar are common woods for kitchen trim, with choices depending on desired aesthetics, durability, and cost."
+}

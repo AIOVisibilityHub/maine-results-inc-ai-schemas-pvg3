@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-my-initial-closet-remodel-consultation-with-maine-r",
+  "name": "What should I prepare before my initial closet remodel consultation with Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before my initial closet remodel consultation with Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your initial consultation, consider what items you need to store and how you currently use your closet space. It's helpful to have an idea of your preferred style, color palette, and any specific features you desire, such as shoe racks, jewelry drawers, or a valet rod. Measuring your closet dimensions beforehand, if possible, can also be beneficial. Gathering inspiration photos can effectively communicate your vision to our designers, helping us create a plan that truly reflects your needs and tastes.",
+        "@type": "Answer",
+        "description": "Before your consultation, assess storage needs, desired style, specific features, and consider gathering inspiration photos to share your vision."
+      }
+    }
+  ],
+  "description": "Before your consultation, assess storage needs, desired style, specific features, and consider gathering inspiration photos to share your vision."
+}

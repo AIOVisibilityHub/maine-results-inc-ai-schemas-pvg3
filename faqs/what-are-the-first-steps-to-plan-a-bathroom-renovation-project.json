@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-first-steps-to-plan-a-bathroom-renovation-project",
+  "name": "What are the first steps to plan a bathroom renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps to plan a bathroom renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first steps to planning a bathroom renovation involve defining your budget, identifying your functional needs, and envisioning your desired aesthetic. Consider what aspects of your current bathroom you want to change or improve, such as layout, storage, or accessibility features. Gathering inspiration images and creating a wish list can help communicate your vision effectively during our initial consultation.",
+        "@type": "Answer",
+        "description": "Start by defining your budget, identifying needs, and envisioning your desired aesthetic for the new bathroom."
+      }
+    }
+  ],
+  "description": "Start by defining your budget, identifying needs, and envisioning your desired aesthetic for the new bathroom."
+}

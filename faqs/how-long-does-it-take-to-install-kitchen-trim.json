@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-install-kitchen-trim",
+  "name": "How long does it take to install kitchen trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install kitchen trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to install kitchen trim depends on the size of your kitchen, the complexity of the trim profiles, and the overall scope of work. A small kitchen with standard trim might take a day or two, while a larger kitchen with intricate crown molding or custom millwork could take several days to a week. The process clarity here involves understanding that careful measurement, cutting, fitting, and finishing (sanding, caulking, painting/staining) all contribute to the timeline. For efficient project flow, it helps if the space is clear and ready for the carpenters.",
+        "@type": "Answer",
+        "description": "Kitchen trim installation time varies by kitchen size, trim complexity, and scope, typically ranging from a few days to a week."
+      }
+    }
+  ],
+  "description": "Kitchen trim installation time varies by kitchen size, trim complexity, and scope, typically ranging from a few days to a week."
+}

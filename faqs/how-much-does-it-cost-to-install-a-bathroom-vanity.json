@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-it-cost-to-install-a-bathroom-vanity",
+  "name": "How much does it cost to install a bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install a bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to install a bathroom vanity varies significantly based on factors such as the type of vanity (pedestal, freestanding, wall-mounted), the complexity of the plumbing work, and whether new electrical outlets or lighting are required. Custom-built vanities or those requiring extensive modifications will typically incur higher costs than a standard replacement. We provide detailed estimates after assessing your specific project requirements in areas like Kuna and Star.",
+        "@type": "Answer",
+        "description": "Vanity installation costs vary based on vanity type, plumbing complexity, and any necessary electrical work."
+      }
+    }
+  ],
+  "description": "Vanity installation costs vary based on vanity type, plumbing complexity, and any necessary electrical work."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-a-typical-hallway-remodel-cost-in-the-boise-area",
+  "name": "How much does a typical hallway remodel cost in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a typical hallway remodel cost in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a hallway remodel varies significantly based on the scope of work, materials chosen, and labor involved. Minor updates like paint and new light fixtures will be less expensive than a complete overhaul including new flooring, custom millwork, or reconfiguring walls. For homeowners in Meridian, we provide detailed, itemized quotes after understanding your specific project needs and preferences, allowing you to compare options.",
+        "@type": "Answer",
+        "description": "Hallway remodel costs vary greatly depending on project scope and materials. Minor updates are less expensive than complete overhauls, which can include new flooring or custom millwork."
+      }
+    }
+  ],
+  "description": "Hallway remodel costs vary greatly depending on project scope and materials. Minor updates are less expensive than complete overhauls, which can include new flo"
+}

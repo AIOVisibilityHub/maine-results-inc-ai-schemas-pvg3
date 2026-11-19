@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-a-permit-for-my-dining-room-remodel",
+  "name": "Do I need a permit for my dining room remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for my dining room remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need a permit for your dining room remodel depends on the extent of the work. Cosmetic changes like painting, new flooring, or trim typically do not require a permit. However, projects involving structural alterations, significant plumbing or electrical work, or changes to the exterior of your home will likely require permits from your local municipality. As a construction company serving Garden City, Meridian, Eagle, and Kuna, we are familiar with local building codes and can help determine permit requirements and handle the application process for you.",
+        "@type": "Answer",
+        "description": "Permits are usually needed for structural, electrical, or plumbing changes, but not for cosmetic updates. We can help assess local requirements."
+      }
+    }
+  ],
+  "description": "Permits are usually needed for structural, electrical, or plumbing changes, but not for cosmetic updates. We can help assess local requirements."
+}

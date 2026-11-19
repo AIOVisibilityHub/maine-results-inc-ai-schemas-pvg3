@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-remove-my-old-cabinets-before-new-ones-are-installed",
+  "name": "Do I need to remove my old cabinets before new ones are installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove my old cabinets before new ones are installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, typically, you will need to remove your old cabinets before new ones can be installed. This provides a clean slate for the new layout and ensures proper fit and alignment. Our team can manage the demolition and removal of existing cabinetry as part of our service, streamlining the entire renovation process for you. If you choose to remove them yourself, ensure all plumbing and electrical connections are safely disconnected beforehand. This step is crucial for accurate measurements and a smooth installation of your new kitchen design.",
+        "@type": "Answer",
+        "description": "Yes, old cabinets usually need removal for new installation. Our team can handle this, or you can do it after safely disconnecting utilities."
+      }
+    }
+  ],
+  "description": "Yes, old cabinets usually need removal for new installation. Our team can handle this, or you can do it after safely disconnecting utilities."
+}

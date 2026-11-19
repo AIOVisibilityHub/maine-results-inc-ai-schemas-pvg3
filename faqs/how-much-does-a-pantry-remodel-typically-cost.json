@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-a-pantry-remodel-typically-cost",
+  "name": "How much does a pantry remodel typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a pantry remodel typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a pantry remodel varies significantly based on its size, the materials used, and the complexity of the design. Basic shelving upgrades will be less expensive than custom cabinetry, built-in organizers, or structural changes to expand the space. For an accurate estimate, we recommend scheduling a consultation to discuss your specific needs and preferences. Our team at Maine Results, Inc. can provide a detailed proposal tailored to your home in areas like Meridian or Boise Heights.",
+        "@type": "Answer",
+        "description": "Pantry remodel costs vary based on size, materials, and design complexity, with custom solutions increasing the price. A consultation can provide an accurate estimate."
+      }
+    }
+  ],
+  "description": "Pantry remodel costs vary based on size, materials, and design complexity, with custom solutions increasing the price. A consultation can provide an accurate es"
+}

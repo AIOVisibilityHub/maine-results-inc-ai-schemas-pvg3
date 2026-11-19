@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-do-i-need-to-do-before-an-attic-remodel-project-begins",
+  "name": "What preparation do I need to do before an attic remodel project begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before an attic remodel project begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before an attic remodel project begins, it's helpful to clear out the attic space, removing any stored items to provide clear access for our team. It's also beneficial to have a clear idea of your desired layout and finishes, as this will streamline the design phase. Consider any existing HVAC ducts, plumbing lines, or electrical wiring in the attic that may need to be rerouted or upgraded. Gathering these details beforehand aids in a smoother start to the project and helps us refine the plan to your specifications.",
+        "@type": "Answer",
+        "description": "Before an attic remodel, clear the space, define your desired layout and finishes, and consider existing utilities to prepare for the project."
+      }
+    }
+  ],
+  "description": "Before an attic remodel, clear the space, define your desired layout and finishes, and consider existing utilities to prepare for the project."
+}

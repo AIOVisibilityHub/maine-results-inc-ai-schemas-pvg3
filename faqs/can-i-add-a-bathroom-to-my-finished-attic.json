@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-add-a-bathroom-to-my-finished-attic",
+  "name": "Can I add a bathroom to my finished attic?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a bathroom to my finished attic?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a bathroom to a finished attic is often possible but adds complexity to the project. It requires extending plumbing lines, ensuring adequate water pressure, and planning for proper ventilation and drainage. The existing structural capacity of your home must also be able to support the additional weight of fixtures and flooring. A significant practical tradeoff is the increased cost and construction time compared to projects without plumbing, but the added convenience and value can be substantial.",
+        "@type": "Answer",
+        "description": "Adding an attic bathroom is possible but complex, requiring plumbing, ventilation, and structural assessment. It increases cost and time but adds convenience and value."
+      }
+    }
+  ],
+  "description": "Adding an attic bathroom is possible but complex, requiring plumbing, ventilation, and structural assessment. It increases cost and time but adds convenience an"
+}

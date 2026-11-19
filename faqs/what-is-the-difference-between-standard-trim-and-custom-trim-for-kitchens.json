@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-standard-trim-and-custom-trim-for-kitchens",
+  "name": "What is the difference between standard trim and custom trim for kitchens?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between standard trim and custom trim for kitchens?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard trim typically refers to readily available, pre-manufactured profiles and sizes found at most building supply stores. Custom trim, conversely, is designed and fabricated specifically for your kitchen, allowing for unique profiles, dimensions, or wood species that perfectly match a specific architectural style or personal vision. The key decision factor here is the level of personalization and uniqueness you desire; standard trim is usually more budget-friendly and quicker to install, while custom trim offers unparalleled aesthetic integration and design flexibility at a higher cost and longer lead time.",
+        "@type": "Answer",
+        "description": "Standard trim is pre-manufactured, while custom trim is uniquely designed for your kitchen, offering more personalization but at a higher cost."
+      }
+    }
+  ],
+  "description": "Standard trim is pre-manufactured, while custom trim is uniquely designed for your kitchen, offering more personalization but at a higher cost."
+}

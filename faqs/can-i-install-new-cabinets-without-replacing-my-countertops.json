@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-install-new-cabinets-without-replacing-my-countertops",
+  "name": "Can I install new cabinets without replacing my countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install new cabinets without replacing my countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's possible to install new cabinets without replacing your countertops, it can present challenges and may not always be ideal. Countertops are typically installed after cabinets are in place and are often custom-cut to fit the specific cabinet layout. If you keep your existing countertops, they might not align perfectly with the new cabinet dimensions, potentially leaving gaps or requiring modifications. In some cases, existing countertops could be damaged during cabinet removal or installation. It's a practical tradeoff to consider the potential for damage versus the cost savings, as often, replacing both ensures a seamless and updated kitchen appearance.",
+        "@type": "Answer",
+        "description": "Installing new cabinets without replacing countertops is possible but can lead to alignment issues or damage. Replacing both often ensures a better fit."
+      }
+    }
+  ],
+  "description": "Installing new cabinets without replacing countertops is possible but can lead to alignment issues or damage. Replacing both often ensures a better fit."
+}

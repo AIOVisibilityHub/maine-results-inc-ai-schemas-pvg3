@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-should-i-do-before-maine-results-inc-arrives-to-install-my-vani",
+  "name": "What preparation should I do before Maine Results, Inc. arrives to install my vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation should I do before Maine Results, Inc. arrives to install my vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our team arrives for your vanity installation, please clear the area around the old vanity, removing all personal items from cabinets, drawers, and countertops. It's helpful to also clear a path to the bathroom for our tools and materials. If you have chosen a specific vanity that requires assembly or has particular instructions, having those readily available can also assist in a smooth installation process.",
+        "@type": "Answer",
+        "description": "Clear the bathroom area and vanity of all personal items, and ensure a clear path for tools before installation."
+      }
+    }
+  ],
+  "description": "Clear the bathroom area and vanity of all personal items, and ensure a clear path for tools before installation."
+}

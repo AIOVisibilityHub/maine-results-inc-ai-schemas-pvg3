@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-when-choosing-the-right-size-and-shape-for-my-kitchen-isl",
+  "name": "What should I consider when choosing the right size and shape for my kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing the right size and shape for my kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting the size and shape of your kitchen island, consider the available floor space and the kitchen's traffic flow. You'll need at least 36-48 inches of clearance around the island for comfortable movement and appliance access. The island's function—whether for cooking, dining, or storage—also dictates its ideal dimensions and layout. We can help you measure your space and visualize different options during an on-site visit to ensure optimal fit and usability.",
+        "@type": "Answer",
+        "description": "Consider kitchen size, traffic flow, and primary function when choosing an island's dimensions and shape, ensuring adequate clearance."
+      }
+    }
+  ],
+  "description": "Consider kitchen size, traffic flow, and primary function when choosing an island's dimensions and shape, ensuring adequate clearance."
+}
