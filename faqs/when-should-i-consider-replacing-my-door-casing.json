@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-my-door-casing",
+  "name": "When should I consider replacing my door casing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my door casing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your door casing if it shows signs of damage like cracks, rot, water stains, or insect damage. Old, worn, or outdated casing can also significantly detract from your home's aesthetic. If you're undertaking a larger renovation, such as replacing interior doors or updating your home's trim style, replacing the casing simultaneously ensures a cohesive look and saves on future labor costs. Maine Results, Inc. can assess your current casing condition and advise on the best approach.",
+        "@type": "Answer",
+        "description": "Replace door casing if it's damaged (cracks, rot, water), outdated, or during a larger home renovation project."
+      }
+    }
+  ],
+  "description": "Replace door casing if it's damaged (cracks, rot, water), outdated, or during a larger home renovation project."
+}

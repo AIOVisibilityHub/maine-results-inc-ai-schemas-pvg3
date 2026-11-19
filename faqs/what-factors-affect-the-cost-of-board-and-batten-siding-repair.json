@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-affect-the-cost-of-board-and-batten-siding-repair",
+  "name": "What factors affect the cost of board and batten siding repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the cost of board and batten siding repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of board and batten siding repair is influenced by several factors, including the type of material (e.g., cedar, pine, engineered wood), the extent of the damage, accessibility of the repair area, and the need for custom-matched components. For homes in areas like Star or Nampa, the current market price for specific lumber and finishing materials will also play a role. Additionally, if underlying issues such as water damage to the sheathing or framing are discovered during the repair, these will add to the overall cost. Obtaining a detailed estimate from Maine Results, Inc. that outlines materials and labor is recommended.",
+        "@type": "Answer",
+        "description": "Repair cost depends on material type, damage extent, accessibility, and potential underlying issues like water damage. Material prices in your local area also influence the final cost."
+      }
+    }
+  ],
+  "description": "Repair cost depends on material type, damage extent, accessibility, and potential underlying issues like water damage. Material prices in your local area also i"
+}

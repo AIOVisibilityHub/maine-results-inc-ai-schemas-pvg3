@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-does-board-and-batten-siding-repair-involve",
+  "name": "What does board and batten siding repair involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does board and batten siding repair involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Board and batten siding repair typically involves inspecting the damaged area, removing compromised boards or battens, and replacing them with new materials that match the existing siding in terms of wood type, profile, and finish. For Maine Results, Inc. in areas like Garden City or Meridian, this often includes addressing weather-related wear and tear common to the region. The process also includes ensuring proper sealing and painting or staining to protect the new components and blend seamlessly with your home's exterior. A key aspect is matching the historical or architectural style, which might involve custom cuts or specific material sourcing.",
+        "@type": "Answer",
+        "description": "Board and batten siding repair involves inspecting, removing, and replacing damaged boards or battens, then sealing and finishing them to match the existing exterior."
+      }
+    }
+  ],
+  "description": "Board and batten siding repair involves inspecting, removing, and replacing damaged boards or battens, then sealing and finishing them to match the existing ext"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-used-for-exterior-window-trim-repair-or-replacement",
+  "name": "What materials are used for exterior window trim repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for exterior window trim repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exterior window trim can be repaired or replaced using various materials, including wood (such as pine or cedar), composite, PVC, or fiber cement. The best material depends on your home's style, local climate conditions, and budget. For example, in the Garden City area, we often recommend materials known for their moisture resistance to withstand local weather fluctuations effectively.",
+        "@type": "Answer",
+        "description": "Materials for exterior window trim include wood, composite, PVC, or fiber cement, chosen based on style, climate, and budget."
+      }
+    }
+  ],
+  "description": "Materials for exterior window trim include wood, composite, PVC, or fiber cement, chosen based on style, climate, and budget."
+}

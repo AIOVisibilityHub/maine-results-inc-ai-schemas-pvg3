@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-differences-between-interior-and-exterior-custom-window-trim",
+  "name": "What are the differences between interior and exterior custom window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the differences between interior and exterior custom window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior and exterior custom window trim serve distinct purposes and use different materials. Interior trim, also known as casing, is primarily decorative, finishing the wall around the window and enhancing indoor aesthetics. Materials often include various wood species or MDF, selected for their appearance and ease of finishing. Exterior trim, on the other hand, protects the window frame from weather, sheds water, and contributes to the home's curb appeal. It requires weather-resistant materials like rot-resistant woods, composites, or PVC. When choosing, consider both the aesthetic harmony with your home's architecture and the practical needs for weather protection.",
+        "@type": "Answer",
+        "description": "Interior trim is decorative for aesthetics, using materials like wood or MDF. Exterior trim is for weather protection and curb appeal, requiring durable, weather-resistant materials."
+      }
+    }
+  ],
+  "description": "Interior trim is decorative for aesthetics, using materials like wood or MDF. Exterior trim is for weather protection and curb appeal, requiring durable, weathe"
+}

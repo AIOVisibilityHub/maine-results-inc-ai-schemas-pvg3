@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-a-chair-rail-and-why-should-i-install-one",
+  "name": "What is a chair rail and why should I install one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a chair rail and why should I install one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A chair rail is a decorative and protective molding installed horizontally on a wall, typically about one-third of the way up from the floor. Its primary purpose is to shield walls from damage caused by chairs, furniture, or other impacts. Beyond protection, chair rails add architectural interest, define spaces, and can complement various interior design styles, from traditional to modern. When considering installation, think about the room's function; for example, dining rooms and hallways often benefit most from the added wall protection and aesthetic enhancement. We can help assess the best placement for both function and visual appeal.",
+        "@type": "Answer",
+        "description": "A chair rail is a wall molding that protects walls from damage and adds decorative interest, commonly installed one-third up from the floor."
+      }
+    }
+  ],
+  "description": "A chair rail is a wall molding that protects walls from damage and adds decorative interest, commonly installed one-third up from the floor."
+}

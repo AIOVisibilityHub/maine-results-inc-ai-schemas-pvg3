@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-s-the-difference-between-traditional-shiplap-and-tongue-and-groove-paneling",
+  "name": "What's the difference between traditional shiplap and tongue and groove paneling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between traditional shiplap and tongue and groove paneling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both traditional shiplap and tongue and groove paneling provide a classic wood-paneled look, their joint mechanisms and resulting aesthetics differ. Traditional shiplap features a rabbet joint where boards overlap slightly, creating a small, distinct gap or 'reveal' between them. This offers a clean, linear look. Tongue and groove paneling, conversely, has one edge with a protruding 'tongue' and the opposite with a 'groove,' allowing boards to interlock tightly without a visible gap, or with a very minimal V-groove. Understanding this practical tradeoff helps you select the aesthetic and installation method best suited for your project's design goals.",
+        "@type": "Answer",
+        "description": "Traditional shiplap uses overlapping rabbet joints for a distinct gap, while tongue and groove paneling interlocks tightly with a tongue and groove, creating a smoother surface. The choice affects the visual gap and installation method."
+      }
+    }
+  ],
+  "description": "Traditional shiplap uses overlapping rabbet joints for a distinct gap, while tongue and groove paneling interlocks tightly with a tongue and groove, creating a"
+}

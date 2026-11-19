@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-a-board-and-batten-project-with-maine-results-in",
+  "name": "What is the typical process for a board and batten project with Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a board and batten project with Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation where we discuss your vision, inspect the walls, and take measurements. Following this, we provide a detailed estimate outlining materials and labor. Once approved, we schedule the installation date. On the day of installation, our team prepares the work area, precisely cuts and installs the boards and battens, and then applies the chosen finish. We ensure clear communication throughout, keeping you informed from project start to completion. For projects in areas like Nampa and Caldwell, we focus on meticulous execution and a clean worksite, delivering a finished product that exceeds expectations.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, detailed estimate, scheduling, meticulous installation, and finish application, with clear communication throughout."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, detailed estimate, scheduling, meticulous installation, and finish application, with clear communication throughout."
+}

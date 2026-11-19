@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-board-and-batten-siding-be-installed-on-any-type-of-exterior-wall",
+  "name": "Can board and batten siding be installed on any type of exterior wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can board and batten siding be installed on any type of exterior wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Board and batten siding can be installed on most exterior wall types, but the existing surface must be structurally sound and free from significant damage, rot, or moisture issues. For example, if your current exterior has extensive water damage or unstable sheathing, these issues must be addressed and repaired prior to siding installation to ensure a secure and long-lasting finish. We conduct a thorough assessment during our initial consultation to identify any such concerns. While board and batten is highly versatile, an unstable or compromised subsurface can affect the longevity and performance of the new siding, regardless of the quality of the materials or installation.",
+        "@type": "Answer",
+        "description": "It can be installed on most exterior walls, provided the surface is structurally sound and free from damage, rot, or moisture issues."
+      }
+    }
+  ],
+  "description": "It can be installed on most exterior walls, provided the surface is structurally sound and free from damage, rot, or moisture issues."
+}

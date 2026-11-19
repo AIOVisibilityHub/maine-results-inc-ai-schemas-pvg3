@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-common-styles-of-wainscoting-and-how-do-i-choose",
+  "name": "What are the common styles of wainscoting and how do I choose?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common styles of wainscoting and how do I choose?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common wainscoting styles include beadboard, raised panel, flat panel, and board and batten. Beadboard offers a casual, cottage-like feel with vertical grooves. Raised panel provides a traditional, formal look with intricate molding. Flat panel, or shaker style, is simpler and more contemporary. Board and batten creates a rustic or modern farmhouse aesthetic with vertical strips and flat panels. To choose, consider your home's existing architectural style and the desired ambiance for the room. A decision factor is how each style contributes to the overall aesthetic you want to achieve, balancing formality, casualness, and period accuracy.",
+        "@type": "Answer",
+        "description": "Wainscoting styles include beadboard, raised panel, flat panel, and board and batten. Choose based on your home's architecture and desired room ambiance, considering how each style impacts the overall aesthetic."
+      }
+    }
+  ],
+  "description": "Wainscoting styles include beadboard, raised panel, flat panel, and board and batten. Choose based on your home's architecture and desired room ambiance, consid"
+}

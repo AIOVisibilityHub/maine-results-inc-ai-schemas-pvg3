@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-custom-window-trim-typically-cost",
+  "name": "How much does custom window trim typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does custom window trim typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of custom window trim varies widely based on several factors, including the type of material, the complexity of the design, the number of windows, and the labor involved. Materials range from various wood species to composite options, each with different price points. Intricate designs with multiple profiles or historical replication will naturally be more expensive than simpler styles. To get an accurate estimate, it's helpful to have an idea of your desired style and materials, and discuss the scope of work with a professional. Consider your budget and design goals, as these will significantly influence the final cost.",
+        "@type": "Answer",
+        "description": "Custom window trim costs depend on material, design complexity, number of windows, and labor. Prepare your desired style and materials for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Custom window trim costs depend on material, design complexity, number of windows, and labor. Prepare your desired style and materials for an accurate estimate."
+}

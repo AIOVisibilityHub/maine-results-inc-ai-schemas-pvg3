@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-install-custom-window-trim-on-an-average-home",
+  "name": "How long does it take to install custom window trim on an average home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install custom window trim on an average home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for installing custom window trim depends on the number of windows, the complexity of the trim design, and whether the trim needs to be custom-milled. For a typical home with a moderate number of windows and a standard design, installation might take anywhere from a few days to a week. If specialized materials need to be ordered or custom profiles need to be created, this can add to the lead time. During the initial consultation, our team can provide a more accurate estimate of the project duration based on your specific home and chosen trim style.",
+        "@type": "Answer",
+        "description": "Installation time varies from a few days to a week for a typical home, depending on the number of windows, design complexity, and if custom milling is required."
+      }
+    }
+  ],
+  "description": "Installation time varies from a few days to a week for a typical home, depending on the number of windows, design complexity, and if custom milling is required."
+}

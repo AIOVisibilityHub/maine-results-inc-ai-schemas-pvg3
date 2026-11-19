@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-differences-between-traditional-and-modern-picture-rail-styles",
+  "name": "What are the differences between traditional and modern picture rail styles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the differences between traditional and modern picture rail styles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Traditional picture rails often feature intricate profiles, such as ogee or cove designs, and are typically made from wood, painted or stained to match historical architectural details. They are usually placed below crown molding. Modern picture rails tend to have simpler, cleaner lines, often a minimalist square or rectangular profile, and can be made from wood, metal, or composite materials. The choice depends on your home's existing aesthetic and your personal preference. Maine Results Inc. can help you select a style that complements your home, whether you're aiming for historical accuracy or a contemporary look, considering the overall architectural context.",
+        "@type": "Answer",
+        "description": "Traditional picture rails have intricate, often wooden, profiles and historical placement, while modern styles are simpler, cleaner, and can use various materials."
+      }
+    }
+  ],
+  "description": "Traditional picture rails have intricate, often wooden, profiles and historical placement, while modern styles are simpler, cleaner, and can use various materia"
+}

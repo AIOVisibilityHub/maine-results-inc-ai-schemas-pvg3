@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-box-molding-be-installed-on-curved-walls-or-uneven-surfaces",
+  "name": "Can box molding be installed on curved walls or uneven surfaces?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can box molding be installed on curved walls or uneven surfaces?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Box molding is designed primarily for flat, planar wall surfaces to achieve its characteristic geometric effect. Installing it on curved walls is generally not recommended as the rigid molding material cannot easily conform to a curve without extensive custom work, which can be costly and may not yield a desirable aesthetic. For uneven surfaces, significant wall preparation is necessary to smooth out imperfections before installation. This ensures proper adhesion and a professional finish, preventing gaps or an inconsistent appearance.",
+        "@type": "Answer",
+        "description": "Box molding is best for flat walls; it's not suitable for curved surfaces. Uneven walls require significant preparation for proper adhesion and a smooth finish."
+      }
+    }
+  ],
+  "description": "Box molding is best for flat walls; it's not suitable for curved surfaces. Uneven walls require significant preparation for proper adhesion and a smooth finish."
+}

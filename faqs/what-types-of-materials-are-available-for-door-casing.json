@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-materials-are-available-for-door-casing",
+  "name": "What types of materials are available for door casing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are available for door casing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door casing is available in a variety of materials, each with distinct characteristics. Common options include solid wood (such as pine, oak, or poplar) for a classic look and durability, MDF (medium-density fiberboard) for an economical and smooth paintable surface, and composite materials that offer moisture resistance. The choice often depends on your budget, desired aesthetic, and the room's moisture levels. Our team at Maine Results, Inc. can help you compare options based on your home's style and your practical needs.",
+        "@type": "Answer",
+        "description": "Common door casing materials include solid wood (pine, oak), MDF (economical), and moisture-resistant composites, each with different looks and costs."
+      }
+    }
+  ],
+  "description": "Common door casing materials include solid wood (pine, oak), MDF (economical), and moisture-resistant composites, each with different looks and costs."
+}

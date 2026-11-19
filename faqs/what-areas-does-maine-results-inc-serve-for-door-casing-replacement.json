@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-areas-does-maine-results-inc-serve-for-door-casing-replacement",
+  "name": "What areas does Maine Results, Inc. serve for door casing replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas does Maine Results, Inc. serve for door casing replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. provides door casing replacement services to homes and businesses in Garden City, Meridian, Eagle, and Kuna. We bring our expertise and quality craftsmanship directly to these communities. Our local presence allows us to respond promptly and understand the specific architectural styles and customer needs prevalent in these areas. If you are located within these cities, our team is ready to assist you with your door casing project.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. serves Garden City, Meridian, Eagle, and Kuna for door casing replacement, offering local expertise."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. serves Garden City, Meridian, Eagle, and Kuna for door casing replacement, offering local expertise."
+}

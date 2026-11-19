@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-shiplap-be-installed-in-bathrooms-or-other-high-moisture-areas",
+  "name": "Can shiplap be installed in bathrooms or other high-moisture areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can shiplap be installed in bathrooms or other high-moisture areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, shiplap can be installed in bathrooms and other high-moisture areas, but it requires specific considerations to prevent moisture damage. We recommend using materials specifically treated for moisture resistance, such as PVC shiplap or wood that has been properly sealed and painted with moisture-resistant paint. Ensuring adequate ventilation in these spaces is also critical to minimize humidity buildup. When planning for a bathroom installation, we discuss these material and ventilation options with you to ensure durability and longevity in a high-humidity environment.",
+        "@type": "Answer",
+        "description": "Shiplap can be installed in high-moisture areas like bathrooms using moisture-resistant materials and proper sealing. Adequate ventilation is also crucial to ensure durability and prevent damage."
+      }
+    }
+  ],
+  "description": "Shiplap can be installed in high-moisture areas like bathrooms using moisture-resistant materials and proper sealing. Adequate ventilation is also crucial to en"
+}

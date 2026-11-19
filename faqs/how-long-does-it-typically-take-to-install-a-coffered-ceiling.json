@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-typically-take-to-install-a-coffered-ceiling",
+  "name": "How long does it typically take to install a coffered ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to install a coffered ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a coffered ceiling installation varies based on the room size, complexity of the design, and the materials chosen. A standard room might take a few days, while larger or more intricate designs could extend to a week or more. Preparation work, such as ensuring the existing ceiling is structurally sound and level, can also impact the timeline. We provide a detailed project schedule upfront, so you know what to expect from start to finish.",
+        "@type": "Answer",
+        "description": "Installation time varies, typically a few days to over a week, depending on room size, design complexity, and materials."
+      }
+    }
+  ],
+  "description": "Installation time varies, typically a few days to over a week, depending on room size, design complexity, and materials."
+}

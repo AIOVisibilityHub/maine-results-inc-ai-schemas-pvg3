@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-paint-or-finish-new-door-casing-after-installation",
+  "name": "Do I need to paint or finish new door casing after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to paint or finish new door casing after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, most new door casing materials, especially wood or MDF, will need to be painted or stained after installation to match your home's interior. This step protects the material and ensures a finished look. If you choose pre-primed casing, it will still require a topcoat of paint. We recommend applying a high-quality primer before painting to achieve the best adhesion and a smooth finish. Maine Results, Inc. focuses on the installation, but we can advise on the best finishing practices for the chosen material.",
+        "@type": "Answer",
+        "description": "Most new door casing requires painting or staining after installation to match your interior and protect the material; pre-primed still needs a topcoat."
+      }
+    }
+  ],
+  "description": "Most new door casing requires painting or staining after installation to match your interior and protect the material; pre-primed still needs a topcoat."
+}

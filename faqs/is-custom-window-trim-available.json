@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/is-custom-window-trim-available",
+  "name": "Is custom window trim available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is custom window trim available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, custom window trim is available and often desirable for unique architectural styles or specific design visions. Custom trim can be crafted to match historical profiles, replicate intricate details, or achieve a particular aesthetic not found in standard options. While custom work may incur additional costs and a longer lead time, it provides an opportunity for a truly bespoke finish that perfectly suits your home. Discussing your specific needs with a professional can help determine the feasibility and cost of custom options.",
+        "@type": "Answer",
+        "description": "Custom window trim is available for unique architectural styles or specific designs, offering a bespoke finish."
+      }
+    }
+  ],
+  "description": "Custom window trim is available for unique architectural styles or specific designs, offering a bespoke finish."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-determine-the-correct-height-for-my-chair-rail",
+  "name": "How do I determine the correct height for my chair rail?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I determine the correct height for my chair rail?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The standard height for a chair rail is typically between 32 and 36 inches from the floor to the top edge of the rail, which roughly aligns with the back of most dining chairs. However, the ideal height depends on several factors, including ceiling height, wall treatments below and above the rail, and the specific furniture in the room. For instance, in rooms with very tall ceilings, a slightly higher placement might look more balanced. During our consultation, we measure your room's dimensions and discuss your furniture layout to ensure the chair rail's height is both functional and aesthetically pleasing for your space.",
+        "@type": "Answer",
+        "description": "Standard chair rail height is 32-36 inches from the floor, but ideal placement depends on ceiling height, wall treatments, and furniture in the room."
+      }
+    }
+  ],
+  "description": "Standard chair rail height is 32-36 inches from the floor, but ideal placement depends on ceiling height, wall treatments, and furniture in the room."
+}

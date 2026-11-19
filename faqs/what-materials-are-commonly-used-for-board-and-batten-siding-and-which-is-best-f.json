@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-commonly-used-for-board-and-batten-siding-and-which-is-best-f",
+  "name": "What materials are commonly used for board and batten siding, and which is best for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for board and batten siding, and which is best for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for board and batten siding include natural wood (like cedar, pine, or redwood), engineered wood products, and fiber cement. Natural wood offers a classic, rustic appeal and can be stained or painted, but requires more maintenance to prevent rot or insect damage. Engineered wood provides consistent quality and durability with less upkeep. Fiber cement is highly resistant to rot, pests, and fire, offering excellent longevity. The 'best' material depends on your aesthetic preference, budget, desired maintenance level, and local climate considerations. For instance, in our service areas like Caldwell or Middleton, homeowners often balance appearance with resilience to varying weather, and we can discuss how each material performs in these conditions.",
+        "@type": "Answer",
+        "description": "Materials include natural wood, engineered wood, and fiber cement; the best choice depends on aesthetics, budget, maintenance, and climate."
+      }
+    }
+  ],
+  "description": "Materials include natural wood, engineered wood, and fiber cement; the best choice depends on aesthetics, budget, maintenance, and climate."
+}

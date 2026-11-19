@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-professionals-match-existing-wainscoting-during-repairs",
+  "name": "How do professionals match existing wainscoting during repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals match existing wainscoting during repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professionals match existing wainscoting by carefully assessing the original material, profile, and finish. This often involves identifying the wood species, determining the paint or stain color, and replicating any specific molding patterns. For painted wainscoting, color matching technology can help achieve an exact shade. For stained wood, blending techniques are used. When a section needs replacement, finding or custom-milling a piece that perfectly fits the existing profile is crucial. Maine Results, Inc. pays close attention to these details, which is especially important for preserving the aesthetic in older homes found in areas like the Boise Heights or North End districts where unique architectural elements are common.",
+        "@type": "Answer",
+        "description": "Professionals match wainscoting by identifying original material, profile, and finish, using color matching for paint or blending for stain, and custom-milling for replacement sections."
+      }
+    }
+  ],
+  "description": "Professionals match wainscoting by identifying original material, profile, and finish, using color matching for paint or blending for stain, and custom-milling"
+}

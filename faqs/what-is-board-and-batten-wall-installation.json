@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-board-and-batten-wall-installation",
+  "name": "What is board and batten wall installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is board and batten wall installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Board and batten wall installation involves applying strips of wood, known as battens, over the seams or on top of a base of wider boards, creating a distinctive pattern with vertical lines and added texture. This classic style offers a durable and aesthetically pleasing finish that can enhance various interior design themes, from modern farmhouse to contemporary. The process typically includes preparing the wall surface, carefully measuring and cutting the boards and battens, and then securely attaching them to create the desired look. We often advise clients to consider the existing wall condition, as this affects preparation time and material adhesion, ensuring a lasting result.",
+        "@type": "Answer",
+        "description": "Board and batten wall installation adds vertical strips (battens) over or between wider boards, creating a textured, classic look."
+      }
+    }
+  ],
+  "description": "Board and batten wall installation adds vertical strips (battens) over or between wider boards, creating a textured, classic look."
+}

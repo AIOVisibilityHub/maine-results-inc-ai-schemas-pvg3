@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-installing-new-window-casing",
+  "name": "What is the typical process for installing new window casing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for installing new window casing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for installing new window casing generally begins with careful measurements of the window opening. Old casing is removed, and the area is cleaned and prepared. New casing pieces are then cut to precise lengths and angles, often mitered at the corners for a clean joint. They are secured to the wall studs around the window using nails. Finally, nail holes are filled, and the casing is sanded and prepared for painting or staining. For Maine Results, process clarity means ensuring minimal disruption to your home during installation and leaving a clean, finished workspace. We focus on precise cuts and secure fastening to ensure a lasting result.",
+        "@type": "Answer",
+        "description": "Installation involves measuring, cutting, securing new casing around the window, then filling nail holes and preparing for finishing."
+      }
+    }
+  ],
+  "description": "Installation involves measuring, cutting, securing new casing around the window, then filling nail holes and preparing for finishing."
+}

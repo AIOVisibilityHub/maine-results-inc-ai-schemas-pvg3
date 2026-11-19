@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-door-casing-replacement-with-maine-results-inc",
+  "name": "What is the process for door casing replacement with Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for door casing replacement with Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for door casing replacement begins with an initial consultation where we assess your current casing, discuss your aesthetic preferences, and help you select suitable materials. We then provide a detailed estimate. Once approved, our team carefully removes the old casing, prepares the door frame and wall surfaces, and precisely cuts and installs the new casing. We finish by filling nail holes and ensuring the area is clean. We prioritize clear communication throughout the project, from selection to final walkthrough.",
+        "@type": "Answer",
+        "description": "The process involves consultation, material selection, detailed estimate, old casing removal, surface prep, new casing installation, and finishing."
+      }
+    }
+  ],
+  "description": "The process involves consultation, material selection, detailed estimate, old casing removal, surface prep, new casing installation, and finishing."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-paint-walls-before-or-after-panel-molding-installation",
+  "name": "Do I need to paint walls before or after panel molding installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to paint walls before or after panel molding installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally more efficient and yields a cleaner result to paint the walls first, especially the base color, before panel molding installation. This allows for easier and faster painting of the large wall areas. Once the molding is installed, we can then caulk, fill, and apply the final paint coats to the molding and touch up the walls as needed. This preparation step helps ensure crisp lines and a professional finish, which is a key part of our process.",
+        "@type": "Answer",
+        "description": "It's best to paint the walls (base color) before installation, then paint the molding and touch up walls afterwards for a cleaner finish."
+      }
+    }
+  ],
+  "description": "It's best to paint the walls (base color) before installation, then paint the molding and touch up walls afterwards for a cleaner finish."
+}

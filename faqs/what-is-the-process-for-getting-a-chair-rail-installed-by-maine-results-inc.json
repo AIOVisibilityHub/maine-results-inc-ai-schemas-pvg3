@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-getting-a-chair-rail-installed-by-maine-results-inc",
+  "name": "What is the process for getting a chair rail installed by Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting a chair rail installed by Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for chair rail installation begins with an initial consultation where we discuss your vision, review material options, and take precise measurements of the areas where you want the chair rail installed. We then provide a detailed quote outlining the scope of work and associated costs. Once approved, our team schedules the installation at a time convenient for you. We handle all aspects, from wall preparation and cutting the molding to securing it firmly and finishing it according to your preferences. We always aim for minimal disruption to your daily routine and ensure a clean workspace upon completion.",
+        "@type": "Answer",
+        "description": "Our chair rail installation process involves an initial consultation, detailed quote, scheduled installation with wall prep and finishing, and a clean project completion."
+      }
+    }
+  ],
+  "description": "Our chair rail installation process involves an initial consultation, detailed quote, scheduled installation with wall prep and finishing, and a clean project c"
+}

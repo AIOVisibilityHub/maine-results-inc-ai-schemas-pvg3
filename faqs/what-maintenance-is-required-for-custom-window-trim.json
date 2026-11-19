@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-maintenance-is-required-for-custom-window-trim",
+  "name": "What maintenance is required for custom window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for custom window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The maintenance required for custom window trim largely depends on the material chosen and whether it's interior or exterior. Interior trim generally needs minimal upkeep, perhaps occasional dusting and repainting every few years to refresh its look. Exterior trim, exposed to the elements, requires more attention. Wood trim will need regular cleaning, painting or staining every 3-7 years to protect it from moisture and UV damage. Composite or PVC trims are very low maintenance, typically only needing periodic cleaning. Consider your willingness to perform ongoing maintenance when selecting materials, as this is a practical tradeoff for different aesthetic and durability properties.",
+        "@type": "Answer",
+        "description": "Maintenance varies by material: interior trim needs dusting and occasional repainting, while exterior wood trim requires regular cleaning and repainting/staining. Composites are low maintenance."
+      }
+    }
+  ],
+  "description": "Maintenance varies by material: interior trim needs dusting and occasional repainting, while exterior wood trim requires regular cleaning and repainting/stainin"
+}

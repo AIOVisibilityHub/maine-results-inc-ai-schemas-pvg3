@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-window-trim-are-available-for-installation",
+  "name": "What types of window trim are available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of window trim are available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are various types of window trim materials, each with distinct characteristics. Common options include wood (which offers classic aesthetics and can be painted or stained), PVC (a low-maintenance, rot-resistant alternative), and composite materials (which combine the benefits of wood and synthetics). The best choice often depends on your home's style, desired durability, and maintenance preferences. For example, if you prefer a historical look, natural wood might be a priority, but if low upkeep is key, PVC could be more suitable.",
+        "@type": "Answer",
+        "description": "Common window trim materials include wood, PVC, and composite, each offering different aesthetics, durability, and maintenance requirements."
+      }
+    }
+  ],
+  "description": "Common window trim materials include wood, PVC, and composite, each offering different aesthetics, durability, and maintenance requirements."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-door-casing-replacement",
+  "name": "What factors influence the cost of door casing replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of door casing replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of door casing replacement depends on several factors, including the type and material of the new casing, the number of doors needing replacement, and the complexity of the installation. More intricate profiles or premium wood species will naturally cost more than standard MDF or pine. Additional costs may arise if there's extensive damage to the underlying door frame or wall that needs repair before new casing can be installed. Maine Results, Inc. provides detailed estimates after assessing your specific project needs.",
+        "@type": "Answer",
+        "description": "Cost varies based on casing material, profile complexity, number of doors, and any necessary repairs to the door frame or wall."
+      }
+    }
+  ],
+  "description": "Cost varies based on casing material, profile complexity, number of doors, and any necessary repairs to the door frame or wall."
+}

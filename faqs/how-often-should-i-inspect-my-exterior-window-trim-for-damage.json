@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-often-should-i-inspect-my-exterior-window-trim-for-damage",
+  "name": "How often should I inspect my exterior window trim for damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I inspect my exterior window trim for damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is recommended to inspect your exterior window trim at least once a year, typically in the spring or fall, to catch any potential damage early. After severe weather events, such as heavy rain, hail, or strong winds, an additional inspection is advisable. Regular visual checks allow you to identify issues like cracks, peeling paint, or soft spots before they escalate into major problems, protecting your home from water intrusion and further deterioration. This proactive approach helps maintain your home's exterior.",
+        "@type": "Answer",
+        "description": "Inspect exterior window trim at least annually, especially after severe weather, to identify damage early and prevent larger issues."
+      }
+    }
+  ],
+  "description": "Inspect exterior window trim at least annually, especially after severe weather, to identify damage early and prevent larger issues."
+}

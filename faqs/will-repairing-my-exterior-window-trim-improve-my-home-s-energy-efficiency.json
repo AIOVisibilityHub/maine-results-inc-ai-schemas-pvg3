@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/will-repairing-my-exterior-window-trim-improve-my-home-s-energy-efficiency",
+  "name": "Will repairing my exterior window trim improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will repairing my exterior window trim improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, repairing damaged exterior window trim can contribute to improved home energy efficiency. Damaged or poorly sealed trim can create gaps, allowing air leaks that compromise your home's insulation and increase energy bills. Proper repair and sealing prevent these drafts, helping maintain consistent indoor temperatures. This is a common benefit our customers in areas like Meridian observe after repairs.",
+        "@type": "Answer",
+        "description": "Yes, repairing damaged exterior window trim can improve energy efficiency by preventing air leaks and drafts, reducing energy bills."
+      }
+    }
+  ],
+  "description": "Yes, repairing damaged exterior window trim can improve energy efficiency by preventing air leaks and drafts, reducing energy bills."
+}

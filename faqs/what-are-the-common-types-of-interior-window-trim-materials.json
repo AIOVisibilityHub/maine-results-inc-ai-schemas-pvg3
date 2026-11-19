@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-common-types-of-interior-window-trim-materials",
+  "name": "What are the common types of interior window trim materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of interior window trim materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior window trim primarily uses wood, MDF (medium-density fiberboard), or PVC. Wood options like pine, oak, or maple offer a classic look and can be stained or painted. MDF is an engineered wood product that is cost-effective, uniform, and excellent for painting, but less resistant to moisture. PVC is a durable, moisture-resistant, and low-maintenance synthetic option, often used in bathrooms or high-humidity areas. Your choice depends on your aesthetic preference, budget, and the room's conditions. For instance, PVC can be a practical tradeoff for durability in wet areas, while wood offers a richer finish.",
+        "@type": "Answer",
+        "description": "Common interior window trim materials include wood, MDF, and PVC, each offering different aesthetics, durability, and cost."
+      }
+    }
+  ],
+  "description": "Common interior window trim materials include wood, MDF, and PVC, each offering different aesthetics, durability, and cost."
+}

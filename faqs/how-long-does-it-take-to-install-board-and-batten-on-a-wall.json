@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-install-board-and-batten-on-a-wall",
+  "name": "How long does it take to install board and batten on a wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install board and batten on a wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a board and batten installation project can range from one to several days, depending on the wall size, design intricacy, and any necessary wall preparation. A single accent wall might be completed faster than an entire room. During our project planning, we establish a clear timeline, detailing the steps from material delivery to final paint application. We prioritize efficient workflow while maintaining quality craftsmanship, ensuring minimal disruption to your home life in areas such as Garden City or Caldwell.",
+        "@type": "Answer",
+        "description": "Installation time varies by wall size, design, and preparation, typically taking one to several days per project."
+      }
+    }
+  ],
+  "description": "Installation time varies by wall size, design, and preparation, typically taking one to several days per project."
+}

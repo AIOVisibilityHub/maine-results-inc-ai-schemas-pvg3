@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-window-trim-installation-services-in-meridian-idaho",
+  "name": "Do you offer window trim installation services in Meridian, Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer window trim installation services in Meridian, Idaho?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we provide window trim installation services in Meridian, Idaho, as well as Garden City, Eagle, and Kuna. Our team is familiar with the architectural styles and common building practices in the Treasure Valley area. When planning your project in Meridian, we consider local weather conditions and material suitability to ensure your trim is both aesthetically pleasing and durable for the Idaho climate. We ensure the materials selected will perform well in our local conditions.",
+        "@type": "Answer",
+        "description": "Yes, we offer window trim installation in Meridian, Idaho, along with Garden City, Eagle, and Kuna, considering local conditions for durability."
+      }
+    }
+  ],
+  "description": "Yes, we offer window trim installation in Meridian, Idaho, along with Garden City, Eagle, and Kuna, considering local conditions for durability."
+}

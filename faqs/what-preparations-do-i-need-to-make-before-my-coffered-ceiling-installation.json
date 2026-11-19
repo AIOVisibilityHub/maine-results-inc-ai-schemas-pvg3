@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparations-do-i-need-to-make-before-my-coffered-ceiling-installation",
+  "name": "What preparations do I need to make before my coffered ceiling installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations do I need to make before my coffered ceiling installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before installation begins, it's helpful to clear the room of furniture and valuables to provide unobstructed access for our team. We also recommend discussing any plans for integrated lighting or audio systems beforehand, as wiring might need to be run within the new structure. Providing us with clear access and communicating any specific requirements or concerns you have will help ensure a smooth and efficient project start.",
+        "@type": "Answer",
+        "description": "Clear the room of furniture and valuables, and discuss any plans for integrated lighting or audio systems prior to installation."
+      }
+    }
+  ],
+  "description": "Clear the room of furniture and valuables, and discuss any plans for integrated lighting or audio systems prior to installation."
+}

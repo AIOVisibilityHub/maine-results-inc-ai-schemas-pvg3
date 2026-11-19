@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-do-i-need-to-do-before-ceiling-molding-installation",
+  "name": "What preparation do I need to do before ceiling molding installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before ceiling molding installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our team arrives for ceiling molding installation, it is helpful to clear the room of furniture and decorative items to allow unobstructed access to the walls and ceiling. If items cannot be moved, please cover them with drop cloths. Ensuring the walls are clean and free of loose debris also helps. This preparation step allows our installers to work efficiently and safely, minimizing disruptions and ensuring a smoother installation process.",
+        "@type": "Answer",
+        "description": "Clear the room of furniture and decor or cover them to provide clear access to walls and ceilings. Ensure walls are clean and free of debris."
+      }
+    }
+  ],
+  "description": "Clear the room of furniture and decor or cover them to provide clear access to walls and ceilings. Ensure walls are clean and free of debris."
+}

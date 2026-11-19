@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparations-do-i-need-to-make-before-wall-molding-is-installed",
+  "name": "What preparations do I need to make before wall molding is installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations do I need to make before wall molding is installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before wall molding installation begins, it's helpful to clear the work area by moving furniture away from the walls and removing any wall decor. If existing molding needs to be removed, we handle that as part of our service. Ensure that any electrical outlets or switches along the walls are accessible. For paint-ready molding, it's beneficial if walls are clean and free of significant debris. Considering your preferred paint color for the molding beforehand can also streamline the process, as molding is often painted after installation for a seamless finish.",
+        "@type": "Answer",
+        "description": "Clear the work area, move furniture, and ensure wall access. Consider your paint color choice for the molding, as it's often painted after installation."
+      }
+    }
+  ],
+  "description": "Clear the work area, move furniture, and ensure wall access. Consider your paint color choice for the molding, as it's often painted after installation."
+}

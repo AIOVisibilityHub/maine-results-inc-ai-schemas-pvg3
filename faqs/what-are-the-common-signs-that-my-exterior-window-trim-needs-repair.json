@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-common-signs-that-my-exterior-window-trim-needs-repair",
+  "name": "What are the common signs that my exterior window trim needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my exterior window trim needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your exterior window trim needs repair include visible cracks, peeling paint, soft or rotting wood, and gaps between the trim and the siding or window frame. Noticing these issues early can prevent more extensive damage to your home's structure. If you see recurring moisture stains or draftiness around your windows, it's also a good indicator that the trim might be compromised and needs attention to maintain your home's energy efficiency and weather protection.",
+        "@type": "Answer",
+        "description": "Visible cracks, peeling paint, soft wood, and gaps around the window trim are common signs that indicate a need for repair."
+      }
+    }
+  ],
+  "description": "Visible cracks, peeling paint, soft wood, and gaps around the window trim are common signs that indicate a need for repair."
+}

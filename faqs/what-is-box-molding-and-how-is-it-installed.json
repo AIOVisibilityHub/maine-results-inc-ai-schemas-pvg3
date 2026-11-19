@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-box-molding-and-how-is-it-installed",
+  "name": "What is box molding and how is it installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is box molding and how is it installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Box molding, also known as picture frame molding, is a decorative trim applied to walls to create a recessed panel or frame effect. It adds architectural detail and depth to a room. The installation process typically involves careful measurement, cutting the molding pieces to precise angles, and then securely attaching them to the wall using adhesive and small fasteners. For a clean finish, the seams are caulked, and the molding is painted to match or complement the wall color. Proper planning ensures the boxes are evenly spaced and sized appropriately for the wall dimensions.",
+        "@type": "Answer",
+        "description": "Box molding is a decorative trim applied to walls to create a framed panel effect. Installation involves measuring, cutting, attaching, caulking, and painting the molding."
+      }
+    }
+  ],
+  "description": "Box molding is a decorative trim applied to walls to create a framed panel effect. Installation involves measuring, cutting, attaching, caulking, and painting t"
+}

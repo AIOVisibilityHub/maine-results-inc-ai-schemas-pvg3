@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-common-issues-require-wainscoting-repair",
+  "name": "What common issues require wainscoting repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common issues require wainscoting repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common issues requiring wainscoting repair include water damage, dents, scratches, cracks, and general wear and tear. Water damage often leads to warping, swelling, or mold growth, especially in bathrooms or kitchens. Dents and scratches can occur from furniture impacts or everyday activity. Over time, wood can also crack due to changes in humidity or structural shifts. Understanding the specific damage helps determine the best repair method, whether it's a simple patch or replacing entire panels.",
+        "@type": "Answer",
+        "description": "Common issues for wainscoting repair include water damage, dents, scratches, cracks, and general wear from daily use."
+      }
+    }
+  ],
+  "description": "Common issues for wainscoting repair include water damage, dents, scratches, cracks, and general wear from daily use."
+}

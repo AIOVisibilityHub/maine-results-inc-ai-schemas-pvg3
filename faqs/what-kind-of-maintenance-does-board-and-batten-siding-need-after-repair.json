@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-maintenance-does-board-and-batten-siding-need-after-repair",
+  "name": "What kind of maintenance does board and batten siding need after repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does board and batten siding need after repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After board and batten siding repair, ongoing maintenance is crucial to prolong its lifespan and protect your investment. This typically includes regular cleaning to prevent mold and mildew, periodic inspections for signs of new damage or wear, and repainting or restaining as needed, usually every 5-10 years depending on the finish and exposure to the elements. For homes in Boise Heights or Borah, addressing any small cracks or gaps promptly will prevent water intrusion and more extensive damage. Maine Results, Inc. can provide guidance on appropriate sealants and finishes to maintain the repaired sections.",
+        "@type": "Answer",
+        "description": "Post-repair maintenance includes regular cleaning, periodic inspections, and repainting/restaining every 5-10 years. Promptly address small cracks to prevent water damage."
+      }
+    }
+  ],
+  "description": "Post-repair maintenance includes regular cleaning, periodic inspections, and repainting/restaining every 5-10 years. Promptly address small cracks to prevent wa"
+}

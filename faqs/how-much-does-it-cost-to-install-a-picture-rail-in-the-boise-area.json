@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-it-cost-to-install-a-picture-rail-in-the-boise-area",
+  "name": "How much does it cost to install a picture rail in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install a picture rail in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to install a picture rail varies based on the length of rail needed, the complexity of your room layout, the type of material chosen, and any necessary wall preparation. Factors like intricate corners, curved walls, or the need to match existing historical moldings can increase labor time. While we can't provide an exact quote without an assessment, Maine Results Inc. offers free, detailed estimates for installations in Garden City, Meridian, Eagle, Kuna, and Star, ensuring you understand the full scope before we begin. We focus on transparent pricing for quality craftsmanship.",
+        "@type": "Answer",
+        "description": "Picture rail installation costs vary by length, complexity, material, and preparation; Maine Results Inc. provides free estimates in the Boise area."
+      }
+    }
+  ],
+  "description": "Picture rail installation costs vary by length, complexity, material, and preparation; Maine Results Inc. provides free estimates in the Boise area."
+}

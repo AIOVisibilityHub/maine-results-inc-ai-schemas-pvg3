@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-replace-door-casing",
+  "name": "How long does it take to replace door casing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace door casing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to replace door casing depends on the number of doors, the material chosen, and the complexity of the installation. For a single door, replacement can often be completed within a few hours. However, if multiple doors are involved or if extensive prep work like removing old adhesive or repairing underlying wall damage is necessary, the project will take longer. Maine Results, Inc. schedules projects efficiently and will provide a realistic timeline upfront.",
+        "@type": "Answer",
+        "description": "Door casing replacement time varies; a single door can be a few hours, but multiple doors or complex repairs extend the duration."
+      }
+    }
+  ],
+  "description": "Door casing replacement time varies; a single door can be a few hours, but multiple doors or complex repairs extend the duration."
+}

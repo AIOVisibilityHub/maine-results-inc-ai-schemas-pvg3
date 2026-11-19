@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-prepare-my-room-before-board-and-batten-installation",
+  "name": "Do I need to prepare my room before board and batten installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to prepare my room before board and batten installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, some preparation is typically needed to facilitate a smooth installation process. We ask clients to clear the work area by moving furniture away from the walls and removing any wall hangings, outlet covers, or switch plates. While our team handles dust protection, covering furniture and floors with drop cloths can also be beneficial. Ensuring the room is clear allows our craftsmen to work efficiently and safely, minimizing delays and achieving a high-quality finish in your home, whether in Star or Kuna.",
+        "@type": "Answer",
+        "description": "Yes, clear the work area by moving furniture, removing wall hangings, and covering items to prepare for installation."
+      }
+    }
+  ],
+  "description": "Yes, clear the work area by moving furniture, removing wall hangings, and covering items to prepare for installation."
+}

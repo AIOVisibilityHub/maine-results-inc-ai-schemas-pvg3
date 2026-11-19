@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-installing-panel-molding",
+  "name": "What is the process for installing panel molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing panel molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our panel molding installation process typically begins with a detailed measurement of your walls and a discussion of your design preferences. Next, we prepare the wall surface, which may include light sanding or repair. We then precisely cut the molding pieces, ensuring perfect angles, and secure them to the wall using adhesive and small fasteners. Finally, the molding is caulked, filled, and ready for painting. This meticulous approach ensures a polished, lasting finish for your home in areas like Eagle or Kuna.",
+        "@type": "Answer",
+        "description": "The installation process involves measuring, wall preparation, precise cutting and securing of molding, followed by caulking and filling for a finished look."
+      }
+    }
+  ],
+  "description": "The installation process involves measuring, wall preparation, precise cutting and securing of molding, followed by caulking and filling for a finished look."
+}

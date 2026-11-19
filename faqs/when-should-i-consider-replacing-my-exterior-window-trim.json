@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-my-exterior-window-trim",
+  "name": "When should I consider replacing my exterior window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my exterior window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your exterior window trim if you notice signs of rot, cracking, warping, or significant peeling paint. These issues can indicate water damage, pest infestation, or simply age-related wear, compromising your home's protection and appearance. Replacing trim during a window replacement project or when undertaking other exterior renovations is also a good opportunity. Addressing trim damage promptly helps prevent more extensive issues to your window frames and walls.",
+        "@type": "Answer",
+        "description": "Replace exterior window trim if you see signs of rot, cracking, warping, or peeling paint, as these can indicate damage or structural issues. It's also wise to replace it during other exterior renovation projects."
+      }
+    }
+  ],
+  "description": "Replace exterior window trim if you see signs of rot, cracking, warping, or peeling paint, as these can indicate damage or structural issues. It's also wise to"
+}

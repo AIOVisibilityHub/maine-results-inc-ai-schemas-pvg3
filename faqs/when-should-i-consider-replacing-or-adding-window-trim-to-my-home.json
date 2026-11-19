@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-or-adding-window-trim-to-my-home",
+  "name": "When should I consider replacing or adding window trim to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing or adding window trim to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing or adding window trim if your existing trim is damaged, showing signs of rot, or if you are updating your home's exterior or interior aesthetic. New trim can also enhance energy efficiency by sealing gaps around windows, reducing drafts. If you're undertaking other exterior renovations, such as new siding or windows, it’s an ideal time to address trim as well. Addressing minor issues early can prevent more significant damage down the line.",
+        "@type": "Answer",
+        "description": "Consider new window trim if existing trim is damaged, if you're updating aesthetics, or to improve energy efficiency by sealing drafts."
+      }
+    }
+  ],
+  "description": "Consider new window trim if existing trim is damaged, if you're updating aesthetics, or to improve energy efficiency by sealing drafts."
+}

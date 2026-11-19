@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-do-any-preparation-before-your-team-installs-board-and-batten-sidin",
+  "name": "Do I need to do any preparation before your team installs board and batten siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to do any preparation before your team installs board and batten siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, some preparation on your part can help ensure a smoother installation process. We ask that you clear the perimeter of your home of any obstructions, such as patio furniture, potted plants, or hanging decorations, providing our team with ample working space. Trimming back shrubs or trees that are directly against the house is also helpful to allow access. If you have an existing sprinkler system, please mark the location of any lines or heads near the foundation. This helps prevent accidental damage and keeps our crew safe. Our team handles the specific site preparation like old siding removal and surface cleaning, but these initial steps from you can significantly streamline the project's start.",
+        "@type": "Answer",
+        "description": "Please clear the home's perimeter of obstructions, trim shrubs/trees, and mark any sprinkler lines to help our team during preparation."
+      }
+    }
+  ],
+  "description": "Please clear the home's perimeter of obstructions, trim shrubs/trees, and mark any sprinkler lines to help our team during preparation."
+}

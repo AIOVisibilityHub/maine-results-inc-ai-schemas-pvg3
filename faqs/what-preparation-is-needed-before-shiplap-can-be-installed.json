@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-is-needed-before-shiplap-can-be-installed",
+  "name": "What preparation is needed before shiplap can be installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before shiplap can be installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before shiplap installation begins, careful preparation of the existing surface is essential to ensure a smooth, lasting finish. This includes removing any existing wallpaper, loose paint, or trim. The walls must be clean, dry, and structurally sound. Any significant imperfections, such as large holes or uneven sections, should be patched and sanded to create a flat substrate. Depending on the room's conditions, you might also need to address electrical outlets or light fixtures that will be covered or require extensions to sit flush with the new shiplap surface. Considering these details in advance helps streamline the installation process.",
+        "@type": "Answer",
+        "description": "Before shiplap installation, walls must be clean, dry, and structurally sound; remove old wallpaper, repair imperfections, and plan for electrical outlets. Proper preparation ensures a smooth and lasting finish."
+      }
+    }
+  ],
+  "description": "Before shiplap installation, walls must be clean, dry, and structurally sound; remove old wallpaper, repair imperfections, and plan for electrical outlets. Prop"
+}

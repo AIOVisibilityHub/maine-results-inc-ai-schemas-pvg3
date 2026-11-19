@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-a-coffered-ceiling-be-installed-in-any-room-or-are-there-limitations",
+  "name": "Can a coffered ceiling be installed in any room, or are there limitations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a coffered ceiling be installed in any room, or are there limitations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coffered ceilings can be installed in most rooms, but ceiling height is a crucial consideration. Since the beams create depth, they will slightly lower the effective ceiling height. We recommend a minimum ceiling height of eight feet to maintain a sense of openness. Rooms with very low ceilings might feel too enclosed. We assess your specific room dimensions during a consultation to ensure suitability and discuss the best approach.",
+        "@type": "Answer",
+        "description": "Coffered ceilings can be installed in most rooms, but a minimum ceiling height of eight feet is recommended to avoid making the room feel too enclosed."
+      }
+    }
+  ],
+  "description": "Coffered ceilings can be installed in most rooms, but a minimum ceiling height of eight feet is recommended to avoid making the room feel too enclosed."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-install-window-casing-around-a-single-window",
+  "name": "How long does it take to install window casing around a single window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install window casing around a single window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to install window casing around a single window can vary depending on the window size, the complexity of the casing style, and the material used. A straightforward installation for a standard window might take a few hours for an experienced professional. However, intricate designs, custom cuts, or the need for extensive surface preparation can extend this timeframe. Process clarity means considering that if multiple windows are being cased or if other related renovation work is happening simultaneously, the overall project duration will be longer. We will provide a clear timeline estimate during your consultation, especially for larger projects in areas like Kuna or Star.",
+        "@type": "Answer",
+        "description": "Installation time for a single window casing varies, typically a few hours, depending on size and casing complexity."
+      }
+    }
+  ],
+  "description": "Installation time for a single window casing varies, typically a few hours, depending on size and casing complexity."
+}

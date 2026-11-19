@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-typically-used-for-window-casing-and-how-do-they-differ",
+  "name": "What materials are typically used for window casing, and how do they differ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are typically used for window casing, and how do they differ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window casing can be made from various materials, including natural wood (pine, oak, maple), MDF (medium-density fiberboard), and PVC. Natural wood offers a classic look and can be stained or painted, but it requires more maintenance and can be affected by humidity. MDF is cost-effective and takes paint well, but it's less durable in high-moisture areas. PVC is moisture-resistant and durable, ideal for bathrooms or exterior applications, but typically only paintable. The decision factor often comes down to budget, desired finish, and the environmental conditions around the window. Our team at Maine Results can discuss the pros and cons of each material for your specific project.",
+        "@type": "Answer",
+        "description": "Common materials include wood, MDF, and PVC, differing in cost, durability, finish options, and moisture resistance."
+      }
+    }
+  ],
+  "description": "Common materials include wood, MDF, and PVC, differing in cost, durability, finish options, and moisture resistance."
+}

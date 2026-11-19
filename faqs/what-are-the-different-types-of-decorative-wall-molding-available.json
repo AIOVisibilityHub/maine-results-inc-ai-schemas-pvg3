@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-different-types-of-decorative-wall-molding-available",
+  "name": "What are the different types of decorative wall molding available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the different types of decorative wall molding available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are several types of decorative wall molding, each with a distinct purpose and style. Crown molding is installed where walls meet the ceiling, while chair rail molding protects walls from furniture and adds a horizontal design element. Picture rail molding allows for hanging artwork without damaging walls, and panel molding creates framed sections on walls for a classic look. When making your selection, consider the level of detail and formality you want to achieve. We discuss these options with clients in Kuna and Star, helping them understand the visual impact of each type.",
+        "@type": "Answer",
+        "description": "Types include crown, chair rail, picture rail, and panel molding, each serving different design and functional purposes."
+      }
+    }
+  ],
+  "description": "Types include crown, chair rail, picture rail, and panel molding, each serving different design and functional purposes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-shiplap-and-how-is-it-used-in-home-design",
+  "name": "What is shiplap and how is it used in home design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is shiplap and how is it used in home design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shiplap is a type of wooden board characterized by a rabbet (groove) cut into two opposite edges. These grooves allow the boards to overlap snugly, creating a distinctive, interlocking pattern with a small reveal between each board. Historically used for exterior siding on ships and sheds due to its weather-tight seal, shiplap is now popular for interior walls, ceilings, and accent features in various design styles, from rustic farmhouse to modern contemporary. It adds texture, depth, and a unique visual element to any room, and can be painted, stained, or left natural.",
+        "@type": "Answer",
+        "description": "Shiplap is a type of wooden board with overlapping edges, creating a distinctive pattern often used for interior walls, ceilings, and accent features. It adds texture and a unique visual element to home design."
+      }
+    }
+  ],
+  "description": "Shiplap is a type of wooden board with overlapping edges, creating a distinctive pattern often used for interior walls, ceilings, and accent features. It adds t"
+}

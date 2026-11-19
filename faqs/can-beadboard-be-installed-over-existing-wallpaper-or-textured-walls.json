@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-beadboard-be-installed-over-existing-wallpaper-or-textured-walls",
+  "name": "Can beadboard be installed over existing wallpaper or textured walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can beadboard be installed over existing wallpaper or textured walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's technically possible to install beadboard over existing wallpaper or lightly textured walls, it often introduces practical tradeoffs that can affect the final appearance and longevity of the installation. Installing over uneven surfaces can result in an imperfect fit, leading to gaps or an uneven finish. For optimal results, we typically recommend removing wallpaper and smoothing heavily textured walls to provide a clean, flat substrate. This ensures proper adhesion and a more professional, seamless look, preventing issues down the line. It's an extra step that contributes significantly to the quality and durability of the finished product.",
+        "@type": "Answer",
+        "description": "While possible, installing beadboard over wallpaper or textured walls can lead to an uneven finish; we recommend removing wallpaper and smoothing walls for best results."
+      }
+    }
+  ],
+  "description": "While possible, installing beadboard over wallpaper or textured walls can lead to an uneven finish; we recommend removing wallpaper and smoothing walls for best"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-design-considerations-are-important-for-board-and-batten",
+  "name": "What design considerations are important for board and batten?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What design considerations are important for board and batten?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key design considerations for board and batten include the width and spacing of the battens, the height of the wainscoting (if applicable), and the overall proportion to the room. Closer spacing creates a busier, more detailed look, while wider spacing offers a cleaner, more minimalist aesthetic. The height should complement the room's ceiling height and furniture. We collaborate with clients in the Garden City area to select a design that harmonizes with their home's existing architecture and personal style, ensuring the finished product enhances their space without overwhelming it.",
+        "@type": "Answer",
+        "description": "Consider batten width, spacing, and wainscoting height to ensure the design complements the room's proportions and style."
+      }
+    }
+  ],
+  "description": "Consider batten width, spacing, and wainscoting height to ensure the design complements the room's proportions and style."
+}

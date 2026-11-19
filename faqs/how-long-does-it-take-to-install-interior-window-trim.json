@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-install-interior-window-trim",
+  "name": "How long does it take to install interior window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install interior window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to install interior window trim varies depending on the number of windows, their size, the complexity of the trim design, and the material. A single standard window with simple trim might take a few hours, whereas an entire house with multiple windows and custom detailing could take several days. Factors like existing wall conditions and painting requirements also affect the timeline. When you plan your project, discuss your timeline expectations with our team. We aim for efficient installation while maintaining high-quality craftsmanship, providing process clarity on what to expect.",
+        "@type": "Answer",
+        "description": "Installation time varies from a few hours for a single window to several days for a whole house, depending on project scope and complexity."
+      }
+    }
+  ],
+  "description": "Installation time varies from a few hours for a single window to several days for a whole house, depending on project scope and complexity."
+}

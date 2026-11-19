@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-do-i-need-to-prepare-before-picture-rail-installation",
+  "name": "What do I need to prepare before picture rail installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What do I need to prepare before picture rail installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before picture rail installation, you should clear the walls of any existing decor and move furniture a safe distance away from the work area to allow our team unobstructed access. Consider any electrical outlets, light fixtures, or wall-mounted devices that might be impacted by the rail's placement. Thinking about the desired height of the rail and any specific aesthetic preferences you have, such as paint color or stain, will also be helpful. Maine Results Inc. will confirm these details during the consultation to ensure a smooth and efficient installation process.",
+        "@type": "Answer",
+        "description": "Before installation, clear walls, move furniture, and consider desired rail height and finish; Maine Results Inc. will confirm details in consultation."
+      }
+    }
+  ],
+  "description": "Before installation, clear walls, move furniture, and consider desired rail height and finish; Maine Results Inc. will confirm details in consultation."
+}

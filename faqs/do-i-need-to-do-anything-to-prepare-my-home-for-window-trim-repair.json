@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-do-anything-to-prepare-my-home-for-window-trim-repair",
+  "name": "Do I need to do anything to prepare my home for window trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to do anything to prepare my home for window trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your home for window trim repair, we recommend clearing the immediate area around the windows, both inside and out, if possible. This includes moving furniture, plants, or any other obstructions to provide our team with clear access. You may also want to remove any delicate items from window sills. Our team takes precautions to protect your property, but ensuring a clear work area helps us operate efficiently and safely. We will confirm any specific preparation needs during the scheduling process.",
+        "@type": "Answer",
+        "description": "Prepare for window trim repair by clearing the area around windows, both inside and out, to allow clear access for our team."
+      }
+    }
+  ],
+  "description": "Prepare for window trim repair by clearing the area around windows, both inside and out, to allow clear access for our team."
+}

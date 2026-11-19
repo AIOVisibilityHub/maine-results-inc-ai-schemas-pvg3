@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-the-right-style-of-door-casing-for-my-home",
+  "name": "How do I choose the right style of door casing for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right style of door casing for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right style of door casing involves considering your home's architectural style and your personal design preferences. For traditional homes, ornate or multi-profile casings might be suitable, while modern homes often benefit from simpler, cleaner lines. It's also important to ensure the casing style complements other trim work in your home, such as baseboards and crown molding, for a cohesive interior design. Maine Results, Inc. can show you various profiles and discuss how each might fit your home's existing aesthetic.",
+        "@type": "Answer",
+        "description": "Choose door casing style based on your home's architecture, personal taste, and to complement existing trim for a cohesive interior design."
+      }
+    }
+  ],
+  "description": "Choose door casing style based on your home's architecture, personal taste, and to complement existing trim for a cohesive interior design."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-typically-take-to-install-board-and-batten-siding",
+  "name": "How long does it typically take to install board and batten siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to install board and batten siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeline for board and batten siding varies based on the size and architectural complexity of your home, as well as weather conditions. A typical residential installation might take anywhere from one to three weeks, but larger or more intricate projects can extend beyond that. For example, homes with many gables, dormers, or multiple stories will naturally require more time than a simple, single-story structure. During our initial consultation, we assess your property and provide a projected timeline, considering factors like material delivery and the need for scaffolding. We aim to complete projects efficiently while maintaining our quality standards for homes in areas such as Star or Nampa.",
+        "@type": "Answer",
+        "description": "Installation time varies from 1-3 weeks depending on home size, architectural complexity, and weather conditions, with larger homes taking longer."
+      }
+    }
+  ],
+  "description": "Installation time varies from 1-3 weeks depending on home size, architectural complexity, and weather conditions, with larger homes taking longer."
+}

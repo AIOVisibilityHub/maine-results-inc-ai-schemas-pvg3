@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-of-water-damage-in-board-and-batten-siding",
+  "name": "What are common signs of water damage in board and batten siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of water damage in board and batten siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of water damage in board and batten siding include discoloration, staining, soft or spongy wood when pressed, warping or buckling of boards, and the presence of mold or mildew. You might also notice peeling paint or a musty odor emanating from the affected areas. In climates like those experienced in Meridian or Eagle, these issues can often stem from inadequate flashing around windows, doors, or rooflines, or from clogged gutters directing water incorrectly. Early detection is key to preventing the spread of rot and minimizing repair costs.",
+        "@type": "Answer",
+        "description": "Signs of water damage include discoloration, soft wood, warping, mold, or peeling paint. These often result from poor flashing or clogged gutters, especially in specific climates."
+      }
+    }
+  ],
+  "description": "Signs of water damage include discoloration, soft wood, warping, mold, or peeling paint. These often result from poor flashing or clogged gutters, especially in"
+}

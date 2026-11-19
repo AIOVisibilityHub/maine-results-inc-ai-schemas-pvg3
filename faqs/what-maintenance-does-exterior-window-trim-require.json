@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-maintenance-does-exterior-window-trim-require",
+  "name": "What maintenance does exterior window trim require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance does exterior window trim require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance for exterior window trim depends heavily on the material. Wood trim requires the most attention, including regular cleaning, scraping loose paint, sanding, priming, and repainting or re-staining every few years to prevent rot and deterioration. Vinyl and cellular PVC trims are much lower maintenance, typically only needing occasional cleaning with soap and water to remove dirt or mildew. Fiber cement also requires minimal care. Regular inspections of all trim types are important to catch and address any issues early, preventing more costly repairs.",
+        "@type": "Answer",
+        "description": "Maintenance varies by material: wood trim needs regular cleaning and repainting, while vinyl and cellular PVC trims only require occasional cleaning. Regular inspections are key for all types."
+      }
+    }
+  ],
+  "description": "Maintenance varies by material: wood trim needs regular cleaning and repainting, while vinyl and cellular PVC trims only require occasional cleaning. Regular in"
+}

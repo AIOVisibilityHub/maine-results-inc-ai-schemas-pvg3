@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-a-professional-board-and-batten-siding-repair-begin",
+  "name": "What should I prepare before a professional board and batten siding repair begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a professional board and batten siding repair begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before professional board and batten siding repair begins, you should prepare the work area by clearing obstructions like outdoor furniture, plants, or decorative items away from your home's perimeter to allow easy access for the crew. If your repair involves specific color matching, gather any paint codes or samples of your existing siding finish. Additionally, discussing access points for equipment and materials with Maine Results, Inc. beforehand can streamline the process. For homes in areas like West Boise or South Boise Village, ensuring pets are secured and informing neighbors about potential noise can also contribute to a smoother project.",
+        "@type": "Answer",
+        "description": "Before repair, clear the work area, gather paint codes if color matching is needed, and discuss access points with the repair team. Secure pets and inform neighbors about noise."
+      }
+    }
+  ],
+  "description": "Before repair, clear the work area, gather paint codes if color matching is needed, and discuss access points with the repair team. Secure pets and inform neigh"
+}

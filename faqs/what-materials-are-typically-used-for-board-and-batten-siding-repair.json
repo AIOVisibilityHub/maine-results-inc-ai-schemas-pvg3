@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-typically-used-for-board-and-batten-siding-repair",
+  "name": "What materials are typically used for board and batten siding repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are typically used for board and batten siding repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For board and batten siding repair, materials typically include wood species like cedar, pine, or fir, chosen to match the existing siding's look and durability. Modern options might also include engineered wood or fiber cement products for enhanced resistance to rot and pests. For Maine Results, Inc. clients, the specific material choice can be a practical tradeoff between cost, longevity, and maintaining historical accuracy for older homes in areas like the North End or East End. It's crucial to select materials that can be properly sealed, painted, or stained to integrate seamlessly with your home's exterior.",
+        "@type": "Answer",
+        "description": "Common repair materials are wood species like cedar or pine, with engineered wood as an alternative. Material choice balances cost, longevity, and matching existing aesthetics."
+      }
+    }
+  ],
+  "description": "Common repair materials are wood species like cedar or pine, with engineered wood as an alternative. Material choice balances cost, longevity, and matching exis"
+}

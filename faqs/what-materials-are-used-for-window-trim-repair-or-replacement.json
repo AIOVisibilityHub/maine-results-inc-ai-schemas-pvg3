@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-used-for-window-trim-repair-or-replacement",
+  "name": "What materials are used for window trim repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for window trim repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For window trim repair and replacement, common materials include wood (such as pine, cedar, or redwood), PVC, composite, and fiber cement. Each material offers different benefits in terms of durability, maintenance, and aesthetics. For instance, PVC and composite are highly resistant to moisture and pests, making them a low-maintenance option often preferred in climates with varied weather. The best material for your project will depend on your home’s existing style, your budget, and the level of maintenance you prefer, which we can discuss during an estimate.",
+        "@type": "Answer",
+        "description": "Common materials for window trim include wood, PVC, composite, and fiber cement, each offering different durability and maintenance levels."
+      }
+    }
+  ],
+  "description": "Common materials for window trim include wood, PVC, composite, and fiber cement, each offering different durability and maintenance levels."
+}

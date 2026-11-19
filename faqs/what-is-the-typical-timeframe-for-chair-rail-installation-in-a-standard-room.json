@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-timeframe-for-chair-rail-installation-in-a-standard-room",
+  "name": "What is the typical timeframe for chair rail installation in a standard room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for chair rail installation in a standard room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeframe for chair rail installation in a standard-sized room typically ranges from one to two days, depending on the room's dimensions, the complexity of the wall layout, and the type of material chosen. This estimate includes preparation, cutting, fitting, and securing the rails. If the project involves painting or finishing the chair rail after installation, or if there are extensive wall repairs needed beforehand, the overall timeline may extend. During our project planning, we provide a detailed timeline based on the specific scope of work for your home in areas like Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "Chair rail installation in a standard room usually takes 1-2 days, varying with room size and complexity, plus extra time for finishing or repairs."
+      }
+    }
+  ],
+  "description": "Chair rail installation in a standard room usually takes 1-2 days, varying with room size and complexity, plus extra time for finishing or repairs."
+}

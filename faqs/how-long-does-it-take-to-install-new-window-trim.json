@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-install-new-window-trim",
+  "name": "How long does it take to install new window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install new window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to install new window trim depends on several factors, including the number of windows, the size and complexity of each window, the chosen trim material, and whether old trim needs to be removed. A single standard window might take a few hours, while a whole house project could span several days. Efficient planning and preparation are key to a smooth process. Our team at Maine Results, Inc. in the Garden City area focuses on precise measurements and preparation to ensure a timely and high-quality installation.",
+        "@type": "Answer",
+        "description": "Installation time varies by the number, size, and complexity of windows, and material. A single window can take hours, while a whole house can take days."
+      }
+    }
+  ],
+  "description": "Installation time varies by the number, size, and complexity of windows, and material. A single window can take hours, while a whole house can take days."
+}

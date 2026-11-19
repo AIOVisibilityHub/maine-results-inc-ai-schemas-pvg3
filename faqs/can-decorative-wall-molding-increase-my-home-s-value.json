@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-decorative-wall-molding-increase-my-home-s-value",
+  "name": "Can decorative wall molding increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can decorative wall molding increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, decorative wall molding can enhance a home's perceived value and aesthetic appeal, especially if it complements the existing architectural style and is installed professionally. It adds a touch of custom craftsmanship and can elevate the overall interior design. While it may not always provide a dollar-for-dollar return, it often contributes to a more polished and updated look that can be attractive to potential buyers. A well-executed molding project can be a distinguishing feature in areas like Southeast Boise.",
+        "@type": "Answer",
+        "description": "Professionally installed decorative wall molding can increase perceived home value and aesthetic appeal, contributing to a polished look."
+      }
+    }
+  ],
+  "description": "Professionally installed decorative wall molding can increase perceived home value and aesthetic appeal, contributing to a polished look."
+}

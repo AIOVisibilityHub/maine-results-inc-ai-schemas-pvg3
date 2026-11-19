@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-between-repairing-my-window-trim-and-completely-replacing-it",
+  "name": "How do I choose between repairing my window trim and completely replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between repairing my window trim and completely replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision between repairing and replacing exterior window trim depends on the severity of the damage. If only small sections have minor rot or cosmetic issues, repair is usually sufficient. However, widespread rot, structural compromise, or a desire to upgrade materials might necessitate full replacement. We can assess the condition and provide a recommendation, outlining the pros and cons of each option for your specific situation.",
+        "@type": "Answer",
+        "description": "Choose repair for minor damage; consider replacement for widespread rot or structural issues, or material upgrades."
+      }
+    }
+  ],
+  "description": "Choose repair for minor damage; consider replacement for widespread rot or structural issues, or material upgrades."
+}

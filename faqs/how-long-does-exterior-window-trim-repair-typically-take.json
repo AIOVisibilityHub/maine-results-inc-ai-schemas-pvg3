@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-exterior-window-trim-repair-typically-take",
+  "name": "How long does exterior window trim repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does exterior window trim repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of exterior window trim repair varies depending on the extent of the damage, the number of windows, and the materials involved. Minor repairs might take a few hours per window, while more extensive rot or replacement projects could span several days. We provide a detailed project timeline after an initial on-site assessment to give you a clear expectation of the work involved.",
+        "@type": "Answer",
+        "description": "Repair time varies based on damage extent and number of windows; minor repairs take hours, extensive projects can take days."
+      }
+    }
+  ],
+  "description": "Repair time varies based on damage extent and number of windows; minor repairs take hours, extensive projects can take days."
+}

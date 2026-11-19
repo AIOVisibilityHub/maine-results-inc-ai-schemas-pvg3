@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-coffered-ceilings-add-value-to-a-home",
+  "name": "Do coffered ceilings add value to a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do coffered ceilings add value to a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a well-designed and professionally installed coffered ceiling can add significant aesthetic appeal and perceived value to your home. It's considered an upscale architectural feature that can impress potential buyers and differentiate your property in the market. While exact returns vary by market, the enhancement to your home's character and luxury often contributes positively to its overall value, particularly in desirable areas like Garden City or Eagle.",
+        "@type": "Answer",
+        "description": "A professionally installed coffered ceiling can add significant aesthetic appeal and perceived value to a home, enhancing its character and luxury."
+      }
+    }
+  ],
+  "description": "A professionally installed coffered ceiling can add significant aesthetic appeal and perceived value to a home, enhancing its character and luxury."
+}

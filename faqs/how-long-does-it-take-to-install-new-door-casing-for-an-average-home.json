@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-install-new-door-casing-for-an-average-home",
+  "name": "How long does it take to install new door casing for an average home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install new door casing for an average home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for door casing installation varies depending on the number of doors and the complexity of each doorway. A skilled installer can often complete casing for several standard doors in a single day. However, older homes or those requiring custom cuts, mitered corners, or special finishing might take longer per door. We aim to provide a realistic timeline upfront, especially when working on projects in specific locations like Star or Kuna, factoring in travel and preparation times.",
+        "@type": "Answer",
+        "description": "Installation time depends on the number of doors and complexity; several standard doors can be cased in a day, but custom work takes longer."
+      }
+    }
+  ],
+  "description": "Installation time depends on the number of doors and complexity; several standard doors can be cased in a day, but custom work takes longer."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-wall-paneling-installation-typically-take",
+  "name": "How long does wall paneling installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does wall paneling installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of wall paneling installation varies based on the room size, the type of paneling material, and the complexity of the design. A simple shiplap installation in a small room might take a day or two, while intricate custom paneling in a larger space could extend to several days or even a week. Factors like wall preparation, cutting precision, and finishing touches all contribute to the overall timeline. For an accurate estimate, we recommend an on-site consultation to assess the specific details of your project.",
+        "@type": "Answer",
+        "description": "Installation time depends on room size, paneling type, and design complexity, typically ranging from a few days for simple projects to a week for larger, custom designs."
+      }
+    }
+  ],
+  "description": "Installation time depends on room size, paneling type, and design complexity, typically ranging from a few days for simple projects to a week for larger, custom"
+}

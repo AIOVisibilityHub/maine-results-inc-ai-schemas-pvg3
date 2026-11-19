@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-wainscoting-be-installed-over-existing-wallpaper-or-textured-walls",
+  "name": "Can wainscoting be installed over existing wallpaper or textured walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can wainscoting be installed over existing wallpaper or textured walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wainscoting can often be installed over existing wallpaper or lightly textured walls, but the best approach depends on the wall's condition. For wallpaper, it's generally recommended to remove it first to ensure strong adhesion of the wainscoting panels and a smooth, stable surface. If removing it isn't feasible, a professional assessment is crucial to determine if the wallpaper is firmly attached enough to support the wainscoting without future issues. For textured walls, minor textures can sometimes be covered, but significant textures may require sanding or skim-coating to create a flat surface. This decision factor impacts the final appearance and longevity of the installation.",
+        "@type": "Answer",
+        "description": "Installing wainscoting over wallpaper or textured walls is possible, but removing wallpaper is usually best for adhesion. Heavily textured walls may need smoothing. The wall's condition is a key factor for a lasting installation."
+      }
+    }
+  ],
+  "description": "Installing wainscoting over wallpaper or textured walls is possible, but removing wallpaper is usually best for adhesion. Heavily textured walls may need smooth"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-replace-all-my-door-casings-at-once-or-can-i-do-it-in-stages",
+  "name": "Do I need to replace all my door casings at once, or can I do it in stages?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace all my door casings at once, or can I do it in stages?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You do not necessarily need to replace all your door casings at once; the project can be completed in stages based on your budget or renovation timeline. Many homeowners choose to tackle one room or floor at a time to manage costs and minimize disruption. However, doing all casings at once can sometimes be more efficient and may ensure a consistent look if you are upgrading styles across your entire home. Discussing your phasing preferences allows us to plan effectively.",
+        "@type": "Answer",
+        "description": "Replacing door casings can be done in stages based on budget or timeline, though doing it all at once can be more efficient for consistency."
+      }
+    }
+  ],
+  "description": "Replacing door casings can be done in stages based on budget or timeline, though doing it all at once can be more efficient for consistency."
+}

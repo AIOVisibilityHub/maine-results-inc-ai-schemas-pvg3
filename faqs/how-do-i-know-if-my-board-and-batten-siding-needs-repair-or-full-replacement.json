@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-board-and-batten-siding-needs-repair-or-full-replacement",
+  "name": "How do I know if my board and batten siding needs repair or full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my board and batten siding needs repair or full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining whether to repair or replace board and batten siding depends on the extent and severity of the damage. Minor issues like a few cracked boards, rot in isolated spots, or peeling paint can often be repaired. However, widespread rot, significant structural damage, or persistent moisture intrusion across large sections of your home generally indicate that full replacement is a more cost-effective and long-lasting solution. Maine Results, Inc. can conduct a thorough inspection to assess the condition of your siding and recommend the most appropriate action, considering factors like your home's age and local weather exposure in places like Eagle or Kuna.",
+        "@type": "Answer",
+        "description": "Assess the extent of damage: minor issues can be repaired, but widespread rot or structural problems often require full replacement. A professional inspection clarifies the best approach."
+      }
+    }
+  ],
+  "description": "Assess the extent of damage: minor issues can be repaired, but widespread rot or structural problems often require full replacement. A professional inspection c"
+}

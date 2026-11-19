@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-maintenance-is-required-for-picture-rails",
+  "name": "What kind of maintenance is required for picture rails?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance is required for picture rails?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Picture rails generally require very little maintenance. For painted or stained wooden rails, occasional dusting and wiping with a damp cloth are usually sufficient to keep them clean. If the rail is in a high-traffic area or experiences minor bumps, touch-up paint or stain may be needed to maintain its appearance. Regularly check the hanging cords and hooks for wear, replacing them if they show signs of fraying or damage to ensure continued safety for your artwork. Maine Results Inc. uses durable materials and secure installation methods to minimize future upkeep requirements.",
+        "@type": "Answer",
+        "description": "Picture rails need minimal maintenance, mainly dusting and occasional touch-ups; regularly check hanging cords and hooks for safety."
+      }
+    }
+  ],
+  "description": "Picture rails need minimal maintenance, mainly dusting and occasional touch-ups; regularly check hanging cords and hooks for safety."
+}

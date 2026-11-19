@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-door-casing-and-why-is-it-important-for-my-home",
+  "name": "What is door casing and why is it important for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is door casing and why is it important for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door casing, also known as door trim, is the decorative molding that frames a doorway. It covers the gap between the door frame and the wall, providing a finished look and protecting the edges of the wall. Beyond aesthetics, proper door casing installation helps seal the door opening, reducing drafts and improving insulation, which can be particularly beneficial in colder seasons common in areas like Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "Door casing is decorative molding that frames a doorway, covering gaps, providing a finished look, and improving insulation."
+      }
+    }
+  ],
+  "description": "Door casing is decorative molding that frames a doorway, covering gaps, providing a finished look, and improving insulation."
+}

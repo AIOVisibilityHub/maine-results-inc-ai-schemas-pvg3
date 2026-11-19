@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-prepare-my-walls-before-installing-new-paneling",
+  "name": "Do I need to prepare my walls before installing new paneling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to prepare my walls before installing new paneling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, proper wall preparation is crucial for a successful and long-lasting paneling installation. This typically involves ensuring walls are clean, dry, and free of any loose paint or wallpaper. Minor imperfections can often be covered, but significant damage or unevenness may require patching or leveling beforehand. Adequate preparation helps the paneling adhere correctly and prevents issues like warping or poor fit. We can assess your walls during a consultation to advise on specific preparation steps needed for your project.",
+        "@type": "Answer",
+        "description": "Yes, walls must be clean, dry, and smooth before paneling installation to ensure proper adhesion and a lasting finish, with significant damage requiring repair."
+      }
+    }
+  ],
+  "description": "Yes, walls must be clean, dry, and smooth before paneling installation to ensure proper adhesion and a lasting finish, with significant damage requiring repair."
+}

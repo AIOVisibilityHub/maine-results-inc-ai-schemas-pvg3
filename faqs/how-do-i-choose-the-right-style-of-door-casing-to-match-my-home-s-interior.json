@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-the-right-style-of-door-casing-to-match-my-home-s-interior",
+  "name": "How do I choose the right style of door casing to match my home's interior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right style of door casing to match my home's interior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right door casing involves considering your home's architectural style and existing trim. Modern homes often suit simpler, cleaner lines, while traditional or older homes in areas like Boise Heights might look best with more ornate, classic profiles. When planning your project, consider bringing photos of your home's interior or existing trim to help us recommend styles that will complement your space and maintain a cohesive look throughout your property.",
+        "@type": "Answer",
+        "description": "Select door casing by matching your home's architectural style and existing trim; simpler for modern, ornate for traditional homes."
+      }
+    }
+  ],
+  "description": "Select door casing by matching your home's architectural style and existing trim; simpler for modern, ornate for traditional homes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-repair-or-replace-my-window-trim",
+  "name": "Should I repair or replace my window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or replace your window trim depends on the extent of the damage. Minor issues like small cracks, peeling paint, or superficial rot can often be repaired cost-effectively. However, if the trim is severely rotted, warped, or has structural damage affecting multiple sections around the window, replacement is often the more durable and ultimately cost-effective solution. Our assessment will identify the underlying cause of the damage to help you make an informed decision on the best long-term approach for your home.",
+        "@type": "Answer",
+        "description": "Repair minor trim damage like small cracks, but consider replacement for severe rot or structural damage for a lasting solution."
+      }
+    }
+  ],
+  "description": "Repair minor trim damage like small cracks, but consider replacement for severe rot or structural damage for a lasting solution."
+}

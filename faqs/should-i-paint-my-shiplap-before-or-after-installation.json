@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-paint-my-shiplap-before-or-after-installation",
+  "name": "Should I paint my shiplap before or after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I paint my shiplap before or after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to paint shiplap before or after installation involves a practical tradeoff. Painting boards before installation, often called pre-painting, can be more efficient as it allows for thorough coverage of all edges and surfaces, preventing unfinished lines if the wood shrinks slightly. However, it requires careful handling during installation to avoid scuffs and touch-ups afterward. Painting after installation ensures a seamless finish over nail holes and seams but can be more time-consuming for detailed work. We often recommend painting after installation for a polished look, allowing us to fill nail holes and address any minor imperfections that may arise during the fitting process.",
+        "@type": "Answer",
+        "description": "Painting shiplap before installation can be efficient but risks scuffs, while painting after ensures a seamless finish over nail holes and seams but might be more time-consuming. We often recommend painting after for a polished final look."
+      }
+    }
+  ],
+  "description": "Painting shiplap before installation can be efficient but risks scuffs, while painting after ensures a seamless finish over nail holes and seams but might be mo"
+}

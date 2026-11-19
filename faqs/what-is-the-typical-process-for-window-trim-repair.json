@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-window-trim-repair",
+  "name": "What is the typical process for window trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for window trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for window trim repair typically begins with an inspection to assess the extent of the damage. For minor issues like small cracks or peeling paint, we may perform light sanding, patching, and repainting. For more significant damage, such as rot, we will remove the compromised sections, prepare the underlying surface, and install new trim pieces, often matching existing styles. The choice of repair method depends directly on the material of your current trim and the severity of the damage, which our team evaluates to ensure a lasting solution.",
+        "@type": "Answer",
+        "description": "Window trim repair involves inspecting damage, then either patching and repainting minor issues or replacing rotted sections for more significant damage."
+      }
+    }
+  ],
+  "description": "Window trim repair involves inspecting damage, then either patching and repainting minor issues or replacing rotted sections for more significant damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-ceiling-beams-can-be-installed-for-a-residential-project",
+  "name": "What types of ceiling beams can be installed for a residential project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of ceiling beams can be installed for a residential project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. offers installation for various ceiling beam types, including solid wood, engineered wood, and decorative options. Solid wood beams, like cedar or pine, provide a natural and robust look, often used for structural support or rustic aesthetics. Engineered beams, such as glulam or LVL, offer high strength-to-weight ratios and consistent dimensions, suitable for longer spans or specific structural requirements. Decorative beams can be non-load-bearing and are often chosen to enhance a room's architectural style or create a visual focal point without adding significant structural elements. The best type for your project depends on your desired aesthetic, structural needs, and budget.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. installs solid wood, engineered wood, and decorative ceiling beams. The choice depends on aesthetic goals, structural requirements, and budget."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. installs solid wood, engineered wood, and decorative ceiling beams. The choice depends on aesthetic goals, structural requirements, and budg"
+}

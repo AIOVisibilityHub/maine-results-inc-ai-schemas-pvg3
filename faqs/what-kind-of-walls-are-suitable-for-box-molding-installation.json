@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-walls-are-suitable-for-box-molding-installation",
+  "name": "What kind of walls are suitable for box molding installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of walls are suitable for box molding installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Box molding can be installed on most interior wall types, including drywall and plaster. The key is that the wall surface must be clean, dry, and relatively smooth for the molding to adhere properly and achieve a polished look. If your walls have significant imperfections, such as large cracks or uneven textures, these issues should be addressed and repaired before installation to ensure the best possible outcome. This preparation ensures a smooth foundation for the decorative trim.",
+        "@type": "Answer",
+        "description": "Box molding is suitable for most clean, dry, and smooth interior walls like drywall or plaster. Wall imperfections should be repaired before installation for the best results."
+      }
+    }
+  ],
+  "description": "Box molding is suitable for most clean, dry, and smooth interior walls like drywall or plaster. Wall imperfections should be repaired before installation for th"
+}

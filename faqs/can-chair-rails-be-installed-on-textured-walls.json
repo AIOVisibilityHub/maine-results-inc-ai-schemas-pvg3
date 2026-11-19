@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-chair-rails-be-installed-on-textured-walls",
+  "name": "Can chair rails be installed on textured walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can chair rails be installed on textured walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, chair rails can be installed on textured walls, but the process requires careful attention to ensure a secure and flush fit. For heavily textured surfaces, some preparation work might be necessary, such as sanding down the installation line slightly to create a smoother surface for adhesion. Alternatively, caulk can be used to fill any small gaps between the chair rail and the textured wall, creating a seamless appearance. We assess your wall's texture during the initial site visit to recommend the best installation technique and any necessary surface preparation to achieve a clean and durable result.",
+        "@type": "Answer",
+        "description": "Chair rails can be installed on textured walls, often requiring surface preparation or careful caulking to ensure a secure, flush fit."
+      }
+    }
+  ],
+  "description": "Chair rails can be installed on textured walls, often requiring surface preparation or careful caulking to ensure a secure, flush fit."
+}

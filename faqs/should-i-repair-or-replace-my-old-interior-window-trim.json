@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-repair-or-replace-my-old-interior-window-trim",
+  "name": "Should I repair or replace my old interior window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my old interior window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace old interior window trim depends on the extent of damage and your aesthetic goals. Minor dents, scratches, or small gaps can often be repaired through sanding, filling, and repainting. However, if the trim is significantly rotted, warped, damaged by pests, or if you want to update your home's style entirely, replacement is generally the better option. Consider the practical tradeoff: repairs might be cheaper short-term but may not address underlying issues or provide a fresh look. Replacement offers a clean slate and long-term durability.",
+        "@type": "Answer",
+        "description": "Repair minor damage, but replace trim that is significantly rotted, warped, or if you seek a complete style update."
+      }
+    }
+  ],
+  "description": "Repair minor damage, but replace trim that is significantly rotted, warped, or if you seek a complete style update."
+}

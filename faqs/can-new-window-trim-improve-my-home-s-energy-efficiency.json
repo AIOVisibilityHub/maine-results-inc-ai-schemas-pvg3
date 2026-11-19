@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-new-window-trim-improve-my-home-s-energy-efficiency",
+  "name": "Can new window trim improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can new window trim improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, properly installed new window trim can contribute to improved energy efficiency. When trim is installed, gaps between the window frame and the wall are sealed, preventing air leaks that can lead to heat loss in winter and heat gain in summer. This creates a better thermal barrier, reducing drafts and potentially lowering energy bills. However, the primary factor in energy efficiency remains the quality of the windows themselves.",
+        "@type": "Answer",
+        "description": "New window trim can improve energy efficiency by sealing gaps around windows, reducing air leaks and drafts."
+      }
+    }
+  ],
+  "description": "New window trim can improve energy efficiency by sealing gaps around windows, reducing air leaks and drafts."
+}

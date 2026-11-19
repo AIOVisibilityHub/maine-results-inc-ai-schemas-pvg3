@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-existing-door-casing-be-repaired-or-is-replacement-always-necessary",
+  "name": "Can existing door casing be repaired, or is replacement always necessary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can existing door casing be repaired, or is replacement always necessary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether to repair or replace existing door casing depends on the extent of the damage. Minor chips, dents, or paint issues can often be repaired and refinished. However, if the casing has significant water damage, rot, or structural issues, replacement is usually the more durable and cost-effective solution in the long run. During an initial assessment, we can help you determine the best approach for your specific situation, balancing repair feasibility with long-term integrity.",
+        "@type": "Answer",
+        "description": "Minor casing damage can be repaired, but significant water damage, rot, or structural issues often necessitate full replacement for durability."
+      }
+    }
+  ],
+  "description": "Minor casing damage can be repaired, but significant water damage, rot, or structural issues often necessitate full replacement for durability."
+}

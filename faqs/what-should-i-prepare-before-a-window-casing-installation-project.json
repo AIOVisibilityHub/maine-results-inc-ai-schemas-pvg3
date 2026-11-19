@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-a-window-casing-installation-project",
+  "name": "What should I prepare before a window casing installation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a window casing installation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before window casing installation, it's helpful to clear the area around the windows of any furniture, curtains, or decor to provide installers with unobstructed access. If you're planning to paint or stain the casing yourself after installation, you'll need to choose your colors or finishes beforehand. As a preparation step, also consider if you want to update any wall paint or wallpaper at the same time, as it's often easier to do before or after the casing is fully finished. Maine Results appreciates clients preparing their space, allowing our team to work efficiently and focus on precise installation.",
+        "@type": "Answer",
+        "description": "Before installation, clear the area around windows, remove curtains, and decide on paint or stain colors if you plan to finish it yourself."
+      }
+    }
+  ],
+  "description": "Before installation, clear the area around windows, remove curtains, and decide on paint or stain colors if you plan to finish it yourself."
+}

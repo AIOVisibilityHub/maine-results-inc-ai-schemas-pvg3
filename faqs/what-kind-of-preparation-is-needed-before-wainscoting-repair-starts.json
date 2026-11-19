@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-preparation-is-needed-before-wainscoting-repair-starts",
+  "name": "What kind of preparation is needed before wainscoting repair starts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of preparation is needed before wainscoting repair starts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before wainscoting repair begins, some preparation can help ensure a smooth process. This includes clearing furniture away from the walls, removing any wall hangings, and covering adjacent flooring and furniture with drop cloths to protect them from dust and paint. If the wainscoting is in a heavily trafficked area, consider creating a clear path for workers. Maine Results, Inc. will communicate any specific pre-repair requirements during the scheduling phase, which helps our team work efficiently and keeps your home organized during the project.",
+        "@type": "Answer",
+        "description": "Before wainscoting repair, clear furniture, remove wall hangings, and cover floors/furniture to protect them from dust and paint."
+      }
+    }
+  ],
+  "description": "Before wainscoting repair, clear furniture, remove wall hangings, and cover floors/furniture to protect them from dust and paint."
+}

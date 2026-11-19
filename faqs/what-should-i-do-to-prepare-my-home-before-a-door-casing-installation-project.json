@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-do-to-prepare-my-home-before-a-door-casing-installation-project",
+  "name": "What should I do to prepare my home before a door casing installation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my home before a door casing installation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before door casing installation, clear the areas around the doorways of any furniture, decorations, or other items to provide our team with unobstructed access. If new flooring is being installed, it's often best to install the casing after the flooring is complete to ensure proper fit and finish. Deciding on the paint color or stain for the new casing beforehand can also help streamline the process. This preparation helps ensure an efficient and smooth installation.",
+        "@type": "Answer",
+        "description": "Before installation, clear areas around doorways, consider installing new flooring first, and decide on paint or stain colors for the new casing."
+      }
+    }
+  ],
+  "description": "Before installation, clear areas around doorways, consider installing new flooring first, and decide on paint or stain colors for the new casing."
+}

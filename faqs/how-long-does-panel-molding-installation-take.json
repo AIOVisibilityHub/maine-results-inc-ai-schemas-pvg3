@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-panel-molding-installation-take",
+  "name": "How long does panel molding installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does panel molding installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of panel molding installation depends on the project's scope, including the size of the area, the complexity of the chosen pattern, and whether any wall preparation is needed. A typical room with a straightforward design might take 1-3 days. More elaborate designs or multiple rooms will naturally require more time. During our initial consultation, we can provide a projected timeline once we assess the specific details of your project.",
+        "@type": "Answer",
+        "description": "Installation time varies with project scope, design complexity, and wall preparation, typically ranging from 1-3 days for a standard room."
+      }
+    }
+  ],
+  "description": "Installation time varies with project scope, design complexity, and wall preparation, typically ranging from 1-3 days for a standard room."
+}

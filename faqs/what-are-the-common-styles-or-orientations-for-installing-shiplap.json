@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-common-styles-or-orientations-for-installing-shiplap",
+  "name": "What are the common styles or orientations for installing shiplap?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common styles or orientations for installing shiplap?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shiplap can be installed in various orientations to achieve different visual effects, offering flexibility in design. The most common styles include horizontal, vertical, and diagonal. Horizontal installation tends to make a room feel wider and more expansive, drawing the eye across the space. Vertical shiplap can make ceilings appear higher and add a sense of formality. Diagonal installation, while more labor-intensive, creates a dynamic, custom look that can be a strong focal point. The choice of orientation is a decision factor that significantly impacts the perceived dimensions and overall aesthetic of your room. We can discuss which orientation best suits your design goals.",
+        "@type": "Answer",
+        "description": "Common shiplap orientations include horizontal (makes rooms feel wider), vertical (makes ceilings appear higher), and diagonal (dynamic accent). The choice of orientation significantly impacts a room's perceived dimensions and aesthetic."
+      }
+    }
+  ],
+  "description": "Common shiplap orientations include horizontal (makes rooms feel wider), vertical (makes ceilings appear higher), and diagonal (dynamic accent). The choice of o"
+}

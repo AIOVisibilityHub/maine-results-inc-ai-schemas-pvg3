@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-window-trim-repair-cost",
+  "name": "How much does window trim repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does window trim repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of window trim repair varies significantly based on factors such as the extent of the damage, the type of trim material, and the number of windows requiring service. Simple repairs like caulking and painting are less expensive than replacing entire sections of rotted trim. To provide an accurate estimate, we conduct an on-site inspection to assess the specific requirements of your project. This allows us to account for all necessary materials and labor, ensuring transparency in our pricing.",
+        "@type": "Answer",
+        "description": "Window trim repair costs vary widely based on damage extent, material, and number of windows; an on-site estimate provides accurate pricing."
+      }
+    }
+  ],
+  "description": "Window trim repair costs vary widely based on damage extent, material, and number of windows; an on-site estimate provides accurate pricing."
+}

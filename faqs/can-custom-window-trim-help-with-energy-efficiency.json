@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-custom-window-trim-help-with-energy-efficiency",
+  "name": "Can custom window trim help with energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can custom window trim help with energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While the primary role of custom window trim is aesthetic enhancement, properly installed trim can indirectly contribute to better energy efficiency. When old trim is removed and new trim is carefully fitted and sealed, it can help eliminate small drafts or gaps around the window frame that might otherwise allow air leakage. This improved sealing, alongside well-installed windows and proper insulation, can contribute to a more comfortable indoor temperature and potentially reduce heating and cooling costs. We ensure a tight, precise fit to maximize these benefits.",
+        "@type": "Answer",
+        "description": "Properly installed custom window trim can indirectly help energy efficiency by sealing drafts around window frames, contributing to better insulation and comfort."
+      }
+    }
+  ],
+  "description": "Properly installed custom window trim can indirectly help energy efficiency by sealing drafts around window frames, contributing to better insulation and comfor"
+}

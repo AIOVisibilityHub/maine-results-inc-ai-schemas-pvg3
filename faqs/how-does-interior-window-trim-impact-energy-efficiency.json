@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-does-interior-window-trim-impact-energy-efficiency",
+  "name": "How does interior window trim impact energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does interior window trim impact energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior window trim primarily serves an aesthetic purpose, but it can indirectly contribute to energy efficiency by helping to seal gaps around the window frame. When properly installed and caulked, trim helps prevent air leaks that could otherwise lead to drafts and heat loss or gain. It works in conjunction with well-installed windows and insulation to create a tighter building envelope. For optimal energy performance in homes throughout the Meridian area, ensure both the windows and their surrounding trim are correctly sealed.",
+        "@type": "Answer",
+        "description": "Interior window trim, when properly installed and sealed, can indirectly improve energy efficiency by preventing air leaks around the window frame."
+      }
+    }
+  ],
+  "description": "Interior window trim, when properly installed and sealed, can indirectly improve energy efficiency by preventing air leaks around the window frame."
+}

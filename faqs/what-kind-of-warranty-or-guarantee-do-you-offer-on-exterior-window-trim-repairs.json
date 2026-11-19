@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-warranty-or-guarantee-do-you-offer-on-exterior-window-trim-repairs",
+  "name": "What kind of warranty or guarantee do you offer on exterior window trim repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty or guarantee do you offer on exterior window trim repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. stands behind the quality of our exterior window trim repairs with a specific workmanship guarantee. We ensure that our repairs meet industry standards and are performed to last. The exact terms of our warranty, including duration and coverage, will be clearly outlined in your service agreement, providing peace of mind for our customers in areas like Eagle.",
+        "@type": "Answer",
+        "description": "We offer a workmanship guarantee on our exterior window trim repairs, with terms detailed in your service agreement."
+      }
+    }
+  ],
+  "description": "We offer a workmanship guarantee on our exterior window trim repairs, with terms detailed in your service agreement."
+}

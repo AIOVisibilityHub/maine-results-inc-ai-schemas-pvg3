@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-window-trim-repair-usually-take",
+  "name": "How long does window trim repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does window trim repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of window trim repair varies depending on the number of windows, the extent of the damage, and the type of trim material. A simple repair involving minor patching and painting on a few windows might take a few hours, while extensive replacement of multiple window trims could take several days. Factors like weather conditions in areas such as Garden City or Meridian can also influence project timelines, as certain materials and finishes require specific temperatures for proper application. We will provide an estimated timeline after assessing your specific needs.",
+        "@type": "Answer",
+        "description": "Window trim repair duration varies from hours to days, depending on damage extent and number of windows, with weather potentially affecting the timeline."
+      }
+    }
+  ],
+  "description": "Window trim repair duration varies from hours to days, depending on damage extent and number of windows, with weather potentially affecting the timeline."
+}

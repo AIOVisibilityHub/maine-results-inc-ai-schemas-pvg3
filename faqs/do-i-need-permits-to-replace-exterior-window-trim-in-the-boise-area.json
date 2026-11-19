@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-permits-to-replace-exterior-window-trim-in-the-boise-area",
+  "name": "Do I need permits to replace exterior window trim in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits to replace exterior window trim in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, replacing existing exterior window trim that is purely cosmetic and does not alter the structural integrity or opening size of the window does not require a building permit in the Boise area, including Garden City, Meridian, and surrounding communities. However, if the project involves altering the size or location of a window opening, or if you are replacing the windows themselves, permits would likely be necessary. It's always a good practice to confirm with your local building department, or we can assist you in understanding the specific requirements for your project.",
+        "@type": "Answer",
+        "description": "Replacing purely cosmetic exterior window trim generally doesn't need permits in the Boise area. However, if you alter window opening sizes or replace windows, permits are usually required."
+      }
+    }
+  ],
+  "description": "Replacing purely cosmetic exterior window trim generally doesn't need permits in the Boise area. However, if you alter window opening sizes or replace windows,"
+}

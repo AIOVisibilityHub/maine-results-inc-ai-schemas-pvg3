@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-hiring-maine-results-inc-for-wall-molding-installation",
+  "name": "What is the process for hiring Maine Results, Inc. for wall molding installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for hiring Maine Results, Inc. for wall molding installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with a consultation to discuss your vision, assess your space, and understand your preferences for molding style and materials. Following this, we provide a detailed proposal outlining the scope of work, timeline, and cost. Once approved, our skilled team schedules the installation at your convenience. We handle all aspects from preparation to a clean finish, including removal of old molding if necessary, precise cutting and fitting, secure installation, and preparation for painting. Our goal is to ensure a smooth, professional experience from initial contact to project completion, delivering high-quality results for your home.",
+        "@type": "Answer",
+        "description": "Our process starts with a consultation and proposal, followed by professional installation at your convenience, covering all steps from preparation to finish. We ensure a smooth, high-quality experience."
+      }
+    }
+  ],
+  "description": "Our process starts with a consultation and proposal, followed by professional installation at your convenience, covering all steps from preparation to finish. W"
+}

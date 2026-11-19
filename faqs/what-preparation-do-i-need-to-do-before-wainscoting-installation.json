@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-do-i-need-to-do-before-wainscoting-installation",
+  "name": "What preparation do I need to do before wainscoting installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before wainscoting installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before wainscoting installation, some preparation steps can help ensure a smooth process and optimal results. You should clear furniture away from the walls, remove any existing trim or baseboards if they are being replaced, and ensure the walls are clean and free of significant debris. While our team handles detailed wall preparation, considering any existing electrical outlets or light switches that might need adjustment to accommodate the new paneling is important. Providing clear access to the work area helps our installers work efficiently. This preparation ensures a clean slate for precise measurements and proper panel alignment.",
+        "@type": "Answer",
+        "description": "Prepare for wainscoting installation by clearing furniture, removing old trim, and ensuring walls are clean. Consider existing outlets. Providing clear access helps ensure a smooth and efficient installation."
+      }
+    }
+  ],
+  "description": "Prepare for wainscoting installation by clearing furniture, removing old trim, and ensuring walls are clean. Consider existing outlets. Providing clear access h"
+}

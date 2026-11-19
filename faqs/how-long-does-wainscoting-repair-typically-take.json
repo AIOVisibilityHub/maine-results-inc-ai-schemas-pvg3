@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-wainscoting-repair-typically-take",
+  "name": "How long does wainscoting repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does wainscoting repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of wainscoting repair varies depending on the extent of the damage, the type of wainscoting material, and the size of the area needing attention. Minor repairs, such as filling small dents or repainting, might take a few hours. More extensive work, like replacing multiple damaged panels or addressing significant water damage that requires drying out, could span several days. During the initial assessment, Maine Results, Inc. provides an estimated timeline based on the specific repair needs, allowing you to plan accordingly for the work.",
+        "@type": "Answer",
+        "description": "Wainscoting repair time varies based on damage extent and material, from hours for minor fixes to several days for extensive work."
+      }
+    }
+  ],
+  "description": "Wainscoting repair time varies based on damage extent and material, from hours for minor fixes to several days for extensive work."
+}

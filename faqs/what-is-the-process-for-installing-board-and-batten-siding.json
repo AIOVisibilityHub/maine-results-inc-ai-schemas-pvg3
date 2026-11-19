@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-installing-board-and-batten-siding",
+  "name": "What is the process for installing board and batten siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing board and batten siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our board and batten installation process begins with a thorough preparation of the existing exterior, including removing old siding if necessary and ensuring the sub-surface is clean and sound. Next, a weather-resistant barrier is applied to protect your home. We then precisely measure and cut the wider boards, installing them vertically. Following this, the narrower battens are carefully placed over the seams of the boards, creating the distinctive pattern and adding an extra layer of protection. Finally, all trim, corners, and openings are meticulously finished and sealed. This systematic approach ensures a durable and aesthetically pleasing result. We maintain clear communication throughout each phase, from initial prep to final inspection, to ensure your satisfaction.",
+        "@type": "Answer",
+        "description": "The process involves preparing the exterior, applying a weather barrier, installing vertical boards, then placing battens over seams, and finishing trim."
+      }
+    }
+  ],
+  "description": "The process involves preparing the exterior, applying a weather barrier, installing vertical boards, then placing battens over seams, and finishing trim."
+}

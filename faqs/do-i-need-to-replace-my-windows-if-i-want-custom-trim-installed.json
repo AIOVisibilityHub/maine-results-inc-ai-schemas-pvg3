@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-replace-my-windows-if-i-want-custom-trim-installed",
+  "name": "Do I need to replace my windows if I want custom trim installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace my windows if I want custom trim installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, you do not typically need to replace your windows simply to have custom trim installed. Custom trim can be added around existing windows, transforming their appearance without the larger expense and disruption of full window replacement. However, if your windows are old, leaky, or significantly damaged, installing new, energy-efficient windows at the same time as custom trim could be a more cost-effective and beneficial long-term solution. During our consultation, we can assess your current windows and advise if replacement might be a wise consideration alongside your trim project.",
+        "@type": "Answer",
+        "description": "No, you don't need to replace windows for custom trim. However, if windows are old or damaged, combining replacement with trim installation could be more beneficial."
+      }
+    }
+  ],
+  "description": "No, you don't need to replace windows for custom trim. However, if windows are old or damaged, combining replacement with trim installation could be more benefi"
+}

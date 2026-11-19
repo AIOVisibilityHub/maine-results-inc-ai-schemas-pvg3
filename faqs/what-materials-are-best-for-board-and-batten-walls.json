@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-best-for-board-and-batten-walls",
+  "name": "What materials are best for board and batten walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are best for board and batten walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for board and batten include Medium-Density Fiberboard (MDF), pine, and poplar. MDF is a cost-effective choice that offers a very smooth finish and takes paint well, making it popular for interior applications. Pine is a natural wood option that can be painted or stained, offering a more rustic feel. Poplar is a durable hardwood that also paints beautifully and is more resistant to dents. Your choice depends on budget, desired aesthetic, and expected durability. We work with clients to weigh these options, considering the specific environment of their home, perhaps in Boise Heights or Eagle, to ensure the right material choice.",
+        "@type": "Answer",
+        "description": "MDF is budget-friendly and smooth, pine offers a natural look, and poplar is durable. Material choice depends on budget, style, and durability needs."
+      }
+    }
+  ],
+  "description": "MDF is budget-friendly and smooth, pine offers a natural look, and poplar is durable. Material choice depends on budget, style, and durability needs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-ceiling-molding-are-available-for-installation",
+  "name": "What types of ceiling molding are available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of ceiling molding are available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. offers installation for various types of ceiling molding, including crown molding, cove molding, and picture rail molding. Crown molding adds a decorative transition between walls and ceilings, while cove molding offers a softer, concave curve. Picture rail molding, typically placed lower on the wall, provides a way to hang artwork without damaging the wall. When choosing, consider the architectural style of your home and the ceiling height; more elaborate crown molding suits higher ceilings, while simpler designs work well in standard rooms.",
+        "@type": "Answer",
+        "description": "We install crown, cove, and picture rail molding. Crown molding creates a decorative wall-to-ceiling transition, while cove molding offers a softer curve. Picture rail allows art hanging without wall damage."
+      }
+    }
+  ],
+  "description": "We install crown, cove, and picture rail molding. Crown molding creates a decorative wall-to-ceiling transition, while cove molding offers a softer curve. Pictu"
+}

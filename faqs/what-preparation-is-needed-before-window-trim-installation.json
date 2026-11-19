@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-is-needed-before-window-trim-installation",
+  "name": "What preparation is needed before window trim installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before window trim installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before window trim installation begins, ensure the work area around your windows is clear of obstructions. If existing trim is being removed, prepare for some dust and debris. For exterior trim, make sure any adjacent landscaping or outdoor furniture is moved. Inside, remove curtains or blinds and protect flooring and furniture with drop cloths. This preparation helps the installation team work efficiently and keeps your home clean during the process.",
+        "@type": "Answer",
+        "description": "Before installation, clear the work area, remove curtains, protect furniture and flooring, and anticipate some dust."
+      }
+    }
+  ],
+  "description": "Before installation, clear the work area, remove curtains, protect furniture and flooring, and anticipate some dust."
+}

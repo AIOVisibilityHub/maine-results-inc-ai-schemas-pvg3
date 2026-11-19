@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-a-coffered-ceiling-project",
+  "name": "What factors influence the cost of a coffered ceiling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a coffered ceiling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a coffered ceiling project is primarily influenced by the room size, the type of wood or material used (e.g., MDF, pine, oak), the complexity of the beam design, and any required structural modifications. Additional factors include painting or staining, and the need for new lighting fixtures. We provide transparent estimates after a thorough assessment, ensuring you understand all components of the investment for your home in areas like Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "Cost factors include room size, material type, design complexity, structural needs, and finishes like paint or stain."
+      }
+    }
+  ],
+  "description": "Cost factors include room size, material type, design complexity, structural needs, and finishes like paint or stain."
+}

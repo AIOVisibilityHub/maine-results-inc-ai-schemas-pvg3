@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-door-casing-and-why-is-it-important",
+  "name": "What is door casing and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is door casing and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door casing is the trim or molding installed around a door frame, covering the gap between the frame and the wall. It provides a finished, aesthetic look and helps protect the edges of the wall and door frame from damage. Beyond its visual role, casing can help seal the door opening, reducing drafts and improving energy efficiency, particularly in older homes where precise fit is less common. Maine Results, Inc. ensures proper installation to enhance both the appearance and practical function of your doors in areas like Meridian and Kuna.",
+        "@type": "Answer",
+        "description": "Door casing is decorative trim around a door frame that covers gaps, protects walls, and enhances appearance, also offering some draft protection."
+      }
+    }
+  ],
+  "description": "Door casing is decorative trim around a door frame that covers gaps, protects walls, and enhances appearance, also offering some draft protection."
+}

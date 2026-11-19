@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-board-and-batten-be-installed-over-existing-wallpaper-or-textured-walls",
+  "name": "Can board and batten be installed over existing wallpaper or textured walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can board and batten be installed over existing wallpaper or textured walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's possible to install board and batten over existing wallpaper or textured walls, proper surface preparation is crucial for a durable finish. For wallpaper, it's generally best to remove it first to ensure battens adhere directly to the wall and prevent bubbling or peeling underneath. For textured walls, a skim coat might be necessary to create a smooth, even surface, which helps the board and batten lay flat and look its best. Our team evaluates your existing wall condition during the consultation and recommends the most effective preparation steps for optimal results.",
+        "@type": "Answer",
+        "description": "It can be installed over existing surfaces, but wallpaper removal or skim coating textured walls is often needed for best adhesion and finish."
+      }
+    }
+  ],
+  "description": "It can be installed over existing surfaces, but wallpaper removal or skim coating textured walls is often needed for best adhesion and finish."
+}

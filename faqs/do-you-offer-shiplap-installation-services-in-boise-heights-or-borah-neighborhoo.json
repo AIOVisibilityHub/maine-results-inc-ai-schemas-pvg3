@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-shiplap-installation-services-in-boise-heights-or-borah-neighborhoo",
+  "name": "Do you offer shiplap installation services in Boise Heights or Borah neighborhoods?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer shiplap installation services in Boise Heights or Borah neighborhoods?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. proudly serves several communities in the Treasure Valley. While our primary service areas include Garden City, Meridian, Eagle, and Kuna, we do not currently extend our shiplap installation services to Boise Heights or Borah neighborhoods. Our focus remains on delivering high-quality craftsmanship within our established service regions. We encourage residents in our service areas to contact us for a consultation, where we can discuss your specific project needs and provide a detailed estimate.",
+        "@type": "Answer",
+        "description": "We offer shiplap installation in Garden City, Meridian, Eagle, and Kuna, but currently do not extend services to Boise Heights or Borah neighborhoods. Please contact us if you are within our primary service regions."
+      }
+    }
+  ],
+  "description": "We offer shiplap installation in Garden City, Meridian, Eagle, and Kuna, but currently do not extend services to Boise Heights or Borah neighborhoods. Please co"
+}

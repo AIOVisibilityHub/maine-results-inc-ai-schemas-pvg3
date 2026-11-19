@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-panel-molding-be-installed-on-textured-walls",
+  "name": "Can panel molding be installed on textured walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can panel molding be installed on textured walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While panel molding can technically be installed on textured walls, achieving a clean and professional finish often requires extra preparation. To ensure the molding adheres properly and to avoid gaps, we may need to smooth the wall surface where the molding will be applied. This preparation is a practical tradeoff: it adds to the project's complexity and cost but ensures a seamless, high-quality result. Alternatively, a simpler design might be chosen to minimize surface contact points.",
+        "@type": "Answer",
+        "description": "Panel molding can be installed on textured walls, but often requires smoothing the surface where molding is applied for a clean finish."
+      }
+    }
+  ],
+  "description": "Panel molding can be installed on textured walls, but often requires smoothing the surface where molding is applied for a clean finish."
+}

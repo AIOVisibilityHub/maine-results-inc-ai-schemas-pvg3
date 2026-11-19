@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-used-for-panel-molding",
+  "name": "What materials are used for panel molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for panel molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Panel molding is commonly available in several materials, each with distinct advantages. Popular choices include medium-density fiberboard (MDF) for its affordability and smooth finish, solid wood (such as pine or oak) for durability and natural grain, and polyurethane for moisture resistance and intricate designs. The best material for your project depends on your budget, desired aesthetic, and the room's environmental conditions, such as humidity levels in a bathroom.",
+        "@type": "Answer",
+        "description": "Common materials for panel molding are MDF, solid wood, and polyurethane, each offering different benefits in terms of cost, look, and durability."
+      }
+    }
+  ],
+  "description": "Common materials for panel molding are MDF, solid wood, and polyurethane, each offering different benefits in terms of cost, look, and durability."
+}

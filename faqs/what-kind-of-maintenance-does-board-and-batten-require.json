@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-maintenance-does-board-and-batten-require",
+  "name": "What kind of maintenance does board and batten require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does board and batten require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Board and batten walls are generally low maintenance, especially if properly installed and finished. The primary maintenance involves routine cleaning with a damp cloth to remove dust and dirt. For painted surfaces, occasional touch-ups may be needed to cover scuffs or chips, particularly in high-traffic areas. When considering materials, clients should know that while MDF is cost-effective and smooth, it's more susceptible to moisture damage than natural wood. We guide clients in Kuna and Star through selecting the most durable finishes that suit their lifestyle and help them understand what to expect for long-term care.",
+        "@type": "Answer",
+        "description": "Maintenance is minimal, mostly routine cleaning and occasional paint touch-ups. Material choice affects durability and care needs."
+      }
+    }
+  ],
+  "description": "Maintenance is minimal, mostly routine cleaning and occasional paint touch-ups. Material choice affects durability and care needs."
+}

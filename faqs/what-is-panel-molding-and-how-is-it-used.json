@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-panel-molding-and-how-is-it-used",
+  "name": "What is panel molding and how is it used?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is panel molding and how is it used?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Panel molding is a decorative trim applied to walls, often in rectangular or square patterns, to create architectural interest and depth. It can mimic the look of traditional wainscoting or add a custom, elegant touch to plain walls. We often use it in dining rooms, living areas, and entryways to define spaces and enhance a room's aesthetic. The design possibilities range from simple geometric patterns to more intricate custom layouts, depending on your desired style and the room's existing features.",
+        "@type": "Answer",
+        "description": "Panel molding is decorative trim applied to walls to create architectural interest, mimicking wainscoting or adding custom elegance."
+      }
+    }
+  ],
+  "description": "Panel molding is decorative trim applied to walls to create architectural interest, mimicking wainscoting or adding custom elegance."
+}

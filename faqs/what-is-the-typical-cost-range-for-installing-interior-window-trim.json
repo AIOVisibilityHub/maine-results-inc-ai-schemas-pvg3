@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-cost-range-for-installing-interior-window-trim",
+  "name": "What is the typical cost range for installing interior window trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for installing interior window trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing interior window trim varies significantly based on material choice, the complexity of the trim profile, window size, and the number of windows. Basic MDF trim installed on standard windows will be on the lower end, while custom wood trim with intricate designs for multiple large windows will be more expensive. Labor costs also factor in, especially for detailed custom work. We provide detailed estimates for projects in Garden City, Meridian, Eagle, Kuna, and Star, allowing you to understand the full scope. Requesting an on-site consultation is essential for an accurate quote, as it allows us to assess all these decision factors.",
+        "@type": "Answer",
+        "description": "Installation costs for interior window trim depend on material, profile complexity, window size, and the number of windows. Get an on-site estimate."
+      }
+    }
+  ],
+  "description": "Installation costs for interior window trim depend on material, profile complexity, window size, and the number of windows. Get an on-site estimate."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-s-the-difference-between-cased-and-uncased-interior-window-openings",
+  "name": "What's the difference between cased and uncased interior window openings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between cased and uncased interior window openings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cased window openings feature decorative trim that frames the window, covering the gap between the window frame and the wall. This provides a finished, architectural look. Uncased openings, sometimes called 'drywall returns,' have the drywall turned into the window jamb, creating a minimalist, often more contemporary appearance without traditional trim. The main practical tradeoff is aesthetics and cost; cased windows offer more design possibilities but involve more material and labor, while uncased openings are simpler and more economical but less visually elaborate. Your choice impacts the overall feel of the room.",
+        "@type": "Answer",
+        "description": "Cased windows have decorative trim, while uncased (drywall returns) have a minimalist look without traditional trim."
+      }
+    }
+  ],
+  "description": "Cased windows have decorative trim, while uncased (drywall returns) have a minimalist look without traditional trim."
+}

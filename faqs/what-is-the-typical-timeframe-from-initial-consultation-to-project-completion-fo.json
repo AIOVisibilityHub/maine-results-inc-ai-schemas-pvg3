@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-timeframe-from-initial-consultation-to-project-completion-fo",
+  "name": "What is the typical timeframe from initial consultation to project completion for box molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe from initial consultation to project completion for box molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical timeframe from the initial consultation to the completion of a box molding project can vary. After the consultation, where we discuss design and material choices, it usually takes a few days to a week to finalize the proposal and order materials. Once materials arrive and the installation is scheduled, the on-site work for an average room can take 1 to 3 days, including prep, installation, caulking, and painting. Factors like the project's scale, material availability, and current project queue for our team serving areas like Caldwell or Star can influence the overall timeline.",
+        "@type": "Answer",
+        "description": "From consultation to project completion, box molding installation typically takes 1-3 days on-site, plus time for proposal finalization and material ordering."
+      }
+    }
+  ],
+  "description": "From consultation to project completion, box molding installation typically takes 1-3 days on-site, plus time for proposal finalization and material ordering."
+}

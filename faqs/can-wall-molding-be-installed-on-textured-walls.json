@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-wall-molding-be-installed-on-textured-walls",
+  "name": "Can wall molding be installed on textured walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can wall molding be installed on textured walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, wall molding can be installed on textured walls, but the process may require additional attention to achieve a seamless finish. The main challenge is often ensuring a tight seal where the molding meets the textured surface. Depending on the severity of the texture, minor gaps might need to be filled with caulk or spackle to create a smooth transition. Our experienced installers are skilled in working with various wall surfaces and will ensure your molding is installed securely and aesthetically, regardless of the wall texture.",
+        "@type": "Answer",
+        "description": "Yes, wall molding can be installed on textured walls, though it may require extra attention to ensure a tight, seamless fit with proper sealing. Our installers handle various wall surfaces effectively."
+      }
+    }
+  ],
+  "description": "Yes, wall molding can be installed on textured walls, though it may require extra attention to ensure a tight, seamless fit with proper sealing. Our installers"
+}

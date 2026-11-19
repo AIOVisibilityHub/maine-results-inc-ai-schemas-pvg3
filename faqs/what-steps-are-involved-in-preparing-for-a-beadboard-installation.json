@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-steps-are-involved-in-preparing-for-a-beadboard-installation",
+  "name": "What steps are involved in preparing for a beadboard installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in preparing for a beadboard installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Effective preparation is key to a smooth beadboard installation. Before our team begins, we recommend clearing the work area of furniture and decor to ensure unobstructed access. You may need to remove existing baseboards or trim, and any uneven wall surfaces might require patching or sanding for a flat base. If new wiring or plumbing will run behind the beadboard, those installations should be completed beforehand. We can assist with some of these preparatory steps, but having the room cleared and surfaces mostly ready helps streamline the process and minimize overall project time for homes in Garden City or Kuna.",
+        "@type": "Answer",
+        "description": "Preparation involves clearing the work area, removing old trim, and ensuring walls are smooth; any new wiring/plumbing behind it should be done first."
+      }
+    }
+  ],
+  "description": "Preparation involves clearing the work area, removing old trim, and ensuring walls are smooth; any new wiring/plumbing behind it should be done first."
+}

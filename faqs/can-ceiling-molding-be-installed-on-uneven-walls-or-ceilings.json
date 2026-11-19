@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-ceiling-molding-be-installed-on-uneven-walls-or-ceilings",
+  "name": "Can ceiling molding be installed on uneven walls or ceilings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can ceiling molding be installed on uneven walls or ceilings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing ceiling molding on uneven walls or ceilings presents challenges that our experienced team is equipped to handle. While minor imperfections can often be hidden with careful installation and caulking, significant unevenness may require additional preparation or custom fitting to ensure a seamless look. The presence of uneven surfaces can affect the complexity and time required for installation. We assess these conditions during our initial consultation to provide an accurate plan and estimate.",
+        "@type": "Answer",
+        "description": "Yes, but uneven surfaces can add complexity. Our team handles minor imperfections with careful installation; significant issues may require extra prep or custom fitting."
+      }
+    }
+  ],
+  "description": "Yes, but uneven surfaces can add complexity. Our team handles minor imperfections with careful installation; significant issues may require extra prep or custom"
+}

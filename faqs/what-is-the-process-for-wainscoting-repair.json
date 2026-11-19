@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-wainscoting-repair",
+  "name": "What is the process for wainscoting repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for wainscoting repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The wainscoting repair process typically begins with an assessment of the damage to determine the appropriate repair method. This might involve cleaning the area, sanding down imperfections, filling in cracks or holes with wood filler, or replacing damaged sections of panels. After repairs are made, the wainscoting is prepped and repainted or refinished to match the existing finish. Maine Results, Inc. ensures a smooth process by clearly outlining each step and coordinating with you to minimize disruption to your home during the repair work.",
+        "@type": "Answer",
+        "description": "Wainscoting repair involves damage assessment, cleaning, sanding, filling or panel replacement, followed by repainting or refinishing."
+      }
+    }
+  ],
+  "description": "Wainscoting repair involves damage assessment, cleaning, sanding, filling or panel replacement, followed by repainting or refinishing."
+}

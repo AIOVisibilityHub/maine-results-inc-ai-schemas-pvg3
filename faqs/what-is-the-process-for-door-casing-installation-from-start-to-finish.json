@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-door-casing-installation-from-start-to-finish",
+  "name": "What is the process for door casing installation from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for door casing installation from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The door casing installation process typically begins with precise measurements of each door frame. Then, the chosen casing material is cut to size, often with mitered corners for a clean fit. The casing is then attached to the door frame and wall using nails or adhesive. Finally, nail holes are filled, and the casing is prepared for painting or staining. For projects in areas like Garden City, we ensure minimal disruption and a clean workspace throughout this process.",
+        "@type": "Answer",
+        "description": "The process involves measuring, cutting, attaching casing to the door frame, filling nail holes, and preparing for finishing."
+      }
+    }
+  ],
+  "description": "The process involves measuring, cutting, attaching casing to the door frame, filling nail holes, and preparing for finishing."
+}

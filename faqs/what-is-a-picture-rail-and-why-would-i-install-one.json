@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-a-picture-rail-and-why-would-i-install-one",
+  "name": "What is a picture rail and why would I install one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a picture rail and why would I install one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A picture rail is a molding installed high on a wall, typically near the ceiling, from which artwork can be hung using hooks and cords. Installing one allows you to hang and rearrange pictures without putting holes in your walls, preserving the finish. This is particularly useful in homes with delicate plaster, historical significance, or when you frequently change your wall decor. Maine Results Inc. installs picture rails that are not only functional but also complement your home's aesthetic, offering a clean look without visible fasteners.",
+        "@type": "Answer",
+        "description": "A picture rail is a wall molding for hanging artwork without damaging walls, offering flexibility for changing displays and preserving wall finishes."
+      }
+    }
+  ],
+  "description": "A picture rail is a wall molding for hanging artwork without damaging walls, offering flexibility for changing displays and preserving wall finishes."
+}

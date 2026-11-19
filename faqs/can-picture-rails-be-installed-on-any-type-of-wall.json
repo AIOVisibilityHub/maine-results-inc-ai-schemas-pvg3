@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-picture-rails-be-installed-on-any-type-of-wall",
+  "name": "Can picture rails be installed on any type of wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can picture rails be installed on any type of wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Picture rails can be installed on most standard wall types, including drywall, plaster, and even brick, though the fastening method will vary. The critical factor is ensuring secure attachment to the wall studs or using appropriate anchors designed for the specific wall material to safely support the weight of hung items. For older homes with plaster walls, our team at Maine Results Inc. has experience with sensitive installation techniques that preserve historical integrity while ensuring stability. We assess your wall type during the consultation to determine the best approach.",
+        "@type": "Answer",
+        "description": "Picture rails can be installed on most wall types (drywall, plaster, brick) by using appropriate fasteners, which Maine Results Inc. assesses during consultation."
+      }
+    }
+  ],
+  "description": "Picture rails can be installed on most wall types (drywall, plaster, brick) by using appropriate fasteners, which Maine Results Inc. assesses during consultatio"
+}

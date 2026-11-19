@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-board-and-batten-siding-repair-typically-take",
+  "name": "How long does board and batten siding repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does board and batten siding repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of board and batten siding repair varies significantly based on the project's scope. Small, localized repairs involving a few boards might take a day or two. Larger projects addressing multiple sections of a house could extend to several days or even a week, depending on weather conditions and the complexity of matching existing finishes. For clients in areas like Caldwell or Middleton, Maine Results, Inc. schedules work efficiently while ensuring quality. Preparation steps, like obtaining specific wood types or custom-milling battens, can also influence the overall timeline, so discussing these details upfront is helpful.",
+        "@type": "Answer",
+        "description": "Repair time varies from a day for small fixes to a week for larger projects, depending on scope, weather, and material sourcing. Discussing preparation steps can clarify the timeline."
+      }
+    }
+  ],
+  "description": "Repair time varies from a day for small fixes to a week for larger projects, depending on scope, weather, and material sourcing. Discussing preparation steps ca"
+}

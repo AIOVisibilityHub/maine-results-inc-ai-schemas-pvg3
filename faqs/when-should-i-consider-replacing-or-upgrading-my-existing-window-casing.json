@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-or-upgrading-my-existing-window-casing",
+  "name": "When should I consider replacing or upgrading my existing window casing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing or upgrading my existing window casing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing or upgrading your window casing if it's damaged, deteriorating, or no longer matches your home's updated style. Signs of damage include cracks, warping, rot, or peeling paint that reappears after repainting. Upgrading can also significantly enhance a room's aesthetic during a remodel. As a preparation step, inspect your current casing for these issues and decide if a style update aligns with your renovation goals. Maine Results can assess the condition of your existing casing and recommend whether repair or full replacement is the most effective solution for your property.",
+        "@type": "Answer",
+        "description": "Consider replacing casing if it's damaged, deteriorating, or doesn't match your home's updated style."
+      }
+    }
+  ],
+  "description": "Consider replacing casing if it's damaged, deteriorating, or doesn't match your home's updated style."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-does-door-casing-installation-differ-for-interior-versus-exterior-doors",
+  "name": "How does door casing installation differ for interior versus exterior doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does door casing installation differ for interior versus exterior doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door casing installation for interior and exterior doors differs primarily in material choice and weatherproofing requirements. Exterior door casing requires more durable, weather-resistant materials like treated wood, PVC, or composite, designed to withstand outdoor elements. It also often includes additional sealing to prevent moisture intrusion and improve energy efficiency, which is crucial for homes in Nampa or Caldwell to handle varying seasonal conditions. Interior casing, while still functional, focuses more on aesthetics.",
+        "@type": "Answer",
+        "description": "Exterior door casing uses weather-resistant materials and includes more sealing for protection, unlike interior casing which prioritizes aesthetics."
+      }
+    }
+  ],
+  "description": "Exterior door casing uses weather-resistant materials and includes more sealing for protection, unlike interior casing which prioritizes aesthetics."
+}

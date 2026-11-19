@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-professional-door-casing-installation",
+  "name": "What factors influence the cost of professional door casing installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of professional door casing installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of professional door casing installation is primarily influenced by the type and material of the casing, the number of doors to be cased, and the complexity of the installation. For example, custom profiles or intricate designs will naturally cost more than standard, pre-fabricated options. Additionally, if existing casing needs to be removed or if there are structural adjustments required around the doorway, this can affect the overall project cost. We provide detailed estimates after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Cost factors include casing type, material, number of doors, and installation complexity, especially for custom designs or structural adjustments."
+      }
+    }
+  ],
+  "description": "Cost factors include casing type, material, number of doors, and installation complexity, especially for custom designs or structural adjustments."
+}

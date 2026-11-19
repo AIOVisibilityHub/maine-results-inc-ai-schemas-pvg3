@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-repair-board-and-batten-siding-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair board and batten siding myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair board and batten siding myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor cosmetic repairs, like patching small holes or repainting, might be manageable for a homeowner with experience, significant board and batten siding repair is best left to professionals. Proper repair involves identifying the root cause of damage, safely removing old materials, ensuring correct installation to prevent future issues, and matching existing siding seamlessly. For complex repairs, especially those involving water damage or structural integrity, a company like Maine Results, Inc. has the tools, expertise, and local knowledge specific to the Garden City, Meridian, Eagle, Kuna, and Star areas to ensure a durable and aesthetically pleasing outcome.",
+        "@type": "Answer",
+        "description": "Minor repairs might be DIY, but significant issues, especially involving water damage or structural integrity, require professional expertise for proper installation and matching."
+      }
+    }
+  ],
+  "description": "Minor repairs might be DIY, but significant issues, especially involving water damage or structural integrity, require professional expertise for proper install"
+}

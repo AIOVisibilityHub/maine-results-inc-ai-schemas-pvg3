@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-materials-are-commonly-used-for-door-casing",
+  "name": "What types of materials are commonly used for door casing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are commonly used for door casing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for door casing include various wood species like pine, oak, and poplar, offering different grains and finishes. MDF (medium-density fiberboard) is another popular choice, known for its smooth finish and affordability, especially when painting is desired. For high-moisture areas or specific aesthetic needs, PVC or composite materials can also be used. Each material offers distinct benefits regarding durability, appearance, and cost, which is a practical tradeoff to consider for your home's specific environment.",
+        "@type": "Answer",
+        "description": "Common casing materials are wood (pine, oak, poplar) for natural looks and MDF for smooth, paintable, affordable options; PVC for moisture resistance."
+      }
+    }
+  ],
+  "description": "Common casing materials are wood (pine, oak, poplar) for natural looks and MDF for smooth, paintable, affordable options; PVC for moisture resistance."
+}

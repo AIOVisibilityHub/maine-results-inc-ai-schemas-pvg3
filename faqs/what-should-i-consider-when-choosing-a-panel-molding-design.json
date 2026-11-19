@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-when-choosing-a-panel-molding-design",
+  "name": "What should I consider when choosing a panel molding design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing a panel molding design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a panel molding design, consider the architectural style of your home, the scale of the room, and the desired aesthetic. Formal spaces often suit intricate, taller panels, while casual areas might benefit from simpler, lower designs. It's also important to think about furniture placement to avoid panels being obscured. We often advise clients to gather inspiration photos and consider how different patterns complement their existing decor to help make the best choice.",
+        "@type": "Answer",
+        "description": "Consider your home's architectural style, room scale, desired aesthetic, and furniture placement when choosing a panel molding design."
+      }
+    }
+  ],
+  "description": "Consider your home's architectural style, room scale, desired aesthetic, and furniture placement when choosing a panel molding design."
+}

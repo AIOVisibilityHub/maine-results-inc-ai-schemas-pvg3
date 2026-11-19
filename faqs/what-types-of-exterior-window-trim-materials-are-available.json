@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-exterior-window-trim-materials-are-available",
+  "name": "What types of exterior window trim materials are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of exterior window trim materials are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common exterior window trim materials include wood, vinyl, cellular PVC, and fiber cement. Wood offers a classic look and can be painted any color, but requires regular maintenance. Vinyl is low-maintenance and durable, often matching existing window frames. Cellular PVC mimics wood's appearance without the maintenance, resisting rot and insects. Fiber cement is a very durable, low-maintenance option that is resistant to fire and pests. Your choice often depends on your home's style, desired maintenance level, and budget.",
+        "@type": "Answer",
+        "description": "Exterior window trim materials include wood, vinyl, cellular PVC, and fiber cement, each offering different benefits in terms of appearance, durability, and maintenance. Your selection will depend on your aesthetic preferences and practical needs."
+      }
+    }
+  ],
+  "description": "Exterior window trim materials include wood, vinyl, cellular PVC, and fiber cement, each offering different benefits in terms of appearance, durability, and mai"
+}

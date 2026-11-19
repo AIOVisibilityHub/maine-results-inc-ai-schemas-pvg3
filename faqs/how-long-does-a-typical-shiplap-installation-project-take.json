@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-shiplap-installation-project-take",
+  "name": "How long does a typical shiplap installation project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical shiplap installation project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a shiplap installation project depends significantly on the size of the area, the intricacy of the room, and the preparation required. For a single accent wall in an average-sized room, installation might be completed within one to two days. However, a larger project involving multiple walls or rooms, especially those with many outlets, windows, or corners, could extend to several days or even a week. Factors like surface preparation—such as patching or priming—also influence the timeline. We will provide a clear timeline estimate after assessing your specific project scope.",
+        "@type": "Answer",
+        "description": "A typical shiplap installation for an accent wall can take 1-2 days, while larger or more complex projects may extend to several days or a week. Project duration depends on room size, intricacy, and required surface preparation."
+      }
+    }
+  ],
+  "description": "A typical shiplap installation for an accent wall can take 1-2 days, while larger or more complex projects may extend to several days or a week. Project duratio"
+}
