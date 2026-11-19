@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-match-existing-woodwork-in-my-home",
+  "name": "Can you match existing woodwork in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match existing woodwork in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, matching existing woodwork is a common request in fine woodworking projects. This often involves careful selection of wood species, stain colors, and finish types to ensure a cohesive look throughout your space. We take precise measurements and samples to replicate intricate details and finishes. This attention to detail is crucial for maintaining the aesthetic integrity of your home, especially for renovations or additions in specific areas like the East End or Warm Springs Mesa where unique architectural styles are prevalent.",
+        "@type": "Answer",
+        "description": "Yes, we can match existing woodwork by carefully selecting wood species, stain colors, and finishes to ensure a cohesive look."
+      }
+    }
+  ],
+  "description": "Yes, we can match existing woodwork by carefully selecting wood species, stain colors, and finishes to ensure a cohesive look."
+}

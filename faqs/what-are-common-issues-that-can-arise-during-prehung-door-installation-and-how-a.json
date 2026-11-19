@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-issues-that-can-arise-during-prehung-door-installation-and-how-a",
+  "name": "What are common issues that can arise during prehung door installation and how are they handled?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common issues that can arise during prehung door installation and how are they handled?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common issues during prehung door installation include an improperly sized rough opening, an unlevel floor, or an out-of-plumb wall, all of which can lead to a door that doesn't close properly, sticks, or has uneven gaps. These issues are typically handled by carefully shimming the door frame to ensure it is perfectly plumb and square within the opening, and sometimes by making minor adjustments to the rough framing. Our team at Maine Results, Inc. ensures that the installation process includes thorough checks and adjustments to prevent these common problems, ensuring your door functions flawlessly from day one.",
+        "@type": "Answer",
+        "description": "Common issues like improper sizing or unlevel openings are handled by shimming and adjusting the frame to ensure proper door function."
+      }
+    }
+  ],
+  "description": "Common issues like improper sizing or unlevel openings are handled by shimming and adjusting the frame to ensure proper door function."
+}

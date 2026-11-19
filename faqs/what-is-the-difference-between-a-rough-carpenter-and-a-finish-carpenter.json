@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-a-rough-carpenter-and-a-finish-carpenter",
+  "name": "What is the difference between a rough carpenter and a finish carpenter?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a rough carpenter and a finish carpenter?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A rough carpenter primarily focuses on the structural elements of a building, such as framing walls, roofs, and floors. Their work forms the skeleton of a structure and is often concealed once the project is complete. In contrast, a finish carpenter specializes in the aesthetic and visible components, including trim work, cabinet installation, door and window casings, and custom built-ins. Finish carpentry requires meticulous attention to detail to achieve a polished look. At Maine Results, Inc., we offer both rough and finish carpentry expertise to handle projects from foundational structures to decorative accents.",
+        "@type": "Answer",
+        "description": "Rough carpenters build structural frameworks; finish carpenters handle visible, aesthetic elements like trim, cabinets, and custom built-ins."
+      }
+    }
+  ],
+  "description": "Rough carpenters build structural frameworks; finish carpenters handle visible, aesthetic elements like trim, cabinets, and custom built-ins."
+}

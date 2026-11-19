@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-new-doors-improve-my-home-s-energy-efficiency",
+  "name": "Can new doors improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can new doors improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, installing new, energy-efficient doors can significantly improve your home's thermal performance. Modern doors feature better insulation, weatherstripping, and often include low-emissivity (Low-E) glass for doors with windows. Replacing old, drafty doors can reduce heat loss in winter and heat gain in summer, leading to lower energy bills. This is especially beneficial in areas like Boise with distinct seasonal temperature changes.",
+        "@type": "Answer",
+        "description": "New, energy-efficient doors with better insulation and weatherstripping can reduce drafts and lower your home's energy bills."
+      }
+    }
+  ],
+  "description": "New, energy-efficient doors with better insulation and weatherstripping can reduce drafts and lower your home's energy bills."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-a-prehung-door-and-why-should-i-choose-one-for-my-home-in-meridian",
+  "name": "What is a prehung door, and why should I choose one for my home in Meridian?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a prehung door, and why should I choose one for my home in Meridian?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A prehung door comes with the door slab already mounted in its frame, complete with hinges, and sometimes even pre-drilled for hardware. This assembly simplifies the installation process significantly compared to installing a slab door and frame separately. Choosing a prehung door can save time and labor costs, as much of the complex alignment work is done by the manufacturer. It also helps ensure a precise fit and smooth operation from the start, which is a key consideration for homeowners looking for efficient and reliable upgrades in areas like Meridian where construction projects are common.",
+        "@type": "Answer",
+        "description": "A prehung door is a door already mounted in its frame, simplifying installation and ensuring a precise fit for homeowners in areas like Meridian."
+      }
+    }
+  ],
+  "description": "A prehung door is a door already mounted in its frame, simplifying installation and ensuring a precise fit for homeowners in areas like Meridian."
+}

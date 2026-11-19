@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-services-do-trim-carpenters-provide",
+  "name": "What services do trim carpenters provide?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What services do trim carpenters provide?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trim carpenters specialize in the finishing touches of a home or commercial building. This includes installing baseboards, crown molding, door and window casings, wainscoting, and custom built-ins like bookshelves or mantels. Their work adds aesthetic detail and can significantly enhance the overall look and feel of a space. For example, Maine Results, Inc. focuses on precise, custom installations to match your home's existing style or a new design concept.",
+        "@type": "Answer",
+        "description": "Trim carpenters install interior finishing elements like baseboards, crown molding, door casings, and custom built-ins."
+      }
+    }
+  ],
+  "description": "Trim carpenters install interior finishing elements like baseboards, crown molding, door casings, and custom built-ins."
+}

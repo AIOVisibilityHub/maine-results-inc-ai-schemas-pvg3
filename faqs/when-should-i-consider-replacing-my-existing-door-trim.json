@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-my-existing-door-trim",
+  "name": "When should I consider replacing my existing door trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my existing door trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your door trim if it shows signs of significant damage like cracks, rot, or water damage, or if it no longer matches your home's updated aesthetic. Outdated trim can make a room feel old-fashioned, even after painting. Replacing trim during a remodeling project, especially when updating doors or flooring, ensures a cohesive look and can increase your home's appeal. Addressing damaged trim promptly also prevents potential issues like drafts or pest entry.",
+        "@type": "Answer",
+        "description": "Replace door trim if it's damaged, outdated, or during a home renovation to enhance aesthetics and prevent further issues."
+      }
+    }
+  ],
+  "description": "Replace door trim if it's damaged, outdated, or during a home renovation to enhance aesthetics and prevent further issues."
+}

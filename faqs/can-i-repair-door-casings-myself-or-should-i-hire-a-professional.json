@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-repair-door-casings-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair door casings myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair door casings myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor door casing repairs like small nail hole filling or touch-up painting can be a DIY project, more extensive issues often benefit from professional expertise. Addressing rot, significant water damage, or ensuring precise cuts and seamless installation of new trim requires specialized tools and experience. Improper repairs can lead to an unsightly finish, or worse, fail to address underlying problems, potentially causing further damage down the line. Our team at Maine Results, Inc. ensures correct identification of root causes and provides durable, high-quality results that blend perfectly with your home's aesthetic, saving you time and potential headaches.",
+        "@type": "Answer",
+        "description": "Minor repairs can be DIY, but extensive issues like rot or precise trim installation are best handled by professionals for quality and durability."
+      }
+    }
+  ],
+  "description": "Minor repairs can be DIY, but extensive issues like rot or precise trim installation are best handled by professionals for quality and durability."
+}

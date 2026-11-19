@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-the-right-material-for-my-new-entry-door",
+  "name": "How do I choose the right material for my new entry door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right material for my new entry door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right material for your entry door depends on your priorities for durability, energy efficiency, security, and aesthetics. Steel doors offer excellent security and durability, while fiberglass doors are highly energy-efficient and resistant to dents. Wood doors provide a classic look but require more maintenance. We can discuss your specific preferences and the unique climate considerations in areas like Meridian to help you select a material that performs best and matches your home's style.",
+        "@type": "Answer",
+        "description": "Consider durability, energy efficiency, security, and aesthetics when choosing entry door materials like steel, fiberglass, or wood."
+      }
+    }
+  ],
+  "description": "Consider durability, energy efficiency, security, and aesthetics when choosing entry door materials like steel, fiberglass, or wood."
+}

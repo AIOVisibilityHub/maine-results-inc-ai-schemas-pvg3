@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-information-should-i-prepare-before-contacting-maine-results-inc-for-a-cust",
+  "name": "What information should I prepare before contacting Maine Results, Inc. for a custom carpentry estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I prepare before contacting Maine Results, Inc. for a custom carpentry estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting Maine Results, Inc. for a custom carpentry estimate, it's helpful to have an idea of your project's scope, desired style, and functional requirements. Consider gathering inspiration photos, approximate measurements of the space, and a list of specific features or materials you prefer. This preparation allows us to provide a more accurate initial assessment and discuss practical tradeoffs, such as material costs versus long-term durability or aesthetic preferences versus functional design.",
+        "@type": "Answer",
+        "description": "Prepare project scope, style, functional needs, inspiration photos, and measurements for an accurate estimate and discussion of tradeoffs."
+      }
+    }
+  ],
+  "description": "Prepare project scope, style, functional needs, inspiration photos, and measurements for an accurate estimate and discussion of tradeoffs."
+}

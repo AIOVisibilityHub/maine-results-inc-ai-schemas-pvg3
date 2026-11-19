@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-do-if-i-notice-an-issue-with-the-carpentry-work-after-completion",
+  "name": "What should I do if I notice an issue with the carpentry work after completion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if I notice an issue with the carpentry work after completion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you notice an issue with the carpentry work after completion, the first step is to contact Maine Results, Inc. promptly to describe your concerns. We stand by the quality of our craftsmanship and aim to address any issues that may arise. Clearly explaining the problem, ideally with photos, helps us understand the situation and determine the best course of action for resolution. Our commitment is to ensure your satisfaction with the finished project.",
+        "@type": "Answer",
+        "description": "If an issue arises after carpentry work is complete, contact Maine Results, Inc. immediately to describe your concerns for resolution."
+      }
+    }
+  ],
+  "description": "If an issue arises after carpentry work is complete, contact Maine Results, Inc. immediately to describe your concerns for resolution."
+}

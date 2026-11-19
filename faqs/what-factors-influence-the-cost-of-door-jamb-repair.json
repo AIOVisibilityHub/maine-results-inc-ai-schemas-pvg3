@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-door-jamb-repair",
+  "name": "What factors influence the cost of door jamb repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of door jamb repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of door jamb repair is influenced by several factors, including the extent of the damage, the type of wood or material of the jamb, and whether any structural elements are also affected. For example, damage requiring replacement of a large section will cost more than minor cosmetic fixes. We provide a detailed estimate after assessing your specific situation to ensure transparency.",
+        "@type": "Answer",
+        "description": "Cost factors include damage extent, jamb material, and structural involvement, with more severe issues increasing the overall price."
+      }
+    }
+  ],
+  "description": "Cost factors include damage extent, jamb material, and structural involvement, with more severe issues increasing the overall price."
+}

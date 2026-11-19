@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-my-entry-door",
+  "name": "When should I consider replacing my entry door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my entry door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your entry door if it shows signs of wear, such as cracks, drafts, or difficulty opening and closing. An old door can also compromise your home's energy efficiency and security. If you're experiencing higher energy bills, visible damage, or a desire for improved aesthetics, a replacement might be beneficial. We assess your existing door's condition, frame integrity, and sealing during an initial consultation to determine the best course of action.",
+        "@type": "Answer",
+        "description": "Replace your entry door if it's damaged, drafty, hard to operate, or negatively impacting your home's energy efficiency and security."
+      }
+    }
+  ],
+  "description": "Replace your entry door if it's damaged, drafty, hard to operate, or negatively impacting your home's energy efficiency and security."
+}

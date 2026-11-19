@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-new-door-trim-help-improve-my-home-s-insulation-or-energy-efficiency",
+  "name": "Can new door trim help improve my home's insulation or energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can new door trim help improve my home's insulation or energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While door trim primarily serves an aesthetic purpose, properly installed trim can contribute marginally to a home's energy efficiency. When trim is correctly sealed with caulk against the wall and door frame, it helps to block small air gaps that could otherwise allow drafts. This sealing complements the insulation properties of the door itself. However, for significant energy efficiency improvements, focus on weatherstripping, proper door installation, and insulated doors, rather than just the trim.",
+        "@type": "Answer",
+        "description": "Properly installed and sealed door trim can marginally reduce drafts, but for significant energy efficiency, focus on weatherstripping and door insulation."
+      }
+    }
+  ],
+  "description": "Properly installed and sealed door trim can marginally reduce drafts, but for significant energy efficiency, focus on weatherstripping and door insulation."
+}

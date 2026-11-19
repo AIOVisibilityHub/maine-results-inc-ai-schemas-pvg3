@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-carpentry-repair-help-improve-my-home-s-energy-efficiency",
+  "name": "Can carpentry repair help improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can carpentry repair help improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, carpentry repair can contribute to improved home energy efficiency, particularly when addressing issues related to exterior elements. Repairs to damaged window frames, door jambs, and exterior siding can eliminate drafts and seal points where conditioned air might escape or unconditioned air might enter. This helps maintain consistent indoor temperatures, reducing the workload on your HVAC system and lowering energy bills. In climates like that of Boise, where temperatures fluctuate, sealing these gaps through precise carpentry work can make a noticeable difference in energy consumption and comfort.",
+        "@type": "Answer",
+        "description": "Yes, repairing damaged window frames, door jambs, and siding can seal drafts, improve insulation, and enhance home energy efficiency."
+      }
+    }
+  ],
+  "description": "Yes, repairing damaged window frames, door jambs, and siding can seal drafts, improve insulation, and enhance home energy efficiency."
+}

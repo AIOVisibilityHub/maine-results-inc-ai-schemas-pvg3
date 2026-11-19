@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-choose-a-pre-hung-or-slab-door-for-replacement",
+  "name": "Should I choose a pre-hung or slab door for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose a pre-hung or slab door for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between a pre-hung door and a slab door depends on your existing door frame's condition and the project scope. A pre-hung door comes pre-assembled in its own frame and is generally easier to install if your existing frame is damaged, misaligned, or you're creating a new opening. Slab doors are just the door panel itself, ideal when your existing frame is in excellent condition and perfectly plumb. A pre-hung option typically offers a more consistent fit but may require more work to remove the old frame. We assess your opening to advise the best choice.",
+        "@type": "Answer",
+        "description": "Choose a pre-hung door if your frame is damaged or for new openings; choose a slab door if your existing frame is sound and plumb."
+      }
+    }
+  ],
+  "description": "Choose a pre-hung door if your frame is damaged or for new openings; choose a slab door if your existing frame is sound and plumb."
+}

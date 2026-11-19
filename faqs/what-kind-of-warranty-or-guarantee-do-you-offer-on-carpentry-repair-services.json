@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-warranty-or-guarantee-do-you-offer-on-carpentry-repair-services",
+  "name": "What kind of warranty or guarantee do you offer on carpentry repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty or guarantee do you offer on carpentry repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. provides a warranty on our carpentry repair services, covering the quality of our workmanship and materials used for a specified period. The exact terms and duration of the warranty depend on the scope and nature of the repair project. We ensure that our repairs meet industry standards and are performed by skilled craftsmen. We always provide detailed information regarding the warranty for your specific project as part of our transparent quoting process for clients across our service areas, including Meridian and Garden City.",
+        "@type": "Answer",
+        "description": "We offer a warranty on carpentry repair services, covering workmanship and materials for a specific period, with terms dependent on the project scope."
+      }
+    }
+  ],
+  "description": "We offer a warranty on carpentry repair services, covering workmanship and materials for a specific period, with terms dependent on the project scope."
+}

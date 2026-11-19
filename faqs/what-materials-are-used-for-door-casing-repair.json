@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-used-for-door-casing-repair",
+  "name": "What materials are used for door casing repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for door casing repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The materials used for door casing repair vary based on the existing casing and the type of repair needed. For minor cosmetic fixes, we use wood fillers, epoxy compounds, and high-quality caulk. If sections need replacement, we source materials like solid wood (e.g., pine, oak), MDF (medium-density fiberboard), or composite materials, chosen to match your current trim's profile and finish. We consider the environment, especially for exterior door casings, to select materials that offer resistance to moisture and pests, ensuring the longevity of the repair. The right material choice is crucial for a durable and aesthetically consistent outcome.",
+        "@type": "Answer",
+        "description": "Materials include wood fillers, epoxy, and caulk for minor fixes. For replacements, we use solid wood, MDF, or composites, matching existing profiles and considering environmental factors."
+      }
+    }
+  ],
+  "description": "Materials include wood fillers, epoxy, and caulk for minor fixes. For replacements, we use solid wood, MDF, or composites, matching existing profiles and consid"
+}

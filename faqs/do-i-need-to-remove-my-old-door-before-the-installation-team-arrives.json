@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-remove-my-old-door-before-the-installation-team-arrives",
+  "name": "Do I need to remove my old door before the installation team arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove my old door before the installation team arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, you do not need to remove your old door before our installation team arrives. Our service includes the complete removal and disposal of your existing door as part of the installation process. This ensures that the opening is properly prepared and measured by our professionals for the new door, preventing potential issues with fit or function. It also saves you the effort and hassle of handling the old door yourself.",
+        "@type": "Answer",
+        "description": "No, our installation service includes the removal and disposal of your old door, ensuring proper preparation for the new installation."
+      }
+    }
+  ],
+  "description": "No, our installation service includes the removal and disposal of your old door, ensuring proper preparation for the new installation."
+}

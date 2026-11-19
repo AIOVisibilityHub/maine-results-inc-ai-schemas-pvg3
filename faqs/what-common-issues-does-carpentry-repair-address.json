@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-common-issues-does-carpentry-repair-address",
+  "name": "What common issues does carpentry repair address?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common issues does carpentry repair address?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Carpentry repair addresses a wide range of issues, from minor wear and tear to significant structural damage. Common problems include cracked or rotting trim, loose deck boards, damaged door frames, compromised wood siding, and broken stair railings. For instance, in areas like Boise, where varying weather can impact outdoor wood structures, repairing issues such as moisture damage on deck supports or fence posts is essential for safety and longevity. Addressing these problems promptly prevents them from escalating into more costly and extensive repairs.",
+        "@type": "Answer",
+        "description": "Carpentry repair handles issues like cracked trim, rotting wood, damaged door frames, and loose deck boards to maintain structural integrity and aesthetics."
+      }
+    }
+  ],
+  "description": "Carpentry repair handles issues like cracked trim, rotting wood, damaged door frames, and loose deck boards to maintain structural integrity and aesthetics."
+}

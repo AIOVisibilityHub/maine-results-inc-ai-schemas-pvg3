@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-benefit-of-hiring-a-professional-like-maine-results-inc-for-door-jam",
+  "name": "What is the benefit of hiring a professional like Maine Results, Inc. for door jamb repair versus DIY?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the benefit of hiring a professional like Maine Results, Inc. for door jamb repair versus DIY?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hiring a professional for door jamb repair ensures the job is done correctly, using proper techniques and materials for a durable, long-lasting fix. Professionals have the tools and experience to assess underlying issues, like rot or structural damage, that might be missed in a DIY attempt. Our expertise also helps prevent common mistakes that could lead to further damage or an uneven finish, ultimately saving you time and potential future repair costs.",
+        "@type": "Answer",
+        "description": "Professionals ensure correct techniques, identify hidden issues, and use proper materials for a durable repair, saving time and preventing future problems."
+      }
+    }
+  ],
+  "description": "Professionals ensure correct techniques, identify hidden issues, and use proper materials for a durable repair, saving time and preventing future problems."
+}

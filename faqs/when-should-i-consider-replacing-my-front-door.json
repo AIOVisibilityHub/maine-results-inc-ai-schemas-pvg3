@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-my-front-door",
+  "name": "When should I consider replacing my front door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my front door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your front door if you notice drafts, signs of rot or rust, difficulty opening or closing, or if the door no longer provides adequate security. An outdated door can also significantly impact your home's curb appeal and energy efficiency. Replacing an old, inefficient door can lead to noticeable savings on heating and cooling costs, especially in areas with seasonal temperature swings like those experienced in Star and Nampa. It's a key upgrade for both function and home value.",
+        "@type": "Answer",
+        "description": "Replace your front door if you observe drafts, damage, operational issues, poor security, or if you want to improve energy efficiency and curb appeal."
+      }
+    }
+  ],
+  "description": "Replace your front door if you observe drafts, damage, operational issues, poor security, or if you want to improve energy efficiency and curb appeal."
+}

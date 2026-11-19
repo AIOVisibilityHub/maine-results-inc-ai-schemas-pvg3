@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/are-there-specific-building-codes-or-permits-required-for-door-installation-in-o",
+  "name": "Are there specific building codes or permits required for door installation in our service area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific building codes or permits required for door installation in our service area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, replacing an existing exterior door with one of the same size does not typically require a building permit in many of our service areas, such as Garden City, Meridian, Eagle, Kuna, and Star. However, if the project involves altering the size of the door opening or making significant structural changes, a permit may be required. We can advise you on the specific requirements for your location and project during the consultation phase to ensure compliance with local regulations.",
+        "@type": "Answer",
+        "description": "Permits are usually not needed for same-size door replacements, but may be required if the door opening size or structure is altered; we advise on local regulations."
+      }
+    }
+  ],
+  "description": "Permits are usually not needed for same-size door replacements, but may be required if the door opening size or structure is altered; we advise on local regulat"
+}

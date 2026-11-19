@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-materials-are-used-for-door-sill-repair-or-replacement",
+  "name": "What types of materials are used for door sill repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are used for door sill repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door sills can be repaired or replaced using various materials, each with its own advantages. Common options include wood (often rot-resistant species like mahogany or treated lumber), composite materials (durable and weather-resistant), aluminum, or PVC. The choice depends on the existing door frame, desired durability, aesthetic preference, and budget. The decision factor in material choice often involves balancing initial cost with long-term maintenance and resistance to moisture and wear, which can differ significantly between wood, composite, and metal options.",
+        "@type": "Answer",
+        "description": "Door sills are repaired or replaced using wood, composite, aluminum, or PVC, chosen based on durability, aesthetics, and budget."
+      }
+    }
+  ],
+  "description": "Door sills are repaired or replaced using wood, composite, aluminum, or PVC, chosen based on durability, aesthetics, and budget."
+}

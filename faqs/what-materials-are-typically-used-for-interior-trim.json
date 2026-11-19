@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-typically-used-for-interior-trim",
+  "name": "What materials are typically used for interior trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are typically used for interior trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interior trim materials vary widely, impacting both the look and durability of the finished product. Common options include pine, MDF (medium-density fiberboard), oak, and other hardwoods. Pine and MDF are often used for painted trim, offering a smooth finish. Hardwoods are chosen for stained finishes that showcase the wood grain. The choice depends on your budget, desired aesthetic, and the level of durability needed. Maine Results, Inc. can guide you through material selection, explaining the pros and cons of each for your specific project.",
+        "@type": "Answer",
+        "description": "Interior trim uses materials like pine, MDF, oak, and other hardwoods, chosen based on budget, aesthetic, and durability. Maine Results, Inc. assists with selection."
+      }
+    }
+  ],
+  "description": "Interior trim uses materials like pine, MDF, oak, and other hardwoods, chosen based on budget, aesthetic, and durability. Maine Results, Inc. assists with selec"
+}

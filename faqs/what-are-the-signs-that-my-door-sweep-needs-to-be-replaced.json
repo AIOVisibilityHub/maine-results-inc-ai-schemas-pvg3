@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-signs-that-my-door-sweep-needs-to-be-replaced",
+  "name": "What are the signs that my door sweep needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my door sweep needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key indicators that your door sweep needs replacing include noticeable drafts or air leaks coming from under the door, an increase in dust or insect entry, and visible wear such as cracking, tearing, or flattening of the sweep material. If you can see daylight under your closed door, or if the sweep no longer makes firm contact with the threshold, its effectiveness is compromised. Addressing these signs promptly can prevent further energy loss and maintain a comfortable indoor environment, which is especially beneficial during Idaho's changing seasons.",
+        "@type": "Answer",
+        "description": "Look for drafts, pest entry, visible wear like cracking or tearing, or if daylight shows under the door to know it needs replacement."
+      }
+    }
+  ],
+  "description": "Look for drafts, pest entry, visible wear like cracking or tearing, or if daylight shows under the door to know it needs replacement."
+}

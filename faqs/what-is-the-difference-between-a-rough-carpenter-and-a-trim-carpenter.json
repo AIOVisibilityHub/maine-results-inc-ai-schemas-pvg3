@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-a-rough-carpenter-and-a-trim-carpenter",
+  "name": "What is the difference between a rough carpenter and a trim carpenter?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a rough carpenter and a trim carpenter?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rough carpenters focus on the structural framework of a building, such as framing walls, roofs, and floors. Their work is typically concealed by other finishes. Trim carpenters, conversely, specialize in the visible, decorative elements that complete the interior of a space, like baseboards, crown molding, and door casings. Maine Results, Inc. provides both framing and finish carpentry services, offering a comprehensive approach to your construction needs from structural beginnings to detailed finishes.",
+        "@type": "Answer",
+        "description": "Rough carpenters build structural frameworks, while trim carpenters install decorative interior finishes. Maine Results, Inc. offers both services."
+      }
+    }
+  ],
+  "description": "Rough carpenters build structural frameworks, while trim carpenters install decorative interior finishes. Maine Results, Inc. offers both services."
+}

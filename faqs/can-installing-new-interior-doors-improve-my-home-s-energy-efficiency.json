@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-installing-new-interior-doors-improve-my-home-s-energy-efficiency",
+  "name": "Can installing new interior doors improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can installing new interior doors improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While interior doors don't typically impact overall home insulation as much as exterior doors or windows, they can contribute to energy efficiency by helping to regulate temperatures between different zones within your home. For example, a solid core door can better seal off an unheated garage or a seldom-used room from conditioned living spaces, preventing temperature transfer. Properly sealed and well-fitting interior doors can also help maintain consistent heating or cooling in individual rooms, reducing the load on your HVAC system. This is especially true for doors separating heated and unheated areas in homes throughout the Treasure Valley.",
+        "@type": "Answer",
+        "description": "Yes, properly installed interior doors, especially solid core types, can help regulate internal temperatures and improve zoned energy efficiency."
+      }
+    }
+  ],
+  "description": "Yes, properly installed interior doors, especially solid core types, can help regulate internal temperatures and improve zoned energy efficiency."
+}

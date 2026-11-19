@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-door-frame-repair-take",
+  "name": "How long does a typical door frame repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical door frame repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a door frame repair depends on the damage. Minor repairs, such as patching small holes or fixing loose trim, might take a few hours. More significant damage, like replacing a rotted section or an entire jamb, could take a full day or longer. The process may also involve drying times for wood fillers or sealants. Our team works efficiently in areas like Star and Nampa, and we will provide an estimated timeline upfront, allowing you to plan accordingly for the duration of the work.",
+        "@type": "Answer",
+        "description": "Minor repairs take a few hours; significant damage, like replacing a rotted section, can take a day or more."
+      }
+    }
+  ],
+  "description": "Minor repairs take a few hours; significant damage, like replacing a rotted section, can take a day or more."
+}

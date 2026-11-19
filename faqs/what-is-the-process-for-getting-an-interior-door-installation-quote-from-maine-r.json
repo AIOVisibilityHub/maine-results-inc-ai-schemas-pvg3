@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-getting-an-interior-door-installation-quote-from-maine-r",
+  "name": "What is the process for getting an interior door installation quote from Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting an interior door installation quote from Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To receive an interior door installation quote from Maine Results, Inc., the process typically begins with a consultation. You can contact us to schedule an appointment at your home in Garden City, Meridian, Eagle, or Kuna. During this visit, our team will assess the existing door openings, discuss your preferences for door styles and materials, and take necessary measurements. We'll also consider any specific requirements, like custom sizing or structural modifications. Following this assessment, we will provide you with a detailed, transparent quote outlining the scope of work and associated costs for your project.",
+        "@type": "Answer",
+        "description": "Contact us for a home consultation where we assess openings, discuss preferences, take measurements, and then provide a detailed quote."
+      }
+    }
+  ],
+  "description": "Contact us for a home consultation where we assess openings, discuss preferences, take measurements, and then provide a detailed quote."
+}

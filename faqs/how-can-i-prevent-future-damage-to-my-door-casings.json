@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-prevent-future-damage-to-my-door-casings",
+  "name": "How can I prevent future damage to my door casings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future damage to my door casings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing future door casing damage involves addressing potential causes proactively. Regularly inspect your casings for any signs of moisture, such as leaks from windows, roofs, or plumbing, and address those issues immediately. Ensure proper exterior drainage to prevent water from pooling near doorways. Good ventilation can also help prevent moisture buildup that leads to rot or mold. For interior casings, use doorstops to prevent impact damage. During home renovations or painting, protect casings from accidental bumps or paint drips. Regular cleaning and maintenance also extend the life of your casings.",
+        "@type": "Answer",
+        "description": "Prevent damage by regularly checking for moisture, ensuring proper drainage, using doorstops, protecting during renovations, and maintaining casings."
+      }
+    }
+  ],
+  "description": "Prevent damage by regularly checking for moisture, ensuring proper drainage, using doorstops, protecting during renovations, and maintaining casings."
+}

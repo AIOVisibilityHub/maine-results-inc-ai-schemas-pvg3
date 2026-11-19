@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-the-right-exterior-door-for-my-home",
+  "name": "How do I choose the right exterior door for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right exterior door for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right exterior door involves considering several factors, including your home's architectural style, your budget, desired level of security, and energy efficiency needs. Think about materials like steel for security, fiberglass for durability and low maintenance, or wood for classic appeal. It's also important to think about the door's R-value for insulation, especially given our region's climate. Our team can help you weigh these options.",
+        "@type": "Answer",
+        "description": "Consider your home's style, budget, security needs, and energy efficiency when choosing an exterior door."
+      }
+    }
+  ],
+  "description": "Consider your home's style, budget, security needs, and energy efficiency when choosing an exterior door."
+}

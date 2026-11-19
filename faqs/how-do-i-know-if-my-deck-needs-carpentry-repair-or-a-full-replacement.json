@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-deck-needs-carpentry-repair-or-a-full-replacement",
+  "name": "How do I know if my deck needs carpentry repair or a full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my deck needs carpentry repair or a full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining whether to repair or replace your deck often depends on the extent and location of the damage. If only a few boards are rotting, or a single railing post is loose, targeted carpentry repair is usually sufficient. However, if the deck's main structural beams, joists, or multiple support posts show widespread rot, significant cracking, or insect damage, a full replacement is often more cost-effective and safer in the long run. When considering options, evaluate the overall age and condition of the deck's foundation, especially for homes in areas like Meridian, where deck use is common and weather exposure can be a factor.",
+        "@type": "Answer",
+        "description": "Repair is suitable for isolated damage like a few rotting boards, while widespread structural issues like compromised joists typically require a full deck replacement."
+      }
+    }
+  ],
+  "description": "Repair is suitable for isolated damage like a few rotting boards, while widespread structural issues like compromised joists typically require a full deck repla"
+}

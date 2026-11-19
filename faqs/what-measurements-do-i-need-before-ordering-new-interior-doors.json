@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-measurements-do-i-need-before-ordering-new-interior-doors",
+  "name": "What measurements do I need before ordering new interior doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What measurements do I need before ordering new interior doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before ordering new interior doors, you will need to measure the width, height, and thickness of your existing door slab, as well as the width and height of the rough opening (the space inside the frame). It's also important to measure the door jamb's depth to ensure the new door fits correctly within the wall thickness. Accurate measurements are crucial for a proper fit and to avoid installation issues. We provide a professional measurement service for all projects in Garden City, Meridian, Eagle, and Kuna to ensure precision.",
+        "@type": "Answer",
+        "description": "Measure the width, height, and thickness of your old door slab, the rough opening, and the door jamb depth for new interior doors."
+      }
+    }
+  ],
+  "description": "Measure the width, height, and thickness of your old door slab, the rough opening, and the door jamb depth for new interior doors."
+}

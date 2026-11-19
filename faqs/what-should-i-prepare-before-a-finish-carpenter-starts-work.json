@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-a-finish-carpenter-starts-work",
+  "name": "What should I prepare before a finish carpenter starts work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a finish carpenter starts work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your finish carpenter begins, it's beneficial to clear the work area of furniture, decor, and personal belongings to provide unobstructed access. Ensure that any necessary electrical outlets or light switches are marked and accessible if the work involves built-ins. If painting or staining is part of the project, consider having color samples or specific product choices ready. Having a clear understanding of the project's scope, including detailed drawings or inspiration images, can help ensure that the carpenter can start efficiently and meet your expectations.",
+        "@type": "Answer",
+        "description": "Before work starts, clear the area, ensure access to utilities, and have design specifics like color choices or inspiration images ready."
+      }
+    }
+  ],
+  "description": "Before work starts, clear the area, ensure access to utilities, and have design specifics like color choices or inspiration images ready."
+}

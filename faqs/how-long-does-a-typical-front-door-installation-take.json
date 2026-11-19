@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-front-door-installation-take",
+  "name": "How long does a typical front door installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical front door installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard front door installation typically takes one day to complete. This includes removing the old door and frame, preparing the opening, installing the new pre-hung door unit, sealing, and finishing the trim. The exact timing can depend on the complexity of the existing frame, any necessary structural adjustments, or the installation of custom sidelights or transoms. Our team at Maine Results, Inc. prioritizes efficient and thorough work to minimize disruption to your home in locations like Eagle or Kuna.",
+        "@type": "Answer",
+        "description": "Most front door installations are completed within one day, though complexity and structural needs can influence the exact duration."
+      }
+    }
+  ],
+  "description": "Most front door installations are completed within one day, though complexity and structural needs can influence the exact duration."
+}

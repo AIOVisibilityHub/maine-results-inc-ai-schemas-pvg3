@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-exterior-door-installation-take",
+  "name": "How long does a typical exterior door installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical exterior door installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation of a standard exterior door typically takes one day. However, more complex projects, such as those involving custom-sized doors, significant structural modifications, or multiple door replacements, may require additional time. We assess each project individually to provide an accurate timeline. Factors like the condition of the existing door frame and any necessary adjustments to the opening can also influence the duration of the installation process.",
+        "@type": "Answer",
+        "description": "Most standard exterior door installations are completed within one day, but complex projects may take longer depending on structural modifications or custom door requirements."
+      }
+    }
+  ],
+  "description": "Most standard exterior door installations are completed within one day, but complex projects may take longer depending on structural modifications or custom doo"
+}

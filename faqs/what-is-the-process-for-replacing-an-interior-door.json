@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-replacing-an-interior-door",
+  "name": "What is the process for replacing an interior door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing an interior door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for replacing an interior door typically starts with removing the old door and frame, if necessary. We then prepare the door opening, ensuring it is plumb, level, and square for the new door. Next, the new door is installed, which involves fitting the slab or pre-hung unit, installing hinges, and aligning the door within the frame. Finally, hardware such as doorknobs and latches are installed, and any trim work is completed. We manage the entire process, from initial measurement to final installation, ensuring a precise fit and smooth operation in homes throughout Garden City, Meridian, Eagle, and Kuna.",
+        "@type": "Answer",
+        "description": "The process involves removing the old door, preparing the opening, installing the new door and hardware, and completing trim work."
+      }
+    }
+  ],
+  "description": "The process involves removing the old door, preparing the opening, installing the new door and hardware, and completing trim work."
+}

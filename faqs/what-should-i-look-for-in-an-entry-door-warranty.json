@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-look-for-in-an-entry-door-warranty",
+  "name": "What should I look for in an entry door warranty?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in an entry door warranty?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When evaluating entry door warranties, look for coverage on both the door slab and its components, such as glass, finish, and hardware. Understand the duration of the warranty for different parts; some offer limited lifetime coverage, while others are for a specific number of years. It's also important to confirm if the warranty covers labor for installation-related issues. We work with manufacturers known for comprehensive warranties and stand behind our installation quality, ensuring clarity on what is covered.",
+        "@type": "Answer",
+        "description": "Look for comprehensive warranty coverage on the door slab, components, finish, and hardware, including clarity on labor for installation issues."
+      }
+    }
+  ],
+  "description": "Look for comprehensive warranty coverage on the door slab, components, finish, and hardware, including clarity on labor for installation issues."
+}

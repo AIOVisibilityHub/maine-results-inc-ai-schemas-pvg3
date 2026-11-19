@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-custom-carpentry-projects-does-maine-results-inc-handle",
+  "name": "What types of custom carpentry projects does Maine Results, Inc. handle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of custom carpentry projects does Maine Results, Inc. handle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. specializes in various custom carpentry projects, including built-in cabinetry, custom shelving, unique trim work, and specialized furniture pieces. We can create solutions that fit specific dimensions, styles, and functional needs for kitchens, living rooms, home offices, and other areas. A key decision factor for customers often involves the integration of custom carpentry with existing structural elements or new construction, which can influence the design and complexity of the project.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. handles custom cabinetry, shelving, trim work, and specialized furniture, designed to fit specific dimensions and styles."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. handles custom cabinetry, shelving, trim work, and specialized furniture, designed to fit specific dimensions and styles."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-maine-results-inc-match-existing-woodwork-in-my-home-during-a-custom-carpent",
+  "name": "Can Maine Results, Inc. match existing woodwork in my home during a custom carpentry project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Maine Results, Inc. match existing woodwork in my home during a custom carpentry project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. has extensive experience in matching existing woodwork, trim, and finishes to ensure seamless integration of new custom pieces into your home. This often involves careful selection of wood species, stain colors, and profiles. We strive to achieve a cohesive look, which can be a practical tradeoff as matching perfectly may require more specialized materials or finishing techniques than a completely new design, impacting both cost and timeline slightly.",
+        "@type": "Answer",
+        "description": "Yes, we match existing woodwork, trim, and finishes by carefully selecting materials and techniques for seamless integration, which may affect cost and timeline."
+      }
+    }
+  ],
+  "description": "Yes, we match existing woodwork, trim, and finishes by carefully selecting materials and techniques for seamless integration, which may affect cost and timeline"
+}

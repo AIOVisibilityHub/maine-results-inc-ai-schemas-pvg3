@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-tell-if-my-door-weatherstripping-needs-to-be-replaced",
+  "name": "How can I tell if my door weatherstripping needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my door weatherstripping needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can determine if your door weatherstripping needs replacement by checking for visible cracks, tears, or brittleness in the material. Another common sign is feeling a draft near the edges of a closed door, especially on windy days. You can also perform a 'light test' by closing the door on a flashlight at night; if light penetrates through the seal, air can too. If the weatherstripping has become compressed or lost its shape, it won't create an effective seal. We often find that weatherstripping around older homes in Garden City can degrade faster due to temperature fluctuations, making regular checks essential.",
+        "@type": "Answer",
+        "description": "Check for cracks, tears, drafts, or visible light around the closed door edges. Degraded or compressed weatherstripping won't seal properly and indicates a need for replacement."
+      }
+    }
+  ],
+  "description": "Check for cracks, tears, drafts, or visible light around the closed door edges. Degraded or compressed weatherstripping won't seal properly and indicates a need"
+}

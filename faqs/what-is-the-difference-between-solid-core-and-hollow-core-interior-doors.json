@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-solid-core-and-hollow-core-interior-doors",
+  "name": "What is the difference between solid core and hollow core interior doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between solid core and hollow core interior doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference between solid core and hollow core interior doors lies in their construction and performance. Solid core doors are filled with a composite material or solid wood, making them heavier, more durable, and better at sound insulation. They offer a more substantial feel and are often preferred for bedrooms and bathrooms for privacy. Hollow core doors have a frame with a hollow interior, making them lighter and less expensive. While they are adequate for closets or less frequently used rooms, they offer minimal sound privacy. Your choice depends on your budget and desired level of privacy.",
+        "@type": "Answer",
+        "description": "Solid core doors are heavy, durable, and sound-insulating, while hollow core doors are lighter, less expensive, and offer minimal sound privacy."
+      }
+    }
+  ],
+  "description": "Solid core doors are heavy, durable, and sound-insulating, while hollow core doors are lighter, less expensive, and offer minimal sound privacy."
+}

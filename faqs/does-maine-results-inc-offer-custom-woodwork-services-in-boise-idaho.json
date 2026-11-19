@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/does-maine-results-inc-offer-custom-woodwork-services-in-boise-idaho",
+  "name": "Does Maine Results, Inc. offer custom woodwork services in Boise, Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Maine Results, Inc. offer custom woodwork services in Boise, Idaho?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. proudly offers our custom woodwork services to residents and businesses throughout Boise, Idaho, including neighborhoods like the North End, Highlands, and Southeast Boise. Our team regularly completes projects across the entire Boise metropolitan area, ensuring high-quality, custom-designed pieces are accessible to our local clients. We manage all aspects of the project from design to installation within these areas, providing a seamless service experience.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. provides custom woodwork services across all of Boise, Idaho, including various neighborhoods."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. provides custom woodwork services across all of Boise, Idaho, including various neighborhoods."
+}

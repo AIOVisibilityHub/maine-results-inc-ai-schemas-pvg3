@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-door-sill-repair-take",
+  "name": "How long does a typical door sill repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical door sill repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes for a door sill repair varies depending on the extent of the damage and the type of material. A simple repair for minor rot or surface damage might take a few hours, while a complete sill replacement due to extensive structural issues could take a full day or more. For Maine Results, Inc., assessing the damage accurately during a consultation helps us provide a precise timeline. The process clarity is that more extensive damage involving adjacent door frame components will naturally extend the repair duration.",
+        "@type": "Answer",
+        "description": "Door sill repair can take a few hours for minor damage or a full day for extensive replacement, depending on the issue."
+      }
+    }
+  ],
+  "description": "Door sill repair can take a few hours for minor damage or a full day for extensive replacement, depending on the issue."
+}

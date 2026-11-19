@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-damage-to-door-casings-can-be-repaired",
+  "name": "What types of damage to door casings can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of damage to door casings can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many types of door casing damage can be repaired, depending on the severity. Minor issues like small cracks, dents, or chips can often be filled, sanded, and repainted to blend seamlessly. For more significant damage like rot or extensive water intrusion in isolated sections, we can often perform partial replacements, matching existing profiles to ensure a consistent look. However, if the entire casing is compromised, or if there's significant structural damage to the door frame itself, a full replacement of the casing and potentially the frame will be necessary. We prioritize repair where feasible to minimize disruption and cost.",
+        "@type": "Answer",
+        "description": "Minor cracks, dents, or isolated rot can often be repaired. Extensive damage or structural issues may require full replacement of the casing."
+      }
+    }
+  ],
+  "description": "Minor cracks, dents, or isolated rot can often be repaired. Extensive damage or structural issues may require full replacement of the casing."
+}

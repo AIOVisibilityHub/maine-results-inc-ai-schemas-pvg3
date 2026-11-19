@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-front-door-replacement-project-take",
+  "name": "How long does a typical front door replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical front door replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard front door replacement usually takes a single day to complete, assuming no significant structural modifications are needed. The process involves removing the old door and frame, preparing the opening, installing the new pre-hung door unit, and finishing the trim. More complex projects, such as widening an opening or addressing unforeseen structural issues, could extend the timeline. We prioritize efficient installation to minimize disruption, and our team ensures a clean worksite in locations like Kuna or Garden City.",
+        "@type": "Answer",
+        "description": "Most front door replacements are completed in one day, though complex projects may take longer depending on structural needs."
+      }
+    }
+  ],
+  "description": "Most front door replacements are completed in one day, though complex projects may take longer depending on structural needs."
+}

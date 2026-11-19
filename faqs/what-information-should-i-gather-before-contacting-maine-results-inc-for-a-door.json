@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-information-should-i-gather-before-contacting-maine-results-inc-for-a-door",
+  "name": "What information should I gather before contacting Maine Results, Inc. for a door jamb repair estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I gather before contacting Maine Results, Inc. for a door jamb repair estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting us for a door jamb repair estimate, it's helpful to have information regarding the type of door (e.g., interior, exterior, material), the location of the damage, and a brief description of how the damage occurred. Taking a few clear photos of the damaged area can also be very useful for our initial assessment. This preparation allows us to provide a more accurate initial consultation.",
+        "@type": "Answer",
+        "description": "Gather door type, damage location, a description of the issue, and photos to help us provide an accurate estimate."
+      }
+    }
+  ],
+  "description": "Gather door type, damage location, a description of the issue, and photos to help us provide an accurate estimate."
+}

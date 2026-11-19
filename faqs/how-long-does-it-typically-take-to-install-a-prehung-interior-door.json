@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-typically-take-to-install-a-prehung-interior-door",
+  "name": "How long does it typically take to install a prehung interior door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to install a prehung interior door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation of a single prehung interior door generally takes a professional installer a few hours, assuming the rough opening is properly prepared and no significant structural modifications are needed. This timeframe can vary based on the existing frame's condition, the type of door, and any necessary adjustments to ensure it swings freely and latches correctly. For homeowners planning multiple door replacements, grouping the installations can sometimes optimize the schedule, as the preparation steps can be streamlined across several openings.",
+        "@type": "Answer",
+        "description": "Installing a single prehung interior door typically takes a professional a few hours, varying with opening condition and door type."
+      }
+    }
+  ],
+  "description": "Installing a single prehung interior door typically takes a professional a few hours, varying with opening condition and door type."
+}

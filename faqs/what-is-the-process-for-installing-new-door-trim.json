@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-installing-new-door-trim",
+  "name": "What is the process for installing new door trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing new door trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The door trim installation process generally begins with careful measurements and selection of the appropriate trim style. Next, the existing trim, if any, is carefully removed, and the door frame is prepared. New trim pieces are then precisely cut, fitted, and secured around the door frame, often using nails and adhesive. The final steps typically involve caulking gaps for a seamless look and preparing the trim for painting or staining. Our team ensures a clean workspace and meticulous attention to detail from start to finish.",
+        "@type": "Answer",
+        "description": "The process involves measuring, removing old trim, preparing the frame, cutting and securing new trim, followed by caulking and finishing."
+      }
+    }
+  ],
+  "description": "The process involves measuring, removing old trim, preparing the frame, cutting and securing new trim, followed by caulking and finishing."
+}

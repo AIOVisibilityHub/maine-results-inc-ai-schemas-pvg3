@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-front-doors-are-available-for-replacement",
+  "name": "What types of front doors are available for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of front doors are available for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When replacing your front door, you have several material options, including fiberglass, steel, and wood, each offering different benefits in terms of durability, energy efficiency, and aesthetics. Fiberglass doors are known for their resistance to dents and scratches, while steel doors provide superior security. Wood doors offer a classic look but may require more maintenance. Choosing the right material often depends on your budget, desired maintenance level, and the architectural style of your home. We can help you weigh these options, considering factors like weather exposure in areas like Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "Common front door materials include fiberglass, steel, and wood, each with unique benefits for durability, energy efficiency, and appearance."
+      }
+    }
+  ],
+  "description": "Common front door materials include fiberglass, steel, and wood, each with unique benefits for durability, energy efficiency, and appearance."
+}

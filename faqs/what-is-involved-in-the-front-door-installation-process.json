@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-involved-in-the-front-door-installation-process",
+  "name": "What is involved in the front door installation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the front door installation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The front door installation process typically begins with an initial consultation and measurement to determine the best door for your home. Once the door is ordered, our team will schedule the installation. On installation day, we remove your old door and frame carefully, prepare the opening, and install the new pre-hung door unit, ensuring it is level, plumb, and properly sealed. The final steps include installing hardware, trim, and weatherstripping. We always ensure thorough cleanup and a final walk-through with you to confirm satisfaction.",
+        "@type": "Answer",
+        "description": "The process involves consultation, measurement, removal of the old door, precise installation of the new door and frame, hardware, trim, and a final cleanup."
+      }
+    }
+  ],
+  "description": "The process involves consultation, measurement, removal of the old door, precise installation of the new door and frame, hardware, trim, and a final cleanup."
+}

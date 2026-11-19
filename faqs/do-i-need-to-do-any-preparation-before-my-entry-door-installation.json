@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-do-any-preparation-before-my-entry-door-installation",
+  "name": "Do I need to do any preparation before my entry door installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to do any preparation before my entry door installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your entry door installation, it's helpful to clear the area around the entryway, both inside and out, to allow installers unhindered access. Remove any wall decorations, furniture, or outdoor obstacles that might be in the way. If your existing door has a security system or smart lock, be prepared to provide access or have it disarmed. We will discuss any specific requirements during our pre-installation call, ensuring a smooth process on installation day.",
+        "@type": "Answer",
+        "description": "Clear the entry area of obstacles, both inside and out, and prepare any security systems for access before installation."
+      }
+    }
+  ],
+  "description": "Clear the entry area of obstacles, both inside and out, and prepare any security systems for access before installation."
+}

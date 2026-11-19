@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-installing-an-exterior-prehung-door",
+  "name": "What is the process for installing an exterior prehung door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing an exterior prehung door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for installing an exterior prehung door typically begins with removing the old door and frame, carefully preparing the rough opening by ensuring it's clean, level, and plumb. The new prehung door unit is then set into the opening, carefully shimmed to be level and square, and secured with fasteners. Flashing and sealant are applied to ensure weatherproofing and prevent moisture intrusion, particularly critical for Idaho's changing seasons. Finally, insulation is added around the frame, and trim is installed. This meticulous process ensures the door operates correctly and provides proper thermal and moisture barriers.",
+        "@type": "Answer",
+        "description": "Exterior prehung door installation involves removing the old unit, preparing the opening, setting and shimming the new door, weatherproofing, insulating, and adding trim."
+      }
+    }
+  ],
+  "description": "Exterior prehung door installation involves removing the old unit, preparing the opening, setting and shimming the new door, weatherproofing, insulating, and ad"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-door-trim-damage-can-be-repaired",
+  "name": "What types of door trim damage can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of door trim damage can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door trim can suffer various forms of damage, including dents, cracks, rot, and water stains. Minor surface damage like scratches or small chips can often be filled and repainted. For more significant issues, such as sections with rot or large cracks, the damaged portion might need to be carefully removed and replaced with new material. Our team assesses the extent of the damage to determine the most effective repair strategy, aiming to restore the trim's appearance and structural integrity.",
+        "@type": "Answer",
+        "description": "Door trim damage such as dents, cracks, rot, and water stains can often be repaired through filling, repainting, or replacing damaged sections."
+      }
+    }
+  ],
+  "description": "Door trim damage such as dents, cracks, rot, and water stains can often be repaired through filling, repainting, or replacing damaged sections."
+}

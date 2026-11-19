@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-a-saddle-threshold-and-a-bumper-threshold-and-whi",
+  "name": "What is the difference between a saddle threshold and a bumper threshold, and which is right for my exterior door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a saddle threshold and a bumper threshold, and which is right for my exterior door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Saddle thresholds are typically flat, rectangular strips that extend across the bottom of the door frame, providing a smooth transition and often used for interior doors or exterior doors where a low profile is desired. Bumper thresholds, also known as sweep thresholds, have a raised portion or an integrated seal designed to compress against the bottom of the door when closed, offering superior weatherproofing and energy efficiency for exterior doors. The choice depends on your door's purpose, the level of weather protection needed, and existing floor levels. For exterior doors, a bumper threshold is generally recommended for its sealing capabilities.",
+        "@type": "Answer",
+        "description": "Saddle thresholds are flat for smooth transitions, while bumper thresholds have a raised seal for better weatherproofing on exterior doors, which is usually recommended for outdoor use."
+      }
+    }
+  ],
+  "description": "Saddle thresholds are flat for smooth transitions, while bumper thresholds have a raised seal for better weatherproofing on exterior doors, which is usually rec"
+}

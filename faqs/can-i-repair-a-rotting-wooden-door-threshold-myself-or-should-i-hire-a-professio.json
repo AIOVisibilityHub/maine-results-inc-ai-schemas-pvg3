@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-repair-a-rotting-wooden-door-threshold-myself-or-should-i-hire-a-professio",
+  "name": "Can I repair a rotting wooden door threshold myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a rotting wooden door threshold myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor cosmetic repairs like sanding and repainting a wooden threshold might be manageable for a skilled DIY enthusiast, addressing significant rot often requires professional expertise. Rotted wood can indicate underlying moisture issues that need to be identified and corrected to prevent future damage. Professionals have the tools and experience to properly remove damaged sections, treat for moisture, install new wood, and ensure proper sealing and leveling, which is crucial for preventing drafts and water leaks. For lasting results and to avoid further complications, hiring an experienced contractor is generally recommended.",
+        "@type": "Answer",
+        "description": "Minor wooden threshold repairs can be DIY, but significant rot often requires a professional to address underlying moisture issues and ensure proper installation and sealing."
+      }
+    }
+  ],
+  "description": "Minor wooden threshold repairs can be DIY, but significant rot often requires a professional to address underlying moisture issues and ensure proper installatio"
+}

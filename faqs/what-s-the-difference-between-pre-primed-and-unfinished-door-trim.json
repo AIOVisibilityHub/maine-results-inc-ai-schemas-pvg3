@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-s-the-difference-between-pre-primed-and-unfinished-door-trim",
+  "name": "What's the difference between pre-primed and unfinished door trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between pre-primed and unfinished door trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pre-primed door trim comes with a factory-applied primer coat, making it ready for your final paint color right after installation, saving time and effort during the finishing process. Unfinished trim, on the other hand, requires sanding, priming, and then painting or staining to achieve the desired look. Choosing between them often comes down to your budget and aesthetic goals; unfinished trim offers more flexibility for custom stains or wood finishes but adds more steps to the process.",
+        "@type": "Answer",
+        "description": "Pre-primed trim is ready for final paint, while unfinished trim requires sanding, priming, and then painting or staining."
+      }
+    }
+  ],
+  "description": "Pre-primed trim is ready for final paint, while unfinished trim requires sanding, priming, and then painting or staining."
+}

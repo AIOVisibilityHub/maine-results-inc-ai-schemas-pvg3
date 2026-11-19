@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-my-door-frame-needs-repair",
+  "name": "What are common signs that my door frame needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my door frame needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your door frame needs repair include visible cracks, splits, rot, soft spots in the wood, or difficulty opening or closing the door. You might also notice gaps around the door when it's closed, indicating the frame is no longer square, or drafts coming through. For homes in areas like Garden City or Meridian, weather exposure can exacerbate these issues over time, leading to more pronounced deterioration that requires prompt attention to maintain home security and energy efficiency.",
+        "@type": "Answer",
+        "description": "Look for cracks, rot, soft spots, gaps around the door, or difficulty opening/closing, which indicate your door frame may need repair."
+      }
+    }
+  ],
+  "description": "Look for cracks, rot, soft spots, gaps around the door, or difficulty opening/closing, which indicate your door frame may need repair."
+}

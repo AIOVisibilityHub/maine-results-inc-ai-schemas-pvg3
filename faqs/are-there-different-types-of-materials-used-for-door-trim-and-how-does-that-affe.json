@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/are-there-different-types-of-materials-used-for-door-trim-and-how-does-that-affe",
+  "name": "Are there different types of materials used for door trim, and how does that affect repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different types of materials used for door trim, and how does that affect repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, door trim can be made from various materials, including solid wood (such as pine, oak, or MDF), or composite materials. The type of material significantly influences the repair approach. Solid wood can often be patched, sanded, and refinished more readily. MDF or composite trim might require different fillers or methods for repair due to their engineered nature. Our team at Maine Results, Inc. is experienced in working with all common trim materials and will use the appropriate techniques and products for your specific trim type.",
+        "@type": "Answer",
+        "description": "Door trim materials vary (solid wood, MDF, composite), each affecting the specific repair techniques and materials needed."
+      }
+    }
+  ],
+  "description": "Door trim materials vary (solid wood, MDF, composite), each affecting the specific repair techniques and materials needed."
+}

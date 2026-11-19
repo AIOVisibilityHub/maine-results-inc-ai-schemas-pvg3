@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-door-sweep-replacement-take",
+  "name": "How long does a typical door sweep replacement take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical door sweep replacement take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard door sweep replacement typically takes our skilled technicians about 30 to 60 minutes per door, depending on the door type and the condition of the existing sweep and threshold. The process involves removing the old sweep, preparing the door's bottom edge, cutting the new sweep to size, and securely installing it. This efficient process ensures minimal disruption to your daily routine while promptly restoring your door's sealing capabilities.",
+        "@type": "Answer",
+        "description": "A typical door sweep replacement takes our technicians 30-60 minutes per door, involving removal, preparation, cutting, and secure installation."
+      }
+    }
+  ],
+  "description": "A typical door sweep replacement takes our technicians 30-60 minutes per door, involving removal, preparation, cutting, and secure installation."
+}

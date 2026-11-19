@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-door-sill-repair-cost-in-the-boise-area",
+  "name": "How much does door sill repair cost in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does door sill repair cost in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of door sill repair in the Boise area, including Garden City, Meridian, Eagle, Kuna, and Star, can vary widely based on the extent of the damage, the material used for repair or replacement, and labor costs. Minor repairs might be a few hundred dollars, while a full replacement with structural remediation could be higher. For Maine Results, Inc., we provide a detailed estimate after a thorough assessment of the damage. A decision factor is that choosing between repairing existing damage and a full replacement depends on the structural integrity of the sill and the homeowner's budget.",
+        "@type": "Answer",
+        "description": "Door sill repair costs in the Boise area vary based on damage and materials; minor repairs are typically less expensive than full replacements."
+      }
+    }
+  ],
+  "description": "Door sill repair costs in the Boise area vary based on damage and materials; minor repairs are typically less expensive than full replacements."
+}

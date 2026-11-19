@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-an-initial-consultation-for-custom-woodwork",
+  "name": "What should I prepare before an initial consultation for custom woodwork?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before an initial consultation for custom woodwork?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your initial consultation, it's beneficial to gather any inspiration images, rough measurements of the space, and a clear idea of the piece's intended function and desired style. Consider your budget range and any specific wood preferences or finishes you might have. This preparation helps us understand your vision and provide more accurate design suggestions and estimates from the start. Having a general idea of your aesthetic and functional needs will make the design process smoother.",
+        "@type": "Answer",
+        "description": "Prepare inspiration images, measurements, intended function, desired style, and budget ideas before your consultation to streamline the process."
+      }
+    }
+  ],
+  "description": "Prepare inspiration images, measurements, intended function, desired style, and budget ideas before your consultation to streamline the process."
+}

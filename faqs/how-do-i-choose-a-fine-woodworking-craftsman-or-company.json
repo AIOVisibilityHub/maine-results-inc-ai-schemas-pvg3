@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-a-fine-woodworking-craftsman-or-company",
+  "name": "How do I choose a fine woodworking craftsman or company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a fine woodworking craftsman or company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a fine woodworking craftsman involves reviewing their portfolio, understanding their experience with similar projects, and ensuring clear communication. Look for a company that prioritizes quality materials and detailed joinery. At Maine Results, Inc., we encourage clients to discuss their vision thoroughly and ask about our approach to design and construction, helping you assess if our capabilities align with your project's needs.",
+        "@type": "Answer",
+        "description": "Choose a craftsman by reviewing their portfolio, experience, and communication, focusing on quality materials and detailed joinery."
+      }
+    }
+  ],
+  "description": "Choose a craftsman by reviewing their portfolio, experience, and communication, focusing on quality materials and detailed joinery."
+}

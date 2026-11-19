@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-rough-carpentry-and-finish-carpentry",
+  "name": "What is the difference between rough carpentry and finish carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between rough carpentry and finish carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rough carpentry involves the structural framework of a building, such as framing walls, floors, and roofs. It focuses on the stability and foundational elements of a structure. Finish carpentry, in contrast, comes after the rough work and deals with the visible, aesthetic components like trim, molding, doors, and custom millwork that define the interior look. While rough carpentry ensures the house stands, finish carpentry makes it a home, adding the detailed craftsmanship and visual appeal. Understanding this distinction helps in planning project phases and hiring the right specialists for each stage.",
+        "@type": "Answer",
+        "description": "Rough carpentry builds the structure; finish carpentry adds the visible, aesthetic details like trim and custom millwork that complete a home."
+      }
+    }
+  ],
+  "description": "Rough carpentry builds the structure; finish carpentry adds the visible, aesthetic details like trim and custom millwork that complete a home."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-if-i-have-an-unusual-or-challenging-space-for-custom-carpentry",
+  "name": "What if I have an unusual or challenging space for custom carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if I have an unusual or challenging space for custom carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. specializes in creative solutions for unusual or challenging spaces. Our custom carpentry approach allows us to design and build pieces that fit perfectly into awkward angles, tight nooks, or irregularly shaped rooms, maximizing functionality and aesthetic appeal. This is a primary benefit of custom work over off-the-shelf options. Process clarity involves our designers carefully measuring and sketching the area, then developing custom solutions that integrate seamlessly with your home's unique architecture.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. creates custom solutions for unusual or challenging spaces, designing pieces that fit perfectly and maximize utility."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. creates custom solutions for unusual or challenging spaces, designing pieces that fit perfectly and maximize utility."
+}

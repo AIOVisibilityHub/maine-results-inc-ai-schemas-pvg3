@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-door-casing-repair",
+  "name": "What is the typical process for door casing repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for door casing repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for door casing repair typically begins with a thorough assessment of the damage to determine if repair or replacement is needed. For repairs, we'll carefully remove any damaged sections, prepare the surface by cleaning and sanding, and then apply appropriate fillers or patches. If replacement is necessary, the old casing is removed, measurements are taken, and new trim is cut and installed. Finally, the repaired or new casing is finished with caulking, priming, and painting to match your existing interior. This detailed approach ensures a durable and aesthetically pleasing result. We ensure careful execution to prevent dust and debris from affecting other areas of your home.",
+        "@type": "Answer",
+        "description": "The process involves assessing damage, removing compromised sections, preparing surfaces, applying fillers or installing new trim, and finishing with paint."
+      }
+    }
+  ],
+  "description": "The process involves assessing damage, removing compromised sections, preparing surfaces, applying fillers or installing new trim, and finishing with paint."
+}

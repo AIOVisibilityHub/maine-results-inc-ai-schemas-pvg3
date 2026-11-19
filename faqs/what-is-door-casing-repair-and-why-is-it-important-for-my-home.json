@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-door-casing-repair-and-why-is-it-important-for-my-home",
+  "name": "What is door casing repair and why is it important for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is door casing repair and why is it important for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door casing repair involves fixing or replacing the decorative trim around doorframes. This trim, also known as architrave, conceals the gap between the doorframe and the wall, providing a finished look. Beyond aesthetics, intact door casings protect walls from damage, prevent drafts, and can contribute to better insulation. Ignoring damaged casing can lead to further structural issues, such as moisture intrusion or pest entry, especially in areas like Garden City or Meridian where varying weather conditions are common. Addressing these repairs promptly helps maintain your home's integrity and value.",
+        "@type": "Answer",
+        "description": "Door casing repair fixes the decorative trim around doorframes, which is important for aesthetics, protection, and insulation. Prompt repairs prevent further structural issues."
+      }
+    }
+  ],
+  "description": "Door casing repair fixes the decorative trim around doorframes, which is important for aesthetics, protection, and insulation. Prompt repairs prevent further st"
+}

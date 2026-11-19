@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-do-i-need-to-do-before-prehung-door-installers-arrive",
+  "name": "What preparation do I need to do before prehung door installers arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before prehung door installers arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before prehung door installers arrive, it's beneficial to clear the work area around each door opening of any furniture, decorations, or personal items to provide unobstructed access. If possible, removing existing doors and frames yourself can save time on the day of installation, though this is often included in professional services. Ensuring that the dimensions of the rough opening have been accurately measured and confirmed for the new prehung door is crucial. This proactive check helps prevent delays and ensures the new door fits properly without extensive modifications.",
+        "@type": "Answer",
+        "description": "Clear the work area, and ensure rough opening measurements are accurate to prepare for prehung door installers."
+      }
+    }
+  ],
+  "description": "Clear the work area, and ensure rough opening measurements are accurate to prepare for prehung door installers."
+}

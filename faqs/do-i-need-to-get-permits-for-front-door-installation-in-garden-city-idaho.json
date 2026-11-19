@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-get-permits-for-front-door-installation-in-garden-city-idaho",
+  "name": "Do I need to get permits for front door installation in Garden City, Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to get permits for front door installation in Garden City, Idaho?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, replacing an existing front door with a new one of similar size and type does not require a building permit in many areas. However, if the project involves structural changes, such as widening the opening, altering the header, or changing the door's fire rating (especially for homes with attached garages), a permit may be necessary. It's always best to verify specific requirements with the local building department in Garden City. Our team can help you understand if your specific project necessitates a permit.",
+        "@type": "Answer",
+        "description": "Permits for front door installation in Garden City are usually not required for like-for-like replacements, but may be needed for structural changes."
+      }
+    }
+  ],
+  "description": "Permits for front door installation in Garden City are usually not required for like-for-like replacements, but may be needed for structural changes."
+}

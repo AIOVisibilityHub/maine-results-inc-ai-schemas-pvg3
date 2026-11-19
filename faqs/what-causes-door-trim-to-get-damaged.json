@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-causes-door-trim-to-get-damaged",
+  "name": "What causes door trim to get damaged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes door trim to get damaged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door trim can be damaged by various factors, including everyday wear and tear, impacts from moving furniture, pet activity, or water exposure leading to rot and swelling. High humidity or significant temperature fluctuations can also cause wood trim to crack or warp over time. Understanding the cause of the damage helps us not only repair it but also advise on preventative measures to protect your trim in the future.",
+        "@type": "Answer",
+        "description": "Common causes of door trim damage include impacts, pet activity, water exposure, and environmental factors like humidity or temperature fluctuations."
+      }
+    }
+  ],
+  "description": "Common causes of door trim damage include impacts, pet activity, water exposure, and environmental factors like humidity or temperature fluctuations."
+}

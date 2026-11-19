@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-do-i-need-to-do-before-a-door-frame-repair-appointment",
+  "name": "What preparation do I need to do before a door frame repair appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before a door frame repair appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your door frame repair appointment, please clear the area around the door of any furniture, decorations, or obstacles to allow our team easy access. If it's an exterior door, ensure any plants or landscaping are pulled back. Providing details about the original frame material, age, and any previous repairs can also be helpful. For clients in the East End or Highlands, discussing your preferred paint color for the repaired frame beforehand can expedite the completion of the project.",
+        "@type": "Answer",
+        "description": "Clear the door area of obstacles and provide details about the frame; for exterior doors, clear landscaping."
+      }
+    }
+  ],
+  "description": "Clear the door area of obstacles and provide details about the frame; for exterior doors, clear landscaping."
+}

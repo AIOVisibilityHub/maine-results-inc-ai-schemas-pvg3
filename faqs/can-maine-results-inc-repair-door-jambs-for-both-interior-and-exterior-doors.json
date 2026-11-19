@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-maine-results-inc-repair-door-jambs-for-both-interior-and-exterior-doors",
+  "name": "Can Maine Results, Inc. repair door jambs for both interior and exterior doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Maine Results, Inc. repair door jambs for both interior and exterior doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. provides door jamb repair services for both interior and exterior doors. The repair approach differs based on the door's location and exposure to elements. Exterior door jambs often require more durable, weather-resistant materials and sealants, while interior jambs might focus more on aesthetic matching. We have expertise in handling the specific needs of each to ensure a lasting repair.",
+        "@type": "Answer",
+        "description": "Yes, we repair jambs for both interior and exterior doors, using appropriate materials and techniques for each type."
+      }
+    }
+  ],
+  "description": "Yes, we repair jambs for both interior and exterior doors, using appropriate materials and techniques for each type."
+}

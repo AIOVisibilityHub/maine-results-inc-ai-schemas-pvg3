@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-door-casing-repair-usually-take",
+  "name": "How long does door casing repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does door casing repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for door casing repair varies based on the extent of the damage and the number of doors needing attention. Simple repairs, such as filling a few cracks or dents on a single door, might take only a few hours. More complex repairs involving significant water damage or a full casing replacement for multiple doors could take a day or longer. The type of material and finishing also plays a role; custom-matched wood trim may require more time for sourcing and installation compared to standard profiles. We provide an estimated timeline after our initial assessment to help you plan accordingly.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours for minor damage to a full day or more for complex issues or multiple doors, depending on materials and finishing."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours for minor damage to a full day or more for complex issues or multiple doors, depending on materials and finishing."
+}

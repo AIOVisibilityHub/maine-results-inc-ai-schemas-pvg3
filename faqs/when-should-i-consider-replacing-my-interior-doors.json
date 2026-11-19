@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-my-interior-doors",
+  "name": "When should I consider replacing my interior doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my interior doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your interior doors if they are visibly damaged, such as with cracks, rot, or significant warping. Outdated styles that no longer match your home's aesthetic or doors that no longer close properly due to house settling or frame issues are also good reasons for replacement. Opting for new, properly sealed doors can also help improve sound separation between rooms. We can help you assess the condition of your current doors and recommend suitable replacements.",
+        "@type": "Answer",
+        "description": "Consider replacing interior doors if they are damaged, outdated, no longer close properly, or if you want to improve sound separation."
+      }
+    }
+  ],
+  "description": "Consider replacing interior doors if they are damaged, outdated, no longer close properly, or if you want to improve sound separation."
+}

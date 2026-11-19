@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-match-a-custom-door-to-my-home-s-existing-architecture",
+  "name": "Can you match a custom door to my home's existing architecture?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match a custom door to my home's existing architecture?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we specialize in creating custom doors that seamlessly integrate with your home's existing architecture and aesthetic. Our design process takes into account your home's period, style, and materials to ensure the new door enhances its overall appearance. We can replicate historical designs, create modern statements, or blend traditional elements with contemporary touches. For instance, if you have a Craftsman-style home in Boise, we can design a custom entry door with appropriate wood species, paneling, and glass to perfectly complement its character. Providing photos of your home and any specific design elements you wish to match is very helpful.",
+        "@type": "Answer",
+        "description": "Yes, we match custom doors to your home's existing architecture by considering style, materials, and specific design elements."
+      }
+    }
+  ],
+  "description": "Yes, we match custom doors to your home's existing architecture by considering style, materials, and specific design elements."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-designing-a-custom-carpentry-piece-with-maine-results-in",
+  "name": "What is the process for designing a custom carpentry piece with Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for designing a custom carpentry piece with Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The design process with Maine Results, Inc. typically begins with an initial consultation to discuss your vision, functional needs, and budget. Our team then develops conceptual drawings or 3D renderings for your review. We work collaboratively to refine the design, select materials, and finalize details. This iterative process ensures the final product perfectly aligns with your expectations, with potential adjustments made to accommodate structural limitations or integrate with existing home systems.",
+        "@type": "Answer",
+        "description": "The design process involves consultation, conceptual drawings, and collaborative refinement to ensure the custom piece meets your vision."
+      }
+    }
+  ],
+  "description": "The design process involves consultation, conceptual drawings, and collaborative refinement to ensure the custom piece meets your vision."
+}

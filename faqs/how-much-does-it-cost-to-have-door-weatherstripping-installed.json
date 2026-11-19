@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-it-cost-to-have-door-weatherstripping-installed",
+  "name": "How much does it cost to have door weatherstripping installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to have door weatherstripping installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of professional door weatherstripping installation varies based on factors such as the type of weatherstripping material chosen, the number of doors, the condition of the door frames, and labor rates in your area. Simple adhesive foam strips are less expensive than durable compression seals or custom-fitted metal and silicone options. For an accurate estimate, we recommend a consultation where we can assess your specific doors and recommend the most effective solution for your needs. We provide detailed quotes tailored to the specific requirements of each project.",
+        "@type": "Answer",
+        "description": "Costs vary by material type, number of doors, and door frame condition. A professional consultation provides an accurate estimate based on your specific needs."
+      }
+    }
+  ],
+  "description": "Costs vary by material type, number of doors, and door frame condition. A professional consultation provides an accurate estimate based on your specific needs."
+}

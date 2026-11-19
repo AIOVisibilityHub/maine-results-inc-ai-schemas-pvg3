@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-my-door-threshold-needs-repair-or-replacement",
+  "name": "What are common signs that my door threshold needs repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my door threshold needs repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating your door threshold needs attention include visible rot, cracks, warping, or deterioration of the material. You might also notice drafts coming from under the door, water leaking into your home during rain, or difficulty closing and locking the door securely. These issues can compromise your home's energy efficiency, security, and protection from the elements. Identifying these signs early can help prevent more significant damage to your flooring or foundation. Maine Results, Inc. serves areas like Garden City and Meridian for these repair needs.",
+        "@type": "Answer",
+        "description": "Look for rot, cracks, drafts, water leaks, or difficulty closing your door as signs that your threshold needs repair or replacement."
+      }
+    }
+  ],
+  "description": "Look for rot, cracks, drafts, water leaks, or difficulty closing your door as signs that your threshold needs repair or replacement."
+}

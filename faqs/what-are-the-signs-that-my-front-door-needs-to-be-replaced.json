@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-signs-that-my-front-door-needs-to-be-replaced",
+  "name": "What are the signs that my front door needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my front door needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your front door needs replacement include visible damage like cracks, rot, or rust, which compromise both appearance and security. Drafts or air leaks around the door indicate poor insulation and can lead to higher energy bills. Difficulty opening or closing the door, or issues with the lock mechanism, also suggest it's time for an upgrade. A new door can significantly improve your home's energy efficiency and curb appeal, especially in older homes found in parts of Boise.",
+        "@type": "Answer",
+        "description": "Signs a front door needs replacement include damage, drafts, difficulty operating, or security concerns, impacting energy efficiency and curb appeal."
+      }
+    }
+  ],
+  "description": "Signs a front door needs replacement include damage, drafts, difficulty operating, or security concerns, impacting energy efficiency and curb appeal."
+}

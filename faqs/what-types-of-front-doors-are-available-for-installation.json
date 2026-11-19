@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-front-doors-are-available-for-installation",
+  "name": "What types of front doors are available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of front doors are available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When considering a new front door, you have several material options, each with distinct benefits. Fiberglass doors are durable, energy-efficient, and can mimic the look of wood without the maintenance. Steel doors offer excellent security and are cost-effective. Wood doors provide a classic, custom aesthetic but require more upkeep. Your choice often depends on your budget, desired aesthetics, and specific needs for security and insulation. Our team can help you review samples and discuss the best fit for your home in areas like Garden City or Meridian, considering local climate and architectural styles.",
+        "@type": "Answer",
+        "description": "Common front door types include fiberglass, steel, and wood, each offering unique benefits in terms of durability, security, and aesthetics."
+      }
+    }
+  ],
+  "description": "Common front door types include fiberglass, steel, and wood, each offering unique benefits in terms of durability, security, and aesthetics."
+}

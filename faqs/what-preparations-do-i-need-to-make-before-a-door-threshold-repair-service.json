@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparations-do-i-need-to-make-before-a-door-threshold-repair-service",
+  "name": "What preparations do I need to make before a door threshold repair service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations do I need to make before a door threshold repair service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your door threshold repair service, you should clear the area around the door, both inside and outside, to allow easy access for the technicians. This includes moving rugs, furniture, or potted plants. If there's an active leak, it's helpful to identify when and how it occurs. For homeowners in areas like Star, ensuring a clear path helps our team work efficiently. Our team will confirm any specific needs during scheduling, but general access is always appreciated to facilitate the repair process.",
+        "@type": "Answer",
+        "description": "Before service, clear the area around the door inside and out, including moving rugs and furniture, to provide easy access for technicians."
+      }
+    }
+  ],
+  "description": "Before service, clear the area around the door inside and out, including moving rugs and furniture, to provide easy access for technicians."
+}

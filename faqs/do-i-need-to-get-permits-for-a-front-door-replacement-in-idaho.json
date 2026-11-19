@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-get-permits-for-a-front-door-replacement-in-idaho",
+  "name": "Do I need to get permits for a front door replacement in Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to get permits for a front door replacement in Idaho?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, a direct replacement of a front door within an existing frame does not require a building permit in Idaho. However, if the project involves altering the structural opening, such as widening the doorway or changing the header, a permit might be necessary. It's always best to verify with your local municipality, such as Garden City or Boise, to ensure compliance with building codes. Our team can help you understand permit requirements based on your specific project scope.",
+        "@type": "Answer",
+        "description": "Permits are usually not needed for direct door replacement, but may be required if structural changes to the opening are made."
+      }
+    }
+  ],
+  "description": "Permits are usually not needed for direct door replacement, but may be required if structural changes to the opening are made."
+}

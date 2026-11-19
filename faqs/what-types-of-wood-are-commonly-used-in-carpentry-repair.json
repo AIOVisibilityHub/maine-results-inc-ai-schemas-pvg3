@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-wood-are-commonly-used-in-carpentry-repair",
+  "name": "What types of wood are commonly used in carpentry repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood are commonly used in carpentry repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In carpentry repair, the choice of wood depends on the specific application and whether it's for interior or exterior use. Common choices include pine, fir, and spruce for framing and general construction due to their strength and availability. For exterior projects like decks or siding, pressure-treated lumber, cedar, or redwood are frequently used because of their resistance to rot and insects. Hardwoods such as oak or maple are often selected for interior trim, flooring, or custom cabinetry for their durability and aesthetic appeal. When matching existing structures in areas like Caldwell, selecting a compatible wood type is essential for seamless repair and longevity.",
+        "@type": "Answer",
+        "description": "Pine, fir, and spruce are common for framing; pressure-treated wood, cedar, or redwood for exterior; oak or maple for interior trim and cabinetry."
+      }
+    }
+  ],
+  "description": "Pine, fir, and spruce are common for framing; pressure-treated wood, cedar, or redwood for exterior; oak or maple for interior trim and cabinetry."
+}

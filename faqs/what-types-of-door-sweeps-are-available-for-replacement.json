@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-door-sweeps-are-available-for-replacement",
+  "name": "What types of door sweeps are available for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of door sweeps are available for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several types of door sweeps are available, each offering different benefits. Common materials include vinyl, rubber, brush, and aluminum with a vinyl or rubber insert. Vinyl and rubber sweeps offer good sealing against drafts and moisture. Brush sweeps are effective on uneven surfaces and for keeping out pests. Aluminum sweeps with inserts provide durability and a more rigid seal. When considering replacement, think about your door's material, the threshold type, and the specific issues you're trying to resolve, such as severe drafts or heavy rain exposure common in the Boise area.",
+        "@type": "Answer",
+        "description": "Door sweeps come in vinyl, rubber, brush, and aluminum with inserts; choice depends on door type, threshold, and specific sealing needs."
+      }
+    }
+  ],
+  "description": "Door sweeps come in vinyl, rubber, brush, and aluminum with inserts; choice depends on door type, threshold, and specific sealing needs."
+}

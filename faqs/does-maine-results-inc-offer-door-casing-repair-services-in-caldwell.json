@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/does-maine-results-inc-offer-door-casing-repair-services-in-caldwell",
+  "name": "Does Maine Results, Inc. offer door casing repair services in Caldwell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Maine Results, Inc. offer door casing repair services in Caldwell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. provides door casing repair services, but our primary service areas are Garden City, Meridian, Eagle, and Kuna. While Caldwell is not listed among our core service locations for standard projects, we do consider projects in surrounding areas on a case-by-case basis, depending on the scope of work and our current schedule. We recommend contacting us directly to discuss your specific door casing repair needs and to confirm our availability for projects in Caldwell or other nearby communities. This allows us to assess if we can effectively meet your project requirements and provide our high-quality service.",
+        "@type": "Answer",
+        "description": "While our core service areas are Garden City, Meridian, Eagle, and Kuna, we consider projects in nearby communities like Caldwell on a case-by-case basis. Please contact us to discuss."
+      }
+    }
+  ],
+  "description": "While our core service areas are Garden City, Meridian, Eagle, and Kuna, we consider projects in nearby communities like Caldwell on a case-by-case basis. Pleas"
+}

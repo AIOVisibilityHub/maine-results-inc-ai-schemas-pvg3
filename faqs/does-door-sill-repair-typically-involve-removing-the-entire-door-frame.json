@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/does-door-sill-repair-typically-involve-removing-the-entire-door-frame",
+  "name": "Does door sill repair typically involve removing the entire door frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does door sill repair typically involve removing the entire door frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door sill repair does not always involve removing the entire door frame. For minor repairs or partial sill replacement, the work can often be done without disturbing the surrounding frame. However, if the damage is extensive and has spread to the door jambs or threshold, or if a full, seamless replacement is necessary, some components of the door frame might need to be temporarily loosened or removed. The process clarity is that our assessment will determine the extent of frame interaction needed to ensure a complete and lasting repair.",
+        "@type": "Answer",
+        "description": "Door sill repair doesn't always require removing the entire door frame; it depends on the damage's extent and if it affects surrounding components."
+      }
+    }
+  ],
+  "description": "Door sill repair doesn't always require removing the entire door frame; it depends on the damage's extent and if it affects surrounding components."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-paint-or-finish-the-door-trim-myself-or-is-that-part-of-the-install",
+  "name": "Do I need to paint or finish the door trim myself, or is that part of the installation service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to paint or finish the door trim myself, or is that part of the installation service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether painting or finishing is included depends on the scope of work you discuss with us. Often, new trim is installed primed, allowing you to paint it to match your desired color scheme after installation. However, we can incorporate finishing services into the project if you prefer a completed look upon installation. Discussing your finishing preferences upfront helps us provide a comprehensive quote and ensure the final result aligns with your vision for your home in Meridian or Boise Heights.",
+        "@type": "Answer",
+        "description": "Finishing can be part of the service or done by you; discuss your preferences to include it in the project scope."
+      }
+    }
+  ],
+  "description": "Finishing can be part of the service or done by you; discuss your preferences to include it in the project scope."
+}

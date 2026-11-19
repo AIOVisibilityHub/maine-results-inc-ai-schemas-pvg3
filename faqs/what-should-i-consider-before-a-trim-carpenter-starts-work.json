@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-before-a-trim-carpenter-starts-work",
+  "name": "What should I consider before a trim carpenter starts work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before a trim carpenter starts work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a trim carpenter begins, you should have a clear idea of the specific styles and materials you prefer for elements like baseboards, crown molding, or door casings. Ensure that any existing walls are prepared, meaning they are clean, dry, and free of obstructions. Having a designated workspace clear of furniture and personal items will allow for efficient work. Discussing the project timeline and any access requirements with your carpenter, like those at Maine Results, Inc., helps ensure a smooth process.",
+        "@type": "Answer",
+        "description": "Before work begins, clarify trim styles and materials, prepare the work area, and discuss timelines and access with your carpenter."
+      }
+    }
+  ],
+  "description": "Before work begins, clarify trim styles and materials, prepare the work area, and discuss timelines and access with your carpenter."
+}

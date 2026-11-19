@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-carpentry-repair-take-to-complete",
+  "name": "How long does a typical carpentry repair take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical carpentry repair take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a carpentry repair project varies significantly based on its complexity and scale. Minor repairs, such as replacing a few trim pieces or fixing a door jamb, might only take a few hours or a single day. Larger projects, like extensive deck repairs, structural beam replacements, or significant siding work, could extend to several days or even weeks. For instance, repairs involving custom millwork or specialized finishes will naturally take longer. Project timing also depends on material availability and weather conditions, especially for exterior work in the Garden City area.",
+        "@type": "Answer",
+        "description": "Repair times vary from hours for minor fixes to several days or weeks for larger projects, depending on complexity, materials, and weather."
+      }
+    }
+  ],
+  "description": "Repair times vary from hours for minor fixes to several days or weeks for larger projects, depending on complexity, materials, and weather."
+}

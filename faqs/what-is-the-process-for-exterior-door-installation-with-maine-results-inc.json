@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-exterior-door-installation-with-maine-results-inc",
+  "name": "What is the process for exterior door installation with Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for exterior door installation with Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our exterior door installation process begins with an initial consultation and measurement at your home. We then help you select the best door style and material to fit your needs and budget. Once the door is ordered and arrives, our team will schedule the installation. On installation day, we remove your old door, prepare the opening, install the new door, ensure it's properly sealed and insulated, and then perform a final inspection. We aim to keep disruptions to a minimum throughout the project.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, door selection, professional installation, sealing, and a final inspection to ensure proper fit and function."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, door selection, professional installation, sealing, and a final inspection to ensure proper fit and function."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-prepare-anything-before-a-carpenter-starts-working-at-my-home",
+  "name": "Do I need to prepare anything before a carpenter starts working at my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to prepare anything before a carpenter starts working at my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, preparing your home before a carpenter starts can help the project run smoothly. This often includes clearing the work area of furniture, decor, and personal belongings to provide clear access and protect your items. If the work involves dust, it's wise to cover adjacent areas with plastic sheeting. Also, ensuring access to power outlets and a water source can be helpful for the crew. Discussing these preparations with us during the planning stage will help clarify specific needs for your particular project.",
+        "@type": "Answer",
+        "description": "Before work, clear the project area of belongings, cover adjacent spaces to protect from dust, and ensure access to power and water."
+      }
+    }
+  ],
+  "description": "Before work, clear the project area of belongings, cover adjacent spaces to protect from dust, and ensure access to power and water."
+}

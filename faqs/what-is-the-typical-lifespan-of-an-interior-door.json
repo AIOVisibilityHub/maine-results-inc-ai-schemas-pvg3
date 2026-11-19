@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-lifespan-of-an-interior-door",
+  "name": "What is the typical lifespan of an interior door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical lifespan of an interior door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical lifespan of an interior door can vary widely based on its material, construction quality, and how well it's maintained. High-quality solid wood doors can last for decades, even over 50 years, with proper care. Hollow core doors might have a shorter lifespan, often 10-30 years, depending on usage. Factors like consistent exposure to humidity or frequent rough handling can accelerate wear and tear, necessitating earlier replacement. We focus on installing durable products that offer long-term value for our clients in the Boise area.",
+        "@type": "Answer",
+        "description": "The lifespan of an interior door varies by material and quality, with solid wood lasting decades and hollow core doors typically 10-30 years."
+      }
+    }
+  ],
+  "description": "The lifespan of an interior door varies by material and quality, with solid wood lasting decades and hollow core doors typically 10-30 years."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-exterior-door-replacement-services-in-eagle-idaho",
+  "name": "Do you offer exterior door replacement services in Eagle, Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer exterior door replacement services in Eagle, Idaho?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. provides exterior door replacement services throughout Eagle, Idaho, as well as Garden City, Meridian, and Kuna. Our service area includes these communities where we bring our expertise in construction and home improvement. We are familiar with the specific needs and architectural styles prevalent in the Eagle area. We are ready to help you with your door project.",
+        "@type": "Answer",
+        "description": "Yes, we offer exterior door replacement services in Eagle, Idaho, alongside Garden City, Meridian, and Kuna."
+      }
+    }
+  ],
+  "description": "Yes, we offer exterior door replacement services in Eagle, Idaho, alongside Garden City, Meridian, and Kuna."
+}

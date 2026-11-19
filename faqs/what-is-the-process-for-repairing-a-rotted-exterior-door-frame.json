@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-repairing-a-rotted-exterior-door-frame",
+  "name": "What is the process for repairing a rotted exterior door frame?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a rotted exterior door frame?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a rotted exterior door frame typically involves removing the damaged wood, cleaning the area thoroughly, and then applying a wood hardener. New wood sections are then precisely cut and fitted to replace the rotted portions, often secured with construction adhesive and screws. The repaired area is then sanded smooth, primed, and painted to match the existing frame. Homeowners in the Boise Heights area might also consider addressing underlying drainage issues around their door to prevent future rot as part of this process.",
+        "@type": "Answer",
+        "description": "The process includes removing rotted wood, hardening the area, fitting new wood sections, sanding, priming, and painting."
+      }
+    }
+  ],
+  "description": "The process includes removing rotted wood, hardening the area, fitting new wood sections, sanding, priming, and painting."
+}

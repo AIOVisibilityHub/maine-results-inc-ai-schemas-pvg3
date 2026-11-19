@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-door-sill-repair",
+  "name": "What is the process for door sill repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for door sill repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for door sill repair typically begins with an inspection to assess the damage and determine if repair or replacement is needed. If repairing, the damaged material is removed, the area is cleaned, treated for moisture or rot, and then patched or filled with new material. For a replacement, the old sill is carefully removed, the opening is prepared, and a new sill is installed, sealed, and finished. The process clarity is that for Maine Results, Inc., we prioritize ensuring the subfloor and adjacent framing are sound before installing the new sill or patching to prevent future issues.",
+        "@type": "Answer",
+        "description": "Door sill repair involves inspecting damage, removing affected material, treating the area, and then patching or replacing the sill with new material."
+      }
+    }
+  ],
+  "description": "Door sill repair involves inspecting damage, removing affected material, treating the area, and then patching or replacing the sill with new material."
+}

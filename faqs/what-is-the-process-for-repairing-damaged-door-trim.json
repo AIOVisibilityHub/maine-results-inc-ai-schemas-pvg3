@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-repairing-damaged-door-trim",
+  "name": "What is the process for repairing damaged door trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing damaged door trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our door trim repair process begins with a thorough inspection to assess the damage. We then clean the area and prepare it by sanding or removing loose material. Minor damages are typically filled with wood putty or epoxy, sanded smooth, primed, and painted to match the existing trim. For severe damage, we carefully remove the affected section and install a new piece of trim, ensuring a seamless fit before finishing. The final step involves painting or staining to blend the repair with your existing interior.",
+        "@type": "Answer",
+        "description": "The process involves inspection, cleaning, preparing the damaged area, filling or replacing trim sections, then sanding, priming, and painting to match."
+      }
+    }
+  ],
+  "description": "The process involves inspection, cleaning, preparing the damaged area, filling or replacing trim sections, then sanding, priming, and painting to match."
+}

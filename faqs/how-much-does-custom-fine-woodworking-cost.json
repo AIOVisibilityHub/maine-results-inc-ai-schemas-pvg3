@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-custom-fine-woodworking-cost",
+  "name": "How much does custom fine woodworking cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does custom fine woodworking cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of custom fine woodworking varies significantly based on the project's complexity, the type of wood selected, and the size of the piece. Exotic hardwoods or intricate designs will naturally increase the price. During the initial consultation, we provide a detailed estimate after understanding your vision and specific requirements. We believe in transparent pricing and can discuss different material and design options to fit your budget while maintaining quality.",
+        "@type": "Answer",
+        "description": "Custom fine woodworking costs vary by complexity, wood type, and size; we provide detailed estimates after an initial consultation to fit your budget."
+      }
+    }
+  ],
+  "description": "Custom fine woodworking costs vary by complexity, wood type, and size; we provide detailed estimates after an initial consultation to fit your budget."
+}

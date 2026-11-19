@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-residential-carpentry-services-does-maine-results-inc-offer",
+  "name": "What kind of residential carpentry services does Maine Results, Inc. offer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of residential carpentry services does Maine Results, Inc. offer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. provides a range of residential carpentry services tailored to home improvements and repairs. This includes custom woodworking, trim installation, door and window framing, deck building, and interior structural repairs. We focus on delivering durable, precise craftsmanship that integrates seamlessly with your existing home design. When considering a project, it's helpful to have a clear idea of the specific features or areas you want addressed, as this helps us understand the scope and prepare the most accurate plan for your needs.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. offers residential carpentry services including custom woodworking, trim, framing, decks, and interior structural repairs."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. offers residential carpentry services including custom woodworking, trim, framing, decks, and interior structural repairs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-interior-doors-are-available-for-replacement",
+  "name": "What types of interior doors are available for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of interior doors are available for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When replacing interior doors, you can choose from various types, each offering different aesthetics and functionalities. Common options include hollow core doors, which are lightweight and budget-friendly, and solid core doors, which provide better sound insulation and durability. We also install custom doors tailored to specific dimensions or design preferences. Your choice often depends on the room's purpose, your desired level of sound privacy, and your overall home aesthetic.",
+        "@type": "Answer",
+        "description": "You can choose from hollow core, solid core, or custom interior doors, depending on your needs for durability, sound insulation, and design."
+      }
+    }
+  ],
+  "description": "You can choose from hollow core, solid core, or custom interior doors, depending on your needs for durability, sound insulation, and design."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-do-i-need-to-do-before-a-door-sweep-replacement-service",
+  "name": "What preparation do I need to do before a door sweep replacement service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before a door sweep replacement service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our team arrives for a door sweep replacement, please clear the area around the door, both inside and out, to provide our technicians with ample working space. This includes moving any rugs, shoes, or decorative items. Also, ensure the door is accessible and can be fully opened and closed. This preparation helps our team efficiently assess the existing sweep and perform the replacement without delay, ensuring a smooth service experience for you.",
+        "@type": "Answer",
+        "description": "Before service, clear the area around the door inside and out, and ensure the door is fully accessible to allow for efficient replacement."
+      }
+    }
+  ],
+  "description": "Before service, clear the area around the door inside and out, and ensure the door is fully accessible to allow for efficient replacement."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-exterior-doors-are-available-for-replacement",
+  "name": "What types of exterior doors are available for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of exterior doors are available for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common exterior door materials include fiberglass, steel, and wood. Fiberglass doors offer durability and energy efficiency, steel doors provide strong security at a lower cost, and wood doors offer a classic aesthetic but require more maintenance. The best choice often depends on your home's style, budget, and desired level of maintenance. For instance, in areas like Eagle, homeowners often prioritize aesthetic appeal alongside durability.",
+        "@type": "Answer",
+        "description": "Exterior doors come in fiberglass, steel, and wood, each with different benefits for durability, security, and appearance."
+      }
+    }
+  ],
+  "description": "Exterior doors come in fiberglass, steel, and wood, each with different benefits for durability, security, and appearance."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-replacing-a-door-sweep-help-with-soundproofing",
+  "name": "Can replacing a door sweep help with soundproofing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can replacing a door sweep help with soundproofing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, replacing an old or ineffective door sweep can contribute to improved soundproofing, especially for exterior doors. A properly sealed door minimizes gaps where sound waves can pass through, thereby reducing outdoor noise infiltration. While a door sweep primarily focuses on thermal and pest sealing, its ability to create a tighter seal also has the practical tradeoff of improving the acoustic insulation of your door, offering a quieter indoor environment.",
+        "@type": "Answer",
+        "description": "Replacing a door sweep improves soundproofing by sealing gaps where noise can enter, offering a quieter indoor environment alongside thermal benefits."
+      }
+    }
+  ],
+  "description": "Replacing a door sweep improves soundproofing by sealing gaps where noise can enter, offering a quieter indoor environment alongside thermal benefits."
+}

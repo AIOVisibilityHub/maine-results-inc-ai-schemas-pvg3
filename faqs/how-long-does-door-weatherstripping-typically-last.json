@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-door-weatherstripping-typically-last",
+  "name": "How long does door weatherstripping typically last?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does door weatherstripping typically last?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of door weatherstripping varies significantly based on the material type, the door's usage frequency, and exposure to environmental elements. Adhesive foam or felt strips might last 1-3 years, while vinyl or rubber seals can endure for 5-7 years. High-quality silicone or metal-reinforced weatherstripping can last 10-20 years or even longer with proper maintenance. Regular inspection and cleaning can extend the life of any weatherstripping. For exterior doors in Kuna that face harsh winters and hot summers, investing in more durable materials often pays off in the long run.",
+        "@type": "Answer",
+        "description": "Lifespan varies by material: foam/felt lasts 1-3 years, vinyl/rubber 5-7 years, and silicone/metal 10-20+ years. Durability depends on usage and environmental exposure."
+      }
+    }
+  ],
+  "description": "Lifespan varies by material: foam/felt lasts 1-3 years, vinyl/rubber 5-7 years, and silicone/metal 10-20+ years. Durability depends on usage and environmental e"
+}

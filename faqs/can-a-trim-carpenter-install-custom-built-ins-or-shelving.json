@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-a-trim-carpenter-install-custom-built-ins-or-shelving",
+  "name": "Can a trim carpenter install custom built-ins or shelving?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a trim carpenter install custom built-ins or shelving?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many skilled trim carpenters excel at creating and installing custom built-ins, shelving units, and other bespoke cabinetry. This often includes elements like fireplace surrounds, window seats, or elaborate book shelves. These custom pieces require precise measurements, careful material selection, and expert craftsmanship to integrate seamlessly into your space. Maine Results, Inc. offers custom built-in services, allowing for personalized storage and aesthetic solutions designed to fit your unique home.",
+        "@type": "Answer",
+        "description": "Yes, trim carpenters can install custom built-ins and shelving, requiring precise craftsmanship to integrate into your space. Maine Results, Inc. offers such custom solutions."
+      }
+    }
+  ],
+  "description": "Yes, trim carpenters can install custom built-ins and shelving, requiring precise craftsmanship to integrate into your space. Maine Results, Inc. offers such cu"
+}

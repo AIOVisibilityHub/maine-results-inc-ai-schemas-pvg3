@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-average-cost-to-have-a-prehung-door-installed-by-professionals",
+  "name": "What is the average cost to have a prehung door installed by professionals?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to have a prehung door installed by professionals?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of professional prehung door installation can vary widely, typically ranging from a few hundred dollars to over a thousand per door, excluding the door itself. Factors influencing the price include the door's type (interior vs. exterior, material), the complexity of the existing opening, and any need for structural adjustments. Homeowners should consider that exterior door installations often incur higher costs due to weatherproofing requirements and more complex security features. Getting a detailed estimate that outlines labor and materials for your specific project is recommended.",
+        "@type": "Answer",
+        "description": "Professional prehung door installation costs vary, influenced by door type, opening complexity, and structural needs."
+      }
+    }
+  ],
+  "description": "Professional prehung door installation costs vary, influenced by door type, opening complexity, and structural needs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-maine-results-inc-s-service-area-for-custom-door-installation",
+  "name": "What is Maine Results, Inc.'s service area for custom door installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is Maine Results, Inc.'s service area for custom door installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. provides custom door installation services in Garden City, Meridian, Eagle, and Kuna. While our general service areas cover a wider range of Boise neighborhoods, our specialized custom door installations are focused within these primary cities to ensure efficient scheduling and dedicated service. For example, if you live in Star, we also extend our custom door services there. We focus on these areas to ensure we can provide timely and high-quality service, minimizing travel times and allowing our teams to concentrate on local projects.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. installs custom doors in Garden City, Meridian, Eagle, Kuna, and Star, focusing on these areas for dedicated service."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. installs custom doors in Garden City, Meridian, Eagle, Kuna, and Star, focusing on these areas for dedicated service."
+}

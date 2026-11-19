@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-tell-if-my-door-casings-need-repair-or-replacement",
+  "name": "How can I tell if my door casings need repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my door casings need repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can identify the need for door casing repair by looking for several signs. Common indicators include cracks, splits, rot, water damage, or sections that are loose or pulling away from the wall. Discoloration, peeling paint, or mold can also signal underlying issues, particularly if water has seeped behind the trim. If the damage is extensive or affects the structural integrity of the frame itself, replacement might be a more effective solution. Our team at Maine Results, Inc. can assess the extent of the damage during an initial consultation in areas like Eagle or Kuna.",
+        "@type": "Answer",
+        "description": "Check for cracks, rot, water damage, or loose sections. Extensive damage may require replacement rather than just repair."
+      }
+    }
+  ],
+  "description": "Check for cracks, rot, water damage, or loose sections. Extensive damage may require replacement rather than just repair."
+}

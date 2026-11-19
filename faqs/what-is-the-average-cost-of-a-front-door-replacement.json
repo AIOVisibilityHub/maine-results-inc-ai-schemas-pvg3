@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-average-cost-of-a-front-door-replacement",
+  "name": "What is the average cost of a front door replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a front door replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of front door replacement varies widely based on the material, style, size, and any custom features like decorative glass or sidelights. Steel doors are often the most economical, while custom wood or high-end fiberglass doors can be more expensive. Installation costs also play a role, depending on the complexity of the existing frame and opening. To get an accurate estimate, we recommend a consultation where we can assess your specific needs and provide a detailed quote tailored to your home in areas like Nampa or Caldwell.",
+        "@type": "Answer",
+        "description": "Front door replacement costs depend on material, style, size, custom features, and installation complexity, making a consultation essential for an accurate quote."
+      }
+    }
+  ],
+  "description": "Front door replacement costs depend on material, style, size, custom features, and installation complexity, making a consultation essential for an accurate quot"
+}

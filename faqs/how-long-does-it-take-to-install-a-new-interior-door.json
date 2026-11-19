@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-install-a-new-interior-door",
+  "name": "How long does it take to install a new interior door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a new interior door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for an interior door can vary based on the door type and the existing frame's condition. Installing a pre-hung door into an existing, well-prepared opening might take a few hours. However, a full frame replacement or custom fitting for a slab door, especially if the opening needs modification or if you're upgrading to a pocket door that requires wall alterations, can extend the timeline. For multiple doors, the project duration will increase proportionally. During our initial consultation, Maine Results, Inc. provides an estimated timeline after assessing the scope of work for your Boise Heights or Eagle home.",
+        "@type": "Answer",
+        "description": "Installation time varies from a few hours for simple replacements to a full day or more for complex projects involving frame modifications."
+      }
+    }
+  ],
+  "description": "Installation time varies from a few hours for simple replacements to a full day or more for complex projects involving frame modifications."
+}

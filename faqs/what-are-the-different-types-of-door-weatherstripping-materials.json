@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-different-types-of-door-weatherstripping-materials",
+  "name": "What are the different types of door weatherstripping materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the different types of door weatherstripping materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door weatherstripping comes in several material types, each with specific advantages. Common options include foam, which is inexpensive and easy to install but less durable; felt, offering a soft seal good for irregular gaps but can wear quickly; vinyl, a more durable and cost-effective choice; and silicone, known for its longevity, flexibility, and resistance to extreme temperatures. Metal strips with a rubber or vinyl insert (interlocking or compression types) offer high durability and excellent sealing. The best choice often depends on the door's usage, exposure to elements, and budget, balancing cost with expected lifespan and performance.",
+        "@type": "Answer",
+        "description": "Common types include foam, felt, vinyl, silicone, and metal with inserts. Each offers different durability, cost, and sealing effectiveness, influencing its suitability for various door types."
+      }
+    }
+  ],
+  "description": "Common types include foam, felt, vinyl, silicone, and metal with inserts. Each offers different durability, cost, and sealing effectiveness, influencing its sui"
+}

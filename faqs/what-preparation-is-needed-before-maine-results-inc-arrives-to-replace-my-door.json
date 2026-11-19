@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-is-needed-before-maine-results-inc-arrives-to-replace-my-door",
+  "name": "What preparation is needed before Maine Results, Inc. arrives to replace my door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before Maine Results, Inc. arrives to replace my door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our team arrives for your door replacement, we recommend clearing the area around the old door both inside and outside your home. This includes moving furniture, wall hangings, and any outdoor decorations or plants that might obstruct access. Ensuring a clear pathway helps our crew work efficiently and safely, minimizing disruption to your routine and protecting your belongings during the installation.",
+        "@type": "Answer",
+        "description": "Clear the area around the old door, both inside and outside, by moving furniture and decorations to ensure safe and efficient work."
+      }
+    }
+  ],
+  "description": "Clear the area around the old door, both inside and outside, by moving furniture and decorations to ensure safe and efficient work."
+}

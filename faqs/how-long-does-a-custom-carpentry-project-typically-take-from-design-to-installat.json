@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-custom-carpentry-project-typically-take-from-design-to-installat",
+  "name": "How long does a custom carpentry project typically take from design to installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a custom carpentry project typically take from design to installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a custom carpentry project varies significantly depending on its complexity and scale. Simple shelving units might take a few weeks from design to installation, while intricate built-in cabinetry or custom furniture could span several months. The process typically involves initial consultation, design review, material selection, fabrication, and finally, installation. Preparation for the installation phase, such as clearing the work area, can help keep the project on schedule and affect the overall timing.",
+        "@type": "Answer",
+        "description": "Project timelines vary; simple items take weeks, complex projects can take months, depending on design, materials, and installation needs."
+      }
+    }
+  ],
+  "description": "Project timelines vary; simple items take weeks, complex projects can take months, depending on design, materials, and installation needs."
+}

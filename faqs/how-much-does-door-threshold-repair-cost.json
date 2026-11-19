@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-door-threshold-repair-cost",
+  "name": "How much does door threshold repair cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does door threshold repair cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of door threshold repair varies widely depending on the extent of the damage, the type of material needed, and whether it's a repair or a full replacement. Simple repairs like caulking or minor wood filling are less expensive than replacing an entire threshold, especially if custom milling or specialized materials are required. Factors like the size of the threshold and the complexity of the door system also play a role. For a precise estimate, a professional assessment is necessary to determine the scope of work. We provide detailed quotes for our services in areas like Eagle and Kuna.",
+        "@type": "Answer",
+        "description": "Door threshold repair costs depend on the damage extent, material type, and whether it's a repair or full replacement; a professional assessment provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Door threshold repair costs depend on the damage extent, material type, and whether it's a repair or full replacement; a professional assessment provides an acc"
+}

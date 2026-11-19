@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/does-maine-results-inc-install-prehung-doors-in-eagle-and-kuna",
+  "name": "Does Maine Results, Inc. install prehung doors in Eagle and Kuna?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Maine Results, Inc. install prehung doors in Eagle and Kuna?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. provides professional prehung door installation services in Eagle and Kuna, as part of our extended service area. We bring our expertise in construction to these communities, offering reliable and high-quality door installations for both new constructions and renovation projects. Our service boundary includes these cities, allowing residents to benefit from our experienced team and commitment to precise workmanship, whether it's for interior or exterior prehung doors.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. installs prehung doors in Eagle and Kuna, extending our professional construction services to these communities."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. installs prehung doors in Eagle and Kuna, extending our professional construction services to these communities."
+}

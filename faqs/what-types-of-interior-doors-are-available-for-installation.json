@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-interior-doors-are-available-for-installation",
+  "name": "What types of interior doors are available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of interior doors are available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing new interior doors, you have several common types to consider, including slab doors, pre-hung doors, bi-fold doors, and pocket doors. Slab doors are just the door panel itself, requiring a separate frame and hardware. Pre-hung doors come pre-assembled in a frame, which can simplify the installation process. Bi-fold and pocket doors are excellent solutions for saving space in smaller rooms or closets. The right option often depends on your existing door frame, wall structure, and desired aesthetic. Maine Results, Inc. can help assess your specific needs to recommend the best type for your home in areas like Garden City or Meridian.",
+        "@type": "Answer",
+        "description": "Common interior door types include slab, pre-hung, bi-fold, and pocket doors, each offering different installation and space-saving benefits."
+      }
+    }
+  ],
+  "description": "Common interior door types include slab, pre-hung, bi-fold, and pocket doors, each offering different installation and space-saving benefits."
+}

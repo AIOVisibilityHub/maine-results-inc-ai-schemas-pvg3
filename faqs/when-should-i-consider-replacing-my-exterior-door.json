@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-my-exterior-door",
+  "name": "When should I consider replacing my exterior door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my exterior door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your exterior door if it shows signs of wear such as drafts, rotting, cracks, difficulty opening or closing, or if it no longer provides adequate security or energy efficiency. A new door can enhance your home's appearance, comfort, and security. We often find that older doors in the Boise area may not be designed for optimal insulation, leading to higher energy bills, especially during the colder months.",
+        "@type": "Answer",
+        "description": "Replace your exterior door if it's drafty, damaged, insecure, or impacting energy efficiency."
+      }
+    }
+  ],
+  "description": "Replace your exterior door if it's drafty, damaged, insecure, or impacting energy efficiency."
+}

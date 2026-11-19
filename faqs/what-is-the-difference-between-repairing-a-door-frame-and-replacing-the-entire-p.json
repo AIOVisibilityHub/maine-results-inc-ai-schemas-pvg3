@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-repairing-a-door-frame-and-replacing-the-entire-p",
+  "name": "What is the difference between repairing a door frame and replacing the entire pre-hung door unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between repairing a door frame and replacing the entire pre-hung door unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a door frame means addressing damage only to the existing frame, such as patching holes, replacing rotted sections, or fixing alignment issues, while keeping the original door slab. Replacing an entire pre-hung door unit involves removing the old frame and door slab completely and installing a new, self-contained unit that includes a new frame, door, and often hinges and hardware. The choice depends on the extent of damage and budget, with replacement being more comprehensive but also more costly. For homes in the North End or Downtown Boise, our assessment considers whether the existing door is worth salvaging when recommending either repair or replacement.",
+        "@type": "Answer",
+        "description": "Repair fixes just the frame; replacement involves installing a new frame and door as a complete unit."
+      }
+    }
+  ],
+  "description": "Repair fixes just the frame; replacement involves installing a new frame and door as a complete unit."
+}

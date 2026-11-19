@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-often-should-i-replace-my-door-sweep",
+  "name": "How often should I replace my door sweep?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I replace my door sweep?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of a door sweep varies based on material, climate exposure, and frequency of door use. Generally, door sweeps should be inspected annually and replaced every 3-7 years, or sooner if visible signs of wear and tear appear. Signs like cracking, fraying, or a noticeable draft indicate it's time for a replacement. Regular inspection helps maintain your home's energy efficiency and protection against pests, especially for high-traffic entry points.",
+        "@type": "Answer",
+        "description": "Inspect door sweeps annually; replace every 3-7 years or when signs of wear, such as cracking or drafts, are present to maintain efficiency."
+      }
+    }
+  ],
+  "description": "Inspect door sweeps annually; replace every 3-7 years or when signs of wear, such as cracking or drafts, are present to maintain efficiency."
+}

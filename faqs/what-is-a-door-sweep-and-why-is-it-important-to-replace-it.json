@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-a-door-sweep-and-why-is-it-important-to-replace-it",
+  "name": "What is a door sweep, and why is it important to replace it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a door sweep, and why is it important to replace it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A door sweep is a strip of material, typically made of rubber, plastic, or brush-like bristles, attached to the bottom of an exterior door. Its primary function is to seal the gap between the bottom of the door and the threshold. Replacing a worn or damaged door sweep is important because it prevents drafts, reduces energy loss, keeps out insects and moisture, and can lower your heating and cooling costs. A properly functioning door sweep contributes to better indoor comfort and protects your home's interior from the elements, which is a key consideration for homes in areas like Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "A door sweep seals the gap at the bottom of an exterior door, preventing drafts, energy loss, pests, and moisture, crucial for homes in our service areas."
+      }
+    }
+  ],
+  "description": "A door sweep seals the gap at the bottom of an exterior door, preventing drafts, energy loss, pests, and moisture, crucial for homes in our service areas."
+}

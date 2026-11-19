@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-maine-results-inc-install-custom-sized-interior-doors",
+  "name": "Can Maine Results, Inc. install custom-sized interior doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Maine Results, Inc. install custom-sized interior doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. can install custom-sized interior doors. Many older homes, particularly in established areas like Boise Heights or the North End, may have door openings that do not conform to standard modern door sizes. In such cases, we can work with you to source or prepare custom-sized doors to ensure a perfect fit without extensive structural modifications. This often involves precise measurements and careful planning to integrate the new door seamlessly into your existing architecture while maintaining the desired aesthetic and functionality.",
+        "@type": "Answer",
+        "description": "Yes, we install custom-sized interior doors for homes with non-standard openings, common in older areas like Boise Heights."
+      }
+    }
+  ],
+  "description": "Yes, we install custom-sized interior doors for homes with non-standard openings, common in older areas like Boise Heights."
+}

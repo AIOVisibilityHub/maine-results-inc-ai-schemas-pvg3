@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-involved-in-the-process-of-repairing-a-damaged-door-jamb",
+  "name": "What is involved in the process of repairing a damaged door jamb?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of repairing a damaged door jamb?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door jamb repair typically involves removing the damaged section, preparing the area, and installing new, matching material. The process can vary depending on the extent and type of damage, from filling small cracks to replacing entire sections of the jamb. Our team assesses the damage to determine the most effective repair method, ensuring a seamless and durable fix that restores the door's functionality and appearance.",
+        "@type": "Answer",
+        "description": "The repair process involves assessing damage, removing compromised sections, and installing new materials to restore the jamb's integrity."
+      }
+    }
+  ],
+  "description": "The repair process involves assessing damage, removing compromised sections, and installing new materials to restore the jamb's integrity."
+}

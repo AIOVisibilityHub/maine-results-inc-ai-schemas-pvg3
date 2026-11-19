@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-average-cost-of-replacing-a-door-in-the-boise-area",
+  "name": "What is the average cost of replacing a door in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of replacing a door in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of door replacement in the Boise area varies significantly based on door material, style, size, and installation complexity. A basic interior door might be a few hundred dollars, while a high-end, custom-sized entry door with specialized glass could cost several thousand. During our consultation, we assess your specific needs and provide a detailed estimate that breaks down material and labor costs, helping you understand the investment.",
+        "@type": "Answer",
+        "description": "Door replacement costs in Boise vary widely based on material, style, and complexity, from a few hundred to several thousand dollars."
+      }
+    }
+  ],
+  "description": "Door replacement costs in Boise vary widely based on material, style, and complexity, from a few hundred to several thousand dollars."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-prepare-my-home-for-door-trim-installation",
+  "name": "How do I prepare my home for door trim installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my home for door trim installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for door trim installation, clear the areas around your doors of any furniture, decor, or obstructions to provide ample workspace. Removing wall hangings or anything that could be accidentally damaged near door frames is also advisable. If old trim is being removed, having dust sheets or drop cloths ready can help manage debris, although our team will also take measures to keep your home clean. These steps help ensure a smooth and efficient installation process.",
+        "@type": "Answer",
+        "description": "Clear furniture and obstructions around doors, and remove wall hangings to prepare your home for door trim installation."
+      }
+    }
+  ],
+  "description": "Clear furniture and obstructions around doors, and remove wall hangings to prepare your home for door trim installation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/why-choose-maine-results-inc-for-door-trim-installation-in-the-boise-area",
+  "name": "Why choose Maine Results, Inc. for door trim installation in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why choose Maine Results, Inc. for door trim installation in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. offers professional door trim installation services backed by our commitment to quality craftsmanship across Garden City, Meridian, Eagle, and Kuna. We bring local expertise and attention to detail, ensuring that your new trim perfectly complements your home's aesthetic and stands the test of time. Our team is experienced in handling various trim styles and materials, providing precise measurements and clean finishes. We prioritize clear communication and customer satisfaction throughout every project, from initial consultation to final inspection.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. provides quality door trim installation with local expertise across Garden City, Meridian, Eagle, and Kuna, focusing on craftsmanship and customer satisfaction."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. provides quality door trim installation with local expertise across Garden City, Meridian, Eagle, and Kuna, focusing on craftsmanship and cu"
+}

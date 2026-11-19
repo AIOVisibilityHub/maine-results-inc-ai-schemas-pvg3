@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-prepare-my-home-for-an-exterior-door-replacement",
+  "name": "How can I prepare my home for an exterior door replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for an exterior door replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for an exterior door replacement, ensure the area around the old door is clear of furniture, decorations, or anything that might obstruct the work. If you have an alarm system or smart home devices connected to your door, inform your installer beforehand. Clearing the workspace allows our team to work efficiently and safely. This simple preparation helps the installation proceed smoothly and on schedule.",
+        "@type": "Answer",
+        "description": "Clear the area around the door and inform installers about any alarm systems or smart devices connected to it."
+      }
+    }
+  ],
+  "description": "Clear the area around the door and inform installers about any alarm systems or smart devices connected to it."
+}

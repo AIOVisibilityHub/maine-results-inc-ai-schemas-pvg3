@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-replace-the-door-frame-when-replacing-an-interior-door",
+  "name": "Do I need to replace the door frame when replacing an interior door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace the door frame when replacing an interior door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You don't always need to replace the door frame when replacing an interior door. If your existing frame is in good condition—meaning it's square, plumb, free of damage, and the right size—you can often opt for a 'slab' door replacement, reusing the current frame. However, if the frame is damaged, warped, or if you're changing the door's size or style significantly, replacing the entire frame with a 'pre-hung' door unit is typically recommended for the best fit and performance. We inspect your existing frame to advise on the most suitable approach.",
+        "@type": "Answer",
+        "description": "You only need to replace the door frame if it's damaged, warped, or if you're changing the door's size or style significantly."
+      }
+    }
+  ],
+  "description": "You only need to replace the door frame if it's damaged, warped, or if you're changing the door's size or style significantly."
+}

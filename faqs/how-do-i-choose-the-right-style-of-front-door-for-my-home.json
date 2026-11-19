@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-the-right-style-of-front-door-for-my-home",
+  "name": "How do I choose the right style of front door for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right style of front door for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right front door style involves considering your home's architectural design, your personal aesthetic preferences, and practical needs like light and privacy. For example, a craftsman-style home might suit a solid wood door with clear glass, while a modern home could benefit from a sleek fiberglass door with minimalist lines. We encourage clients to bring photos of their home and ideas, and our team provides guidance on complementary styles that enhance your curb appeal in communities like Middleton.",
+        "@type": "Answer",
+        "description": "Select a front door style by considering your home's architecture, personal taste, and functional needs like light and privacy."
+      }
+    }
+  ],
+  "description": "Select a front door style by considering your home's architecture, personal taste, and functional needs like light and privacy."
+}

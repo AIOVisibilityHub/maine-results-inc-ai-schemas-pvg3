@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-custom-fine-woodworking-project-typically-take",
+  "name": "How long does a custom fine woodworking project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a custom fine woodworking project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a custom fine woodworking project depends on its scope and intricacy. Smaller pieces or straightforward designs might be completed in a few weeks, while large-scale custom cabinetry or complex installations could take several months. During our initial planning phase, we establish a clear timeline for your specific project, including design, material acquisition, crafting, and installation. We work to meet agreed-upon deadlines while prioritizing quality craftsmanship.",
+        "@type": "Answer",
+        "description": "Project timelines vary by scope; smaller projects take weeks, larger ones months. We establish a clear timeline during planning."
+      }
+    }
+  ],
+  "description": "Project timelines vary by scope; smaller projects take weeks, larger ones months. We establish a clear timeline during planning."
+}

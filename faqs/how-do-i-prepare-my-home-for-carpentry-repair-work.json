@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-prepare-my-home-for-carpentry-repair-work",
+  "name": "How do I prepare my home for carpentry repair work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my home for carpentry repair work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for carpentry repair work, it's helpful to clear the area around the repair site, removing any furniture, decorations, or personal items that might obstruct access or be damaged. If the repair is outdoors, ensure pets are secured and any outdoor equipment or vehicles are moved. For interior work, covering nearby furniture with drop cloths can protect them from dust and debris. Discussing access points and power requirements with your carpenter beforehand, especially for projects in areas like Star, ensures a smoother and more efficient repair process.",
+        "@type": "Answer",
+        "description": "Clear the repair area of obstructions, secure pets, protect nearby items with drop cloths, and discuss access and power needs with your carpenter."
+      }
+    }
+  ],
+  "description": "Clear the repair area of obstructions, secure pets, protect nearby items with drop cloths, and discuss access and power needs with your carpenter."
+}

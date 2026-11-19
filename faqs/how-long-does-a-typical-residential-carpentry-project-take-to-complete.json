@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-residential-carpentry-project-take-to-complete",
+  "name": "How long does a typical residential carpentry project take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical residential carpentry project take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a residential carpentry project varies significantly depending on its scope and intricacy. Small projects like installing new trim or repairing a door might take a few days, while larger undertakings such as building a custom deck or extensive interior framing could span several weeks. Factors like material availability, weather conditions for outdoor work, and the need for permits can also affect the timeline. We provide a projected timeline after assessing the specific details of your project and aim for efficient, high-quality completion.",
+        "@type": "Answer",
+        "description": "Project duration varies by scope; small jobs take days, larger projects weeks. Factors like materials, weather, and permits affect timing."
+      }
+    }
+  ],
+  "description": "Project duration varies by scope; small jobs take days, larger projects weeks. Factors like materials, weather, and permits affect timing."
+}

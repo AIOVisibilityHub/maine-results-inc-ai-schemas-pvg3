@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-doors-can-maine-results-inc-replace",
+  "name": "What types of doors can Maine Results, Inc. replace?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of doors can Maine Results, Inc. replace?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. replaces various types of doors, including entry doors, patio doors, and interior doors. We work with materials like wood, fiberglass, steel, and vinyl. The best type for your home often depends on your priorities, such as security, energy efficiency, aesthetic appeal, or maintenance. For instance, a durable steel entry door might be ideal for security, while a fiberglass door can offer excellent insulation and a wide range of styles.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. replaces entry, patio, and interior doors made from materials like wood, fiberglass, steel, and vinyl."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. replaces entry, patio, and interior doors made from materials like wood, fiberglass, steel, and vinyl."
+}

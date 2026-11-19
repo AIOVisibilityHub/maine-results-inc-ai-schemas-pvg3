@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-wood-are-available-for-custom-projects",
+  "name": "What types of wood are available for custom projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood are available for custom projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We offer a wide selection of wood species to suit various aesthetics and functional requirements, including common options like oak, maple, and cherry, as well as more exotic hardwoods if desired. The choice of wood impacts the final look, durability, and cost of your project. When making a selection, consider factors such as grain pattern, color, hardness, and how the wood will complement existing elements in your home, as each species has unique characteristics.",
+        "@type": "Answer",
+        "description": "We offer various wood species like oak, maple, and cherry, with options for exotic hardwoods. Your choice impacts look, durability, and cost."
+      }
+    }
+  ],
+  "description": "We offer various wood species like oak, maple, and cherry, with options for exotic hardwoods. Your choice impacts look, durability, and cost."
+}

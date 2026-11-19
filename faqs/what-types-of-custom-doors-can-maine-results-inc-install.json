@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-custom-doors-can-maine-results-inc-install",
+  "name": "What types of custom doors can Maine Results, Inc. install?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of custom doors can Maine Results, Inc. install?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. can install a wide variety of custom doors, including entry doors, interior doors, patio doors, and specialty doors such as barn doors or French doors. We work with various materials like wood, fiberglass, steel, and clad options, allowing for extensive customization in design, size, and finish. For example, a homeowner in Eagle might choose a large, custom-sized pivot entry door for a modern aesthetic, while someone in Kuna might prefer custom French doors leading to a patio. Our focus is on matching the door to your home's style and your functional requirements.",
+        "@type": "Answer",
+        "description": "We install custom entry, interior, patio, and specialty doors in various materials like wood, fiberglass, and steel, customized to your home's style and function."
+      }
+    }
+  ],
+  "description": "We install custom entry, interior, patio, and specialty doors in various materials like wood, fiberglass, and steel, customized to your home's style and functio"
+}

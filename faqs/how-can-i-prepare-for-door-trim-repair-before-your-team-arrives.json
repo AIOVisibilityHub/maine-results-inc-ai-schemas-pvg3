@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-prepare-for-door-trim-repair-before-your-team-arrives",
+  "name": "How can I prepare for door trim repair before your team arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare for door trim repair before your team arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To help us perform door trim repair efficiently, you can prepare the area by clearing any furniture or personal items that are near the door. If possible, ensure the area is well-lit. Having information about the existing paint color or stain, if you know it, can also be helpful for color matching. Our team will handle all necessary masking and protection of your floors and walls.",
+        "@type": "Answer",
+        "description": "Prepare for door trim repair by clearing the area around the door, ensuring good lighting, and providing any known paint or stain information."
+      }
+    }
+  ],
+  "description": "Prepare for door trim repair by clearing the area around the door, ensuring good lighting, and providing any known paint or stain information."
+}

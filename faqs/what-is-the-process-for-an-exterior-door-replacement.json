@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-an-exterior-door-replacement",
+  "name": "What is the process for an exterior door replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for an exterior door replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with a consultation to assess your current door, discuss your needs, and help you select a new door. Following this, we take precise measurements and provide an estimate. Once the door arrives, our team removes the old door, prepares the opening, installs the new door, seals it properly, and completes any necessary trim work. We ensure a thorough cleanup and walk through the finished project with you. We handle all aspects from initial measurement to final installation.",
+        "@type": "Answer",
+        "description": "The process involves consultation, measurement, door selection, removal of the old door, installation of the new one, and finishing."
+      }
+    }
+  ],
+  "description": "The process involves consultation, measurement, door selection, removal of the old door, installation of the new one, and finishing."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-considered-fine-woodworking",
+  "name": "What is considered fine woodworking?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered fine woodworking?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fine woodworking involves crafting high-quality, custom wood pieces with precision joinery, detailed finishes, and often unique designs. Unlike standard carpentry, it focuses on aesthetic appeal and durability, using carefully selected materials and specialized techniques to create furniture, cabinetry, or architectural elements that are both functional and artistic. For example, Maine Results, Inc. approaches fine woodworking by emphasizing custom designs that integrate seamlessly with your existing home architecture, ensuring each piece is truly bespoke.",
+        "@type": "Answer",
+        "description": "Fine woodworking creates high-quality, custom wood pieces with precision, detailed finishes, and unique designs, focusing on aesthetic appeal and durability."
+      }
+    }
+  ],
+  "description": "Fine woodworking creates high-quality, custom wood pieces with precision, detailed finishes, and unique designs, focusing on aesthetic appeal and durability."
+}

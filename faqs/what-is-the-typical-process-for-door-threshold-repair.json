@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-door-threshold-repair",
+  "name": "What is the typical process for door threshold repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for door threshold repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for door threshold repair typically begins with an inspection to assess the damage and determine if repair or full replacement is needed. If repair is possible, it might involve sanding, filling gaps with appropriate materials, or resealing. For more severe damage, the old threshold will be carefully removed, the subfloor prepared, and a new threshold installed, ensuring proper leveling and sealing. We ensure the new threshold integrates seamlessly with your existing door frame and flooring. Understanding the extent of damage is the first step in our approach.",
+        "@type": "Answer",
+        "description": "The process involves inspection, assessing damage, and then either repairing by sanding and filling, or replacing the old threshold and installing a new one."
+      }
+    }
+  ],
+  "description": "The process involves inspection, assessing damage, and then either repairing by sanding and filling, or replacing the old threshold and installing a new one."
+}

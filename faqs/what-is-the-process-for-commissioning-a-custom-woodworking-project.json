@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-commissioning-a-custom-woodworking-project",
+  "name": "What is the process for commissioning a custom woodworking project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for commissioning a custom woodworking project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation where we discuss your ideas, needs, and inspiration. We then create detailed design plans and material selections for your approval. Once approved, our skilled craftsmen begin the construction, keeping you updated on progress. Finally, we handle professional installation to ensure the piece fits perfectly in your space. This structured approach helps ensure your vision is realized accurately and efficiently.",
+        "@type": "Answer",
+        "description": "Commissioning a project involves an initial consultation, design plan approval, construction with progress updates, and professional installation."
+      }
+    }
+  ],
+  "description": "Commissioning a project involves an initial consultation, design plan approval, construction with progress updates, and professional installation."
+}

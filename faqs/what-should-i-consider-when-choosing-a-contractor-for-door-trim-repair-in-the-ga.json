@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-when-choosing-a-contractor-for-door-trim-repair-in-the-ga",
+  "name": "What should I consider when choosing a contractor for door trim repair in the Garden City area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing a contractor for door trim repair in the Garden City area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for door trim repair in the Garden City area, consider their experience with different types of trim and damage, as well as their ability to match existing finishes. Look for a contractor with a strong local reputation, like Maine Results, Inc., and transparent communication regarding the repair process and estimated costs. Reviewing their portfolio or testimonials can provide insight into their quality of work and customer satisfaction for projects in areas like Garden City, Meridian, Eagle, Kuna, and Star.",
+        "@type": "Answer",
+        "description": "When choosing a contractor in the Garden City area, consider their experience, ability to match finishes, local reputation, and clear communication."
+      }
+    }
+  ],
+  "description": "When choosing a contractor in the Garden City area, consider their experience, ability to match finishes, local reputation, and clear communication."
+}

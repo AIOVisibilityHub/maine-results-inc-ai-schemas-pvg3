@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-areas-do-you-serve-for-fine-woodworking-projects",
+  "name": "What areas do you serve for fine woodworking projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve for fine woodworking projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. provides fine woodworking services across Garden City, Meridian, Eagle, Kuna, and Star. While our primary service areas are within these cities, we understand that unique projects may arise just outside these boundaries. We encourage prospective clients in neighboring areas like Boise Heights or Borah to contact us to discuss their specific project and see if we can accommodate their needs, potentially with a site visit to assess feasibility.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. serves Garden City, Meridian, Eagle, Kuna, and Star for fine woodworking projects. Contact us for projects in neighboring areas."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. serves Garden City, Meridian, Eagle, Kuna, and Star for fine woodworking projects. Contact us for projects in neighboring areas."
+}

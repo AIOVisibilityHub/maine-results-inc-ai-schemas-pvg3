@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-door-jamb-repair-take",
+  "name": "How long does a typical door jamb repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical door jamb repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a door jamb repair depends on the severity of the damage and the type of door jamb. Minor repairs, such as filling small holes or cracks, might take a few hours. More extensive damage, like replacing a significant section due to rot or impact, could require a full day or more. We aim to complete repairs efficiently while ensuring high-quality results, minimizing disruption to your home.",
+        "@type": "Answer",
+        "description": "Repair times vary from a few hours for minor issues to a full day or more for extensive damage, depending on the severity."
+      }
+    }
+  ],
+  "description": "Repair times vary from a few hours for minor issues to a full day or more for extensive damage, depending on the severity."
+}

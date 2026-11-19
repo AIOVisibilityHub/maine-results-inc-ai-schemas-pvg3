@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-door-frame-damage-can-be-considered-an-emergency-repair",
+  "name": "What types of door frame damage can be considered an emergency repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of door frame damage can be considered an emergency repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door frame damage that compromises your home's security or exposes your interior to the elements should be considered an emergency repair. This includes frames shattered from forced entry, severe splitting that leaves your door unsecured, or extensive rot that causes the door to fall out of the frame. In areas like Centennial or Central Foothills, addressing such issues promptly helps restore safety and prevent further property damage from weather exposure.",
+        "@type": "Answer",
+        "description": "Emergency repairs include shattered frames, severe splitting compromising security, or extensive rot causing the door to fall out."
+      }
+    }
+  ],
+  "description": "Emergency repairs include shattered frames, severe splitting compromising security, or extensive rot causing the door to fall out."
+}

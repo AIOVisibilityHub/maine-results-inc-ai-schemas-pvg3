@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-entry-door-installation-typically-take",
+  "name": "How long does entry door installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does entry door installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard entry door installation typically takes one day to complete. This includes removing the old door, preparing the opening, installing the new door, and applying trim and sealing. The process can extend if the existing frame requires significant repairs or modifications, or if custom sizing is needed. We provide a clear timeline after evaluating your specific project during the initial consultation.",
+        "@type": "Answer",
+        "description": "Most entry door installations are completed in one day, though complex frame issues or custom work can extend this."
+      }
+    }
+  ],
+  "description": "Most entry door installations are completed in one day, though complex frame issues or custom work can extend this."
+}

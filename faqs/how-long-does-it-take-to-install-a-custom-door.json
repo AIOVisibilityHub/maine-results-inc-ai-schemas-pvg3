@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-install-a-custom-door",
+  "name": "How long does it take to install a custom door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a custom door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for custom door installation varies based on the door's complexity, material, and any necessary site preparations. Typically, once the custom door is ordered and fabricated, the on-site installation itself can take anywhere from a few hours for a standard replacement to a full day or more for complex entry systems requiring significant frame modifications. For instance, a custom mahogany door with intricate glass inserts will require more fabrication time than a simple custom-sized interior door. We provide a detailed project timeline after the initial consultation and measurements, taking into account any specific requirements for your property in areas like Garden City or Meridian.",
+        "@type": "Answer",
+        "description": "Installation time varies, but on-site work usually takes a few hours to a full day, depending on complexity and preparation."
+      }
+    }
+  ],
+  "description": "Installation time varies, but on-site work usually takes a few hours to a full day, depending on complexity and preparation."
+}

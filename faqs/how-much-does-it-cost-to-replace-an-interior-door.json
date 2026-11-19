@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-it-cost-to-replace-an-interior-door",
+  "name": "How much does it cost to replace an interior door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to replace an interior door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of replacing an interior door varies significantly based on several factors. These include the type of door material (e.g., hollow core, solid core, wood, MDF), the style (e.g., slab, pre-hung, bifold, French), and any necessary modifications to the door frame. Additional costs may arise from hardware selection like hinges and handles, and whether painting or staining is included. During an estimate, we will assess your existing frame and opening to determine if any structural adjustments are needed, which can impact the final price.",
+        "@type": "Answer",
+        "description": "Interior door replacement costs vary based on door material, style, hardware, and any required frame modifications or finishing."
+      }
+    }
+  ],
+  "description": "Interior door replacement costs vary based on door material, style, hardware, and any required frame modifications or finishing."
+}

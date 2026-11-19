@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-replacement-process-like-from-selection-to-installation",
+  "name": "What is the replacement process like, from selection to installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the replacement process like, from selection to installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The front door replacement process begins with an initial consultation to discuss your preferences, budget, and assess your current door and opening. We then help you select the ideal door style, material, and features. Once your door is ordered and arrives, our team schedules the installation. On installation day, we remove the old door, prepare the opening, meticulously install the new pre-hung door unit, and finish all trim and sealing work. Throughout the process, we communicate clearly to ensure a smooth experience.",
+        "@type": "Answer",
+        "description": "The process involves consultation, door selection, ordering, and then professional installation of the new door and frame."
+      }
+    }
+  ],
+  "description": "The process involves consultation, door selection, ordering, and then professional installation of the new door and frame."
+}

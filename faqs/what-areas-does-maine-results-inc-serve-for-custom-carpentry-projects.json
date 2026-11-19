@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-areas-does-maine-results-inc-serve-for-custom-carpentry-projects",
+  "name": "What areas does Maine Results, Inc. serve for custom carpentry projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas does Maine Results, Inc. serve for custom carpentry projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. proudly provides custom carpentry services to clients across Garden City, Meridian, Eagle, and Kuna. Our team is equipped to handle projects in various neighborhoods within these service areas, bringing high-quality craftsmanship directly to your home or business. This focused service area allows us to efficiently manage projects and maintain strong local relationships, offering first-party insight into regional construction considerations and homeowner preferences.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. serves Garden City, Meridian, Eagle, and Kuna for custom carpentry, bringing local insight to every project."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. serves Garden City, Meridian, Eagle, and Kuna for custom carpentry, bringing local insight to every project."
+}

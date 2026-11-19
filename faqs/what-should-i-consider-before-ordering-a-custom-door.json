@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-before-ordering-a-custom-door",
+  "name": "What should I consider before ordering a custom door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before ordering a custom door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before ordering a custom door, consider your home's architectural style, the door's function (e.g., entry, interior, patio), desired materials, and your budget. Think about security features, energy efficiency, and any specific hardware or glass options. It's also helpful to gather inspiration photos to communicate your vision effectively. For example, consider whether the door needs to withstand specific weather conditions common in areas like Star, and if it requires particular privacy or light-filtering glass. Having these considerations in mind helps us tailor the best solution during your consultation.",
+        "@type": "Answer",
+        "description": "Consider architectural style, function, materials, budget, security, and energy efficiency, and gather inspiration before ordering."
+      }
+    }
+  ],
+  "description": "Consider architectural style, function, materials, budget, security, and energy efficiency, and gather inspiration before ordering."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-my-door-sill-needs-repair",
+  "name": "What are common signs that my door sill needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my door sill needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your door sill needs repair include visible rotting, cracking, splintering, or softness when probed. You might also notice drafts, water leaks under the door, or difficulty opening and closing the door due to a compromised sill. Addressing these issues promptly can prevent further damage to your doorway and home structure. A practical tradeoff is that delaying repair can lead to more extensive and costly damage to the surrounding door frame or flooring, outweighing the initial cost of a simple sill repair.",
+        "@type": "Answer",
+        "description": "Visible rot, cracks, softness, drafts, or water leaks are common signs your door sill needs repair."
+      }
+    }
+  ],
+  "description": "Visible rot, cracks, softness, drafts, or water leaks are common signs your door sill needs repair."
+}

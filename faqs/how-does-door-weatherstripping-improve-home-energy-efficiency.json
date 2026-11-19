@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-does-door-weatherstripping-improve-home-energy-efficiency",
+  "name": "How does door weatherstripping improve home energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does door weatherstripping improve home energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Door weatherstripping significantly improves home energy efficiency by creating a tight seal that prevents conditioned air (heated or cooled) from escaping and unconditioned outdoor air from entering. This reduces the workload on your HVAC system, as it doesn't have to constantly compensate for air leaks. Over time, this leads to lower energy consumption and reduced utility bills. When we conduct energy assessments for homes in Meridian, we frequently identify deteriorating door weatherstripping as a key contributor to energy loss, making it a simple yet impactful upgrade.",
+        "@type": "Answer",
+        "description": "It prevents air leaks, keeping conditioned air inside and reducing your HVAC system's workload. This lowers energy consumption and utility bills, boosting home efficiency."
+      }
+    }
+  ],
+  "description": "It prevents air leaks, keeping conditioned air inside and reducing your HVAC system's workload. This lowers energy consumption and utility bills, boosting home"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-match-existing-door-trim-styles-and-colors-during-a-repair",
+  "name": "Can you match existing door trim styles and colors during a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match existing door trim styles and colors during a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, matching existing door trim styles and colors is a key part of ensuring a seamless repair. We take care to select replacement trim that closely matches the profile and dimensions of your current trim. For color, we can custom-mix paints or stains to achieve an exact match, or at least a very close approximation, blending the repaired area with the surrounding trim. Achieving a perfect match often depends on the age and condition of the existing trim's finish.",
+        "@type": "Answer",
+        "description": "We aim to match existing door trim styles, profiles, and colors, often using custom paint or stain mixing for a seamless repair."
+      }
+    }
+  ],
+  "description": "We aim to match existing door trim styles, profiles, and colors, often using custom paint or stain mixing for a seamless repair."
+}

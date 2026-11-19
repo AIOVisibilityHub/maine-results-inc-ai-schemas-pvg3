@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-it-cost-to-replace-an-exterior-door",
+  "name": "How much does it cost to replace an exterior door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to replace an exterior door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an exterior door replacement varies widely based on the door material, style, size, hardware, and any necessary modifications to the existing frame. High-end custom doors or those with advanced security features will cost more than standard options. We provide detailed, itemized estimates after an initial assessment to help you understand the investment. We can help you find options that fit various budgets, from Kuna to Garden City.",
+        "@type": "Answer",
+        "description": "Exterior door replacement costs depend on material, style, size, hardware, and frame modifications."
+      }
+    }
+  ],
+  "description": "Exterior door replacement costs depend on material, style, size, hardware, and frame modifications."
+}

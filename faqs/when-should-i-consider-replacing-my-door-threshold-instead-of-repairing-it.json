@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-my-door-threshold-instead-of-repairing-it",
+  "name": "When should I consider replacing my door threshold instead of repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my door threshold instead of repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your door threshold if the damage is extensive, such as significant rot, severe warping, or deep cracks that compromise its structural integrity or ability to seal effectively. If the threshold is beyond simple cosmetic fixes, or if repeated repairs haven't resolved issues like drafts or water intrusion, replacement is often the more durable and cost-effective long-term solution. Our team can assess the damage and recommend whether repair or replacement is the best course of action based on the condition.",
+        "@type": "Answer",
+        "description": "Replace your door threshold if damage like severe rot, warping, or deep cracks is extensive, or if repairs haven't resolved drafts or water intrusion."
+      }
+    }
+  ],
+  "description": "Replace your door threshold if damage like severe rot, warping, or deep cracks is extensive, or if repairs haven't resolved drafts or water intrusion."
+}

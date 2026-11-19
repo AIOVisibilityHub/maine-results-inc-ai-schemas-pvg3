@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-a-permit-for-door-replacement-in-garden-city",
+  "name": "Do I need a permit for door replacement in Garden City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for door replacement in Garden City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most standard door replacements, particularly if you're replacing a door with one of the same size and type within an existing opening, a permit is generally not required. However, if your project involves altering the structural opening, changing the size of the door, or moving a door to a new location, a permit from Garden City's building department would likely be necessary. It's always best to consult with us during your estimate, as we can help determine if your specific project requires one.",
+        "@type": "Answer",
+        "description": "Permits are usually not needed for standard door replacements in Garden City, but are required for structural changes or new openings."
+      }
+    }
+  ],
+  "description": "Permits are usually not needed for standard door replacements in Garden City, but are required for structural changes or new openings."
+}

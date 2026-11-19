@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-get-permits-for-exterior-door-replacement",
+  "name": "Do I need to get permits for exterior door replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to get permits for exterior door replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard exterior door replacements, especially those that do not involve structural changes to the wall, typically do not require a permit. However, if the project involves altering the size of the door opening or making significant structural modifications, a permit may be necessary. We can assist you in determining if your specific project in areas like Meridian or Star requires any local permits and can help plan accordingly.",
+        "@type": "Answer",
+        "description": "Standard door replacements usually don't require permits, but structural changes might."
+      }
+    }
+  ],
+  "description": "Standard door replacements usually don't require permits, but structural changes might."
+}

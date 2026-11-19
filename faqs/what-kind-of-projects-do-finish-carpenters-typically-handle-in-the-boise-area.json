@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-projects-do-finish-carpenters-typically-handle-in-the-boise-area",
+  "name": "What kind of projects do finish carpenters typically handle in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of projects do finish carpenters typically handle in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Boise area, finish carpenters handle a wide range of projects, from installing baseboards and crown molding in new constructions or renovations to crafting custom cabinetry and built-in shelving for residential updates. They often work on door and window trim, fireplace mantels, wainscoting, and accent walls. For example, in neighborhoods like the North End or Warm Springs Mesa, where historical homes are common, specific expertise in period-appropriate trim work might be sought. Projects vary but generally focus on enhancing the interior details and functionality of homes across Garden City, Meridian, and Eagle.",
+        "@type": "Answer",
+        "description": "Finish carpenters in the Boise area typically handle projects like installing trim, molding, doors, custom cabinetry, and built-ins for homes."
+      }
+    }
+  ],
+  "description": "Finish carpenters in the Boise area typically handle projects like installing trim, molding, doors, custom cabinetry, and built-ins for homes."
+}

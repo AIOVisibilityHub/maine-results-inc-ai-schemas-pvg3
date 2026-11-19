@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-trim-installation-take-for-a-typical-room",
+  "name": "How long does trim installation take for a typical room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does trim installation take for a typical room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to install trim in a typical room depends on several factors, including the size of the room, the complexity of the trim style (e.g., simple baseboards versus layered crown molding), and any existing conditions that require preparation. A basic baseboard installation might take a few hours, while detailed crown molding could take a full day or more per room. For example, Maine Results, Inc. considers the intricacy of the profiles and the number of corners when estimating project duration.",
+        "@type": "Answer",
+        "description": "Trim installation time varies by room size, trim complexity, and existing conditions. Simple baseboards are faster than detailed crown molding."
+      }
+    }
+  ],
+  "description": "Trim installation time varies by room size, trim complexity, and existing conditions. Simple baseboards are faster than detailed crown molding."
+}

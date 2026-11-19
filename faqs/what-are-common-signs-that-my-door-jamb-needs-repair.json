@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-signs-that-my-door-jamb-needs-repair",
+  "name": "What are common signs that my door jamb needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my door jamb needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs your door jamb needs repair include visible cracks, splits in the wood, soft or rotted areas, difficulty opening or closing the door, or a door that no longer latches properly. Drafts around the door frame or increased noise from outside can also indicate a compromised jamb. Addressing these issues promptly helps prevent further damage to your door or frame, maintaining your home's security and energy efficiency.",
+        "@type": "Answer",
+        "description": "Look for cracks, rot, difficulty operating the door, or poor latching as signs your door jamb needs repair."
+      }
+    }
+  ],
+  "description": "Look for cracks, rot, difficulty operating the door, or poor latching as signs your door jamb needs repair."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-customize-the-glass-options-and-hardware-for-my-new-front-door",
+  "name": "Can I customize the glass options and hardware for my new front door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I customize the glass options and hardware for my new front door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, customization is a popular aspect of front door replacement, allowing you to personalize your entry. You can choose from various glass options, including clear, frosted, decorative, or etched designs, which can impact both privacy and the amount of light entering your home. Hardware choices, such as handlesets, locks, and hinges, come in diverse finishes and styles to match your home's aesthetic. We offer a wide range of customization options to create a unique and welcoming entrance that fits your style and security needs.",
+        "@type": "Answer",
+        "description": "Yes, you can customize glass options like frosted or decorative designs, and select various hardware finishes and styles to personalize your front door."
+      }
+    }
+  ],
+  "description": "Yes, you can customize glass options like frosted or decorative designs, and select various hardware finishes and styles to personalize your front door."
+}

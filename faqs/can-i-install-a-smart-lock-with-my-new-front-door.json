@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-install-a-smart-lock-with-my-new-front-door",
+  "name": "Can I install a smart lock with my new front door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a smart lock with my new front door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, integrating a smart lock with your new front door is a popular and practical upgrade. Most modern front doors are compatible with various smart lock systems, offering enhanced security, keyless entry, and remote access control. When planning your installation with Maine Results, Inc., discussing your preference for a smart lock early allows us to ensure the door preparation and hardware selection are optimized for your chosen system. This integration provides a seamless blend of security and convenience for homeowners in Meridian and surrounding communities.",
+        "@type": "Answer",
+        "description": "Yes, most new front doors are compatible with smart locks, offering enhanced security and convenience. Discuss this option during your installation planning."
+      }
+    }
+  ],
+  "description": "Yes, most new front doors are compatible with smart locks, offering enhanced security and convenience. Discuss this option during your installation planning."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-door-frame-repair",
+  "name": "What factors influence the cost of door frame repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of door frame repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of door frame repair varies based on the extent of the damage, the type of material (wood, metal, composite), and whether it's an interior or exterior door. Extensive rot or structural damage requiring partial or full frame replacement will be more expensive than minor cosmetic fixes. Additionally, labor rates for specialized repairs can impact the total cost. When getting an estimate in areas like Eagle or Kuna, consider if the damage affects surrounding wall structures, as this could add to the repair complexity and cost.",
+        "@type": "Answer",
+        "description": "Repair cost depends on damage severity, material type, door location, and labor, with extensive damage or structural issues increasing the price."
+      }
+    }
+  ],
+  "description": "Repair cost depends on damage severity, material type, door location, and labor, with extensive damage or structural issues increasing the price."
+}

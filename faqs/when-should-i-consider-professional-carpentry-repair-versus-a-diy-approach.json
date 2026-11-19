@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-professional-carpentry-repair-versus-a-diy-approach",
+  "name": "When should I consider professional carpentry repair versus a DIY approach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider professional carpentry repair versus a DIY approach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider professional carpentry repair when the task involves structural integrity, requires specialized tools or skills you don't possess, or if you're unsure about the underlying cause of the damage. DIY is suitable for very minor, cosmetic fixes like patching small holes or replacing a single non-load-bearing trim piece. However, incorrectly executed repairs, especially on crucial elements like deck supports or framing, can lead to further damage, safety hazards, or more expensive professional intervention later. For homes in Nampa, ensuring proper structural repair is vital for long-term safety and property value.",
+        "@type": "Answer",
+        "description": "Opt for professionals for structural issues, complex tasks, or if unsure about damage causes; DIY is for minor cosmetic fixes."
+      }
+    }
+  ],
+  "description": "Opt for professionals for structural issues, complex tasks, or if unsure about damage causes; DIY is for minor cosmetic fixes."
+}

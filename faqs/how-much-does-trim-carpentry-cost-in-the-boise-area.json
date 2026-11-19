@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-trim-carpentry-cost-in-the-boise-area",
+  "name": "How much does trim carpentry cost in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does trim carpentry cost in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of trim carpentry in the Boise area varies significantly based on the scope of the project, the type of materials chosen, and the complexity of the design. Simple baseboard installation will be less expensive than intricate crown molding or custom built-ins. Factors like the age of the home or existing wall conditions can also influence labor time. Getting a detailed estimate from a local company like Maine Results, Inc. that includes both material and labor is recommended for an accurate projection.",
+        "@type": "Answer",
+        "description": "Trim carpentry costs in the Boise area depend on project scope, material choice, and design complexity. Obtain a detailed estimate for accuracy."
+      }
+    }
+  ],
+  "description": "Trim carpentry costs in the Boise area depend on project scope, material choice, and design complexity. Obtain a detailed estimate for accuracy."
+}

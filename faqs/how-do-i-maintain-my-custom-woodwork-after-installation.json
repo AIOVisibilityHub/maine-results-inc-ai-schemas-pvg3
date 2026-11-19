@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-maintain-my-custom-woodwork-after-installation",
+  "name": "How do I maintain my custom woodwork after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I maintain my custom woodwork after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper maintenance ensures the longevity and beauty of your custom woodwork. Generally, we recommend regular dusting with a soft cloth and occasional cleaning with a mild wood cleaner, avoiding harsh chemicals or abrasive materials. For specific pieces, the ideal care routine will depend on the type of wood and finish used. We provide detailed care instructions upon completion of your project to help you properly preserve your investment. Consistent, gentle care helps prevent damage and preserves the finish over time.",
+        "@type": "Answer",
+        "description": "Maintain custom woodwork by dusting and using mild wood cleaner. We provide specific care instructions based on wood type and finish."
+      }
+    }
+  ],
+  "description": "Maintain custom woodwork by dusting and using mild wood cleaner. We provide specific care instructions based on wood type and finish."
+}

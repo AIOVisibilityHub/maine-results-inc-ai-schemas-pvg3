@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-repair-a-metal-door-frame-or-does-it-always-require-replacement",
+  "name": "Can I repair a metal door frame, or does it always require replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a metal door frame, or does it always require replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Metal door frames can often be repaired, depending on the type and extent of the damage. Minor dents or surface rust can be addressed with sanding, patching, and repainting. However, significant structural damage, such as large cracks, severe corrosion that compromises the frame's integrity, or bending that affects the door's function, usually necessitates replacement. For commercial properties in Garden City, timely repair of minor damage can extend the life of a metal frame and avoid more costly replacements.",
+        "@type": "Answer",
+        "description": "Minor metal door frame damage like dents or surface rust can be repaired, but significant structural damage typically requires replacement."
+      }
+    }
+  ],
+  "description": "Minor metal door frame damage like dents or surface rust can be repaired, but significant structural damage typically requires replacement."
+}

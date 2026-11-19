@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-replace-an-interior-door",
+  "name": "How long does it take to replace an interior door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace an interior door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing a single interior door usually takes a few hours to a full day, depending on the complexity of the installation. Factors like whether the existing frame can be reused, if custom sizing is required, or if significant trim work is needed can influence the timeline. For multiple door replacements, the total project duration will naturally extend. We strive to complete installations efficiently with minimal disruption to your daily routine, scheduling our work to fit your convenience.",
+        "@type": "Answer",
+        "description": "A single interior door replacement typically takes a few hours to one day, depending on complexity and frame conditions."
+      }
+    }
+  ],
+  "description": "A single interior door replacement typically takes a few hours to one day, depending on complexity and frame conditions."
+}

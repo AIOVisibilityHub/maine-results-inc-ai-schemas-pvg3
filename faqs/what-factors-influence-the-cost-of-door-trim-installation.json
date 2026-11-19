@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-door-trim-installation",
+  "name": "What factors influence the cost of door trim installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of door trim installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of door trim installation is influenced by several factors, including the type and material of the trim selected, the total linear footage needed, and the complexity of the installation. For example, custom-milled or hardwood trims typically cost more than standard MDF or pine options. The condition of the existing door frames and any necessary repairs can also affect the overall price. Getting a detailed quote that outlines material and labor costs is crucial for accurate budgeting.",
+        "@type": "Answer",
+        "description": "Cost factors include trim material and type, linear footage, installation complexity, and any necessary door frame repairs."
+      }
+    }
+  ],
+  "description": "Cost factors include trim material and type, linear footage, installation complexity, and any necessary door frame repairs."
+}

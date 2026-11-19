@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-prepare-my-home-for-a-front-door-installation",
+  "name": "How can I prepare my home for a front door installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for a front door installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for front door installation, ensure the work area inside and outside your home is clear of obstacles, furniture, and decorations. Remove any blinds, curtains, or security systems attached to the existing door frame. Covering nearby furniture and flooring with drop cloths is advisable to protect against dust and debris. If you have pets, it's a good idea to keep them in a secure area away from the construction zone. Providing a clear path helps our installers work efficiently and safely.",
+        "@type": "Answer",
+        "description": "Clear the work area of obstacles, remove attached items like blinds, cover nearby furniture, and secure pets to prepare for installation."
+      }
+    }
+  ],
+  "description": "Clear the work area of obstacles, remove attached items like blinds, cover nearby furniture, and secure pets to prepare for installation."
+}

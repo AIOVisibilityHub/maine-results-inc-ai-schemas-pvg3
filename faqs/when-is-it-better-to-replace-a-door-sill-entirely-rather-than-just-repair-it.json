@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-is-it-better-to-replace-a-door-sill-entirely-rather-than-just-repair-it",
+  "name": "When is it better to replace a door sill entirely rather than just repair it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it better to replace a door sill entirely rather than just repair it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally better to replace a door sill entirely when the rot or damage is extensive, compromising the structural integrity of the sill or extending into the door frame. If the sill is warped, severely splintered, or if there's evidence of widespread moisture damage that can't be fully addressed with a patch, replacement is the more durable solution. A practical tradeoff is that while replacement has a higher upfront cost, it provides a longer-lasting solution and prevents recurring issues that extensive repairs might not fully solve.",
+        "@type": "Answer",
+        "description": "Replace a door sill when damage is extensive, structurally compromising, or beyond effective repair, offering a more durable long-term solution."
+      }
+    }
+  ],
+  "description": "Replace a door sill when damage is extensive, structurally compromising, or beyond effective repair, offering a more durable long-term solution."
+}

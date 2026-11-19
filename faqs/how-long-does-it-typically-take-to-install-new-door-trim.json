@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-typically-take-to-install-new-door-trim",
+  "name": "How long does it typically take to install new door trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to install new door trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to install new door trim varies depending on the number of doors, the complexity of the trim profile, and the finish work involved. Generally, installing trim around a single interior door might take a few hours, while a whole-house project could span several days. Prep work, such as removing old trim and preparing surfaces, also adds to the timeline. We focus on efficient yet precise installation to minimize disruption, ensuring a clean and professional finish for your home in Kuna or Star.",
+        "@type": "Answer",
+        "description": "Installation time varies, typically a few hours per door or several days for a whole-house project, depending on complexity and number of doors."
+      }
+    }
+  ],
+  "description": "Installation time varies, typically a few hours per door or several days for a whole-house project, depending on complexity and number of doors."
+}

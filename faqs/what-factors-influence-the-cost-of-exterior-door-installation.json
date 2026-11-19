@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-exterior-door-installation",
+  "name": "What factors influence the cost of exterior door installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of exterior door installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of exterior door installation is influenced by several factors, including the type and material of the door chosen, its size, and any custom features. Doors made of premium materials or with specialized glass inserts will generally be more expensive. Labor costs depend on the complexity of the installation, such as whether the existing frame needs extensive repair or if the opening needs to be resized. We provide detailed estimates for projects in areas like Meridian and Eagle after an initial consultation.",
+        "@type": "Answer",
+        "description": "Exterior door installation costs vary based on door material, size, custom features, and the complexity of the installation process."
+      }
+    }
+  ],
+  "description": "Exterior door installation costs vary based on door material, size, custom features, and the complexity of the installation process."
+}

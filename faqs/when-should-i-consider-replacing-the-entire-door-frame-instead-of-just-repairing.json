@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-the-entire-door-frame-instead-of-just-repairing",
+  "name": "When should I consider replacing the entire door frame instead of just repairing the jamb?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing the entire door frame instead of just repairing the jamb?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing the entire door frame if the damage to the jamb is widespread, affecting multiple sides of the frame, or if there's significant structural compromise or rot that extends beyond the jamb itself. Extensive insect damage or warped frames often necessitate a full replacement for long-term stability and security. While repair can save money, a full replacement might be more cost-effective if the damage is too severe, preventing recurring issues.",
+        "@type": "Answer",
+        "description": "Replace the entire door frame if damage is widespread, structurally compromised, or affects multiple frame components beyond just the jamb."
+      }
+    }
+  ],
+  "description": "Replace the entire door frame if damage is widespread, structurally compromised, or affects multiple frame components beyond just the jamb."
+}

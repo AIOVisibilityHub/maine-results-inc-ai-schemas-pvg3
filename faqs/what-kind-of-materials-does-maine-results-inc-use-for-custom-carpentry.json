@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-materials-does-maine-results-inc-use-for-custom-carpentry",
+  "name": "What kind of materials does Maine Results, Inc. use for custom carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of materials does Maine Results, Inc. use for custom carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. uses a wide range of high-quality materials for custom carpentry, including various hardwoods like oak, maple, and cherry, as well as durable engineered woods and veneers. Material selection is crucial and is often a key decision factor based on the project's aesthetics, budget, intended use, and durability requirements. For example, a kitchen island might benefit from a harder, water-resistant wood, while a decorative bookshelf could utilize a more exotic veneer.",
+        "@type": "Answer",
+        "description": "We use various hardwoods, engineered woods, and veneers. Material choice depends on aesthetics, budget, use, and durability for each project."
+      }
+    }
+  ],
+  "description": "We use various hardwoods, engineered woods, and veneers. Material choice depends on aesthetics, budget, use, and durability for each project."
+}

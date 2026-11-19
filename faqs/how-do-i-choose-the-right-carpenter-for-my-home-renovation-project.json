@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-the-right-carpenter-for-my-home-renovation-project",
+  "name": "How do I choose the right carpenter for my home renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right carpenter for my home renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To choose the right carpenter, look for professionals with a strong portfolio of residential work and positive client references. It's beneficial to select a company that clearly communicates their process, from initial consultation to project completion, and ensures proper licensing and insurance. When making your decision, consider if the carpenter takes the time to understand your vision and budget, providing a detailed proposal that outlines materials, labor, and timeline. At Maine Results, Inc., we prioritize transparent communication and project planning.",
+        "@type": "Answer",
+        "description": "Choose a carpenter with a strong portfolio, good references, clear communication, and proper licensing and insurance. Consider how well they understand your project vision."
+      }
+    }
+  ],
+  "description": "Choose a carpenter with a strong portfolio, good references, clear communication, and proper licensing and insurance. Consider how well they understand your pro"
+}

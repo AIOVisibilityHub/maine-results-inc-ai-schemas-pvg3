@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-door-sweep-replacement-in-meridian",
+  "name": "What factors influence the cost of door sweep replacement in Meridian?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of door sweep replacement in Meridian?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of door sweep replacement in Meridian can vary based on several factors. These include the type and material of the new door sweep (e.g., standard vinyl vs. heavy-duty aluminum with brush seal), the complexity of the installation (some doors require minor adjustments or repairs to the door itself), and whether the service is part of a larger home improvement project. Our team provides transparent quotes, considering these details to offer a fair and accurate price for your specific needs.",
+        "@type": "Answer",
+        "description": "Cost in Meridian varies by door sweep type, installation complexity, and if it's part of a larger project; we offer transparent quotes."
+      }
+    }
+  ],
+  "description": "Cost in Meridian varies by door sweep type, installation complexity, and if it's part of a larger project; we offer transparent quotes."
+}

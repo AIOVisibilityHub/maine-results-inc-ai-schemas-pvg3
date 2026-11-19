@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-interior-door-installation",
+  "name": "What factors influence the cost of interior door installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of interior door installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of interior door installation is influenced by several key factors. These include the type of door chosen (e.g., solid core, hollow core, custom design), the material of the door, and the complexity of the installation. For instance, replacing an existing door with a similar pre-hung unit is generally less expensive than installing a new pocket door that requires significant wall alteration or a custom-sized slab door needing a new frame. Hardware choices, such as handles and hinges, also impact the overall price. Maine Results, Inc. provides detailed estimates based on these considerations for properties in Kuna or Star.",
+        "@type": "Answer",
+        "description": "Cost factors include door type and material, installation complexity, and hardware choices, with custom or complex installations typically costing more."
+      }
+    }
+  ],
+  "description": "Cost factors include door type and material, installation complexity, and hardware choices, with custom or complex installations typically costing more."
+}

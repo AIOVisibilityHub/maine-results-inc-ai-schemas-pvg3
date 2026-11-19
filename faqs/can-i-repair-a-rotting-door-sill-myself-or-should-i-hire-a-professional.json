@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-repair-a-rotting-door-sill-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair a rotting door sill myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair a rotting door sill myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor surface rot or small cracks on a door sill might be manageable for a skilled homeowner with the right tools and knowledge. However, if the rot is extensive, affects the structural integrity of the door frame, or if you're unsure about the underlying cause, it's best to hire a professional. A practical tradeoff is that a DIY repair might seem cost-effective initially but could lead to recurring issues or further damage if not done correctly, ultimately costing more in the long run compared to a professional, durable repair.",
+        "@type": "Answer",
+        "description": "While minor door sill rot can be a DIY task, extensive damage or structural issues are best handled by a professional."
+      }
+    }
+  ],
+  "description": "While minor door sill rot can be a DIY task, extensive damage or structural issues are best handled by a professional."
+}

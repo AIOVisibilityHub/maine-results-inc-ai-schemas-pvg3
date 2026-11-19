@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-involved-in-a-custom-door-installation",
+  "name": "What is involved in a custom door installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a custom door installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom door installation involves precise measurements, material selection, and professional fitting. We begin with a consultation to understand your aesthetic preferences and functional needs. Next, we measure the opening to ensure the custom door fits perfectly, which is crucial for energy efficiency and security. After the door is fabricated, our team handles the removal of your old door and the expert installation of the new one, including all necessary hardware and trim. The process concludes with a final inspection to ensure proper operation and your complete satisfaction. For example, a custom-designed entry door might require specific framing adjustments to accommodate unique dimensions or heavier materials, which we plan for during the initial assessment.",
+        "@type": "Answer",
+        "description": "Custom door installation involves consultation, precise measurement, material selection, professional fitting, and a final inspection to ensure proper operation."
+      }
+    }
+  ],
+  "description": "Custom door installation involves consultation, precise measurement, material selection, professional fitting, and a final inspection to ensure proper operation"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-look-for-when-choosing-a-front-door-for-energy-efficiency",
+  "name": "What should I look for when choosing a front door for energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a front door for energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting an energy-efficient front door, look for features like a low U-factor (which indicates heat transfer) and a high R-value (which measures insulating power). Doors with a polyurethane or polystyrene foam core offer superior insulation. Additionally, ensure the door has robust weatherstripping and a tight-fitting frame to prevent air leaks. High-quality glass in any sidelights or transoms should be double or triple-paned with low-emissivity (Low-E) coatings. These details contribute significantly to maintaining comfortable indoor temperatures, which is especially beneficial in Boise Heights.",
+        "@type": "Answer",
+        "description": "For energy efficiency, choose doors with low U-factors, high R-values, foam cores, robust weatherstripping, and high-quality insulated glass."
+      }
+    }
+  ],
+  "description": "For energy efficiency, choose doors with low U-factors, high R-values, foam cores, robust weatherstripping, and high-quality insulated glass."
+}

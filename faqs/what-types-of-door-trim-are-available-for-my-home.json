@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-door-trim-are-available-for-my-home",
+  "name": "What types of door trim are available for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of door trim are available for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are many styles of door trim, including colonial, craftsman, modern, and ranch. Each style features distinct profiles and dimensions that can significantly impact the overall aesthetic of your home's interior. When choosing, consider your home's existing architectural style and your personal design preferences. For example, a craftsman home might benefit from a wider, more substantial trim profile, while a modern home often suits simpler, cleaner lines. Maine Results, Inc. can help you assess which trim styles would best complement your property in areas like Garden City or Meridian.",
+        "@type": "Answer",
+        "description": "Various styles like colonial, craftsman, and modern are available, each offering a distinct aesthetic for your home."
+      }
+    }
+  ],
+  "description": "Various styles like colonial, craftsman, and modern are available, each offering a distinct aesthetic for your home."
+}

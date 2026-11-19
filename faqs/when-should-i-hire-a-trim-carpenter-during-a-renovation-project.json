@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-hire-a-trim-carpenter-during-a-renovation-project",
+  "name": "When should I hire a trim carpenter during a renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire a trim carpenter during a renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should typically hire a trim carpenter towards the end of a renovation project, after major construction, drywall installation, and painting are complete but before final flooring is installed or appliances are moved in. This timing ensures that the delicate trim work isn't damaged by other trades and allows for a clean installation. It's a critical step that finalizes the aesthetic details, contributing significantly to the finished look.",
+        "@type": "Answer",
+        "description": "Hire a trim carpenter near the end of a renovation, after drywall and painting, but before final flooring or appliance installation."
+      }
+    }
+  ],
+  "description": "Hire a trim carpenter near the end of a renovation, after drywall and painting, but before final flooring or appliance installation."
+}

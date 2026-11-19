@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-repairing-door-trim-versus-replacing-it-entirely",
+  "name": "When should I consider repairing door trim versus replacing it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing door trim versus replacing it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace door trim depends on the extent of the damage and the overall condition of the trim. Repair is generally cost-effective for localized issues like small dents, cracks, or minor water damage. If the trim is extensively rotted, severely warped, or has multiple large damaged areas, replacement might be the more durable and aesthetic solution. Our experts at Maine Results, Inc. can evaluate your specific situation to recommend the best approach, considering both cost and long-term results.",
+        "@type": "Answer",
+        "description": "Repair minor damage, but consider replacement for extensive rot, warping, or severe damage to ensure lasting results."
+      }
+    }
+  ],
+  "description": "Repair minor damage, but consider replacement for extensive rot, warping, or severe damage to ensure lasting results."
+}

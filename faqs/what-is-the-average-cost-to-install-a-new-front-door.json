@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-average-cost-to-install-a-new-front-door",
+  "name": "What is the average cost to install a new front door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to install a new front door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a new front door installation varies widely depending on several factors, including the door material (fiberglass, steel, wood), style, size, and whether it includes sidelights or transoms. Hardware choices, such as smart locks or high-security options, also affect the price. Installation costs will reflect the labor involved in removing the old door and preparing the opening for a precise fit. We provide detailed, no-obligation estimates after an initial assessment, ensuring you understand all components of the investment for your home in the Treasure Valley.",
+        "@type": "Answer",
+        "description": "Front door installation costs vary based on material, style, size, hardware, and labor. We offer detailed estimates after an assessment."
+      }
+    }
+  ],
+  "description": "Front door installation costs vary based on material, style, size, hardware, and labor. We offer detailed estimates after an assessment."
+}

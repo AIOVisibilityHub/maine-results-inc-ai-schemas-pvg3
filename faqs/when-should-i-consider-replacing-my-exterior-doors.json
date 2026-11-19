@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-my-exterior-doors",
+  "name": "When should I consider replacing my exterior doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my exterior doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your exterior doors if they show signs of wear such as drafts, difficulty opening or closing, rot, rust, or noticeable damage. Beyond cosmetic issues, older doors can compromise your home's energy efficiency and security. A good indicator for replacement is if you feel cold air near the door even when it's closed, which suggests compromised insulation and could be increasing your energy bills.",
+        "@type": "Answer",
+        "description": "Replace exterior doors if you notice drafts, difficulty operating, rot, rust, damage, or poor energy efficiency."
+      }
+    }
+  ],
+  "description": "Replace exterior doors if you notice drafts, difficulty operating, rot, rust, damage, or poor energy efficiency."
+}

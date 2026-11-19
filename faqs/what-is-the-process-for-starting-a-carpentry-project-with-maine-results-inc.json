@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-starting-a-carpentry-project-with-maine-results-inc",
+  "name": "What is the process for starting a carpentry project with Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for starting a carpentry project with Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for starting a carpentry project begins with an initial consultation to discuss your vision, requirements, and budget. Following this, we conduct an on-site assessment to understand the existing conditions and take precise measurements. We then provide a detailed proposal outlining the scope of work, materials, timeline, and cost estimate. Upon agreement, we schedule the work, manage material procurement, and execute the project with regular communication. It's helpful if you have any inspiration photos or a list of specific needs prepared for our first meeting to help us visualize your goals.",
+        "@type": "Answer",
+        "description": "The process involves an initial consultation, on-site assessment, detailed proposal, scheduling, and project execution with regular updates."
+      }
+    }
+  ],
+  "description": "The process involves an initial consultation, on-site assessment, detailed proposal, scheduling, and project execution with regular updates."
+}

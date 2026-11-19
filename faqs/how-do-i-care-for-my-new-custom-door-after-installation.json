@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-care-for-my-new-custom-door-after-installation",
+  "name": "How do I care for my new custom door after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I care for my new custom door after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The care for your new custom door depends on its material and finish. Generally, regular cleaning with mild soap and water is recommended to remove dirt and grime. For wood doors, periodic re-sealing or re-staining may be necessary to protect against weathering, especially for exterior doors exposed to the elements in areas like Meridian. Fiberglass and steel doors typically require less maintenance but benefit from occasional cleaning. We provide specific care instructions tailored to your door's materials and finishes upon completion of the installation, ensuring you know how to maintain its appearance and longevity.",
+        "@type": "Answer",
+        "description": "Care depends on the material, but regular cleaning is common. Wood doors may need periodic re-sealing; specific instructions are provided post-installation."
+      }
+    }
+  ],
+  "description": "Care depends on the material, but regular cleaning is common. Wood doors may need periodic re-sealing; specific instructions are provided post-installation."
+}

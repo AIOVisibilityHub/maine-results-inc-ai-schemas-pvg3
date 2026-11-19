@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-replace-trim-if-there-is-only-minor-water-damage",
+  "name": "Do I need to replace trim if there is only minor water damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace trim if there is only minor water damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor water damage on door trim, such as slight discoloration or minimal swelling, often doesn't require full replacement. If the wood is still solid and the damage is superficial, we can typically address it by drying out the area, repairing the surface, and refinishing it. However, if the water damage has led to significant rot, structural compromise, or mold growth, replacement of the affected section or entire trim piece would be necessary to ensure long-term durability and safety.",
+        "@type": "Answer",
+        "description": "Minor water damage can often be repaired and refinished, but significant rot, structural issues, or mold growth will likely require replacement."
+      }
+    }
+  ],
+  "description": "Minor water damage can often be repaired and refinished, but significant rot, structural issues, or mold growth will likely require replacement."
+}

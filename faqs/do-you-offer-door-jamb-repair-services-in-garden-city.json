@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-door-jamb-repair-services-in-garden-city",
+  "name": "Do you offer door jamb repair services in Garden City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer door jamb repair services in Garden City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. proudly offers door jamb repair services to residents and businesses in Garden City, as well as Meridian, Eagle, and Kuna. Our local presence in these communities ensures we can respond efficiently to your repair needs. We are familiar with the common issues faced in the area, providing reliable and timely service.",
+        "@type": "Answer",
+        "description": "Yes, we offer door jamb repair services in Garden City and other local communities like Meridian, Eagle, and Kuna."
+      }
+    }
+  ],
+  "description": "Yes, we offer door jamb repair services in Garden City and other local communities like Meridian, Eagle, and Kuna."
+}

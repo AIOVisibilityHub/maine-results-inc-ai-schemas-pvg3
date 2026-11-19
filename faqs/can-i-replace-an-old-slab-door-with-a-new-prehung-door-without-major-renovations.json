@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-replace-an-old-slab-door-with-a-new-prehung-door-without-major-renovations",
+  "name": "Can I replace an old slab door with a new prehung door without major renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace an old slab door with a new prehung door without major renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, replacing an old slab door with a new prehung door is often possible without major renovations, provided the existing rough opening is appropriately sized and plumb. The primary consideration is whether the new prehung frame will fit snugly within the current opening. If the existing frame is severely out of square or damaged, or if the rough opening dimensions are significantly off, some minor framing adjustments might be necessary. It's a practical tradeoff: installing a prehung door generally offers better stability and insulation but requires removing the old frame, which isn't always needed for a simple slab replacement.",
+        "@type": "Answer",
+        "description": "Yes, if the rough opening is correctly sized. Minor framing adjustments may be needed if the old frame or opening is problematic."
+      }
+    }
+  ],
+  "description": "Yes, if the rough opening is correctly sized. Minor framing adjustments may be needed if the old frame or opening is problematic."
+}

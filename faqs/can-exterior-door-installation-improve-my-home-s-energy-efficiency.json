@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-exterior-door-installation-improve-my-home-s-energy-efficiency",
+  "name": "Can exterior door installation improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can exterior door installation improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, installing a new, energy-efficient exterior door can significantly improve your home's energy efficiency. Modern doors are designed with features like better insulation, multi-pane glass, and superior weatherstripping to minimize heat transfer. Replacing an old, leaky door can reduce drafts and help maintain consistent indoor temperatures, leading to lower heating and cooling costs. This is particularly beneficial in the varying climates found across our service areas, such as Caldwell and Middleton.",
+        "@type": "Answer",
+        "description": "Yes, a new, energy-efficient exterior door with proper insulation and sealing can reduce drafts and lower heating and cooling costs."
+      }
+    }
+  ],
+  "description": "Yes, a new, energy-efficient exterior door with proper insulation and sealing can reduce drafts and lower heating and cooling costs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-door-threshold-repair-take",
+  "name": "How long does a typical door threshold repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical door threshold repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a door threshold repair depends on the scope of the work. Minor repairs, such as sealing or filling small cracks, might only take a few hours. A full threshold replacement, however, can take anywhere from half a day to a full day, especially if there's extensive subfloor preparation or custom fitting involved. We strive to complete projects efficiently while ensuring high-quality results. Our team will provide an estimated timeline after assessing the specific damage and requirements for your project.",
+        "@type": "Answer",
+        "description": "Minor door threshold repairs can take a few hours, while full replacements may take half to a full day, depending on the work scope."
+      }
+    }
+  ],
+  "description": "Minor door threshold repairs can take a few hours, while full replacements may take half to a full day, depending on the work scope."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-involved-in-the-door-replacement-process-with-maine-results-inc",
+  "name": "What is involved in the door replacement process with Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the door replacement process with Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our door replacement process begins with a consultation to understand your needs and provide an estimate. Once approved, we order your selected door. On installation day, our team removes the old door, prepares the opening, installs the new door, seals and insulates it, and finishes the trim work. A key step for us is ensuring the new door is plumb, level, and square to prevent future operational issues and maximize energy efficiency.",
+        "@type": "Answer",
+        "description": "The process includes consultation, ordering, removal of the old door, new door installation, sealing, insulation, and trim work."
+      }
+    }
+  ],
+  "description": "The process includes consultation, ordering, removal of the old door, new door installation, sealing, insulation, and trim work."
+}

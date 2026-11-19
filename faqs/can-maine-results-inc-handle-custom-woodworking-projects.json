@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-maine-results-inc-handle-custom-woodworking-projects",
+  "name": "Can Maine Results, Inc. handle custom woodworking projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Maine Results, Inc. handle custom woodworking projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. specializes in custom woodworking projects designed to fit your unique style and functional needs. This can include bespoke shelving, built-in cabinetry, custom mantels, or unique furniture pieces crafted to integrate perfectly with your home's interior. We work closely with clients from Garden City to Star to translate their ideas into finely crafted wood elements. When planning a custom project, providing sketches or inspiration images can greatly assist us in understanding your aesthetic preferences and functional requirements.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. handles custom woodworking projects like shelving, built-in cabinetry, and unique furniture tailored to your home."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. handles custom woodworking projects like shelving, built-in cabinetry, and unique furniture tailored to your home."
+}

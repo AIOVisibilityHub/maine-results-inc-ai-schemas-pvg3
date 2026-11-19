@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-exterior-doors-are-available-for-installation",
+  "name": "What types of exterior doors are available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of exterior doors are available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. can install various types of exterior doors to meet your aesthetic and functional needs. Common options include fiberglass, steel, and wood doors. Fiberglass doors are known for their durability and low maintenance, often mimicking the look of wood. Steel doors offer excellent security and energy efficiency. Wood doors provide a classic, natural appearance, though they may require more maintenance. The best type for your home depends on factors like desired security, energy efficiency, maintenance preferences, and budget.",
+        "@type": "Answer",
+        "description": "Common exterior door types include fiberglass, steel, and wood, each offering different benefits in terms of durability, security, and aesthetics."
+      }
+    }
+  ],
+  "description": "Common exterior door types include fiberglass, steel, and wood, each offering different benefits in terms of durability, security, and aesthetics."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-look-for-when-choosing-a-contractor-for-door-sill-repair-in-garden",
+  "name": "What should I look for when choosing a contractor for door sill repair in Garden City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a contractor for door sill repair in Garden City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for door sill repair in Garden City, look for a company with a strong local reputation, proven experience in exterior carpentry and moisture damage remediation, and proper licensing and insurance. Request references and review past work if possible. Maine Results, Inc. serves Garden City and prioritizes transparent communication and durable solutions. A preparation step you should take is to obtain at least two detailed estimates, comparing the scope of work, materials, and warranties offered by different contractors before making a decision.",
+        "@type": "Answer",
+        "description": "Choose a Garden City door sill repair contractor with local experience, proper licensing, and good references, comparing multiple detailed estimates."
+      }
+    }
+  ],
+  "description": "Choose a Garden City door sill repair contractor with local experience, proper licensing, and good references, comparing multiple detailed estimates."
+}

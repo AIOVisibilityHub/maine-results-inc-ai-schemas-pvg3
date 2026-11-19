@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-entry-doors-are-available-for-installation",
+  "name": "What types of entry doors are available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of entry doors are available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common entry door types include steel, fiberglass, and wood. Steel doors offer excellent security and durability, while fiberglass doors are highly energy-efficient and resistant to dents, rot, and rust, often mimicking the look of wood. Wood doors provide a classic aesthetic but require more maintenance. When choosing, consider factors like your budget, desired maintenance level, and the specific climate conditions in areas like Meridian or Boise, as some materials perform better in certain environments.",
+        "@type": "Answer",
+        "description": "Steel, fiberglass, and wood are common entry door types, each offering different benefits in security, durability, and energy efficiency."
+      }
+    }
+  ],
+  "description": "Steel, fiberglass, and wood are common entry door types, each offering different benefits in security, durability, and energy efficiency."
+}
