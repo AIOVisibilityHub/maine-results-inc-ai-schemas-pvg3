@@ -1,0 +1,81 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-11-19T23:03:00.750Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "Maine Results, Inc.",
+    "canonicalUrl": "https://ai-data.maineresults.com",
+    "primaryWebsiteUrl": "https://maineresults.com",
+    "aiDataHub": "https://ai-data.maineresults.com/ai-data.html",
+    "sameAs": [
+      "https://www.linkedin.com/in/wilkinsjohn",
+      "https://www.buildzoom.com/contractor/maine-results-inc",
+      "https://www.bbb.org/us/id/boise/profile/construction-services/maine-results-inc-1296-1000019242",
+      "https://www.home8.org/ID/Boise/Maine-Results-Inc/",
+      "https://www.bizapedia.com/id/maine-results-inc.html",
+      "https://maineresultsinc.aiovisibility.net"
+    ]
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "Maine Results, Inc. — canonical website",
+      "url": "https://ai-data.maineresults.com"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "Maine Results, Inc. — AI Data Hub",
+      "url": "https://ai-data.maineresults.com/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/maine-results-inc-ai-schemas-pvg3"
+    },
+    {
+      "role": "same-as",
+      "label": "Maine Results, Inc. on linkedin.com",
+      "url": "https://www.linkedin.com/in/wilkinsjohn"
+    },
+    {
+      "role": "same-as",
+      "label": "Maine Results, Inc. on buildzoom.com",
+      "url": "https://www.buildzoom.com/contractor/maine-results-inc"
+    },
+    {
+      "role": "same-as",
+      "label": "Maine Results, Inc. on bbb.org",
+      "url": "https://www.bbb.org/us/id/boise/profile/construction-services/maine-results-inc-1296-1000019242"
+    },
+    {
+      "role": "same-as",
+      "label": "Maine Results, Inc. on home8.org",
+      "url": "https://www.home8.org/ID/Boise/Maine-Results-Inc/"
+    },
+    {
+      "role": "same-as",
+      "label": "Maine Results, Inc. on bizapedia.com",
+      "url": "https://www.bizapedia.com/id/maine-results-inc.html"
+    },
+    {
+      "role": "same-as",
+      "label": "Maine Results, Inc. on maineresultsinc.aiovisibility.net",
+      "url": "https://maineresultsinc.aiovisibility.net"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/maine-results-inc-ai-schemas-pvg3",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/maine-results-inc-ai-schemas-pvg3"
+    }
+  }
+}
