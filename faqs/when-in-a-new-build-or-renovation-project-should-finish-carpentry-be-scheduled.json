@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-in-a-new-build-or-renovation-project-should-finish-carpentry-be-scheduled",
+  "name": "When in a new build or renovation project should finish carpentry be scheduled?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When in a new build or renovation project should finish carpentry be scheduled?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finish carpentry is typically scheduled near the end of a construction or renovation project, after major structural work, drywall, and painting are complete but before final flooring is installed. This timing helps protect the finished carpentry elements from damage during other trades' activities and ensures a clean, precise installation. It's important to coordinate with your general contractor in Garden City, Meridian, Eagle, Kuna, or Star to ensure that our team can begin work once the space is ready, preventing delays and allowing for proper curing times for paints or stains.",
+        "@type": "Answer",
+        "description": "Finish carpentry is usually scheduled towards the end of a project, after drywall and painting, but before final flooring, to protect the work and ensure a clean installation."
+      }
+    }
+  ],
+  "description": "Finish carpentry is usually scheduled towards the end of a project, after drywall and painting, but before final flooring, to protect the work and ensure a clea"
+}

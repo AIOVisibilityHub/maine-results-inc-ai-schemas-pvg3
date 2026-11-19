@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-materials-are-commonly-used-in-high-end-finish-carpentry",
+  "name": "What types of materials are commonly used in high-end finish carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are commonly used in high-end finish carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "High-end finish carpentry primarily utilizes quality wood species known for their durability, grain, and ability to hold fine details, such as cherry, walnut, maple, and oak. MDF and plywood are also used, particularly for painted applications or as substrates for veneers, offering stability and cost-effectiveness in certain contexts. The choice often depends on the desired aesthetic, budget, and functional requirements. Discussing material options with Maine Results, Inc. can help you select the best fit for your project's unique demands.",
+        "@type": "Answer",
+        "description": "Common materials include cherry, walnut, maple, and oak for their quality and detail-holding capabilities. MDF and plywood are used for painted finishes or substrates. Material choice depends on aesthetics, budget, and function."
+      }
+    }
+  ],
+  "description": "Common materials include cherry, walnut, maple, and oak for their quality and detail-holding capabilities. MDF and plywood are used for painted finishes or subs"
+}

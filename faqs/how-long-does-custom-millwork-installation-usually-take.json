@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-custom-millwork-installation-usually-take",
+  "name": "How long does custom millwork installation usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does custom millwork installation usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for custom millwork installation varies significantly based on the project's scope and complexity. Small, straightforward projects, such as a single custom mantle, might take a few weeks from design to installation. Larger projects involving multiple rooms or intricate designs could extend to several months. Material sourcing, design revisions, and the fabrication schedule all play a role. Maine Results, Inc. will provide an estimated timeline during the initial planning phase, and clear communication throughout the project helps manage expectations.",
+        "@type": "Answer",
+        "description": "Installation time varies by project scope and complexity, from weeks for small items to months for larger, intricate designs. Maine Results, Inc. provides timelines upfront."
+      }
+    }
+  ],
+  "description": "Installation time varies by project scope and complexity, from weeks for small items to months for larger, intricate designs. Maine Results, Inc. provides timel"
+}

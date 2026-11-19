@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-exterior-finish-carpentry-services-do-you-offer",
+  "name": "What types of exterior finish carpentry services do you offer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of exterior finish carpentry services do you offer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We provide a range of exterior finish carpentry services, including custom trim work, decorative elements, siding accents, and exterior door and window surrounds. Our team works with various materials like wood, composite, and PVC to enhance your home's curb appeal and architectural style. We focus on durable, weather-resistant solutions suited for the Treasure Valley climate.",
+        "@type": "Answer",
+        "description": "We offer custom trim, decorative elements, siding accents, and door/window surrounds using wood, composite, and PVC materials."
+      }
+    }
+  ],
+  "description": "We offer custom trim, decorative elements, siding accents, and door/window surrounds using wood, composite, and PVC materials."
+}

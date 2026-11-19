@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-architectural-millwork-installation-project-take",
+  "name": "How long does a typical architectural millwork installation project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical architectural millwork installation project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an architectural millwork installation project varies significantly based on its complexity, size, and the types of materials involved. A small, straightforward project, like installing a few custom shelves, might take a few days, while a large-scale project involving multiple rooms with intricate built-ins could span several weeks or even months. The timeline also depends on the lead time for custom fabrication and the coordination with other trades on-site. We provide a detailed project schedule after initial design and material selections are finalized, outlining key milestones and expected completion dates.",
+        "@type": "Answer",
+        "description": "Project duration depends on complexity, size, and materials; small projects can take days, while large ones may take weeks or months."
+      }
+    }
+  ],
+  "description": "Project duration depends on complexity, size, and materials; small projects can take days, while large ones may take weeks or months."
+}

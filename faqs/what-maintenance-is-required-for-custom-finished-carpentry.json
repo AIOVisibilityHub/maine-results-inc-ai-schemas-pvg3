@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-maintenance-is-required-for-custom-finished-carpentry",
+  "name": "What maintenance is required for custom finished carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for custom finished carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance for custom finished carpentry largely depends on the type of wood and finish used. Generally, regular dusting with a soft cloth and occasional cleaning with a mild wood cleaner are sufficient. For lacquered or painted surfaces, avoid abrasive cleaners that can damage the finish. Wood elements may benefit from re-polishing or waxing every few years to maintain their luster and protect the wood. Protecting custom pieces from direct sunlight and extreme temperature changes will also help prevent warping or fading over time, ensuring their longevity and beauty.",
+        "@type": "Answer",
+        "description": "Maintain custom finished carpentry with regular dusting and mild cleaning; re-polish or wax every few years and protect from direct sunlight to preserve its beauty."
+      }
+    }
+  ],
+  "description": "Maintain custom finished carpentry with regular dusting and mild cleaning; re-polish or wax every few years and protect from direct sunlight to preserve its bea"
+}

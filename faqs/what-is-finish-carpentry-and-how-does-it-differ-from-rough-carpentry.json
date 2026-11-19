@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-finish-carpentry-and-how-does-it-differ-from-rough-carpentry",
+  "name": "What is finish carpentry and how does it differ from rough carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is finish carpentry and how does it differ from rough carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finish carpentry focuses on the visible, aesthetic elements of a building's interior, such as trim, molding, doors, and built-in shelving. It requires precision and attention to detail to achieve a polished look. Rough carpentry, in contrast, involves the structural framing of a building that will typically be covered, like walls, floors, and roofs. The key difference is the level of visibility and the specialized skill set required for fine detailing and aesthetic integration into the overall design. When considering a project, understanding this distinction helps in planning the right sequence of work and trades involved.",
+        "@type": "Answer",
+        "description": "Finish carpentry deals with the visible, aesthetic elements of a home, while rough carpentry focuses on structural components that are usually concealed. Finish work requires greater precision and attention to detail for a refined look."
+      }
+    }
+  ],
+  "description": "Finish carpentry deals with the visible, aesthetic elements of a home, while rough carpentry focuses on structural components that are usually concealed. Finish"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-cost-range-for-exterior-finish-carpentry-services",
+  "name": "What is the cost range for exterior finish carpentry services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost range for exterior finish carpentry services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of exterior finish carpentry services varies widely depending on the project's size, the complexity of the design, and the materials selected. Small repairs or simple trim work will naturally be less expensive than extensive custom millwork or a full exterior transformation. We provide a detailed estimate after an on-site evaluation, ensuring transparency regarding labor, materials, and any specific considerations for your property in areas like Caldwell or Nampa.",
+        "@type": "Answer",
+        "description": "Cost varies based on project size, design complexity, and material choices. We provide detailed estimates after an on-site evaluation."
+      }
+    }
+  ],
+  "description": "Cost varies based on project size, design complexity, and material choices. We provide detailed estimates after an on-site evaluation."
+}

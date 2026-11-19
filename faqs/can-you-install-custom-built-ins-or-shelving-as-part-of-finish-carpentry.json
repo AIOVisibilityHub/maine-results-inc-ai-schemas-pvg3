@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-install-custom-built-ins-or-shelving-as-part-of-finish-carpentry",
+  "name": "Can you install custom built-ins or shelving as part of finish carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you install custom built-ins or shelving as part of finish carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, custom built-ins and shelving are a core part of our finish carpentry services. We can design and construct various solutions, including custom bookcases, entertainment centers, mudroom lockers, and window seats, tailored to your specific needs and the unique dimensions of your space. These custom pieces not only enhance the aesthetics of a room but also maximize storage and functionality. To ensure the best outcome, clients should prepare by thinking about the specific items they need to store or display and the overall style they envision, as this guides the design process significantly.",
+        "@type": "Answer",
+        "description": "Yes, we install custom built-ins and shelving like bookcases and entertainment centers. Clients should consider their storage needs and desired style to inform the design."
+      }
+    }
+  ],
+  "description": "Yes, we install custom built-ins and shelving like bookcases and entertainment centers. Clients should consider their storage needs and desired style to inform"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-custom-trim-for-my-home",
+  "name": "When should I consider custom trim for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider custom trim for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider custom trim for your home if you are looking to enhance its architectural character, add a touch of elegance, or increase its perceived value. This is especially relevant during a home renovation, a room refresh, or when finishing a new construction project. Choosing custom trim allows for a personalized aesthetic that standard, off-the-shelf options might not provide. It’s also an excellent choice when updating older homes to restore or complement their original style.",
+        "@type": "Answer",
+        "description": "Consider custom trim to enhance your home's character and value during renovations, new construction, or when updating an older home."
+      }
+    }
+  ],
+  "description": "Consider custom trim to enhance your home's character and value during renovations, new construction, or when updating an older home."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/does-maine-results-inc-offer-custom-wood-trim-profiles",
+  "name": "Does Maine Results Inc. offer custom wood trim profiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Maine Results Inc. offer custom wood trim profiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results Inc. can accommodate requests for custom wood trim profiles. While we offer a wide range of standard options, we understand that some homes or design visions require unique architectural elements. Custom profiles allow for a truly bespoke finish, matching existing historical trim during a renovation or creating a distinct look for a new build. This option is a decision factor for clients seeking to achieve a very specific aesthetic that standard offerings cannot meet, ensuring your project, whether in Eagle or elsewhere, perfectly reflects your design intent.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results Inc. offers custom wood trim profiles for unique architectural needs or specific design visions. This allows for a truly bespoke finish."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results Inc. offers custom wood trim profiles for unique architectural needs or specific design visions. This allows for a truly bespoke finish."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-getting-a-quote-for-wood-trim-installation",
+  "name": "What is the process for getting a quote for wood trim installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting a quote for wood trim installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for obtaining a wood trim installation quote from Maine Results Inc. begins with an initial consultation, which can be scheduled by phone or through our website. During this consultation, we will discuss your project goals, preferred trim styles, and take preliminary measurements or review your plans. We then conduct a site visit to accurately assess the scope, verify measurements, and discuss any unique challenges or details specific to your home in areas like Boise Heights or Star. Following this, we provide a detailed, itemized quote for your review.",
+        "@type": "Answer",
+        "description": "Get a quote by scheduling an initial consultation to discuss goals and styles. We'll then conduct a site visit for assessment and provide a detailed quote."
+      }
+    }
+  ],
+  "description": "Get a quote by scheduling an initial consultation to discuss goals and styles. We'll then conduct a site visit for assessment and provide a detailed quote."
+}

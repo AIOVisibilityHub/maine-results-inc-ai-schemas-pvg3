@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-custom-trim-are-available-for-installation",
+  "name": "What types of custom trim are available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of custom trim are available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. offers a variety of custom trim options, including baseboards, crown molding, door and window casings, and chair rails. The selection can range from simple, modern profiles to intricate, traditional designs. When choosing, consider the existing architectural style of your home to ensure the new trim complements its character and enhances its visual appeal. We can discuss different wood types, finishes, and profiles to match your aesthetic preferences and functional needs during an initial consultation.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. provides custom trim options such as baseboards, crown molding, and door casings, with choices in profiles and finishes to match your home's style."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. provides custom trim options such as baseboards, crown molding, and door casings, with choices in profiles and finishes to match your home's"
+}

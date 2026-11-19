@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-standard-and-custom-trim",
+  "name": "What is the difference between standard and custom trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between standard and custom trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Standard trim typically refers to readily available, pre-manufactured profiles that come in common styles and dimensions. Custom trim, conversely, allows for unique designs, specific wood species, or dimensions tailored to your home's exact requirements and aesthetic vision. While standard trim offers a more economical option, custom trim provides unparalleled design flexibility and a higher level of craftsmanship, allowing you to achieve a truly distinctive look that reflects your personal style. It's a practical tradeoff between cost-effectiveness and unique design.",
+        "@type": "Answer",
+        "description": "Standard trim is pre-manufactured and common, while custom trim offers unique designs, specific materials, and dimensions tailored to your home."
+      }
+    }
+  ],
+  "description": "Standard trim is pre-manufactured and common, while custom trim offers unique designs, specific materials, and dimensions tailored to your home."
+}

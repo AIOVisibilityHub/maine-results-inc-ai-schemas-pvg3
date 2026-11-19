@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-interior-finish-carpentry-cost",
+  "name": "How much does interior finish carpentry cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does interior finish carpentry cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of interior finish carpentry varies widely depending on the scope of the project, the complexity of the designs, and the materials chosen. Simple baseboard and casing installation will be less expensive than intricate crown molding or custom built-in units. We provide detailed estimates after an on-site consultation to understand your specific needs and material preferences. Factors such as the type of wood, the amount of detail, and the preparation required for painting or staining will all influence the final investment.",
+        "@type": "Answer",
+        "description": "Interior finish carpentry costs vary based on project scope, design complexity, and material choices; estimates are provided after a detailed consultation."
+      }
+    }
+  ],
+  "description": "Interior finish carpentry costs vary based on project scope, design complexity, and material choices; estimates are provided after a detailed consultation."
+}

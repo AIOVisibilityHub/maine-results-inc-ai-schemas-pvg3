@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-custom-and-stock-cabinetry-in-finish-carpentry",
+  "name": "What is the difference between custom and stock cabinetry in finish carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between custom and stock cabinetry in finish carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom cabinetry is built to exact specifications for your space, offering limitless design options, unique dimensions, and personalized features. Stock cabinetry, conversely, comes in pre-defined sizes and styles, limiting customization but often providing a more budget-friendly and quicker solution. While custom offers superior fit and aesthetic integration, stock might be suitable for less complex needs. Maine Results, Inc. specializes in custom solutions, ensuring every piece perfectly complements your home's design and functionality.",
+        "@type": "Answer",
+        "description": "Custom cabinetry is built to exact specifications with limitless design, while stock cabinetry comes in pre-defined sizes. Custom offers superior fit and aesthetics, whereas stock is more budget-friendly. Maine Results, Inc. specializes in custom solutions."
+      }
+    }
+  ],
+  "description": "Custom cabinetry is built to exact specifications with limitless design, while stock cabinetry comes in pre-defined sizes. Custom offers superior fit and aesthe"
+}

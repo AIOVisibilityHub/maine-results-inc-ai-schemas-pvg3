@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-residential-finish-carpentry",
+  "name": "What is residential finish carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is residential finish carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Residential finish carpentry involves the installation of visible, non-structural elements that enhance the aesthetic appeal and functionality of a home's interior. This includes trim work, crown molding, baseboards, door and window casings, stair railings, built-in shelving, and custom cabinetry. Unlike rough carpentry, which focuses on structural framing, finish carpentry provides the final polished details that define a home's style and character. Our team specializes in precision and attention to detail to ensure these elements are seamlessly integrated into your living space, contributing significantly to its overall look and feel.",
+        "@type": "Answer",
+        "description": "Residential finish carpentry focuses on installing visible, non-structural interior elements like trim, molding, and custom built-ins to enhance a home's aesthetics and functionality."
+      }
+    }
+  ],
+  "description": "Residential finish carpentry focuses on installing visible, non-structural interior elements like trim, molding, and custom built-ins to enhance a home's aesthe"
+}

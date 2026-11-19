@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-exterior-trim-and-siding",
+  "name": "What is the difference between exterior trim and siding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between exterior trim and siding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exterior trim and siding serve distinct but complementary roles in your home's exterior. Siding covers the broad surfaces of your home's walls, providing the main protective barrier against the elements and defining its overall aesthetic. Trim, on the other hand, is the accent material used around windows, doors, corners, and along the roofline (fascia and soffit). It conceals seams, offers additional protection at vulnerable points, and adds decorative detail. Think of siding as the main clothing and trim as the decorative and protective edging that completes the look and seal of the home.",
+        "@type": "Answer",
+        "description": "Siding covers the main wall surfaces for protection and aesthetics, while trim is the accent material around openings and corners. Trim adds decorative detail and protects vulnerable areas."
+      }
+    }
+  ],
+  "description": "Siding covers the main wall surfaces for protection and aesthetics, while trim is the accent material around openings and corners. Trim adds decorative detail a"
+}

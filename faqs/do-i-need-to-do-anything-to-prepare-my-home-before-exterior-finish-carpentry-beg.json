@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-do-anything-to-prepare-my-home-before-exterior-finish-carpentry-beg",
+  "name": "Do I need to do anything to prepare my home before exterior finish carpentry begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to do anything to prepare my home before exterior finish carpentry begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, some preparation can help ensure a smooth project. We recommend clearing the work area of outdoor furniture, planters, or any decorative items that might obstruct access. If there are plants or landscaping close to the work zone, covering them can protect them from dust or debris. Discuss with our team if any specific access to utilities like water or power will be needed. Clear communication about access and protection measures beforehand aids in efficient project execution.",
+        "@type": "Answer",
+        "description": "Clear the work area of outdoor items, cover nearby landscaping, and discuss utility access with our team beforehand for smooth project execution."
+      }
+    }
+  ],
+  "description": "Clear the work area of outdoor items, cover nearby landscaping, and discuss utility access with our team beforehand for smooth project execution."
+}

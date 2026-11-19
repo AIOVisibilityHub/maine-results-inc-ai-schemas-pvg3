@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-custom-trim-be-installed-in-older-homes-with-uneven-walls",
+  "name": "Can custom trim be installed in older homes with uneven walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can custom trim be installed in older homes with uneven walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, custom trim can certainly be installed in older homes, even those with uneven walls, which is a common characteristic in areas like the East End or Highlands. Our skilled craftsmen at Maine Results, Inc. use specialized techniques, such as scribing and shimming, to meticulously fit the trim to irregular surfaces. This ensures a tight, professional finish that hides imperfections and enhances the room's overall aesthetic. This process requires a higher degree of precision and attention to detail than installation in newer constructions.",
+        "@type": "Answer",
+        "description": "Yes, custom trim can be installed in older homes with uneven walls using specialized scribing and shimming techniques for a precise fit."
+      }
+    }
+  ],
+  "description": "Yes, custom trim can be installed in older homes with uneven walls using specialized scribing and shimming techniques for a precise fit."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-hiring-a-high-end-finish-carpenter",
+  "name": "What is the process for hiring a high-end finish carpenter?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for hiring a high-end finish carpenter?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process of hiring a high-end finish carpenter typically begins with defining your project needs and aesthetic goals. Next, seek out experienced contractors with a strong portfolio of similar work. It's important to request detailed proposals and check references to ensure their quality and reliability. When working with Maine Results, Inc., we encourage a preliminary discussion to assess your vision, followed by a site visit to accurately scope the project and provide a comprehensive plan.",
+        "@type": "Answer",
+        "description": "Hiring a finish carpenter involves defining needs, seeking experienced contractors, requesting proposals, and checking references. Maine Results, Inc. begins with a vision assessment and site visit for accurate project scoping."
+      }
+    }
+  ],
+  "description": "Hiring a finish carpenter involves defining needs, seeking experienced contractors, requesting proposals, and checking references. Maine Results, Inc. begins wi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-install-decorative-trim-in-an-average-sized-room",
+  "name": "How long does it take to install decorative trim in an average-sized room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install decorative trim in an average-sized room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to install decorative trim in an average-sized room can vary significantly based on the type and complexity of the trim. Simple baseboard installation might take a day or less, while intricate crown molding or detailed wainscoting could extend to several days, especially if multiple rooms are involved. Factors like existing wall conditions, preparation required, and the need for custom cuts or intricate joinery all influence the project timeline. We can provide a more specific timeframe after assessing your project.",
+        "@type": "Answer",
+        "description": "Installation time varies by trim type and complexity; simple trims may take a day, while intricate designs can take several days."
+      }
+    }
+  ],
+  "description": "Installation time varies by trim type and complexity; simple trims may take a day, while intricate designs can take several days."
+}

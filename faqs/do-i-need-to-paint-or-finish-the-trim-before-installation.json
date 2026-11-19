@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-paint-or-finish-the-trim-before-installation",
+  "name": "Do I need to paint or finish the trim before installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to paint or finish the trim before installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, it is often more efficient to prime and paint or stain trim after it has been installed. This allows for seamless finishing of any nail holes, caulking, or minor imperfections that may arise during the installation process, ensuring a smooth, uniform appearance. However, some clients opt for pre-priming, which can save time on site. We recommend discussing your finishing preferences during the consultation with Maine Results, Inc., as the choice depends on the specific trim material and desired final look.",
+        "@type": "Answer",
+        "description": "It's usually better to paint or finish trim after installation to ensure a seamless look, though pre-priming can save time."
+      }
+    }
+  ],
+  "description": "It's usually better to paint or finish trim after installation to ensure a seamless look, though pre-priming can save time."
+}

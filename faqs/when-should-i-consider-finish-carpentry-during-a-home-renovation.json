@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-finish-carpentry-during-a-home-renovation",
+  "name": "When should I consider finish carpentry during a home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider finish carpentry during a home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finish carpentry is typically one of the final stages in a home renovation, following structural work, drywall installation, and painting of walls and ceilings. This timing protects the delicate finished elements from damage during earlier, more intensive construction phases. However, planning for finish carpentry, especially custom pieces like built-ins, should occur early in the renovation process to ensure proper integration with electrical, plumbing, and other structural considerations. Discussing your finish carpentry desires during the initial design phase allows us to coordinate with other trades and ensure a cohesive and well-executed final result.",
+        "@type": "Answer",
+        "description": "Finish carpentry is typically a final renovation stage, after structural work and painting, to protect delicate elements. However, plan custom pieces early to integrate with other trades."
+      }
+    }
+  ],
+  "description": "Finish carpentry is typically a final renovation stage, after structural work and painting, to protect delicate elements. However, plan custom pieces early to i"
+}

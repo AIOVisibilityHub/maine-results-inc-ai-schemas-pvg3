@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-wood-are-best-for-interior-trim-and-moldings",
+  "name": "What types of wood are best for interior trim and moldings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood are best for interior trim and moldings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For interior trim and moldings, popular wood choices include pine, oak, maple, and poplar, each offering distinct characteristics. Pine is a cost-effective and easy-to-work-with option, often chosen for painting. Oak and maple are harder woods known for their durability and attractive grain patterns, making them excellent choices for staining to showcase natural wood beauty. Poplar is another versatile option, good for painting due to its smooth texture. When making your selection, consider not only the aesthetic you desire but also the existing wood elements in your home and your budget, as these factors will influence the best fit for your project.",
+        "@type": "Answer",
+        "description": "Pine, oak, maple, and poplar are common woods for interior trim; pine and poplar are good for painting, while oak and maple suit staining. Choose based on desired aesthetic, existing home elements, and budget."
+      }
+    }
+  ],
+  "description": "Pine, oak, maple, and poplar are common woods for interior trim; pine and poplar are good for painting, while oak and maple suit staining. Choose based on desir"
+}

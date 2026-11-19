@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-finish-carpentry-project-take-in-a-home",
+  "name": "How long does a typical finish carpentry project take in a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical finish carpentry project take in a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a finish carpentry project varies significantly based on its scope and complexity. Installing baseboards and door casings in a few rooms might take a couple of days, while a whole-house trim package with custom built-ins could extend to several weeks. Factors like the intricacy of moldings, the number of doors and windows, and whether painting or staining is included also affect the timeline. We prioritize efficient and precise work to minimize disruption. To help us provide a more accurate timeline, disclose any specific deadlines or upcoming events you have planned for your home.",
+        "@type": "Answer",
+        "description": "Project length depends on scope and complexity; a few rooms might take days, while a whole house with custom work could take weeks. Disclosing deadlines helps us plan."
+      }
+    }
+  ],
+  "description": "Project length depends on scope and complexity; a few rooms might take days, while a whole house with custom work could take weeks. Disclosing deadlines helps u"
+}

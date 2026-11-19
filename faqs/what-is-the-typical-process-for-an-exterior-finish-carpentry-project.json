@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-an-exterior-finish-carpentry-project",
+  "name": "What is the typical process for an exterior finish carpentry project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for an exterior finish carpentry project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process starts with an initial consultation to discuss your vision, inspect the existing structure, and understand your needs. We then provide a detailed proposal outlining materials, scope, and timeline. Once approved, our skilled carpenters prepare the site, execute the work with precision, and conduct a final walkthrough to ensure your satisfaction. Communication is key, and we keep you informed at each stage, especially regarding weather impacts in areas like Boise.",
+        "@type": "Answer",
+        "description": "The process includes consultation, proposal, site preparation, carpentry work, and a final walkthrough to ensure satisfaction."
+      }
+    }
+  ],
+  "description": "The process includes consultation, proposal, site preparation, carpentry work, and a final walkthrough to ensure satisfaction."
+}

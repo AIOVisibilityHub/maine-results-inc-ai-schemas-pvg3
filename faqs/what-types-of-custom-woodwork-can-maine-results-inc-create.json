@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-custom-woodwork-can-maine-results-inc-create",
+  "name": "What types of custom woodwork can Maine Results, Inc. create?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of custom woodwork can Maine Results, Inc. create?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. specializes in a wide range of custom woodwork projects, including built-in cabinetry, custom shelving, unique furniture pieces, and intricate trim work. We craft bespoke solutions tailored to enhance your home's aesthetic and functionality, from kitchen islands to custom office desks. When considering a project, think about the specific purpose and style you envision, as this will help us design the perfect piece for your space.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. creates custom cabinetry, shelving, furniture, and trim work tailored to your home's needs."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. creates custom cabinetry, shelving, furniture, and trim work tailored to your home's needs."
+}

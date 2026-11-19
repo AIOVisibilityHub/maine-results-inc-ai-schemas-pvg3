@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-maine-results-inc-match-existing-woodwork-in-my-home",
+  "name": "Can Maine Results, Inc. match existing woodwork in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Maine Results, Inc. match existing woodwork in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. excels at matching existing woodwork, whether it's for historical renovations or seamlessly integrating new custom pieces. We carefully analyze the wood species, grain, stain, and finish of your current carpentry to ensure a cohesive look. Providing a sample or clear photos of the existing woodwork is very helpful for our team to achieve an accurate match in terms of style and finish.",
+        "@type": "Answer",
+        "description": "Yes, we can match existing woodwork by analyzing wood species, grain, stain, and finish to ensure a cohesive look."
+      }
+    }
+  ],
+  "description": "Yes, we can match existing woodwork by analyzing wood species, grain, stain, and finish to ensure a cohesive look."
+}

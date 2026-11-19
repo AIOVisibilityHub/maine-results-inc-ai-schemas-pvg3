@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-architectural-millwork-and-how-does-it-differ-from-standard-carpentry",
+  "name": "What is architectural millwork, and how does it differ from standard carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is architectural millwork, and how does it differ from standard carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Architectural millwork refers to custom-fabricated wood elements designed and built for a specific space, often featuring intricate details, unique finishes, or specialized functions. Unlike standard carpentry, which typically involves common materials and techniques for structural or basic decorative purposes, millwork is usually custom-made in a shop environment to precise specifications. It includes items like custom cabinetry, built-in shelving, elaborate trim, and unique wall paneling, enhancing both the aesthetics and functionality of a building. The distinction lies in the level of customization, precision, and design intent.",
+        "@type": "Answer",
+        "description": "Architectural millwork involves custom-fabricated wood elements with intricate details, while standard carpentry uses common materials for basic structural or decorative work."
+      }
+    }
+  ],
+  "description": "Architectural millwork involves custom-fabricated wood elements with intricate details, while standard carpentry uses common materials for basic structural or d"
+}

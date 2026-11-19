@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-commonly-used-for-interior-trim-and-moldings",
+  "name": "What materials are commonly used for interior trim and moldings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for interior trim and moldings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for interior trim and moldings include solid wood (like pine, oak, or maple), MDF (medium-density fiberboard), and PVC. Solid wood offers natural beauty and durability, suitable for staining or painting, but can be more expensive. MDF is a cost-effective option, ideal for painting, and resistant to warping, while PVC is excellent for moisture-prone areas like bathrooms due to its water resistance. Your choice depends on your budget, desired finish (painted vs. stained), and the specific environmental conditions of the room.",
+        "@type": "Answer",
+        "description": "Interior trim materials include solid wood for natural beauty, MDF for cost-effectiveness and painting, and PVC for moisture resistance."
+      }
+    }
+  ],
+  "description": "Interior trim materials include solid wood for natural beauty, MDF for cost-effectiveness and painting, and PVC for moisture resistance."
+}

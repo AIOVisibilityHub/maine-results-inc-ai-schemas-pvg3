@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-when-choosing-an-exterior-finish-carpentry-contractor",
+  "name": "What should I consider when choosing an exterior finish carpentry contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing an exterior finish carpentry contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for exterior finish carpentry, look for experience with similar projects, a strong portfolio, and clear communication. Verify their licensing and insurance to ensure proper coverage. Ask for references and read reviews to gauge their reputation and reliability. A good contractor will also provide a detailed, transparent estimate and discuss material options suitable for the local climate, like those in Kuna or Eagle, and your home's style.",
+        "@type": "Answer",
+        "description": "When choosing a contractor, consider experience, portfolio, licensing, insurance, references, reviews, and a detailed estimate."
+      }
+    }
+  ],
+  "description": "When choosing a contractor, consider experience, portfolio, licensing, insurance, references, reviews, and a detailed estimate."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-do-anything-to-prepare-my-home-before-finish-carpenters-arrive",
+  "name": "Do I need to do anything to prepare my home before finish carpenters arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to do anything to prepare my home before finish carpenters arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, some preparation can help ensure a smooth and efficient finish carpentry installation. We recommend clearing the work areas of furniture, decor, and anything that could obstruct access to walls, windows, and doorways. Protecting your flooring with drop cloths is also advisable. If there are existing elements to be removed, such as old trim, having them detached beforehand can save time. Ensuring that utilities like power outlets are accessible and that there's adequate lighting in the work areas will also assist our team upon arrival.",
+        "@type": "Answer",
+        "description": "Clear furniture and decor from work areas, protect flooring, and ensure utility access. Removing old trim beforehand can also be helpful."
+      }
+    }
+  ],
+  "description": "Clear furniture and decor from work areas, protect flooring, and ensure utility access. Removing old trim beforehand can also be helpful."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-is-the-best-time-during-a-new-construction-or-renovation-project-to-schedul",
+  "name": "When is the best time during a new construction or renovation project to schedule finish trim carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time during a new construction or renovation project to schedule finish trim carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finish trim carpentry is typically scheduled towards the end of a new construction or renovation project, after major structural work, drywall installation, flooring, and initial painting are completed. This timing minimizes the risk of damage to the newly installed trim from other trades and ensures a clean surface for installation and final finishing. However, it should be done before final paint coats or wallpaper, as trim often needs caulking and touch-up painting. Coordinating with other contractors in areas like Meridian or Kuna is key to a smooth workflow.",
+        "@type": "Answer",
+        "description": "Schedule finish trim carpentry near the end of a project, after major structural work, drywall, flooring, and initial painting, but before final paint coats."
+      }
+    }
+  ],
+  "description": "Schedule finish trim carpentry near the end of a project, after major structural work, drywall, flooring, and initial painting, but before final paint coats."
+}

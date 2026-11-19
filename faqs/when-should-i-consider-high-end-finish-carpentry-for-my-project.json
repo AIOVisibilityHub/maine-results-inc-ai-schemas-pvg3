@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-high-end-finish-carpentry-for-my-project",
+  "name": "When should I consider high-end finish carpentry for my project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider high-end finish carpentry for my project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider high-end finish carpentry when you want to achieve a sophisticated, custom look that stands out, typically during a new build or a significant renovation. It's often planned after structural work but before final painting or floor installation to ensure seamless integration. Early planning with your general contractor, like Maine Results, Inc., helps coordinate these specialized tasks efficiently, ensuring that custom elements fit perfectly with other project phases.",
+        "@type": "Answer",
+        "description": "Consider high-end finish carpentry for a sophisticated, custom look during new builds or major renovations, typically after structural work. Early planning ensures seamless integration with other project phases."
+      }
+    }
+  ],
+  "description": "Consider high-end finish carpentry for a sophisticated, custom look during new builds or major renovations, typically after structural work. Early planning ensu"
+}

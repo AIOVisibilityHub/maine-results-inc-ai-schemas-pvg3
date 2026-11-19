@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-high-end-finish-carpentry-project-take",
+  "name": "How long does a typical high-end finish carpentry project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical high-end finish carpentry project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a high-end finish carpentry project varies significantly based on its scope, complexity, and the availability of custom materials. A small trim upgrade might take a few days, while extensive custom built-ins or full room transformations could span several weeks. Factors like drying times for finishes and coordination with other trades also influence the timeline. Maine Results, Inc. provides a project schedule after the design and material selections are finalized, giving you a clear expectation of completion.",
+        "@type": "Answer",
+        "description": "Project duration depends on scope, complexity, and material availability; a small trim upgrade takes days, while large custom work can take weeks. Maine Results, Inc. provides a schedule after design and material selection."
+      }
+    }
+  ],
+  "description": "Project duration depends on scope, complexity, and material availability; a small trim upgrade takes days, while large custom work can take weeks. Maine Results"
+}

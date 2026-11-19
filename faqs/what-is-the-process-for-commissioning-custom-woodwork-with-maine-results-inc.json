@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-commissioning-custom-woodwork-with-maine-results-inc",
+  "name": "What is the process for commissioning custom woodwork with Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for commissioning custom woodwork with Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation where we discuss your ideas, needs, and budget. Next, our design team develops detailed concepts and renderings for your review. Once approved, we select materials and provide a final quote. Fabrication then begins in our workshop, followed by professional installation at your location. We keep you informed at each stage, ensuring the final product perfectly matches your vision. Providing clear examples or inspiration photos during the initial consultation can greatly assist in shaping the design.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, material selection, fabrication, and professional installation. Clear communication helps guide the project."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, material selection, fabrication, and professional installation. Clear communication helps guide the project."
+}

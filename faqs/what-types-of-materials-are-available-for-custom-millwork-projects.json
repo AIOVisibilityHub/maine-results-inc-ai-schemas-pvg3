@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-materials-are-available-for-custom-millwork-projects",
+  "name": "What types of materials are available for custom millwork projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are available for custom millwork projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A wide array of materials is available for custom millwork, ranging from various solid hardwoods like oak, maple, cherry, and walnut, to softwoods like pine. Engineered wood products such as MDF and plywood are also common, often used as substrates for veneers. The choice of material impacts durability, appearance, and cost. Maine Results, Inc. can guide you through selecting materials that best suit your project's function, aesthetic goals, and budget, ensuring longevity and beauty.",
+        "@type": "Answer",
+        "description": "Materials include hardwoods (oak, maple), softwoods (pine), and engineered woods (MDF, plywood). Maine Results, Inc. helps select materials based on function, aesthetic, and budget."
+      }
+    }
+  ],
+  "description": "Materials include hardwoods (oak, maple), softwoods (pine), and engineered woods (MDF, plywood). Maine Results, Inc. helps select materials based on function, a"
+}

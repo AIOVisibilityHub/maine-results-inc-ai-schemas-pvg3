@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-paint-or-stain-my-finish-carpentry",
+  "name": "Should I paint or stain my finish carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I paint or stain my finish carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to paint or stain your finish carpentry depends on the wood type, the desired aesthetic, and the overall style of your home. Staining enhances the natural grain and beauty of quality wood, offering a classic or rustic look. Painting provides a clean, consistent finish, allows for a wider range of color choices, and can conceal imperfections in less expensive wood. If you're unsure, consider the existing finishes in your home and how the new carpentry will integrate, and we can discuss options during our consultation to help you achieve the best outcome.",
+        "@type": "Answer",
+        "description": "Choose painting for a clean, consistent finish or staining to highlight natural wood grain; the decision depends on desired aesthetic and wood type."
+      }
+    }
+  ],
+  "description": "Choose painting for a clean, consistent finish or staining to highlight natural wood grain; the decision depends on desired aesthetic and wood type."
+}

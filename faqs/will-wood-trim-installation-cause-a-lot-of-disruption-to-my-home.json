@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/will-wood-trim-installation-cause-a-lot-of-disruption-to-my-home",
+  "name": "Will wood trim installation cause a lot of disruption to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will wood trim installation cause a lot of disruption to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wood trim installation typically involves some level of disruption due to tools, materials, and active work areas. To minimize impact, our team at Maine Results Inc. works efficiently, keeps the workspace tidy, and communicates progress. We recommend moving furniture away from walls in the installation areas and covering items you wish to protect from dust. The noise level will be moderate due to cutting and fastening tools. We aim to complete projects promptly, ensuring your daily routine returns to normal as quickly as possible.",
+        "@type": "Answer",
+        "description": "Installation causes some disruption due to tools and work areas. We work efficiently, keep spaces tidy, and recommend moving furniture and covering items."
+      }
+    }
+  ],
+  "description": "Installation causes some disruption due to tools and work areas. We work efficiently, keep spaces tidy, and recommend moving furniture and covering items."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-custom-decorative-trim-designs",
+  "name": "Do you offer custom decorative trim designs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer custom decorative trim designs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we offer custom decorative trim designs to achieve a unique look tailored to your home. This can involve replicating historical profiles, combining different molding styles, or creating entirely new designs based on your specifications. Custom trim allows for truly personalized architectural details that standard profiles might not offer. This option is ideal for homeowners seeking to create a distinctive aesthetic or match existing, non-standard trim elements in their home, especially in older, character-rich neighborhoods.",
+        "@type": "Answer",
+        "description": "Yes, we offer custom trim designs, including replicating historical profiles or creating new ones, for a unique and personalized look."
+      }
+    }
+  ],
+  "description": "Yes, we offer custom trim designs, including replicating historical profiles or creating new ones, for a unique and personalized look."
+}

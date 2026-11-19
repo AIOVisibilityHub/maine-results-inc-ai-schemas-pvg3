@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-involved-in-the-exterior-trim-installation-process",
+  "name": "What is involved in the exterior trim installation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the exterior trim installation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The exterior trim installation process typically begins with an assessment of the existing trim and structural integrity, followed by removal of old or damaged trim. Next, surfaces are prepared, which may include cleaning, minor repairs, or sealing. New trim pieces are then measured, cut, and securely fastened, ensuring proper alignment and tight seams. Finally, the trim is caulked and painted or sealed as necessary to protect it from the elements. This meticulous process ensures durability and a professional finish, which is standard practice for all our projects in the Garden City area.",
+        "@type": "Answer",
+        "description": "Exterior trim installation involves assessing, removing old trim, preparing surfaces, measuring and fastening new trim, then caulking and sealing. This process ensures durability and a professional finish."
+      }
+    }
+  ],
+  "description": "Exterior trim installation involves assessing, removing old trim, preparing surfaces, measuring and fastening new trim, then caulking and sealing. This process"
+}

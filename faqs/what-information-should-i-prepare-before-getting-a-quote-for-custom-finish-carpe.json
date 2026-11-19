@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-information-should-i-prepare-before-getting-a-quote-for-custom-finish-carpe",
+  "name": "What information should I prepare before getting a quote for custom finish carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I prepare before getting a quote for custom finish carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before requesting a quote for custom finish carpentry, it is helpful to gather a few pieces of information. Consider preparing a clear idea of the specific pieces you want, such as built-in bookshelves, unique crown molding, or a custom mantel. Having photos of styles you like, approximate dimensions of the space, and any preferred wood types or finishes will help us understand your vision. This preparation ensures a more accurate initial discussion and quote, helping us align on your project goals from the start.",
+        "@type": "Answer",
+        "description": "Before a quote, prepare details like desired pieces, style photos, approximate dimensions, and preferred wood types to help define your vision."
+      }
+    }
+  ],
+  "description": "Before a quote, prepare details like desired pieces, style photos, approximate dimensions, and preferred wood types to help define your vision."
+}

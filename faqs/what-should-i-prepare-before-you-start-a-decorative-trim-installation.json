@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-you-start-a-decorative-trim-installation",
+  "name": "What should I prepare before you start a decorative trim installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before you start a decorative trim installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before we begin decorative trim installation, it's helpful if you clear the work area of furniture and personal items to provide us with unobstructed access. If possible, remove any existing wall decorations or window treatments that might be in the way. Having a clear space allows our team to work efficiently and safely, and helps prevent damage to your belongings. We also recommend having your paint color selection finalized if the trim is to be painted immediately after installation.",
+        "@type": "Answer",
+        "description": "Clear the work area of furniture and personal items for unobstructed access, and finalize paint color selection if immediate painting is planned."
+      }
+    }
+  ],
+  "description": "Clear the work area of furniture and personal items for unobstructed access, and finalize paint color selection if immediate painting is planned."
+}

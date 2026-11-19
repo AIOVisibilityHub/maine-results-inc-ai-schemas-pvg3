@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-finish-carpentry-project-take",
+  "name": "How long does a typical finish carpentry project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical finish carpentry project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a finish carpentry project varies significantly based on its size and complexity. A small trim installation in a single room might take a day or two, while extensive custom cabinetry or whole-home trim work can extend to several weeks. Factors like material availability, drying times for finishes, and coordination with other trades can also affect the timeline. To ensure accurate planning, it's helpful for customers to provide a detailed project scope and discuss their desired completion date when seeking an estimate, allowing the carpenter to provide a realistic schedule.",
+        "@type": "Answer",
+        "description": "Project duration for finish carpentry depends on size and complexity, ranging from a few days for small jobs to several weeks for large custom work."
+      }
+    }
+  ],
+  "description": "Project duration for finish carpentry depends on size and complexity, ranging from a few days for small jobs to several weeks for large custom work."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-decorative-trim-work-increase-the-value-of-my-home",
+  "name": "Can decorative trim work increase the value of my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can decorative trim work increase the value of my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, decorative trim work can enhance the aesthetic appeal and perceived value of your home. Well-executed trim adds a finished, custom look that can be attractive to potential buyers. It contributes to a home's overall character and can elevate basic rooms to feel more luxurious. While it’s not always a dollar-for-dollar return, quality trim work is generally viewed as an upgrade that improves a home's marketability and charm, especially in competitive real estate markets like Eagle or Kuna.",
+        "@type": "Answer",
+        "description": "Yes, decorative trim work enhances home aesthetics and perceived value, making it more appealing to buyers and improving marketability."
+      }
+    }
+  ],
+  "description": "Yes, decorative trim work enhances home aesthetics and perceived value, making it more appealing to buyers and improving marketability."
+}

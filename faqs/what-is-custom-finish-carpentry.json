@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-custom-finish-carpentry",
+  "name": "What is custom finish carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is custom finish carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom finish carpentry involves crafting and installing specialized wood elements to enhance the aesthetic and functional appeal of a space. This can include custom trim work, built-in shelving, fireplace mantels, wainscoting, and unique cabinetry. Unlike standard installations, custom work is designed specifically for your home's dimensions and your personal style preferences, ensuring a perfect fit and a distinctive look. It adds character and value, transforming ordinary rooms into elegant and personalized living areas.",
+        "@type": "Answer",
+        "description": "Custom finish carpentry creates specialized wood elements like trim, built-ins, and cabinetry, tailored to your home and style."
+      }
+    }
+  ],
+  "description": "Custom finish carpentry creates specialized wood elements like trim, built-ins, and cabinetry, tailored to your home and style."
+}

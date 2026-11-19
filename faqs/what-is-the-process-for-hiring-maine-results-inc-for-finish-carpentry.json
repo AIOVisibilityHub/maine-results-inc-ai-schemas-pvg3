@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-hiring-maine-results-inc-for-finish-carpentry",
+  "name": "What is the process for hiring Maine Results, Inc. for finish carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for hiring Maine Results, Inc. for finish carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation where we discuss your vision, inspect the project area, and take necessary measurements. Following this, we provide a detailed proposal outlining the scope of work, materials, and estimated costs. Once approved, we schedule the work, ensuring coordination with other trades if it's part of a larger project. We communicate throughout the installation to ensure the results meet your expectations. Preparation for this process includes having a clear idea of the styles you prefer and any existing architectural details you want to match or complement.",
+        "@type": "Answer",
+        "description": "Hiring us involves an initial consultation, a detailed proposal, scheduling, and consistent communication throughout the installation process."
+      }
+    }
+  ],
+  "description": "Hiring us involves an initial consultation, a detailed proposal, scheduling, and consistent communication throughout the installation process."
+}

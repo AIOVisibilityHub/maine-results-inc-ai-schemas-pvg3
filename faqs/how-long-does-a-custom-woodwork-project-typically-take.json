@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-custom-woodwork-project-typically-take",
+  "name": "How long does a custom woodwork project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a custom woodwork project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a custom woodwork project varies significantly based on its complexity, size, and the chosen materials. A small, simple piece might take a few weeks from design to installation, while a large, intricate built-in system could take several months. We provide a detailed project schedule after the initial design and material selection are finalized, giving you a clear understanding of the expected duration. Early planning and clear communication of your vision can help streamline the process.",
+        "@type": "Answer",
+        "description": "Project timelines vary; small items may take weeks, while complex systems can take months. We provide a detailed schedule after design finalization."
+      }
+    }
+  ],
+  "description": "Project timelines vary; small items may take weeks, while complex systems can take months. We provide a detailed schedule after design finalization."
+}

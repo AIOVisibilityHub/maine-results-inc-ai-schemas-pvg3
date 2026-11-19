@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-wood-trim-installation",
+  "name": "What factors influence the cost of wood trim installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of wood trim installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of wood trim installation is influenced by several factors, including the type and quality of wood chosen, the intricacy of the trim profiles (e.g., simple baseboards versus custom crown molding), the lineal footage required, and the current condition of the walls. Labor costs are also a significant component, reflecting the skill and time needed for precise cuts, fitting, and finishing. During our initial consultation, we provide a transparent breakdown of costs tailored to your specific project needs within our service areas, including Garden City and Kuna.",
+        "@type": "Answer",
+        "description": "Cost is affected by wood type, trim intricacy, lineal footage, wall condition, and labor. We provide a tailored cost breakdown after assessment."
+      }
+    }
+  ],
+  "description": "Cost is affected by wood type, trim intricacy, lineal footage, wall condition, and labor. We provide a tailored cost breakdown after assessment."
+}

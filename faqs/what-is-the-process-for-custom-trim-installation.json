@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-custom-trim-installation",
+  "name": "What is the process for custom trim installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for custom trim installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The custom trim installation process begins with a consultation to select materials and designs. Next, measurements are taken to ensure accurate material ordering and cutting. On the installation day, our team prepares the work area, removes old trim if necessary, and precisely cuts and fits the new custom trim. This includes careful scribing for perfect joints, especially in older homes in areas like the Boise Heights or North End districts where walls may not be perfectly plumb. The trim is then securely fastened, and final touches like caulking and minor sanding are completed, preparing it for painting or staining.",
+        "@type": "Answer",
+        "description": "The custom trim installation process involves consultation, precise measurement, cutting, fitting, securing, and finishing touches to prepare for painting."
+      }
+    }
+  ],
+  "description": "The custom trim installation process involves consultation, precise measurement, cutting, fitting, securing, and finishing touches to prepare for painting."
+}

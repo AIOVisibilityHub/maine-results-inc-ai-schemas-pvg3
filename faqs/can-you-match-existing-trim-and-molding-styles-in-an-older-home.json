@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-match-existing-trim-and-molding-styles-in-an-older-home",
+  "name": "Can you match existing trim and molding styles in an older home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match existing trim and molding styles in an older home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, matching existing trim and molding styles in an older home is a common request and a specialty for our team. We can often source new materials that closely replicate historical profiles, or, for unique cases, we can arrange for custom milling to precisely match intricate designs. This process often involves taking detailed measurements and photographs of your current trim. Providing clear photos and details of the existing trim during your consultation helps us assess the best approach, ensuring the new work blends seamlessly with the original character of your home.",
+        "@type": "Answer",
+        "description": "Yes, we can match existing trim styles in older homes by sourcing close replicas or custom milling. Providing detailed photos of current trim helps us ensure a seamless match."
+      }
+    }
+  ],
+  "description": "Yes, we can match existing trim styles in older homes by sourcing close replicas or custom milling. Providing detailed photos of current trim helps us ensure a"
+}

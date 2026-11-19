@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-is-needed-before-wood-trim-installation",
+  "name": "What preparation is needed before wood trim installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before wood trim installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before wood trim can be installed, it's helpful to ensure that walls are clean and free of obstructions, and any existing trim has been removed. If painting or wallpapering, consider if these tasks should be completed before or after trim installation; often, it's easier to paint walls first and then caulk and paint the new trim. Having clear access to the work areas and protecting floors with drop cloths will also streamline the process. For projects with Maine Results Inc., we will discuss specific preparation steps during our initial site visit to ensure a smooth and efficient installation.",
+        "@type": "Answer",
+        "description": "Prepare by cleaning walls, removing old trim, and considering wall painting before or after. Clear work areas and protect floors for efficiency."
+      }
+    }
+  ],
+  "description": "Prepare by cleaning walls, removing old trim, and considering wall painting before or after. Clear work areas and protect floors for efficiency."
+}

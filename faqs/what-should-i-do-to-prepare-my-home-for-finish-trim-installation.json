@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-do-to-prepare-my-home-for-finish-trim-installation",
+  "name": "What should I do to prepare my home for finish trim installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my home for finish trim installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before finish trim installation begins, it's helpful to clear the work areas of furniture, personal items, and wall decor to provide our carpenters with unimpeded access. Ensure that any necessary painting or flooring work that will be covered by trim is completed beforehand. If you have chosen your own materials, having them on-site and acclimated to your home's humidity levels for a few days can help prevent warping. Our team will confirm specific preparations for your project in Kuna or Star, ensuring a smooth start.",
+        "@type": "Answer",
+        "description": "Clear work areas, complete any painting or flooring that will be covered by trim, and acclimate materials on-site if providing them."
+      }
+    }
+  ],
+  "description": "Clear work areas, complete any painting or flooring that will be covered by trim, and acclimate materials on-site if providing them."
+}

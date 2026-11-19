@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-match-existing-trim-in-an-older-home",
+  "name": "Can you match existing trim in an older home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match existing trim in an older home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, matching existing trim in an older home is a common request and a specialty for our team. We often encounter unique profiles in historic homes across our service areas, including older parts of Boise Heights or Downtown Boise. If a direct match isn't available as a stock item, we can often source or have custom knives made to mill new trim that precisely replicates the original design. This approach ensures architectural consistency during renovations or expansions, preserving the character and value of your property.",
+        "@type": "Answer",
+        "description": "Yes, we can match existing trim in older homes, even custom milling new pieces to replicate unique historical designs."
+      }
+    }
+  ],
+  "description": "Yes, we can match existing trim in older homes, even custom milling new pieces to replicate unique historical designs."
+}

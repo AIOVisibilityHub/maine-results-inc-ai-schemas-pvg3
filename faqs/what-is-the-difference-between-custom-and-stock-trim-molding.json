@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-custom-and-stock-trim-molding",
+  "name": "What is the difference between custom and stock trim molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between custom and stock trim molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stock trim molding refers to pre-manufactured, standard profiles readily available from suppliers in common wood species or composite materials. It's often a more economical and quicker option for projects in areas like Garden City or Eagle. Custom trim molding, however, is specially crafted to match unique designs, historical styles, or specific dimensions, offering greater design flexibility and a bespoke aesthetic. While custom trim usually involves a longer lead time and higher cost, it allows for truly personalized architectural details, ensuring a perfect fit for a particular design vision.",
+        "@type": "Answer",
+        "description": "Stock trim is pre-manufactured and readily available, while custom trim is specially crafted for unique designs, offering more personalization."
+      }
+    }
+  ],
+  "description": "Stock trim is pre-manufactured and readily available, while custom trim is specially crafted for unique designs, offering more personalization."
+}

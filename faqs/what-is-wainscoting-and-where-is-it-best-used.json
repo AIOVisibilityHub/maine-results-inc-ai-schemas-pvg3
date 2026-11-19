@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-wainscoting-and-where-is-it-best-used",
+  "name": "What is wainscoting and where is it best used?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is wainscoting and where is it best used?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wainscoting is a decorative paneling that typically covers the lower portion of a wall, extending from the floor to about waist height. It serves to protect walls from damage and adds a classic, elegant, or rustic aesthetic, depending on the style. Wainscoting is commonly used in dining rooms, hallways, entryways, and bathrooms to add character and visual interest. Different styles, such as beadboard, raised panel, or flat panel, can dramatically change the feel of a room. Consider the desired ambiance and practicality for each space when selecting a style.",
+        "@type": "Answer",
+        "description": "Wainscoting is decorative paneling covering the lower part of a wall, used in various rooms like dining areas and hallways to add character and protection."
+      }
+    }
+  ],
+  "description": "Wainscoting is decorative paneling covering the lower part of a wall, used in various rooms like dining areas and hallways to add character and protection."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-an-exterior-finish-carpentry-project-usually-take",
+  "name": "How long does an exterior finish carpentry project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an exterior finish carpentry project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an exterior finish carpentry project varies based on its scope, complexity, and the materials chosen. A small trim repair might take a day, while extensive custom work across a whole house could span several weeks. During our initial consultation, we provide a detailed timeline. We also factor in local weather patterns, especially during colder or wetter months in areas like Meridian, which can influence project scheduling.",
+        "@type": "Answer",
+        "description": "Project duration depends on scope and complexity; small repairs take a day, while larger projects can take weeks. Local weather can influence timelines."
+      }
+    }
+  ],
+  "description": "Project duration depends on scope and complexity; small repairs take a day, while larger projects can take weeks. Local weather can influence timelines."
+}

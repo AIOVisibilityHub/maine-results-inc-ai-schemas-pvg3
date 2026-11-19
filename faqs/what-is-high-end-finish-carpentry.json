@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-high-end-finish-carpentry",
+  "name": "What is high-end finish carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is high-end finish carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "High-end finish carpentry focuses on the aesthetic and detailed elements that enhance a property's interior or exterior, beyond structural framing. This includes custom trim work, crown molding, wainscoting, built-in cabinetry, custom mantels, and specialty doors. The distinction lies in the precision, quality of materials, intricate design, and flawless execution. Maine Results, Inc. specializes in crafting these bespoke details to elevate the overall look and feel of your home or business.",
+        "@type": "Answer",
+        "description": "High-end finish carpentry involves detailed, custom aesthetic elements like trim, molding, and built-ins, emphasizing precision and quality materials. Maine Results, Inc. provides bespoke solutions."
+      }
+    }
+  ],
+  "description": "High-end finish carpentry involves detailed, custom aesthetic elements like trim, molding, and built-ins, emphasizing precision and quality materials. Maine Res"
+}

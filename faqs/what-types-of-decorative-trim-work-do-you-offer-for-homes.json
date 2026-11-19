@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-decorative-trim-work-do-you-offer-for-homes",
+  "name": "What types of decorative trim work do you offer for homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of decorative trim work do you offer for homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We offer a range of decorative trim work, including crown molding, baseboards, window and door casings, wainscoting, and chair rails. Each type adds distinct architectural detail and character to a room. For example, crown molding can elegantly finish the transition between walls and ceilings, while wainscoting adds a classic paneling effect to lower wall sections. The right choice depends on the desired aesthetic and the architectural style of your home.",
+        "@type": "Answer",
+        "description": "We offer crown molding, baseboards, window/door casings, wainscoting, and chair rails, each adding unique architectural detail."
+      }
+    }
+  ],
+  "description": "We offer crown molding, baseboards, window/door casings, wainscoting, and chair rails, each adding unique architectural detail."
+}

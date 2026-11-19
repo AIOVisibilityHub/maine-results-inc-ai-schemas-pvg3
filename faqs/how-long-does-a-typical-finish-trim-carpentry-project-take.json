@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-finish-trim-carpentry-project-take",
+  "name": "How long does a typical finish trim carpentry project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical finish trim carpentry project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a finish trim carpentry project varies significantly depending on its scope and complexity. A small project, such as adding baseboards to a single room, might take a day or two. A whole-house trim installation, especially with custom elements like wainscoting or built-ins, could extend to several weeks. Factors like material availability and drying times for finishes can also impact the timeline. Our team provides an estimated project schedule upfront, allowing you to plan accordingly for your home in Meridian or Caldwell.",
+        "@type": "Answer",
+        "description": "Project duration depends on scope and complexity; a small room might take days, while a whole house could take weeks."
+      }
+    }
+  ],
+  "description": "Project duration depends on scope and complexity; a small room might take days, while a whole house could take weeks."
+}

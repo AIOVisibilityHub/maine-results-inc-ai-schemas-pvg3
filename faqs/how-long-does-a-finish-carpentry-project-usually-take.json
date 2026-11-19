@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-finish-carpentry-project-usually-take",
+  "name": "How long does a finish carpentry project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a finish carpentry project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a finish carpentry project depends heavily on its size and complexity. A small project, such as adding baseboards to a single room, might take a day or two. A larger project, like installing custom built-ins across multiple rooms or extensive trim work throughout a whole house, could take several weeks. Factors like material availability and drying times for finishes can also influence the timeline. During our initial consultation, we provide a projected timeline tailored to your specific project, considering all necessary steps from material selection to final installation and cleanup.",
+        "@type": "Answer",
+        "description": "Project duration varies by size and complexity; a single room's baseboards might take days, while whole-home trim or custom built-ins could take weeks. We provide a tailored timeline during consultation."
+      }
+    }
+  ],
+  "description": "Project duration varies by size and complexity; a single room's baseboards might take days, while whole-home trim or custom built-ins could take weeks. We provi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-custom-trim-installation-typically-take",
+  "name": "How long does custom trim installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does custom trim installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of custom trim installation depends on the project's scope, including the total lineal feet of trim, the complexity of the profiles, and the number of rooms involved. A smaller project, like a single room's crown molding, might be completed in a day or two, while a whole-house trim upgrade could take several days to a week. During the initial project assessment, Maine Results, Inc. provides an estimated timeline, considering factors like material availability and necessary prep work to give you a clear understanding of the schedule.",
+        "@type": "Answer",
+        "description": "Custom trim installation time varies by project size and complexity; a single room may take days, while a whole house can take a week."
+      }
+    }
+  ],
+  "description": "Custom trim installation time varies by project size and complexity; a single room may take days, while a whole house can take a week."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-match-existing-trim-profiles-during-a-renovation",
+  "name": "Can you match existing trim profiles during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match existing trim profiles during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, matching existing trim profiles is a common request during renovations to maintain a consistent aesthetic throughout a home. We can often source identical profiles from suppliers or, for older or unique designs, we may be able to have custom knives made to mill new trim that precisely replicates the original. Providing us with a sample of your existing trim is helpful during the initial consultation to accurately assess the feasibility and cost of matching it.",
+        "@type": "Answer",
+        "description": "We can often match existing trim profiles using available stock or custom milling; a sample helps assess feasibility."
+      }
+    }
+  ],
+  "description": "We can often match existing trim profiles using available stock or custom milling; a sample helps assess feasibility."
+}

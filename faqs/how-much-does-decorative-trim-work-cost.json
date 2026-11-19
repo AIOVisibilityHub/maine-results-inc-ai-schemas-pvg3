@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-decorative-trim-work-cost",
+  "name": "How much does decorative trim work cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does decorative trim work cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of decorative trim work varies widely based on several factors, including the type of trim (e.g., crown molding versus baseboards), the material chosen (e.g., MDF, pine, oak), the complexity of the profile, and the total linear footage required. Intricate or custom millwork will typically cost more than standard profiles. We provide detailed estimates after an on-site evaluation in areas like Garden City or Meridian to accurately assess your specific project needs and material preferences.",
+        "@type": "Answer",
+        "description": "Cost depends on trim type, material, profile complexity, and linear footage; estimates are provided after an on-site evaluation."
+      }
+    }
+  ],
+  "description": "Cost depends on trim type, material, profile complexity, and linear footage; estimates are provided after an on-site evaluation."
+}

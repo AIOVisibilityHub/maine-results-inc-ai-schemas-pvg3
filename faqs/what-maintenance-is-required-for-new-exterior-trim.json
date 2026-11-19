@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-maintenance-is-required-for-new-exterior-trim",
+  "name": "What maintenance is required for new exterior trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for new exterior trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The maintenance required for new exterior trim largely depends on the material chosen. Wood trim typically requires periodic cleaning, scraping, sanding, and repainting or re-staining every few years to protect it from moisture and UV damage. PVC and fiber cement trims are considerably lower maintenance, usually only needing occasional cleaning with soap and water to remove dirt and mildew. Regardless of material, it's wise to regularly inspect trim for any signs of damage, cracks in caulking, or pest activity, especially after harsh seasons, as proactive care extends its lifespan.",
+        "@type": "Answer",
+        "description": "Maintenance depends on the trim material; wood needs periodic painting or staining, while PVC and fiber cement only require occasional cleaning. Regular inspections for damage or cracks are beneficial for all materials."
+      }
+    }
+  ],
+  "description": "Maintenance depends on the trim material; wood needs periodic painting or staining, while PVC and fiber cement only require occasional cleaning. Regular inspect"
+}

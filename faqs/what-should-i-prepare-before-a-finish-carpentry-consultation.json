@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-a-finish-carpentry-consultation",
+  "name": "What should I prepare before a finish carpentry consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a finish carpentry consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your finish carpentry consultation, gathering some key information can greatly streamline the process and help us understand your vision. Consider what specific areas you want to address (e.g., living room, kitchen, bedrooms), what aesthetic style you prefer (e.g., modern, traditional, craftsman), and any specific types of elements you're interested in (e.g., crown molding, wainscoting, built-in bookshelves). Having inspiration photos or a Pinterest board can be very helpful. Additionally, thinking about your budget range and any specific deadlines will allow us to provide the most relevant and accurate recommendations for your project.",
+        "@type": "Answer",
+        "description": "Before your consultation, prepare by identifying specific areas, desired aesthetic styles, and types of elements. Having inspiration photos, a budget range, and deadlines helps us tailor recommendations."
+      }
+    }
+  ],
+  "description": "Before your consultation, prepare by identifying specific areas, desired aesthetic styles, and types of elements. Having inspiration photos, a budget range, and"
+}

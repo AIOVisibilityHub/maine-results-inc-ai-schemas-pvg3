@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-wood-trim-installation-typically-take",
+  "name": "How long does wood trim installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does wood trim installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of wood trim installation varies based on the scope of the project, including the total lineal feet of trim, the complexity of the profiles, and the number of corners and joints. A small room with basic baseboards might take a day, while a whole-house installation with intricate crown molding could span several days to a week. When planning, consider that finishing work like sanding, priming, and painting will add to the overall project timeline. We provide a detailed project schedule after assessing your specific needs.",
+        "@type": "Answer",
+        "description": "Installation time depends on project scope, trim complexity, and lineal feet. Small jobs might take a day, while larger projects can take several days to a week."
+      }
+    }
+  ],
+  "description": "Installation time depends on project scope, trim complexity, and lineal feet. Small jobs might take a day, while larger projects can take several days to a week"
+}

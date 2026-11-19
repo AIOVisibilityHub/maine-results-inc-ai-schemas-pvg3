@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-wood-trim-are-available-for-installation",
+  "name": "What types of wood trim are available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood trim are available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results Inc. offers a variety of wood trim options, including baseboards, crown molding, casing for doors and windows, and chair rails. The choice often depends on your home's architectural style and your desired aesthetic. For example, a more ornate crown molding can enhance a traditional home, while a simpler, cleaner profile might suit a modern design. We can help you consider how different wood types and profiles impact the overall look and feel of your space, whether you are updating a single room or undertaking a whole-home renovation in areas like Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "Maine Results Inc. offers various wood trim types like baseboards, crown molding, and casing. The best choice depends on your home's style and desired look."
+      }
+    }
+  ],
+  "description": "Maine Results Inc. offers various wood trim types like baseboards, crown molding, and casing. The best choice depends on your home's style and desired look."
+}

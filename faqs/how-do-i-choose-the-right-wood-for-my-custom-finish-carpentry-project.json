@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-the-right-wood-for-my-custom-finish-carpentry-project",
+  "name": "How do I choose the right wood for my custom finish carpentry project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right wood for my custom finish carpentry project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right wood for your custom finish carpentry project depends on several factors, including your desired aesthetic, durability needs, and budget. Common choices include oak, maple, cherry, and walnut, each offering distinct grain patterns and color tones. Oak and maple are known for their durability and versatility, while cherry offers a rich, warm tone that darkens over time. The decision factor often involves considering how the wood's natural characteristics will complement your existing decor and whether it will be painted or stained. We can discuss wood samples to help you visualize the final look.",
+        "@type": "Answer",
+        "description": "Choose wood based on aesthetic, durability, and budget; consider options like oak, maple, cherry, or walnut and how they complement your decor."
+      }
+    }
+  ],
+  "description": "Choose wood based on aesthetic, durability, and budget; consider options like oak, maple, cherry, or walnut and how they complement your decor."
+}

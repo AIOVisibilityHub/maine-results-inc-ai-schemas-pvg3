@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-finish-carpentry-services-in-eagle-idaho",
+  "name": "Do you offer finish carpentry services in Eagle, Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer finish carpentry services in Eagle, Idaho?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. proudly offers residential finish carpentry services throughout Eagle, Idaho, as well as Garden City, Meridian, Kuna, and Star. Our team is familiar with the architectural styles and common preferences found in the Eagle area, from custom homes to remodels. When planning a project in Eagle, considering any local architectural guidelines or community aesthetics can be beneficial to ensure your finish carpentry selections align with the neighborhood's character and enhance your property's value.",
+        "@type": "Answer",
+        "description": "Yes, we provide residential finish carpentry services in Eagle, Idaho, and surrounding areas. We consider local architectural styles to enhance your property's value."
+      }
+    }
+  ],
+  "description": "Yes, we provide residential finish carpentry services in Eagle, Idaho, and surrounding areas. We consider local architectural styles to enhance your property's"
+}

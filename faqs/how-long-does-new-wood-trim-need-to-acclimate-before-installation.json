@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-new-wood-trim-need-to-acclimate-before-installation",
+  "name": "How long does new wood trim need to acclimate before installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does new wood trim need to acclimate before installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is crucial for new wood trim to acclimate to your home's humidity and temperature for at least 3-5 days before installation. Wood is a natural material that expands and contracts with changes in moisture content. Allowing it to acclimate minimizes the risk of gaps, warping, or cracking after installation. This preparation step ensures the trim settles into the ambient conditions of your home, leading to a more stable and aesthetically pleasing final result. We always recommend this step to maintain the integrity of the finished product.",
+        "@type": "Answer",
+        "description": "New wood trim needs 3-5 days to acclimate to your home's humidity and temperature. This prevents gaps, warping, or cracking after installation."
+      }
+    }
+  ],
+  "description": "New wood trim needs 3-5 days to acclimate to your home's humidity and temperature. This prevents gaps, warping, or cracking after installation."
+}

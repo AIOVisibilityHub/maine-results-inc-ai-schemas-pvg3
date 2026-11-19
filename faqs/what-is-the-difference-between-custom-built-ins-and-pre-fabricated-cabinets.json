@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-custom-built-ins-and-pre-fabricated-cabinets",
+  "name": "What is the difference between custom built-ins and pre-fabricated cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between custom built-ins and pre-fabricated cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom built-ins are designed and constructed specifically for your space, allowing for precise fit, unique dimensions, and personalized aesthetic details that perfectly integrate with your home's architecture. They can maximize otherwise unused areas and cater to specific storage or display needs. Pre-fabricated cabinets, on the other hand, are manufactured in standard sizes and designs, offering a more budget-friendly and quicker installation option. The practical tradeoff is that while custom built-ins offer unparalleled personalization and optimal space utilization, pre-fabricated options may require design compromises to fit standard sizes, potentially leaving gaps or not fully meeting unique functional requirements.",
+        "@type": "Answer",
+        "description": "Custom built-ins offer personalized fit and design, maximizing space, while pre-fabricated cabinets are standard sizes and more budget-friendly. Custom options provide unique integration, while pre-fabricated might require design compromises."
+      }
+    }
+  ],
+  "description": "Custom built-ins offer personalized fit and design, maximizing space, while pre-fabricated cabinets are standard sizes and more budget-friendly. Custom options"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-differences-between-baseboards-crown-molding-and-casing",
+  "name": "What are the differences between baseboards, crown molding, and casing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the differences between baseboards, crown molding, and casing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Baseboards are installed where the wall meets the floor, protecting the wall from scuffs and adding a decorative touch. Crown molding is placed where the wall meets the ceiling, drawing the eye upward and creating a more elegant finish. Casing refers to the trim that frames doors and windows, concealing the gap between the wall and the frame while adding architectural detail. Each type of trim serves both a functional and aesthetic purpose, contributing to the overall finished look of your home. Choosing profiles that complement each other creates a cohesive design.",
+        "@type": "Answer",
+        "description": "Baseboards trim floors, crown molding trims ceilings, and casing trims doors and windows, each adding distinct architectural detail and protection."
+      }
+    }
+  ],
+  "description": "Baseboards trim floors, crown molding trims ceilings, and casing trims doors and windows, each adding distinct architectural detail and protection."
+}

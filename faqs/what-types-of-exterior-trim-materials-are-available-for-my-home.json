@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-exterior-trim-materials-are-available-for-my-home",
+  "name": "What types of exterior trim materials are available for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of exterior trim materials are available for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners have several options for exterior trim materials, including wood (such as cedar, redwood, or engineered wood), PVC, fiber cement, and composite. Each material offers different advantages in terms of appearance, durability, maintenance requirements, and cost. For example, PVC trim is highly resistant to rot, insects, and moisture, making it a low-maintenance choice that we frequently install in the varied Idaho climate where it performs well against weathering. Your selection often depends on your aesthetic preferences, budget, and the level of maintenance you are prepared to undertake.",
+        "@type": "Answer",
+        "description": "Common exterior trim materials include wood, PVC, fiber cement, and composite, each with unique benefits in durability, maintenance, and appearance. PVC is a popular, low-maintenance option for its resistance to rot and insects."
+      }
+    }
+  ],
+  "description": "Common exterior trim materials include wood, PVC, fiber cement, and composite, each with unique benefits in durability, maintenance, and appearance. PVC is a po"
+}

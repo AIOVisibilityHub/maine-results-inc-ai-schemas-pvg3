@@ -1,0 +1,188 @@
+{
+  "url": "https://maineresults.com",
+  "name": "Closet remodel",
+  "@type": "HomeAndConstructionBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Garden City"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "https://maineresults.com",
+    "name": "Maine Results, Inc.",
+    "@type": "HomeAndConstructionBusiness",
+    "telephone": "208-830-4990"
+  },
+  "telephone": "208-830-4990",
+  "areaServed": [
+    {
+      "name": "Garden City",
+      "@type": "City"
+    },
+    {
+      "name": "Meridian",
+      "@type": "City"
+    },
+    {
+      "name": "Eagle",
+      "@type": "City"
+    },
+    {
+      "name": "Kuna",
+      "@type": "City"
+    },
+    {
+      "name": "Star",
+      "@type": "City"
+    },
+    {
+      "name": "Nampa",
+      "@type": "City"
+    },
+    {
+      "name": "Caldwell",
+      "@type": "City"
+    },
+    {
+      "name": "Middleton",
+      "@type": "City"
+    },
+    {
+      "name": "Barber Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Boise Heights",
+      "@type": "City"
+    },
+    {
+      "name": "Borah",
+      "@type": "City"
+    },
+    {
+      "name": "Centennial",
+      "@type": "City"
+    },
+    {
+      "name": "Central Bench",
+      "@type": "City"
+    },
+    {
+      "name": "Central Foothills",
+      "@type": "City"
+    },
+    {
+      "name": "Central Rim",
+      "@type": "City"
+    },
+    {
+      "name": "Collister",
+      "@type": "City"
+    },
+    {
+      "name": "Depot Bench",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Boise",
+      "@type": "City"
+    },
+    {
+      "name": "East End",
+      "@type": "City"
+    },
+    {
+      "name": "Glenwood Rim",
+      "@type": "City"
+    },
+    {
+      "name": "Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Hillcrest",
+      "@type": "City"
+    },
+    {
+      "name": "Liberty Park",
+      "@type": "City"
+    },
+    {
+      "name": "Lusk District",
+      "@type": "City"
+    },
+    {
+      "name": "Morris Hill",
+      "@type": "City"
+    },
+    {
+      "name": "North End",
+      "@type": "City"
+    },
+    {
+      "name": "Northwest Boise",
+      "@type": "City"
+    },
+    {
+      "name": "Pierce Park",
+      "@type": "City"
+    },
+    {
+      "name": "South Boise Village",
+      "@type": "City"
+    },
+    {
+      "name": "South Cole",
+      "@type": "City"
+    },
+    {
+      "name": "South Eisenman",
+      "@type": "City"
+    },
+    {
+      "name": "Southeast Boise",
+      "@type": "City"
+    },
+    {
+      "name": "Sunset",
+      "@type": "City"
+    },
+    {
+      "name": "Veterans Park",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Warm Springs Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "West Bench",
+      "@type": "City"
+    },
+    {
+      "name": "West Boise",
+      "@type": "City"
+    },
+    {
+      "name": "West Downtown",
+      "@type": "City"
+    },
+    {
+      "name": "West End",
+      "@type": "City"
+    },
+    {
+      "name": "West Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Winstead Park",
+      "@type": "City"
+    }
+  ],
+  "serviceType": "Closet remodel"
+}

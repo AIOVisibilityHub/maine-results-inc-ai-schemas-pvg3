@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-should-i-prepare-my-home-for-a-finish-carpentry-project",
+  "name": "How should I prepare my home for a finish carpentry project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home for a finish carpentry project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your home for a finish carpentry project, clear the work area of furniture, decor, and personal items to provide unimpeded access for the carpenters. Cover remaining items or flooring that cannot be moved to protect them from dust and debris. Discuss with your contractor, like Maine Results, Inc., any specific utility needs, such as access to power outlets, and confirm the schedule. This preparation minimizes disruptions and helps ensure the project proceeds smoothly and efficiently.",
+        "@type": "Answer",
+        "description": "Prepare your home by clearing the work area of furniture and personal items, covering remaining items for protection. Discuss utility access and schedule with your contractor to ensure a smooth project."
+      }
+    }
+  ],
+  "description": "Prepare your home by clearing the work area of furniture and personal items, covering remaining items for protection. Discuss utility access and schedule with y"
+}

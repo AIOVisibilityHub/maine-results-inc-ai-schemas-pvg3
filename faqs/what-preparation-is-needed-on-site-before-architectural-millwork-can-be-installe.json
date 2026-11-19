@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-is-needed-on-site-before-architectural-millwork-can-be-installe",
+  "name": "What preparation is needed on-site before architectural millwork can be installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed on-site before architectural millwork can be installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before architectural millwork installation can begin, the site needs to be properly prepared to ensure a smooth and successful process. This typically involves ensuring that the space is clean, dry, and free of debris. Walls should be finished, plumb, and square, and flooring should be complete, especially for built-in units that extend to the floor. Access to the installation area must be clear, and any necessary electrical or plumbing rough-ins should be in place and confirmed. Proper climate control is also important to prevent wood movement. We will provide a detailed checklist to help you prepare your space effectively.",
+        "@type": "Answer",
+        "description": "Site preparation includes ensuring the space is clean, dry, plumb, and clear of obstructions, with finished walls and necessary utilities in place."
+      }
+    }
+  ],
+  "description": "Site preparation includes ensuring the space is clean, dry, plumb, and clear of obstructions, with finished walls and necessary utilities in place."
+}

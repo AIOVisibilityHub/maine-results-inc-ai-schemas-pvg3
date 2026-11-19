@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-wood-are-commonly-used-for-finish-carpentry-and-how-do-i-choose",
+  "name": "What types of wood are commonly used for finish carpentry and how do I choose?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood are commonly used for finish carpentry and how do I choose?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common woods for finish carpentry include pine, oak, maple, poplar, and MDF (medium-density fiberboard). Pine and poplar are popular for painted finishes due to their smooth grain and cost-effectiveness. Oak and maple are often chosen for stained finishes, showcasing their natural grain patterns and durability. MDF is a cost-effective, stable option for painted trim. Your choice depends on the desired aesthetic, whether you plan to paint or stain, and your budget. Consider the existing architectural style of your home and the wear and tear the trim will experience when making your selection.",
+        "@type": "Answer",
+        "description": "Common woods are pine, oak, maple, poplar, and MDF. Your choice depends on whether you plan to paint or stain, the desired look, and your budget."
+      }
+    }
+  ],
+  "description": "Common woods are pine, oak, maple, poplar, and MDF. Your choice depends on whether you plan to paint or stain, the desired look, and your budget."
+}

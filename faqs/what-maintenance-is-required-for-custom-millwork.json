@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-maintenance-is-required-for-custom-millwork",
+  "name": "What maintenance is required for custom millwork?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for custom millwork?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The maintenance required for custom millwork depends largely on the material and finish used. Generally, regular dusting with a soft cloth and occasional cleaning with a mild, non-abrasive wood cleaner are sufficient. Avoid harsh chemicals, excessive moisture, and direct prolonged sunlight, which can damage finishes or warp wood. For specific advice tailored to your project, Maine Results, Inc. provides guidance on caring for your custom pieces, ensuring their beauty and integrity for years to come.",
+        "@type": "Answer",
+        "description": "Maintenance typically involves dusting and mild cleaning; avoid harsh chemicals and excessive moisture. Maine Results, Inc. offers specific care guidance for your project."
+      }
+    }
+  ],
+  "description": "Maintenance typically involves dusting and mild cleaning; avoid harsh chemicals and excessive moisture. Maine Results, Inc. offers specific care guidance for yo"
+}

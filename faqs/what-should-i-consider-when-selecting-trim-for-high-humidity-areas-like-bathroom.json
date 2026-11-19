@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-when-selecting-trim-for-high-humidity-areas-like-bathroom",
+  "name": "What should I consider when selecting trim for high-humidity areas like bathrooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when selecting trim for high-humidity areas like bathrooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting trim for high-humidity areas such as bathrooms or laundry rooms, it's crucial to choose materials that can withstand moisture without warping, swelling, or developing mold. Materials like PVC or composite trim are excellent choices as they are highly resistant to water and humidity. If using wood, consider moisture-resistant options like redwood or cedar, or ensure that the wood is properly primed and painted with a high-quality, water-resistant finish to protect it. Maine Results, Inc. recommends avoiding untreated MDF in these environments, as it can easily swell and degrade when exposed to moisture, ensuring your trim remains durable and attractive for years.",
+        "@type": "Answer",
+        "description": "For high-humidity areas, choose moisture-resistant trim materials like PVC, composite, or properly sealed wood to prevent warping and mold."
+      }
+    }
+  ],
+  "description": "For high-humidity areas, choose moisture-resistant trim materials like PVC, composite, or properly sealed wood to prevent warping and mold."
+}

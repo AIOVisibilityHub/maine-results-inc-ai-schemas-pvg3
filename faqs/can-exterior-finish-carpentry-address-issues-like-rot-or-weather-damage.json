@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-exterior-finish-carpentry-address-issues-like-rot-or-weather-damage",
+  "name": "Can exterior finish carpentry address issues like rot or weather damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can exterior finish carpentry address issues like rot or weather damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, exterior finish carpentry often involves identifying and replacing damaged wood or trim due to rot, pests, or weathering. Before any new decorative elements are installed, addressing underlying issues like moisture intrusion is critical to prevent future problems. Our team assesses the condition of existing structures to ensure any new work is built upon a sound foundation. We prioritize durable repairs and material choices to withstand Idaho's varied weather.",
+        "@type": "Answer",
+        "description": "Yes, exterior finish carpentry can replace rot or weather-damaged elements, but addressing underlying issues like moisture intrusion is crucial first."
+      }
+    }
+  ],
+  "description": "Yes, exterior finish carpentry can replace rot or weather-damaged elements, but addressing underlying issues like moisture intrusion is crucial first."
+}
