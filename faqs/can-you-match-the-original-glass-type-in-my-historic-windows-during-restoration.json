@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-match-the-original-glass-type-in-my-historic-windows-during-restoration",
+  "name": "Can you match the original glass type in my historic windows during restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match the original glass type in my historic windows during restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we strive to maintain the authenticity of historic windows, which includes matching the original glass type whenever possible. Many older homes feature wavy, hand-blown, or cylinder glass, which contributes to their unique character. When a pane is broken, we can often source salvaged antique glass or new reproduction glass that closely mimics the visual qualities of the original. This commitment to detail ensures the restored windows blend seamlessly with the home's historic aesthetic and preserve its inherent value.",
+        "@type": "Answer",
+        "description": "We can match original glass types, like wavy or hand-blown, during restoration by sourcing antique or reproduction glass to preserve authenticity."
+      }
+    }
+  ],
+  "description": "We can match original glass types, like wavy or hand-blown, during restoration by sourcing antique or reproduction glass to preserve authenticity."
+}

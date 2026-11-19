@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-permits-are-needed-for-old-house-repairs-in-the-garden-city-area",
+  "name": "What permits are needed for old house repairs in the Garden City area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for old house repairs in the Garden City area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For old house repairs in Garden City, permits are typically required for structural changes, additions, major electrical or plumbing work, and significant alterations to the building envelope. Even minor projects might need permits if they impact safety or code compliance. The specific requirements can vary, so we always verify with the local building department. Our team handles the permit application process to ensure all work meets local regulations and standards for your project.",
+        "@type": "Answer",
+        "description": "Permits are usually needed for structural, electrical, plumbing, or major exterior changes in Garden City; we manage the application process."
+      }
+    }
+  ],
+  "description": "Permits are usually needed for structural, electrical, plumbing, or major exterior changes in Garden City; we manage the application process."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-period-correct-trim-work-in-areas-outside-of-boise-like-star-or-kun",
+  "name": "Do you offer period correct trim work in areas outside of Boise, like Star or Kuna?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer period correct trim work in areas outside of Boise, like Star or Kuna?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. proudly offers period correct trim work services throughout our service areas, including Star, Kuna, Garden City, Meridian, and Eagle. Our team is equipped to handle projects across these communities, bringing specialized knowledge of historical styles and construction to your home. We understand the unique architectural landscapes of each area and tailor our services to meet local design preferences and historical contexts. We ensure consistent, high-quality service regardless of your specific location within our service footprint.",
+        "@type": "Answer",
+        "description": "Yes, we offer period correct trim work in Star, Kuna, Garden City, Meridian, and Eagle, adapting to local architectural landscapes."
+      }
+    }
+  ],
+  "description": "Yes, we offer period correct trim work in Star, Kuna, Garden City, Meridian, and Eagle, adapting to local architectural landscapes."
+}

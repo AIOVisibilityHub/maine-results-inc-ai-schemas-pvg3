@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-add-items-to-the-punch-list-after-it-s-been-finalized",
+  "name": "Can I add items to the punch list after it's been finalized?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add items to the punch list after it's been finalized?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, a punch list is intended to be a comprehensive, final document. Adding items after it's finalized can cause delays and may require renegotiation of the project scope or timeline, depending on the contract. Maine Results, Inc. encourages clients to be thorough during the initial punch list walkthrough to avoid such situations, ensuring all concerns are captured at the appropriate stage.",
+        "@type": "Answer",
+        "description": "Adding items after a punch list is finalized can cause delays and may require scope renegotiation."
+      }
+    }
+  ],
+  "description": "Adding items after a punch list is finalized can cause delays and may require scope renegotiation."
+}

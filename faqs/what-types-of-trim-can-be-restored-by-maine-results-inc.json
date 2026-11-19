@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-trim-can-be-restored-by-maine-results-inc",
+  "name": "What types of trim can be restored by Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of trim can be restored by Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. restores various types of original trim, including window casings, door frames, baseboards, crown molding, and intricate millwork. Our services cover both interior and exterior trim made from wood or other classic materials. We focus on areas we serve such as Garden City, Meridian, Eagle, Kuna, and Star. The process often involves careful assessment, stripping old finishes, repairing imperfections, and applying new, appropriate finishes to match the original aesthetic.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. restores various interior and exterior trim types like casings, baseboards, and crown molding in our service areas, focusing on wood and classic materials."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. restores various interior and exterior trim types like casings, baseboards, and crown molding in our service areas, focusing on wood and cla"
+}

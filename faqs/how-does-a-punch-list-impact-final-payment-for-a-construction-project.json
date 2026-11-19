@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-does-a-punch-list-impact-final-payment-for-a-construction-project",
+  "name": "How does a punch list impact final payment for a construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a punch list impact final payment for a construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Final payment for a construction project is typically contingent upon the substantial completion of the work and the satisfactory resolution of all punch list items. A retainer or a portion of the final payment may be withheld until all listed deficiencies are addressed. For Maine Results, Inc., clearing the punch list is a critical step to ensure client satisfaction and prompt final payment, reflecting completed project quality.",
+        "@type": "Answer",
+        "description": "Final payment is often withheld until all punch list items are satisfactorily resolved."
+      }
+    }
+  ],
+  "description": "Final payment is often withheld until all punch list items are satisfactorily resolved."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-historic-trim-restoration-usually-take",
+  "name": "How long does historic trim restoration usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does historic trim restoration usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of historic trim restoration varies significantly based on the project's scope, the amount of trim involved, the extent of damage, and the complexity of the profiles. A small project, like restoring trim in a single room, might take a few days, while an entire home with intricate details could span several weeks or even months. Factors like weather conditions for exterior trim, the need for custom milling, and the drying times for certain finishes also influence the timeline. Maine Results, Inc. provides a detailed project schedule after an initial assessment.",
+        "@type": "Answer",
+        "description": "Project duration depends on scope, damage, and trim complexity; it can range from days for small projects to weeks or months for larger homes. Weather and custom milling can also affect the timeline."
+      }
+    }
+  ],
+  "description": "Project duration depends on scope, damage, and trim complexity; it can range from days for small projects to weeks or months for larger homes. Weather and custo"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-prepare-my-property-for-historic-millwork-restoration",
+  "name": "How do I prepare my property for historic millwork restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my property for historic millwork restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before restoration begins, we recommend clearing the work area of furniture, decor, and personal items to provide our team with unobstructed access. For exterior work, ensure landscaping around the millwork is trimmed back if necessary. You may also need to consider temporary arrangements for security if windows or doors are removed for off-site restoration. Gathering any historical documents or photos of the millwork can also be helpful for our team.",
+        "@type": "Answer",
+        "description": "Prepare your property by clearing work areas, trimming exterior landscaping, and considering temporary security, with historical documents being helpful."
+      }
+    }
+  ],
+  "description": "Prepare your property by clearing work areas, trimming exterior landscaping, and considering temporary security, with historical documents being helpful."
+}

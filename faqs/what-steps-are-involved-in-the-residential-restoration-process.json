@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-steps-are-involved-in-the-residential-restoration-process",
+  "name": "What steps are involved in the residential restoration process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in the residential restoration process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The restoration process typically begins with an initial assessment of the damage and a detailed estimate. This is followed by securing the property, such as boarding up windows or covering a damaged roof. Next, mitigation efforts like water extraction or mold remediation occur to prevent further damage. Once the immediate issues are handled, the reconstruction phase begins, involving repairs to structures, electrical, plumbing, and finishes. We work to keep you informed at each stage, from initial inspection to final walkthrough.",
+        "@type": "Answer",
+        "description": "The process involves assessment, securing the property, mitigation (like water extraction), and then reconstruction. We keep you informed throughout."
+      }
+    }
+  ],
+  "description": "The process involves assessment, securing the property, mitigation (like water extraction), and then reconstruction. We keep you informed throughout."
+}

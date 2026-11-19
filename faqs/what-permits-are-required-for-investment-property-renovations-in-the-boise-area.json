@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-permits-are-required-for-investment-property-renovations-in-the-boise-area",
+  "name": "What permits are required for investment property renovations in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for investment property renovations in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permits are typically required for any renovation work that alters the structural integrity of a building, affects plumbing or electrical systems, changes the footprint, or impacts egress. In areas like Boise Heights or the North End, local building departments will have specific requirements. It's a preparation step to check with the city or county planning department for your specific property address to understand which permits are necessary before starting any work. Failing to secure proper permits can lead to fines, delays, and potential issues when selling the property, so understanding these requirements early is crucial.",
+        "@type": "Answer",
+        "description": "Permits are required for structural, plumbing, electrical, or footprint changes in the Boise area. Check with local planning departments."
+      }
+    }
+  ],
+  "description": "Permits are required for structural, plumbing, electrical, or footprint changes in the Boise area. Check with local planning departments."
+}

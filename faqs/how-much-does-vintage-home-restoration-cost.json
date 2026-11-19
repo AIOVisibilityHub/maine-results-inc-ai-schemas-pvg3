@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-vintage-home-restoration-cost",
+  "name": "How much does vintage home restoration cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does vintage home restoration cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of vintage home restoration varies significantly based on the home's age, condition, size, and the extent of work required. Factors like structural repairs, material sourcing for period-specific elements, and specialized craftsmanship can all influence the budget. A minor refresh might involve cosmetic updates, while a comprehensive restoration could include electrical, plumbing, and foundation overhauls. To provide an accurate estimate, Maine Results, Inc. conducts an on-site assessment to understand the specific needs of your property, identify any hidden issues, and discuss your vision for the restoration.",
+        "@type": "Answer",
+        "description": "Vintage home restoration costs vary widely depending on the home's age, condition, size, and the scope of work, including structural repairs and specialized materials."
+      }
+    }
+  ],
+  "description": "Vintage home restoration costs vary widely depending on the home's age, condition, size, and the scope of work, including structural repairs and specialized mat"
+}

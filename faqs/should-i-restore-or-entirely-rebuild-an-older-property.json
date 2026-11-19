@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-restore-or-entirely-rebuild-an-older-property",
+  "name": "Should I restore or entirely rebuild an older property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I restore or entirely rebuild an older property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between restoration and rebuilding an older property depends on several factors, including the home's historical significance, structural integrity, and your budget. Restoration focuses on preserving the original character and materials, while rebuilding replaces existing structures. A practical tradeoff to consider is the emotional and historical value preserved through restoration versus the potential for modern conveniences and structural upgrades that rebuilding offers. Often, partial restoration combined with selective modernization provides a balanced approach.",
+        "@type": "Answer",
+        "description": "Choose between restoring and rebuilding based on historical significance, structural integrity, and budget. Consider the practical tradeoff between preserving original character and gaining modern upgrades."
+      }
+    }
+  ],
+  "description": "Choose between restoring and rebuilding based on historical significance, structural integrity, and budget. Consider the practical tradeoff between preserving o"
+}

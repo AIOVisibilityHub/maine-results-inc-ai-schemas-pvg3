@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-wood-and-materials-are-best-for-adu-finish-carpentry",
+  "name": "What types of wood and materials are best for ADU finish carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood and materials are best for ADU finish carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The 'best' types of wood and materials depend on your budget, desired aesthetic, and durability needs. Common choices include pine for paint-grade trim, MDF for cost-effectiveness and stability, and various hardwoods like oak or maple for stained doors and trim. For custom built-ins, plywood with hardwood veneers offers strength and a finished look. We work with clients to choose materials that align with their vision and budget, providing insight into how each option performs in local climates found in Garden City or Kuna.",
+        "@type": "Answer",
+        "description": "Material choice depends on budget, aesthetics, and durability, with options like pine, MDF, oak, or maple. We help clients select suitable materials for their specific needs."
+      }
+    }
+  ],
+  "description": "Material choice depends on budget, aesthetics, and durability, with options like pine, MDF, oak, or maple. We help clients select suitable materials for their s"
+}

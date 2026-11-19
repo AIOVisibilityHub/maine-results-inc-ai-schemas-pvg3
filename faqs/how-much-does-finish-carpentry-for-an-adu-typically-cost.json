@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-finish-carpentry-for-an-adu-typically-cost",
+  "name": "How much does finish carpentry for an ADU typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does finish carpentry for an ADU typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of finish carpentry for an ADU varies significantly based on material choices, the complexity of the design, and the size of the unit. For example, custom-built cabinetry or intricate trim work will naturally be more expensive than standard options. To get an accurate estimate, we encourage clients to discuss their specific design preferences and material selections with us during an initial consultation, allowing us to provide a detailed quote tailored to their project in areas like Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "Costs vary based on materials, design complexity, and ADU size; custom elements increase price. A detailed consultation helps determine specifics."
+      }
+    }
+  ],
+  "description": "Costs vary based on materials, design complexity, and ADU size; custom elements increase price. A detailed consultation helps determine specifics."
+}

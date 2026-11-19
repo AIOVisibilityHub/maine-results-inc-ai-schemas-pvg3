@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-the-original-woodwork-restoration-process-take",
+  "name": "How long does the original woodwork restoration process take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the original woodwork restoration process take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for original woodwork restoration is highly variable, depending on the scope of the project and the wood's condition. Smaller projects, like a single doorway, might take a few days, while an entire room with intricate trim could extend over several weeks. Factors like drying times for finishes and the need for custom-milled repair pieces can affect the schedule. We prioritize clear communication about project milestones and expected completion dates, ensuring you are informed every step of the way.",
+        "@type": "Answer",
+        "description": "Restoration timelines vary widely based on project scope, wood condition, and drying times; smaller projects may take days, larger ones several weeks."
+      }
+    }
+  ],
+  "description": "Restoration timelines vary widely based on project scope, wood condition, and drying times; smaller projects may take days, larger ones several weeks."
+}

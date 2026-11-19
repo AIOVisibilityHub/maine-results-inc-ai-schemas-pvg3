@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-original-trim-restoration-usually-take-for-a-typical-home-in-the-t",
+  "name": "How long does original trim restoration usually take for a typical home in the Treasure Valley area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does original trim restoration usually take for a typical home in the Treasure Valley area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of original trim restoration varies based on the amount of trim, its current condition, and the complexity of the profiles. For a typical home in areas like Meridian or Eagle, restoring all interior trim might take several days to a few weeks. Exterior trim work can be influenced by weather conditions. A practical tradeoff is that meticulous restoration takes time due to multiple steps like stripping, drying times for repairs, and finish coats, which might mean areas of your home are inaccessible during work. We can provide a more precise timeline after an on-site evaluation.",
+        "@type": "Answer",
+        "description": "Trim restoration duration varies by amount, condition, and complexity, typically from days to weeks for a home. Meticulous restoration requires time, affecting accessibility."
+      }
+    }
+  ],
+  "description": "Trim restoration duration varies by amount, condition, and complexity, typically from days to weeks for a home. Meticulous restoration requires time, affecting"
+}

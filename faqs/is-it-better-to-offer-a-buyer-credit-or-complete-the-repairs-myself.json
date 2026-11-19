@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/is-it-better-to-offer-a-buyer-credit-or-complete-the-repairs-myself",
+  "name": "Is it better to offer a buyer credit or complete the repairs myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to offer a buyer credit or complete the repairs myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between offering a buyer credit and completing repairs yourself depends on several factors, including the type of repair, your time constraints, and the buyer's preference. Completing repairs yourself can assure buyers of the quality of work and potentially lead to a smoother closing, but it requires managing the work. Offering a credit simplifies your process but shifts the responsibility to the buyer. Maine Results, Inc. can help by giving you accurate repair costs, allowing you to weigh whether the effort of completing the repairs will yield a better outcome than a financial concession.",
+        "@type": "Answer",
+        "description": "Decide between buyer credit or self-completion based on repair type, time, and buyer preference; repair costs from a contractor can aid this decision."
+      }
+    }
+  ],
+  "description": "Decide between buyer credit or self-completion based on repair type, time, and buyer preference; repair costs from a contractor can aid this decision."
+}

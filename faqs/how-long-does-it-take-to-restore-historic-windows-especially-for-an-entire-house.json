@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-restore-historic-windows-especially-for-an-entire-house",
+  "name": "How long does it take to restore historic windows, especially for an entire house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to restore historic windows, especially for an entire house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for historic window restoration depends on the number of windows, their condition, and the complexity of repairs. A single window might take several days of dedicated work, while a whole-house project for a typical home in Eagle or Kuna could span several weeks to a few months. We often work on windows in batches to minimize disruption, ensuring your home remains secure and weather-tight throughout the project. Our team provides a detailed project schedule after an initial assessment.",
+        "@type": "Answer",
+        "description": "Restoration time varies by window count and condition, from days for one window to months for a whole house. We schedule projects in batches."
+      }
+    }
+  ],
+  "description": "Restoration time varies by window count and condition, from days for one window to months for a whole house. We schedule projects in batches."
+}

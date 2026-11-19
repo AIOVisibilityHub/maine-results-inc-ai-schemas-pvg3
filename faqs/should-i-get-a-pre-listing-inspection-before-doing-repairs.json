@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-get-a-pre-listing-inspection-before-doing-repairs",
+  "name": "Should I get a pre-listing inspection before doing repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I get a pre-listing inspection before doing repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a pre-listing inspection is highly recommended before undertaking repairs. It provides a comprehensive report of your home's condition, highlighting potential issues that buyers' inspectors might find. This allows you to address significant problems proactively, budget for necessary repairs, and avoid surprises that could delay or jeopardize a sale. Having this information upfront gives you more control over the repair process and can help maintain the integrity of your asking price.",
+        "@type": "Answer",
+        "description": "A pre-listing inspection is recommended to identify potential issues, allowing proactive repairs and avoiding surprises during the sale process."
+      }
+    }
+  ],
+  "description": "A pre-listing inspection is recommended to identify potential issues, allowing proactive repairs and avoiding surprises during the sale process."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-try-to-repair-historic-millwork-myself-or-hire-a-professional",
+  "name": "Should I try to repair historic millwork myself or hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I try to repair historic millwork myself or hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor cosmetic issues might be addressed by an experienced DIYer, historic millwork restoration often requires specialized skills, tools, and knowledge of period-appropriate techniques and materials. Improper repairs can devalue the millwork or cause further damage. A practical tradeoff is the risk of damaging irreplaceable original features versus the investment in professional expertise that ensures proper preservation and long-term integrity.",
+        "@type": "Answer",
+        "description": "Professional restoration is recommended for historic millwork due to specialized skills and tools required; improper DIY can cause damage."
+      }
+    }
+  ],
+  "description": "Professional restoration is recommended for historic millwork due to specialized skills and tools required; improper DIY can cause damage."
+}

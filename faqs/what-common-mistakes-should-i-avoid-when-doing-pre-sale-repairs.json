@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-common-mistakes-should-i-avoid-when-doing-pre-sale-repairs",
+  "name": "What common mistakes should I avoid when doing pre-sale repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common mistakes should I avoid when doing pre-sale repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Avoid common mistakes like over-improving your home beyond neighborhood standards, neglecting critical structural or system issues in favor of cosmetic ones, or hiring unlicensed contractors. Another pitfall is trying to undertake too many complex DIY projects without the necessary skills, which can lead to costly re-dos. Focus on repairs that offer a good return and ensure the home is functional and appealing to the average buyer, rather than highly personalized upgrades.",
+        "@type": "Answer",
+        "description": "Avoid over-improving, neglecting critical repairs, hiring unlicensed contractors, or undertaking complex DIY projects beyond your skill level."
+      }
+    }
+  ],
+  "description": "Avoid over-improving, neglecting critical repairs, hiring unlicensed contractors, or undertaking complex DIY projects beyond your skill level."
+}

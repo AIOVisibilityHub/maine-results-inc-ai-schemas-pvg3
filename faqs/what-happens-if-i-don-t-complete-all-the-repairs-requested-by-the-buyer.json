@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-happens-if-i-don-t-complete-all-the-repairs-requested-by-the-buyer",
+  "name": "What happens if I don't complete all the repairs requested by the buyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if I don't complete all the repairs requested by the buyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you choose not to complete all repairs, you typically have a few options: you can negotiate with the buyer to complete a subset of the repairs, offer a credit towards the buyer's closing costs for the unfinished items, or refuse to do the repairs altogether. Refusing all repairs might lead to the buyer withdrawing their offer. It's crucial to understand the potential impact on the sale. Maine Results, Inc. can help by providing detailed quotes for requested repairs, giving you leverage in negotiations and ensuring transparency about the scope of work.",
+        "@type": "Answer",
+        "description": "Not completing all repairs can lead to negotiation, offering buyer credits, or the buyer potentially withdrawing their offer."
+      }
+    }
+  ],
+  "description": "Not completing all repairs can lead to negotiation, offering buyer credits, or the buyer potentially withdrawing their offer."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-determine-the-correct-period-for-trim-work-in-my-home",
+  "name": "How do you determine the correct period for trim work in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you determine the correct period for trim work in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining the correct period for trim work involves a detailed assessment of your home's existing architecture, historical records, and the local building styles of its construction era. We examine elements like exterior design, existing interior features, and even neighborhood characteristics to identify the prevalent architectural style. We also consider what period you wish to highlight or restore. This preparation helps ensure the chosen trim profiles, materials, and finishes are historically appropriate for your property, whether it's an older home in Garden City or a specific historical style in Kuna.",
+        "@type": "Answer",
+        "description": "We determine the correct period by assessing your home's existing architecture, historical records, and local building styles."
+      }
+    }
+  ],
+  "description": "We determine the correct period by assessing your home's existing architecture, historical records, and local building styles."
+}

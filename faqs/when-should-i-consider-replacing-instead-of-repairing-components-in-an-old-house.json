@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-replacing-instead-of-repairing-components-in-an-old-house",
+  "name": "When should I consider replacing instead of repairing components in an old house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing instead of repairing components in an old house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing components in an old house when repairs are no longer cost-effective, the component poses a safety risk, or its efficiency is severely lacking. For instance, an ancient furnace with frequent breakdowns might be better replaced with a modern, efficient unit. Similarly, lead pipes or knob-and-tube wiring often warrant full replacement for safety and code compliance. We can help assess the long-term value and safety implications of repair versus replacement options for your specific situation.",
+        "@type": "Answer",
+        "description": "Replace components when repairs are costly, unsafe, or highly inefficient, such as old furnaces or outdated wiring."
+      }
+    }
+  ],
+  "description": "Replace components when repairs are costly, unsafe, or highly inefficient, such as old furnaces or outdated wiring."
+}

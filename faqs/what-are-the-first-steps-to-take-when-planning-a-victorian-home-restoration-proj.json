@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-first-steps-to-take-when-planning-a-victorian-home-restoration-proj",
+  "name": "What are the first steps to take when planning a Victorian home restoration project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps to take when planning a Victorian home restoration project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first steps in planning a Victorian home restoration project involve a thorough assessment of the property's current condition and defining your restoration goals. Begin by having a professional inspection to identify any structural issues, plumbing, or electrical concerns. Next, research your home's specific architectural style to ensure accurate restoration. Considering whether to prioritize exterior charm or interior functionality can change the right approach for your project. This preparation helps create a clear vision and budget before engaging contractors in areas like Star or Caldwell.",
+        "@type": "Answer",
+        "description": "Begin by assessing your home's condition with a professional inspection and defining restoration goals to inform your project's scope and budget."
+      }
+    }
+  ],
+  "description": "Begin by assessing your home's condition with a professional inspection and defining restoration goals to inform your project's scope and budget."
+}

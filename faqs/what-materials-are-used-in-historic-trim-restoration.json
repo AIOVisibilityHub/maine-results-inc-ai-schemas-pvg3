@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-used-in-historic-trim-restoration",
+  "name": "What materials are used in historic trim restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used in historic trim restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Authentic historic trim restoration prioritizes using materials that match or are compatible with the original. Common woods include pine, fir, oak, or mahogany, selected to match the existing species. Specialized wood epoxies and consolidants are used for structural repairs to decayed wood, offering durable, lasting solutions without full replacement. For finishes, historically appropriate paints, stains, and clear coats are chosen to replicate the original aesthetic. We ensure that any new materials integrated blend seamlessly with the existing historic elements, maintaining the home's character in areas like Eagle and Kuna.",
+        "@type": "Answer",
+        "description": "Materials include historically matching woods (pine, fir, oak), specialized wood epoxies for repairs, and appropriate paints or stains for finishes. Compatibility with original elements is key."
+      }
+    }
+  ],
+  "description": "Materials include historically matching woods (pine, fir, oak), specialized wood epoxies for repairs, and appropriate paints or stains for finishes. Compatibili"
+}

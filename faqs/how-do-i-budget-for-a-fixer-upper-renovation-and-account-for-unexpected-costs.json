@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-budget-for-a-fixer-upper-renovation-and-account-for-unexpected-costs",
+  "name": "How do I budget for a fixer-upper renovation and account for unexpected costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I budget for a fixer-upper renovation and account for unexpected costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Budgeting for a fixer-upper renovation involves estimating material and labor costs for each planned update. It's crucial to obtain detailed quotes from contractors and suppliers for accuracy. Additionally, allocate a contingency fund, typically 10-20% of your total budget, to cover unexpected issues common in older homes, such as outdated electrical systems, hidden water damage, or dry rot. This fund helps prevent project delays or cost overruns if new problems are discovered once work begins. Discuss potential unknowns with your contractor during the planning phase.",
+        "@type": "Answer",
+        "description": "Budget for your renovation by estimating material and labor, and add a 10-20% contingency fund for unexpected issues often found in older homes."
+      }
+    }
+  ],
+  "description": "Budget for your renovation by estimating material and labor, and add a 10-20% contingency fund for unexpected issues often found in older homes."
+}

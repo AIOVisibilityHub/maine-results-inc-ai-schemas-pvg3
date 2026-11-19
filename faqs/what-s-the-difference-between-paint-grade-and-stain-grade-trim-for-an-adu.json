@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-s-the-difference-between-paint-grade-and-stain-grade-trim-for-an-adu",
+  "name": "What's the difference between paint-grade and stain-grade trim for an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between paint-grade and stain-grade trim for an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Paint-grade trim is typically made from less expensive woods like pine or MDF, chosen for their smooth surfaces that take paint well. It often has minor imperfections that are covered by paint. Stain-grade trim, conversely, is made from higher-quality hardwoods like oak, maple, or cherry, selected for their attractive grain patterns that are enhanced by stain. The practical tradeoff is that paint-grade is more economical and allows for a broader color palette, while stain-grade offers a richer, more natural wood aesthetic at a higher cost.",
+        "@type": "Answer",
+        "description": "Paint-grade trim is for painting, often pine or MDF; stain-grade uses hardwoods like oak for a natural wood aesthetic. Paint-grade is cheaper, stain-grade is higher quality."
+      }
+    }
+  ],
+  "description": "Paint-grade trim is for painting, often pine or MDF; stain-grade uses hardwoods like oak for a natural wood aesthetic. Paint-grade is cheaper, stain-grade is hi"
+}

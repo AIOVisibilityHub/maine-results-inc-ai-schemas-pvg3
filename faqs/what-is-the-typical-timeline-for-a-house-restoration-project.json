@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-timeline-for-a-house-restoration-project",
+  "name": "What is the typical timeline for a house restoration project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a house restoration project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a house restoration project varies significantly depending on the home's condition, size, the extent of historical preservation desired, and any necessary structural repairs. Minor restorations might take a few months, while comprehensive projects involving structural overhaul, system updates, and meticulous historical detailing can extend from six months to over a year. The process can also be affected by the availability of specialized historical materials or craftsmen. During our initial assessment, Maine Results, Inc. will provide a detailed project schedule based on your specific restoration goals.",
+        "@type": "Answer",
+        "description": "Restoration timelines vary greatly, from a few months for minor work to over a year for comprehensive projects, depending on the home's condition and scope."
+      }
+    }
+  ],
+  "description": "Restoration timelines vary greatly, from a few months for minor work to over a year for comprehensive projects, depending on the home's condition and scope."
+}

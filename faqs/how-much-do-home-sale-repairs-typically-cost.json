@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-do-home-sale-repairs-typically-cost",
+  "name": "How much do home sale repairs typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much do home sale repairs typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of home sale repairs varies widely, from a few hundred dollars for minor fixes like caulking or leaky faucets, to tens of thousands for significant issues such as foundation problems, roof replacements, or extensive plumbing overhauls. The total cost depends entirely on the scope of the repair list. Maine Results, Inc. provides transparent and detailed estimates after assessing the specific issues. We help you understand the cost implications of each repair, ensuring you can make informed decisions that align with your budget and sales strategy.",
+        "@type": "Answer",
+        "description": "Repair costs vary greatly, from hundreds for minor fixes to thousands for major issues; estimates are based on the specific repair list."
+      }
+    }
+  ],
+  "description": "Repair costs vary greatly, from hundreds for minor fixes to thousands for major issues; estimates are based on the specific repair list."
+}

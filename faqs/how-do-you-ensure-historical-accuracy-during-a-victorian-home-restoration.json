@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-ensure-historical-accuracy-during-a-victorian-home-restoration",
+  "name": "How do you ensure historical accuracy during a Victorian home restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure historical accuracy during a Victorian home restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ensuring historical accuracy during a Victorian home restoration involves extensive research, careful material selection, and skilled craftsmanship. We start by examining original blueprints, historical photographs, or architectural style guides specific to your home's era and region. Sourcing period-appropriate materials, such as specific wood species for trim or historically accurate paint colors, is critical. A practical tradeoff is balancing historical fidelity with modern building codes and energy efficiency, often requiring creative solutions to integrate contemporary systems without compromising the home's original character. This approach is key to authentic restoration.",
+        "@type": "Answer",
+        "description": "Historical accuracy is achieved through researching original designs, using period-appropriate materials, and skilled craftsmanship, balancing authenticity with modern needs."
+      }
+    }
+  ],
+  "description": "Historical accuracy is achieved through researching original designs, using period-appropriate materials, and skilled craftsmanship, balancing authenticity with"
+}

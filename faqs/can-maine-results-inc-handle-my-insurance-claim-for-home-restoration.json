@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-maine-results-inc-handle-my-insurance-claim-for-home-restoration",
+  "name": "Can Maine Results, Inc. handle my insurance claim for home restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Maine Results, Inc. handle my insurance claim for home restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. can assist with your insurance claim for home restoration by providing detailed documentation, estimates, and working directly with your insurance adjuster. While we don't file the claim for you, we streamline the process by ensuring clear communication regarding the scope of work and costs. Our experience helps facilitate smoother approvals and reduces the burden on homeowners during a challenging time. This collaboration aims to ensure that all covered damages are properly addressed.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. assists with insurance claims by providing documentation and working with adjusters, but homeowners file the initial claim."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. assists with insurance claims by providing documentation and working with adjusters, but homeowners file the initial claim."
+}

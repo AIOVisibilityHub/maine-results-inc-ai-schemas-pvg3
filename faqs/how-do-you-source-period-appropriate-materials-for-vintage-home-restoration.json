@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-source-period-appropriate-materials-for-vintage-home-restoration",
+  "name": "How do you source period-appropriate materials for vintage home restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you source period-appropriate materials for vintage home restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sourcing period-appropriate materials is a critical aspect of authentic vintage home restoration. This often involves a mix of reclaimed materials from architectural salvage yards, custom fabrication by skilled artisans, or specialized suppliers who reproduce historical elements. For example, matching specific trim profiles or finding original-style windows requires careful effort. Maine Results, Inc. leverages its network of suppliers and craftspeople experienced in historical reproductions to find materials that closely match your home's original design and era, ensuring historical accuracy and structural integrity.",
+        "@type": "Answer",
+        "description": "Period-appropriate materials are sourced through architectural salvage, custom fabrication, and specialized suppliers to match your vintage home's original design and era."
+      }
+    }
+  ],
+  "description": "Period-appropriate materials are sourced through architectural salvage, custom fabrication, and specialized suppliers to match your vintage home's original desi"
+}

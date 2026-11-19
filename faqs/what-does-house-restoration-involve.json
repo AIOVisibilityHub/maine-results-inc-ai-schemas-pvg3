@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-does-house-restoration-involve",
+  "name": "What does house restoration involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does house restoration involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "House restoration focuses on bringing an older home back to its original or an earlier state, maintaining historical accuracy in materials, techniques, and design elements. This often includes repairing or replacing damaged structural components, updating essential systems like plumbing and electrical while preserving character, and restoring period-appropriate finishes. A key aspect is identifying the home's original features and condition to guide the work. Our team at Maine Results, Inc. specializes in assessing these unique properties in areas like Garden City and Meridian to plan a historically sensitive restoration.",
+        "@type": "Answer",
+        "description": "House restoration involves returning an older home to its original state, focusing on historical accuracy in materials, techniques, and design while updating necessary systems."
+      }
+    }
+  ],
+  "description": "House restoration involves returning an older home to its original state, focusing on historical accuracy in materials, techniques, and design while updating ne"
+}

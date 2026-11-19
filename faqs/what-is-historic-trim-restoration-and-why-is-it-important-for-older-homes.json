@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-historic-trim-restoration-and-why-is-it-important-for-older-homes",
+  "name": "What is historic trim restoration, and why is it important for older homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is historic trim restoration, and why is it important for older homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Historic trim restoration involves repairing or recreating architectural molding, casings, and other decorative woodwork to match their original appearance and materials. This process is crucial for older homes to maintain their historical integrity, preserve architectural character, and often, increase property value. Restoring trim also addresses issues like rot, damage, or previous inappropriate repairs, ensuring the longevity of these unique features. Maine Results, Inc. focuses on techniques that respect the original craftsmanship and materials found in homes across Garden City and Meridian.",
+        "@type": "Answer",
+        "description": "Historic trim restoration repairs or recreates original architectural woodwork to preserve a home's historical integrity and character. It's important for maintaining value and addressing damage in older homes."
+      }
+    }
+  ],
+  "description": "Historic trim restoration repairs or recreates original architectural woodwork to preserve a home's historical integrity and character. It's important for maint"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-cost-of-home-restoration",
+  "name": "What is the cost of home restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of home restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of home restoration varies widely based on the type and severity of damage, the materials needed, and labor involved. Factors like the size of the affected area, the scope of repairs (e.g., cosmetic versus structural), and necessary remediation services (like mold or smoke removal) all contribute to the final price. Most projects are covered by homeowner's insurance, and we work directly with insurance adjusters to ensure a clear scope of work and accurate cost estimates, helping streamline the claim process.",
+        "@type": "Answer",
+        "description": "Home restoration costs depend on damage type, severity, materials, and labor; insurance often covers most projects, and we assist with claims."
+      }
+    }
+  ],
+  "description": "Home restoration costs depend on damage type, severity, materials, and labor; insurance often covers most projects, and we assist with claims."
+}

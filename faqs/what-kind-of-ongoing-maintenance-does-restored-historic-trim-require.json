@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-ongoing-maintenance-does-restored-historic-trim-require",
+  "name": "What kind of ongoing maintenance does restored historic trim require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of ongoing maintenance does restored historic trim require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restored historic trim requires regular, but relatively simple, ongoing maintenance to preserve its condition. This typically includes periodic cleaning with mild solutions to remove dust and grime, inspecting for any signs of new damage or wear, and re-touching paint or stain as needed, usually every few years. Protecting trim from excessive moisture and extreme temperature fluctuations is also important, especially for exterior elements. Consistent care helps extend the life of the restoration and prevents future, more extensive repairs, which is important for maintaining homes in Caldwell and Middleton.",
+        "@type": "Answer",
+        "description": "Ongoing maintenance for restored trim involves regular cleaning, inspection for wear, and occasional paint or stain touch-ups. Protecting it from moisture and temperature extremes is also crucial."
+      }
+    }
+  ],
+  "description": "Ongoing maintenance for restored trim involves regular cleaning, inspection for wear, and occasional paint or stain touch-ups. Protecting it from moisture and t"
+}

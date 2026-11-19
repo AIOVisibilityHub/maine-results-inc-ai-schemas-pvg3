@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-modernize-aspects-of-my-historic-home-during-restoration",
+  "name": "Can I modernize aspects of my historic home during restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I modernize aspects of my historic home during restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is often possible to modernize aspects of your historic home during restoration while still preserving its historical character. This can include upgrading plumbing, electrical systems, or improving insulation for energy efficiency. The key is to integrate modern conveniences thoughtfully and discreetly, often concealing them within existing structures or choosing upgrades that complement the home's original aesthetic. The right option involves carefully balancing essential functional improvements with maintaining the historic fabric and design integrity of the property.",
+        "@type": "Answer",
+        "description": "You can modernize aspects of a historic home during restoration, like electrical or plumbing, by integrating upgrades thoughtfully to maintain historical character and aesthetic integrity."
+      }
+    }
+  ],
+  "description": "You can modernize aspects of a historic home during restoration, like electrical or plumbing, by integrating upgrades thoughtfully to maintain historical charac"
+}

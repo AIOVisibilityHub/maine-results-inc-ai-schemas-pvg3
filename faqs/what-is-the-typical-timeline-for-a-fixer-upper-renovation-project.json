@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-timeline-for-a-fixer-upper-renovation-project",
+  "name": "What is the typical timeline for a fixer-upper renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a fixer-upper renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a fixer-upper renovation varies significantly based on the project's scope and complexity. Minor cosmetic updates might take a few weeks, while extensive remodels involving structural changes, multiple room renovations, or additions can extend to several months, or even over a year. The availability of materials, permitting processes in areas like Eagle or Kuna, and unforeseen issues encountered during demolition can all affect the schedule. A detailed project plan from your contractor will outline key milestones and a more precise estimate.",
+        "@type": "Answer",
+        "description": "Renovation timelines vary; cosmetic changes take weeks, while extensive remodels can last months or longer, influenced by scope and unforeseen issues."
+      }
+    }
+  ],
+  "description": "Renovation timelines vary; cosmetic changes take weeks, while extensive remodels can last months or longer, influenced by scope and unforeseen issues."
+}

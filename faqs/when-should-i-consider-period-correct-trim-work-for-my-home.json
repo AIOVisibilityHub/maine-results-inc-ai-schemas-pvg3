@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-period-correct-trim-work-for-my-home",
+  "name": "When should I consider period correct trim work for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider period correct trim work for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider period correct trim work if you own an older home and wish to restore its historical accuracy, enhance its architectural character, or increase its market value by preserving its original charm. It's also ideal if you are undertaking a historically sensitive renovation or addition where maintaining stylistic consistency is important. Deciding when to invest in this type of work often aligns with major renovations or during the purchase of an older home where you want to honor its past. Gathering images of the trim styles from your home's construction era can aid in our initial discussions.",
+        "@type": "Answer",
+        "description": "Consider it for older homes to restore historical accuracy, enhance character, or increase market value, especially during sensitive renovations."
+      }
+    }
+  ],
+  "description": "Consider it for older homes to restore historical accuracy, enhance character, or increase market value, especially during sensitive renovations."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-historic-millwork-restoration-take",
+  "name": "How long does historic millwork restoration take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does historic millwork restoration take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of historic millwork restoration varies widely based on the scope, condition, and complexity of the project. A small trim repair might take a few days, while a full house of intricate window and door restoration could span several weeks or even months. The process timing can also be affected by the need to source specific, period-accurate materials or allow for adequate curing times for specialized finishes. We provide an estimated timeline after a thorough on-site assessment.",
+        "@type": "Answer",
+        "description": "Historic millwork restoration timing depends on project scope, condition, and complexity, ranging from days for minor repairs to months for larger projects."
+      }
+    }
+  ],
+  "description": "Historic millwork restoration timing depends on project scope, condition, and complexity, ranging from days for minor repairs to months for larger projects."
+}

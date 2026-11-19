@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-woodwork-can-be-restored-rather-than-replaced",
+  "name": "How do I know if my woodwork can be restored rather than replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my woodwork can be restored rather than replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining if your woodwork can be restored often depends on the extent of damage and the type of wood. While rot, severe structural issues, or extensive insect damage might necessitate replacement, many forms of wear, scratches, fading, or minor cracks are treatable. Our team inspects the existing condition, assesses the wood's stability, and discusses your goals to recommend the most cost-effective and authentic approach for your home, especially for older properties in areas like the Boise Heights or North End districts.",
+        "@type": "Answer",
+        "description": "Assess the extent of damage; minor issues like scratches or fading are often restorable, while severe rot or structural damage may require replacement."
+      }
+    }
+  ],
+  "description": "Assess the extent of damage; minor issues like scratches or fading are often restorable, while severe rot or structural damage may require replacement."
+}

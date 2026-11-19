@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-a-fixer-upper-renovation-and-what-does-it-typically-involve",
+  "name": "What is a fixer-upper renovation and what does it typically involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a fixer-upper renovation and what does it typically involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A fixer-upper renovation involves purchasing an older or distressed property and updating it to improve its value, functionality, and aesthetics. This can range from minor cosmetic changes like painting and new flooring to major structural overhauls, including kitchen and bathroom remodels, foundation work, or reconfiguring the layout. The scope often depends on the property's initial condition and your long-term goals. For significant projects, an initial inspection by a general contractor can help determine the necessary work and potential challenges before you commit.",
+        "@type": "Answer",
+        "description": "A fixer-upper renovation updates an older property to improve its value and appearance, from cosmetic changes to major structural overhauls."
+      }
+    }
+  ],
+  "description": "A fixer-upper renovation updates an older property to improve its value and appearance, from cosmetic changes to major structural overhauls."
+}

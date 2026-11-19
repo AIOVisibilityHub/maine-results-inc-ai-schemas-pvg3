@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-is-a-punch-list-typically-created-during-a-construction-project",
+  "name": "When is a punch list typically created during a construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is a punch list typically created during a construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A punch list is usually created during the final stages of a construction project, often after substantial completion but before the final walkthrough and official handover. This timing allows most major work to be done, leaving only minor adjustments or fixes. Maine Results, Inc. prioritizes creating this list collaboratively with the client to capture all concerns efficiently and ensure a smooth transition to project completion in areas like Garden City or Eagle.",
+        "@type": "Answer",
+        "description": "Punch lists are created during the final stages of a construction project, after substantial completion and before final handover."
+      }
+    }
+  ],
+  "description": "Punch lists are created during the final stages of a construction project, after substantial completion and before final handover."
+}

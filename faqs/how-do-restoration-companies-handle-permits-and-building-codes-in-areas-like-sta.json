@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-restoration-companies-handle-permits-and-building-codes-in-areas-like-sta",
+  "name": "How do restoration companies handle permits and building codes in areas like Star or Kuna?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do restoration companies handle permits and building codes in areas like Star or Kuna?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When undertaking significant residential restoration projects, especially those involving structural changes or extensive repairs, permits are often required by local municipalities, including in areas like Star or Kuna. A reputable restoration company will be familiar with the local building codes and permitting processes. We manage the necessary paperwork and inspections to ensure all work complies with current regulations, saving you the complexity of understanding and filing these documents yourself.",
+        "@type": "Answer",
+        "description": "Permits are often needed for significant restoration. We handle the paperwork and inspections to ensure compliance with local building codes in Star or Kuna."
+      }
+    }
+  ],
+  "description": "Permits are often needed for significant restoration. We handle the paperwork and inspections to ensure compliance with local building codes in Star or Kuna."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-the-right-contractor-for-a-historic-home-restoration",
+  "name": "How do I choose the right contractor for a historic home restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for a historic home restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor for historic home restoration involves looking for experience specifically with period properties and a proven track record of preserving architectural integrity. Verify their understanding of traditional building methods and materials. A key decision factor is assessing the contractor's portfolio and client references to ensure they can manage the unique challenges of historic homes, such as working with original structures or complying with local preservation guidelines.",
+        "@type": "Answer",
+        "description": "Select a contractor with specific experience in historic properties and traditional methods. Assess their portfolio and references to ensure they can handle restoration challenges."
+      }
+    }
+  ],
+  "description": "Select a contractor with specific experience in historic properties and traditional methods. Assess their portfolio and references to ensure they can handle res"
+}

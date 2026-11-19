@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-make-my-old-house-more-energy-efficient-without-major-overhauls",
+  "name": "How can I make my old house more energy efficient without major overhauls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make my old house more energy efficient without major overhauls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Improving energy efficiency in an old house without major overhauls often involves addressing areas of heat loss and gain. Simple steps include upgrading insulation in attics and walls, sealing air leaks around windows and doors, and installing energy-efficient window treatments. Replacing old appliances with Energy Star models also helps. While we specialize in larger projects, we can also offer insights on incremental improvements that fit your budget and avoid extensive structural changes, optimizing comfort and reducing utility costs.",
+        "@type": "Answer",
+        "description": "Increase energy efficiency in an old home by improving insulation, sealing drafts, and using efficient appliances without major overhauls."
+      }
+    }
+  ],
+  "description": "Increase energy efficiency in an old home by improving insulation, sealing drafts, and using efficient appliances without major overhauls."
+}

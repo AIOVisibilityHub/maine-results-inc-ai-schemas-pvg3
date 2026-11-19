@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/does-maine-results-inc-handle-punch-list-repairs-for-projects-they-didn-t-constr",
+  "name": "Does Maine Results, Inc. handle punch list repairs for projects they didn't construct?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Maine Results, Inc. handle punch list repairs for projects they didn't construct?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. primarily focuses on projects they construct from start to finish, including managing their own punch list process. While they specialize in new construction and major renovations, handling punch list repairs for external projects falls outside their standard service model. Customers seeking repairs for existing structures might benefit from a general handyman service or a contractor specializing in smaller-scale maintenance, depending on the scope of work.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. generally handles punch list repairs only for projects they construct, not external ones."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. generally handles punch list repairs only for projects they construct, not external ones."
+}

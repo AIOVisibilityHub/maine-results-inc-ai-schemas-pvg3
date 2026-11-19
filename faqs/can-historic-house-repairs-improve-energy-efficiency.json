@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-historic-house-repairs-improve-energy-efficiency",
+  "name": "Can historic house repairs improve energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can historic house repairs improve energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, historic house repairs can significantly improve energy efficiency while maintaining historical character. This often involves upgrading insulation, repairing or weatherizing original windows, and sealing air leaks. For example, rather than replacing original windows, we can perform repairs, reglazing, and add weatherstripping, which is often more effective and historically appropriate than simple replacement. This approach balances modern comfort needs with the home's original aesthetic and preserves its historical value.",
+        "@type": "Answer",
+        "description": "Yes, repairs can improve energy efficiency through insulation upgrades, window weatherization, and air sealing, often while preserving original features."
+      }
+    }
+  ],
+  "description": "Yes, repairs can improve energy efficiency through insulation upgrades, window weatherization, and air sealing, often while preserving original features."
+}

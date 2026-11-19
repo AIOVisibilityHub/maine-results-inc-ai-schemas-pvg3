@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-renovating-rather-than-rebuilding-an-old-house",
+  "name": "When should I consider renovating rather than rebuilding an old house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider renovating rather than rebuilding an old house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider renovating an old house when it possesses historical significance, unique architectural details, or a desirable location that would be lost with a rebuild. Renovation often preserves the character and charm that attract homeowners to older properties. Additionally, renovating can sometimes be more cost-effective if the existing structure is sound and meets modern building codes. A practical tradeoff is balancing the desire to preserve original elements with the need for modern functionality and efficiency, which we can help assess for your home in Boise Heights or Borah.",
+        "@type": "Answer",
+        "description": "Renovate when an old house has historical value, unique details, or a desirable location worth preserving, or if the existing structure is sound and cost-effective to update."
+      }
+    }
+  ],
+  "description": "Renovate when an old house has historical value, unique details, or a desirable location worth preserving, or if the existing structure is sound and cost-effect"
+}

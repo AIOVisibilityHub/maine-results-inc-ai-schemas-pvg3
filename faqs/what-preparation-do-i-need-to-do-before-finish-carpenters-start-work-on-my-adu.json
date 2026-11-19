@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-do-i-need-to-do-before-finish-carpenters-start-work-on-my-adu",
+  "name": "What preparation do I need to do before finish carpenters start work on my ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before finish carpenters start work on my ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before finish carpenters begin, you should ensure that all drywall is fully installed, taped, mudded, sanded, and primed. Electrical outlets and switches should be installed, and plumbing fixtures roughed in. Crucially, have your final selections for flooring, paint colors, and any specialty fixtures confirmed. Providing access to the site and ensuring it's clear of debris also helps our team work efficiently, minimizing potential delays once we start the detailed installation work.",
+        "@type": "Answer",
+        "description": "Prepare by ensuring drywall, electrical, and plumbing rough-ins are complete and approved. Finalize all material selections, especially flooring and paint, and clear the work area."
+      }
+    }
+  ],
+  "description": "Prepare by ensuring drywall, electrical, and plumbing rough-ins are complete and approved. Finalize all material selections, especially flooring and paint, and"
+}

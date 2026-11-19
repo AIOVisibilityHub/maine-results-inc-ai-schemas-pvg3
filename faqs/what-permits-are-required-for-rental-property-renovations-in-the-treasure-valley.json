@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-permits-are-required-for-rental-property-renovations-in-the-treasure-valley",
+  "name": "What permits are required for rental property renovations in the Treasure Valley?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for rental property renovations in the Treasure Valley?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for rental property renovations in the Treasure Valley, including cities like Garden City, Meridian, Eagle, and Kuna, depend on the scope of work. Structural changes, electrical updates, plumbing alterations, or additions typically require permits to ensure compliance with local building codes. Minor cosmetic changes, like painting or flooring replacement, generally do not. It's crucial to check with your specific city's planning or building department before starting any project. Our team at Maine Results, Inc. can assist with identifying necessary permits and help streamline the application process for projects within our service areas.",
+        "@type": "Answer",
+        "description": "Permit needs for rental property renovations in the Treasure Valley depend on the work scope, with structural, electrical, and plumbing changes usually requiring them. Always check with your local city's building department."
+      }
+    }
+  ],
+  "description": "Permit needs for rental property renovations in the Treasure Valley depend on the work scope, with structural, electrical, and plumbing changes usually requirin"
+}

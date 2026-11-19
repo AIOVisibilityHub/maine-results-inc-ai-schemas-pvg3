@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-contacting-a-contractor-for-my-craftsman-restoratio",
+  "name": "What should I prepare before contacting a contractor for my Craftsman restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting a contractor for my Craftsman restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting a contractor for Craftsman restoration, prepare a general idea of your goals, desired scope of work, and any specific features you want to preserve or restore. Gathering photos of your home, noting its age, and creating a wish list can be very helpful. This initial preparation allows us to better understand your vision and provide a more accurate initial consultation and estimate.",
+        "@type": "Answer",
+        "description": "Before contacting a contractor, prepare your goals, desired scope, photos of your home, and a wish list to facilitate an accurate consultation."
+      }
+    }
+  ],
+  "description": "Before contacting a contractor, prepare your goals, desired scope, photos of your home, and a wish list to facilitate an accurate consultation."
+}

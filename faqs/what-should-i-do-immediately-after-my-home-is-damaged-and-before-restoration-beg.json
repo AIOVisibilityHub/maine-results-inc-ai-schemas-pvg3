@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-do-immediately-after-my-home-is-damaged-and-before-restoration-beg",
+  "name": "What should I do immediately after my home is damaged and before restoration begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after my home is damaged and before restoration begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After your home is damaged, ensure everyone's safety first. If possible, take photos or videos of the damage for insurance purposes. Stop the source of the damage if safe to do so, such as turning off a water main. You should then contact your insurance company to file a claim. Before professional restoration begins, you might need to secure your property to prevent further damage or theft, which could involve temporary board-ups or tarps.",
+        "@type": "Answer",
+        "description": "Prioritize safety, document damage with photos, stop the damage source if safe, and contact your insurance company to file a claim."
+      }
+    }
+  ],
+  "description": "Prioritize safety, document damage with photos, stop the damage source if safe, and contact your insurance company to file a claim."
+}

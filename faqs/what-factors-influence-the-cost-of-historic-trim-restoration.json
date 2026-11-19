@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-historic-trim-restoration",
+  "name": "What factors influence the cost of historic trim restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of historic trim restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of historic trim restoration is influenced by several factors, including the linear footage of trim needing work, the degree of damage (e.g., minor repairs vs. extensive rot), the intricacy of the trim profiles, and the type of wood. Access to the trim, lead paint remediation requirements, and the chosen finish (paint vs. stain) also impact the overall expense. Custom milling for replication of unique profiles can increase costs. We provide detailed estimates after an on-site evaluation to ensure transparency regarding the investment required.",
+        "@type": "Answer",
+        "description": "Cost is based on linear footage, damage extent, trim intricacy, wood type, access, lead paint remediation, and finish. Custom milling can also influence the total investment."
+      }
+    }
+  ],
+  "description": "Cost is based on linear footage, damage extent, trim intricacy, wood type, access, lead paint remediation, and finish. Custom milling can also influence the tot"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-cost-range-for-installing-period-correct-molding",
+  "name": "What is the typical cost range for installing period correct molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for installing period correct molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing period correct molding varies significantly based on several factors, including the complexity of the profiles, the type of material chosen (e.g., solid wood vs. composite), the linear footage required, and the intricacy of the installation. Custom-milled profiles or specialized hardwoods will generally be more expensive than readily available stock options. Labor costs also depend on the detail involved, such as intricate corner work or matching existing irregular surfaces. To get an accurate estimate, we recommend a consultation where we can assess your specific project needs and discuss material options tailored to your budget and aesthetic goals. This allows for a clear understanding of the investment required.",
+        "@type": "Answer",
+        "description": "The cost of period correct molding installation varies by profile complexity, material, linear footage, and labor. Custom materials and intricate work increase the price. A consultation provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "The cost of period correct molding installation varies by profile complexity, material, linear footage, and labor. Custom materials and intricate work increase"
+}

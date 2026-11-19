@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparations-should-i-make-before-you-start-historic-window-restoration-on",
+  "name": "What preparations should I make before you start historic window restoration on my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before you start historic window restoration on my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before we begin historic window restoration, there are a few preparations that can help streamline the process. We ask that you clear the area around the windows, both inside and out, removing any curtains, blinds, window treatments, or fragile items from sills and nearby furniture. Providing access to electrical outlets for tools is also helpful. Our team will cover floors and furniture, but removing personal items helps ensure their safety. This preparation ensures our team can work efficiently and safely on your home in areas like Nampa or Middleton.",
+        "@type": "Answer",
+        "description": "Before work, clear areas around windows inside and out, remove treatments and fragile items, and ensure access to electrical outlets."
+      }
+    }
+  ],
+  "description": "Before work, clear areas around windows inside and out, remove treatments and fragile items, and ensure access to electrical outlets."
+}

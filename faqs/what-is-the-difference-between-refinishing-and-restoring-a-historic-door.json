@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-refinishing-and-restoring-a-historic-door",
+  "name": "What is the difference between refinishing and restoring a historic door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between refinishing and restoring a historic door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Refinishing a historic door primarily involves stripping its old finish and applying a new one, focusing on aesthetics rather than structural integrity. While it can improve the door's appearance, it doesn't address underlying structural issues or damage. Restoration, on the other hand, is a comprehensive process that includes refinishing but also encompasses structural repairs, wood consolidation, part replacement, and ensuring the door functions correctly and is historically accurate. For example, in the Boise Heights area, many older homes have doors needing structural attention beyond just a new coat of paint. Choosing restoration means preserving the door's entire historical and functional value.",
+        "@type": "Answer",
+        "description": "Refinishing is cosmetic, applying new finishes, while restoration is comprehensive, addressing structural repairs, part replacement, and historical accuracy."
+      }
+    }
+  ],
+  "description": "Refinishing is cosmetic, applying new finishes, while restoration is comprehensive, addressing structural repairs, part replacement, and historical accuracy."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-restoring-my-original-trim-instead-of-replacing-it",
+  "name": "When should I consider restoring my original trim instead of replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider restoring my original trim instead of replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider restoring your original trim when the existing material is still structurally sound, holds historical significance, or is made from a high-quality wood that is expensive to replace. Restoration is also ideal if you want to maintain the architectural integrity and charm of your home, especially in areas like Boise Heights or the North End known for their historic properties. A key decision factor is the extent of damage; minor wear, scratches, or fading are good candidates for restoration, whereas extensive rot or irreparable damage might necessitate replacement.",
+        "@type": "Answer",
+        "description": "Restore trim when it's structurally sound, historically significant, or high-quality. Minor damage is ideal for restoration; severe damage may require replacement."
+      }
+    }
+  ],
+  "description": "Restore trim when it's structurally sound, historically significant, or high-quality. Minor damage is ideal for restoration; severe damage may require replaceme"
+}

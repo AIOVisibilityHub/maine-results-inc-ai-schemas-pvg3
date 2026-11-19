@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-defines-a-victorian-home-and-what-specific-architectural-elements-are-key-t",
+  "name": "What defines a Victorian home, and what specific architectural elements are key to its restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What defines a Victorian home, and what specific architectural elements are key to its restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Victorian homes, popular from 1837 to 1901, encompass various styles like Queen Anne, Gothic Revival, and Italianate, all characterized by ornate detailing. Key architectural elements for restoration often include intricate trim work, bay windows, steep gabled roofs, decorative siding like fish-scale shingles, and wrap-around porches. Understanding the specific Victorian style of your home in areas like Garden City or Meridian is crucial, as each style dictates unique restoration techniques and material choices to maintain historical accuracy. This initial assessment guides the entire project scope.",
+        "@type": "Answer",
+        "description": "Victorian homes feature ornate details, steep roofs, and decorative siding; key elements for restoration vary by specific style, such as Queen Anne or Italianate."
+      }
+    }
+  ],
+  "description": "Victorian homes feature ornate details, steep roofs, and decorative siding; key elements for restoration vary by specific style, such as Queen Anne or Italianat"
+}

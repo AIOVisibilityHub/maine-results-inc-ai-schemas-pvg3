@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-typically-used-for-period-correct-molding-installation",
+  "name": "What materials are typically used for period correct molding installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are typically used for period correct molding installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Period correct molding can be crafted from various materials, with wood being the most traditional and common choice. Hardwoods like oak, maple, and cherry, or softwoods such as pine and poplar, are frequently used, depending on the specific period and desired finish. For intricate designs, plaster or composite materials that can mimic historical profiles are also options. The choice of material impacts durability, finish quality, and cost. When selecting, consider the original materials used in your home and how the new molding will interact with existing painted or stained surfaces for a cohesive look.",
+        "@type": "Answer",
+        "description": "Period correct molding typically uses wood like pine, poplar, or hardwoods, with plaster or composites for intricate designs. Material choice impacts durability and finish, and should align with your home's original construction."
+      }
+    }
+  ],
+  "description": "Period correct molding typically uses wood like pine, poplar, or hardwoods, with plaster or composites for intricate designs. Material choice impacts durability"
+}

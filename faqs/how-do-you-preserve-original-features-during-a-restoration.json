@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-preserve-original-features-during-a-restoration",
+  "name": "How do you preserve original features during a restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you preserve original features during a restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preserving original features during a restoration involves a careful assessment of their condition and using specialized techniques and materials. This often includes gentle cleaning, repair rather than replacement where possible, and matching new materials to old ones in terms of composition and appearance. For instance, original wooden floors might be refinished, and period-appropriate windows might be repaired rather than fully replaced. Our approach at Maine Results, Inc. prioritizes historical integrity, employing skilled craftsmen who understand traditional building methods to maintain the authenticity of your home's unique elements.",
+        "@type": "Answer",
+        "description": "We preserve original features by assessing their condition, using gentle cleaning, repairing when possible, and matching new materials to old ones."
+      }
+    }
+  ],
+  "description": "We preserve original features by assessing their condition, using gentle cleaning, repairing when possible, and matching new materials to old ones."
+}

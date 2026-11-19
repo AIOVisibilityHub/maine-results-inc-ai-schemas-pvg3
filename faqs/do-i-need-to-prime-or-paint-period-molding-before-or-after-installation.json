@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-prime-or-paint-period-molding-before-or-after-installation",
+  "name": "Do I need to prime or paint period molding before or after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to prime or paint period molding before or after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you prime or paint period molding before or after installation depends on the type of material, the desired finish, and logistical considerations. For wood molding that will be painted, it's often more efficient to apply a primer coat and one finish coat before installation. This approach allows for easier coverage, especially on intricate profiles, and reduces the risk of paint getting on walls. After installation, minor touch-ups and a final topcoat are typically applied to cover nail holes and seams. For stained wood molding, it's generally best to stain and seal before installation, with careful touch-ups post-installation. This preparation impacts the final appearance and durability.",
+        "@type": "Answer",
+        "description": "For painted wood molding, prime and apply one finish coat before installation for efficiency, then touch up and apply a final coat afterward. For stained wood, stain and seal before installation."
+      }
+    }
+  ],
+  "description": "For painted wood molding, prime and apply one finish coat before installation for efficiency, then touch up and apply a final coat afterward. For stained wood,"
+}

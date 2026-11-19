@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-match-existing-period-trim-if-i-only-need-a-repair-or-addition",
+  "name": "Can you match existing period trim if I only need a repair or addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match existing period trim if I only need a repair or addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, matching existing period trim for repairs or additions is a common service. We carefully assess your current trim's profile, dimensions, and wood species. For exact matches, we often work with specialized millwork shops that can custom-grind knife sets to replicate unique historical profiles. This approach ensures seamless integration with your home's existing historical features, maintaining consistency throughout the property. Providing clear photos and measurements of your existing trim during the initial consultation can help streamline this process.",
+        "@type": "Answer",
+        "description": "Yes, we can match existing period trim for repairs or additions by assessing and custom-milling new pieces to integrate seamlessly."
+      }
+    }
+  ],
+  "description": "Yes, we can match existing period trim for repairs or additions by assessing and custom-milling new pieces to integrate seamlessly."
+}

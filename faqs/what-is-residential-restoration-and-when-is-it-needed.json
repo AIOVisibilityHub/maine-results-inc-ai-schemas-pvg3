@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-residential-restoration-and-when-is-it-needed",
+  "name": "What is residential restoration and when is it needed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is residential restoration and when is it needed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Residential restoration involves repairing and rebuilding homes damaged by events like floods, fires, storms, or mold. It's needed when your home has sustained damage that affects its structural integrity, safety, or habitability. For example, after a pipe burst, you might need water damage restoration, or after a severe storm, roof and siding repairs. The scope often depends on the extent of the damage, which an inspection helps determine. Addressing damage promptly can prevent further issues like mold growth or structural weakening.",
+        "@type": "Answer",
+        "description": "Residential restoration repairs homes damaged by events like floods, fires, or storms. It's needed when damage impacts a home's structure, safety, or livability."
+      }
+    }
+  ],
+  "description": "Residential restoration repairs homes damaged by events like floods, fires, or storms. It's needed when damage impacts a home's structure, safety, or livability"
+}

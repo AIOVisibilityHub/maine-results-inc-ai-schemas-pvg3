@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-finishes-are-used-in-woodwork-restoration",
+  "name": "What kind of finishes are used in woodwork restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of finishes are used in woodwork restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During original woodwork restoration, we use a variety of finishes tailored to the wood type, its original appearance, and the desired level of protection. Options include traditional oil-based finishes that enhance natural grain, durable polyurethanes for high-traffic areas, or shellac for historical accuracy. The choice of finish affects the wood's color, sheen, and longevity. We discuss the pros and cons of each option with you to select a finish that meets your aesthetic preferences and functional needs.",
+        "@type": "Answer",
+        "description": "Finishes vary from traditional oils and shellac to durable polyurethanes, chosen based on wood type, desired look, and protection needs."
+      }
+    }
+  ],
+  "description": "Finishes vary from traditional oils and shellac to durable polyurethanes, chosen based on wood type, desired look, and protection needs."
+}

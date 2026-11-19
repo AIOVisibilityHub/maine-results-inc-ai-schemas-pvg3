@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-original-trim-restoration",
+  "name": "What is the typical process for original trim restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for original trim restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for original trim restoration begins with an assessment of the trim's condition to determine the best approach. This is followed by carefully cleaning and preparing the surfaces, which may involve stripping old paint or varnish. Repairs are then made to any damage, such as filling cracks or replacing small sections with matching wood. Finally, the trim is sanded smooth and a new finish—stain, paint, or sealant—is applied to protect and enhance its appearance. What affects the process is the trim's material, existing finish, and the extent of deterioration.",
+        "@type": "Answer",
+        "description": "Trim restoration involves assessment, cleaning, stripping, repairing, sanding, and applying a new finish. Material and damage extent affect the process."
+      }
+    }
+  ],
+  "description": "Trim restoration involves assessment, cleaning, stripping, repairing, sanding, and applying a new finish. Material and damage extent affect the process."
+}

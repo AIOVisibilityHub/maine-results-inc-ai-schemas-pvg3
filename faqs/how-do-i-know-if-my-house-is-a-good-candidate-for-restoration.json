@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-house-is-a-good-candidate-for-restoration",
+  "name": "How do I know if my house is a good candidate for restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my house is a good candidate for restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A house is a good candidate for restoration if it retains significant original architectural features and has a solid foundation, even if other areas require extensive work. Look for homes with unique historical character, original trim, windows, or facades that are worth preserving. The decision often hinges on the home's historical significance and your desire to maintain its unique heritage. Maine Results, Inc. provides initial consultations in Boise and surrounding areas to help property owners evaluate the potential for restoration and understand the scope of work involved.",
+        "@type": "Answer",
+        "description": "Assess if your house retains significant original architectural features and has a solid foundation. Its historical character and your desire to preserve heritage are key factors."
+      }
+    }
+  ],
+  "description": "Assess if your house retains significant original architectural features and has a solid foundation. Its historical character and your desire to preserve herita"
+}

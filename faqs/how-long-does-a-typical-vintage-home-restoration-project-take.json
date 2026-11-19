@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-vintage-home-restoration-project-take",
+  "name": "How long does a typical vintage home restoration project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical vintage home restoration project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a vintage home restoration project depends heavily on its complexity and scale. Smaller projects, such as restoring a single room or specific architectural features, might take a few weeks to a few months. Larger, whole-house restorations involving structural work, re-plumbing, or re-wiring could extend from several months to over a year. The availability of specialized materials and historical research can also impact the schedule. Maine Results, Inc. establishes a detailed project timeline during the planning phase, breaking down key milestones so you understand the expected duration and sequencing of work.",
+        "@type": "Answer",
+        "description": "Project duration for vintage home restoration varies from weeks for small projects to over a year for complex, whole-house restorations, depending on scope and material availability."
+      }
+    }
+  ],
+  "description": "Project duration for vintage home restoration varies from weeks for small projects to over a year for complex, whole-house restorations, depending on scope and"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-does-home-restoration-involve-after-a-disaster",
+  "name": "What does home restoration involve after a disaster?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does home restoration involve after a disaster?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home restoration after a disaster, such as a fire or flood, involves assessing the damage, securing the property, removing damaged materials, cleaning and sanitizing affected areas, and rebuilding or repairing structural and aesthetic components. It often includes services like water extraction, mold remediation, smoke odor removal, and structural drying to prevent further issues. Maine Results, Inc. approaches each project with a detailed scope of work developed in collaboration with homeowners and insurance providers to ensure all necessary repairs are addressed.",
+        "@type": "Answer",
+        "description": "Home restoration after a disaster includes damage assessment, property securing, material removal, cleaning, and rebuilding structural and aesthetic components."
+      }
+    }
+  ],
+  "description": "Home restoration after a disaster includes damage assessment, property securing, material removal, cleaning, and rebuilding structural and aesthetic components."
+}

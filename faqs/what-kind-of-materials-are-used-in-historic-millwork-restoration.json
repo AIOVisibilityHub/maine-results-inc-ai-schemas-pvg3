@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-materials-are-used-in-historic-millwork-restoration",
+  "name": "What kind of materials are used in historic millwork restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of materials are used in historic millwork restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We primarily use traditional, period-appropriate hardwoods and softwoods that match the original materials of the historic millwork. This often includes species like Douglas fir, white pine, oak, or mahogany, depending on the original construction. For finishes, we select historically accurate paints, varnishes, or oils. We ensure new materials are compatible with the existing structure and finish, as a practical tradeoff is balancing historical accuracy with long-term durability and modern environmental performance.",
+        "@type": "Answer",
+        "description": "We use period-appropriate hardwoods, softwoods, and finishes, matching original materials like Douglas fir or oak for authenticity."
+      }
+    }
+  ],
+  "description": "We use period-appropriate hardwoods, softwoods, and finishes, matching original materials like Douglas fir or oak for authenticity."
+}

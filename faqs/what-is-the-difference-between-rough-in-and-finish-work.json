@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-rough-in-and-finish-work",
+  "name": "What is the difference between rough-in and finish work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between rough-in and finish work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rough-in work involves installing the hidden structural and utility components of your addition, such as framing, foundational plumbing pipes, electrical wiring, and HVAC ducts, before walls are enclosed. Finish work, in contrast, applies to all the visible elements installed after the rough-ins are complete and inspected, including drywall, paint, flooring, fixtures, and trim. This comparison highlights that rough-in establishes the skeleton and circulatory system, while finish work provides the skin and aesthetic appeal.",
+        "@type": "Answer",
+        "description": "Rough-in installs hidden structural and utility components; finish work applies visible elements like drywall, paint, and flooring."
+      }
+    }
+  ],
+  "description": "Rough-in installs hidden structural and utility components; finish work applies visible elements like drywall, paint, and flooring."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-do-historic-house-repair-projects-typically-take",
+  "name": "How long do historic house repair projects typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do historic house repair projects typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of historic house repair projects varies greatly depending on the scope of work and the complexity of the repairs. A small repair might take weeks, while a comprehensive restoration could take many months. Factors like sourcing period-appropriate materials, the need for specialized craftsmen, and unforeseen issues uncovered during work can all extend the timeline. Patience is often a key element, as rushing can compromise the quality and historical accuracy of the work.",
+        "@type": "Answer",
+        "description": "Project duration varies by scope and complexity; sourcing materials and specialized skills can extend timelines beyond typical modern repairs."
+      }
+    }
+  ],
+  "description": "Project duration varies by scope and complexity; sourcing materials and specialized skills can extend timelines beyond typical modern repairs."
+}

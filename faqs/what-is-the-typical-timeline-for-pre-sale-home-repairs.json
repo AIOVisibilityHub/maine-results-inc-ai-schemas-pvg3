@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-timeline-for-pre-sale-home-repairs",
+  "name": "What is the typical timeline for pre-sale home repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for pre-sale home repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for pre-sale home repairs varies significantly based on the scope and complexity of the work. Minor cosmetic updates might take a few days, while larger projects involving structural fixes or system replacements could extend to several weeks or even months. To establish a realistic timeline, consider getting detailed estimates from contractors in areas like Kuna or Star, which will outline the duration for each specific repair. Proper planning is key to completing repairs efficiently without rushing, which can sometimes compromise quality.",
+        "@type": "Answer",
+        "description": "The timeline for pre-sale repairs depends on the project scope, ranging from days for minor updates to weeks or months for larger work."
+      }
+    }
+  ],
+  "description": "The timeline for pre-sale repairs depends on the project scope, ranging from days for minor updates to weeks or months for larger work."
+}

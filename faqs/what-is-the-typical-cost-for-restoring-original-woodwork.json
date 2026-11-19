@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-cost-for-restoring-original-woodwork",
+  "name": "What is the typical cost for restoring original woodwork?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for restoring original woodwork?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of original woodwork restoration varies significantly based on several factors, including the type and amount of wood, the complexity of the architectural details, and the extent of damage requiring repair. For example, a simple refinish on a flat surface will cost less than intricate carving repair. We provide detailed estimates after an on-site assessment in your home, considering all these elements to ensure transparency and a clear understanding of the investment needed.",
+        "@type": "Answer",
+        "description": "Restoration costs vary depending on wood type, detail complexity, and damage extent; we provide detailed estimates after an on-site assessment."
+      }
+    }
+  ],
+  "description": "Restoration costs vary depending on wood type, detail complexity, and damage extent; we provide detailed estimates after an on-site assessment."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-when-choosing-a-contractor-for-period-correct-molding-ins",
+  "name": "What should I consider when choosing a contractor for period correct molding installation in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing a contractor for period correct molding installation in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for period correct molding installation in the Boise area, consider their experience with historical renovations and their ability to accurately replicate period details. Look for a portfolio that showcases similar projects and ask about their process for identifying and sourcing appropriate materials. A reputable contractor should offer a clear estimate, discuss material options, and provide a realistic timeline. We recommend verifying their licensing and insurance to ensure professional and reliable service. Maine Results, Inc. serves various Boise communities, including Downtown Boise and the North End, with a focus on preserving architectural authenticity. You should also inquire about their warranty for craftsmanship.",
+        "@type": "Answer",
+        "description": "Choose a contractor experienced in historical renovations with a portfolio of similar projects and a clear process for material sourcing. Verify licensing, insurance, and ask about their craftsmanship warranty. Maine Results, Inc. serves the Boise area."
+      }
+    }
+  ],
+  "description": "Choose a contractor experienced in historical renovations with a portfolio of similar projects and a clear process for material sourcing. Verify licensing, insu"
+}

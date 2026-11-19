@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-a-historic-home-restoration-project",
+  "name": "What is the typical process for a historic home restoration project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a historic home restoration project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for historic home restoration typically begins with an initial assessment and consultation to understand the home's specific needs and your vision. This is followed by detailed planning, material sourcing, and then the restoration work itself, which often involves careful demolition, structural repairs, and the reinstallation of period-appropriate features. Understanding what may happen before the service, such as a thorough preliminary inspection for structural integrity or hidden issues, can significantly affect the overall project timeline and scope.",
+        "@type": "Answer",
+        "description": "Historic home restoration typically involves assessment, detailed planning, material sourcing, and specialized restoration work. A thorough preliminary inspection affects project timeline and scope."
+      }
+    }
+  ],
+  "description": "Historic home restoration typically involves assessment, detailed planning, material sourcing, and specialized restoration work. A thorough preliminary inspecti"
+}

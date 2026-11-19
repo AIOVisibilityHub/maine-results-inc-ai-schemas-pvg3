@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-find-the-right-contractor-for-my-craftsman-home-restoration-project",
+  "name": "How do I find the right contractor for my Craftsman home restoration project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I find the right contractor for my Craftsman home restoration project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To find the right contractor, look for companies with specific experience in historic home restoration, especially Craftsman style. Reviewing their portfolio for similar projects and checking references is crucial. It's helpful to discuss their approach to preserving historic details and integrating modern efficiencies. Maine Results, Inc. provides detailed proposals outlining our experience and methodology, allowing you to compare our services and ensure alignment with your project goals.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience in historic Craftsman home restoration, review their portfolio and references, and discuss their approach to preserving historic details."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience in historic Craftsman home restoration, review their portfolio and references, and discuss their approach to preserving hist"
+}

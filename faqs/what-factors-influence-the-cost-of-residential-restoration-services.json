@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-residential-restoration-services",
+  "name": "What factors influence the cost of residential restoration services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of residential restoration services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the cost of residential restoration, including the type and extent of damage (e.g., water, fire, storm), the size of the affected area, and the materials needed for repair. For instance, extensive water damage requiring mold remediation will differ from minor drywall repair. Access to the damaged area, the complexity of structural repairs, and any necessary temporary housing or board-up services can also impact the overall expense. A detailed estimate will break down these costs.",
+        "@type": "Answer",
+        "description": "Restoration costs depend on damage type and extent, affected area size, and materials. Access and structural complexity also influence the final price."
+      }
+    }
+  ],
+  "description": "Restoration costs depend on damage type and extent, affected area size, and materials. Access and structural complexity also influence the final price."
+}

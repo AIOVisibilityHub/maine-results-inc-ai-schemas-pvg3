@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-prepare-my-home-for-contractors-to-complete-repairs-from-a-sale-list",
+  "name": "How do I prepare my home for contractors to complete repairs from a sale list?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my home for contractors to complete repairs from a sale list?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparing your home for contractors involves clearing personal items from work areas, ensuring access to necessary utilities, and informing the contractor of any specific instructions or concerns. For example, if a plumbing repair is needed, ensure the area under sinks is clear. If an electrical issue needs addressing, ensure the breaker box is accessible. Maine Results, Inc. values clear communication; we will provide guidance on what specific preparations are needed for your scheduled repairs, minimizing disruption and helping our team work efficiently within your home in Boise or surrounding areas.",
+        "@type": "Answer",
+        "description": "Prepare your home by clearing work areas, ensuring utility access, and communicating any instructions to the contractor."
+      }
+    }
+  ],
+  "description": "Prepare your home by clearing work areas, ensuring utility access, and communicating any instructions to the contractor."
+}

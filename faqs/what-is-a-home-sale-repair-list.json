@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-a-home-sale-repair-list",
+  "name": "What is a home sale repair list?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a home sale repair list?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home sale repair list, often generated after a home inspection, details issues that need to be addressed before a property sale can proceed smoothly. It helps sellers understand potential concerns that buyers may raise and allows them to fix items proactively or negotiate with buyers. Maine Results, Inc. can help you prioritize these repairs, focusing on items that impact safety, structural integrity, or are commonly required by lenders, which can make a significant difference in the sales process.",
+        "@type": "Answer",
+        "description": "A home sale repair list outlines issues identified during a home inspection that should be addressed before selling a property."
+      }
+    }
+  ],
+  "description": "A home sale repair list outlines issues identified during a home inspection that should be addressed before selling a property."
+}

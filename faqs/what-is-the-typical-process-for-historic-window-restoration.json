@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-historic-window-restoration",
+  "name": "What is the typical process for historic window restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for historic window restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for historic window restoration typically begins with careful removal and transportation of the sashes to our workshop. We then strip old paint, repair any deteriorated wood, replace broken glass with period-appropriate alternatives, and restore or replace hardware. Finally, the windows are primed, painted, and reinstalled. The complexity and timing of this process can vary significantly depending on the window's original design, its condition, and the type of glass required.",
+        "@type": "Answer",
+        "description": "Historic window restoration involves removing, stripping, repairing, replacing glass, restoring hardware, and reinstalling sashes."
+      }
+    }
+  ],
+  "description": "Historic window restoration involves removing, stripping, repairing, replacing glass, restoring hardware, and reinstalling sashes."
+}

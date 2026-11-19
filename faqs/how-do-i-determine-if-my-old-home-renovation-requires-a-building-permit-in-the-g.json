@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-determine-if-my-old-home-renovation-requires-a-building-permit-in-the-g",
+  "name": "How do I determine if my old home renovation requires a building permit in the Garden City area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I determine if my old home renovation requires a building permit in the Garden City area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most old home renovations involving structural changes, alterations to the electrical or plumbing systems, or significant additions typically require a building permit in Garden City and surrounding areas. Cosmetic updates like painting or replacing cabinets usually do not. Before starting any project, it's essential to consult with your contractor or local building department to understand specific requirements. Maine Results, Inc. helps identify necessary permits for your project in areas like Meridian, Eagle, Kuna, and Star, ensuring compliance with local regulations from the outset.",
+        "@type": "Answer",
+        "description": "Permits are generally needed for structural, electrical, or plumbing changes; cosmetic updates usually don't require them. Consult your contractor or local building department."
+      }
+    }
+  ],
+  "description": "Permits are generally needed for structural, electrical, or plumbing changes; cosmetic updates usually don't require them. Consult your contractor or local buil"
+}

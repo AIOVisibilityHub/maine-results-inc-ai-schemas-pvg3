@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-adu-finish-carpentry",
+  "name": "What is ADU finish carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is ADU finish carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADU finish carpentry involves all the final details that make an Accessory Dwelling Unit habitable and aesthetically complete. This includes installing trim, baseboards, crown molding, interior doors, and custom built-ins like shelving or cabinetry. It's the stage where the interior takes its final shape, impacting both the functionality and the overall feel of the living space. We focus on precision and quality to ensure these elements enhance the ADU's design and durability.",
+        "@type": "Answer",
+        "description": "ADU finish carpentry includes installing interior details like trim, doors, and custom built-ins to complete the living space."
+      }
+    }
+  ],
+  "description": "ADU finish carpentry includes installing interior details like trim, doors, and custom built-ins to complete the living space."
+}

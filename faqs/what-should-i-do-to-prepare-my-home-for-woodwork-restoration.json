@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-do-to-prepare-my-home-for-woodwork-restoration",
+  "name": "What should I do to prepare my home for woodwork restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my home for woodwork restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before restoration begins, preparing your home can help streamline the process. This typically involves clearing the work area of furniture, decorative items, and drapes to provide unobstructed access to the woodwork. Protecting nearby floors and walls with drop cloths or plastic sheeting is also advisable to prevent dust and finish splatter. Our team will guide you through specific preparation steps during the initial consultation, ensuring a smooth and efficient start to your project.",
+        "@type": "Answer",
+        "description": "Prepare by clearing the work area of furniture and decor, and protect nearby floors and walls; our team will advise on specific steps."
+      }
+    }
+  ],
+  "description": "Prepare by clearing the work area of furniture and decor, and protect nearby floors and walls; our team will advise on specific steps."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-residential-restoration-project-take",
+  "name": "How long does a typical residential restoration project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical residential restoration project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a residential restoration project varies greatly depending on the extent and type of damage. Minor repairs, such as addressing a small leak and subsequent drywall replacement, might take a few days. Major projects, like rebuilding after significant fire or flood damage, could extend to several weeks or even months due to structural work, permitting, and material procurement. Factors like the availability of materials and the complexity of the required repairs are key determinants of the timeline.",
+        "@type": "Answer",
+        "description": "Project timelines vary widely; minor repairs might take days, while major rebuilds can take weeks or months. Damage extent and material availability are key factors."
+      }
+    }
+  ],
+  "description": "Project timelines vary widely; minor repairs might take days, while major rebuilds can take weeks or months. Damage extent and material availability are key fac"
+}

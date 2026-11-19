@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-repairs-should-i-prioritize-before-selling-my-home",
+  "name": "What types of repairs should I prioritize before selling my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of repairs should I prioritize before selling my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Prioritize repairs that address safety concerns, structural integrity, and major system functionality, followed by cosmetic updates that offer a high return on investment. Examples include fixing a leaky roof, repairing damaged foundations, or updating outdated electrical panels. Beyond critical repairs, refreshing paint, updating light fixtures, and modernizing kitchen or bathroom elements can significantly increase buyer interest. When considering what to fix, think about common inspection red flags that could scare off buyers or lead to significant price reductions.",
+        "@type": "Answer",
+        "description": "Prioritize safety, structural, and system repairs, then focus on high ROI cosmetic updates like fresh paint or updated fixtures."
+      }
+    }
+  ],
+  "description": "Prioritize safety, structural, and system repairs, then focus on high ROI cosmetic updates like fresh paint or updated fixtures."
+}

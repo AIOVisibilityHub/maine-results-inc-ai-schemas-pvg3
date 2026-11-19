@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-does-maine-results-inc-ensure-historical-accuracy-in-craftsman-restorations",
+  "name": "How does Maine Results, Inc. ensure historical accuracy in Craftsman restorations in the Meridian area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Maine Results, Inc. ensure historical accuracy in Craftsman restorations in the Meridian area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. ensures historical accuracy in Craftsman restorations in the Meridian area through detailed research, skilled craftsmanship, and appropriate material selection. We often consult with homeowners on original blueprints or historical photos if available. Our team is experienced in replicating period-specific details, such as custom millwork, window types, and authentic color palettes. This first-party insight into historical construction methods allows us to maintain the integrity and charm unique to Craftsman homes.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. ensures historical accuracy in Meridian Craftsman restorations via research, skilled craftsmanship, period-specific material selection, and replicating authentic details."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. ensures historical accuracy in Meridian Craftsman restorations via research, skilled craftsmanship, period-specific material selection, and"
+}

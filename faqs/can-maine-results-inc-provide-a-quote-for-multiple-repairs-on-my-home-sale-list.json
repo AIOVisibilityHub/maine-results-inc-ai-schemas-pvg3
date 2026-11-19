@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-maine-results-inc-provide-a-quote-for-multiple-repairs-on-my-home-sale-list",
+  "name": "Can Maine Results, Inc. provide a quote for multiple repairs on my home sale list?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Maine Results, Inc. provide a quote for multiple repairs on my home sale list?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. can provide a comprehensive quote for multiple repairs identified on your home sale list. As a full-service construction company, we can handle various aspects of residential repairs, from general remodeling to specific fixes like roofing, siding, or interior structural work. Our team serves areas including Eagle and Kuna, and can assess your entire list to provide a consolidated and detailed estimate. This streamlines the process for sellers who need to address diverse issues quickly and efficiently.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. can provide a comprehensive quote for all repairs on your home sale list, covering diverse construction needs."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. can provide a comprehensive quote for all repairs on your home sale list, covering diverse construction needs."
+}

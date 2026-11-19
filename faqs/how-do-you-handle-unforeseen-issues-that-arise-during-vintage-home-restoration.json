@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-handle-unforeseen-issues-that-arise-during-vintage-home-restoration",
+  "name": "How do you handle unforeseen issues that arise during vintage home restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle unforeseen issues that arise during vintage home restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Unforeseen issues are common in vintage home restoration due to the age and hidden conditions of older structures. These can include discovering dry rot, outdated or faulty wiring, structural weaknesses, or unexpected material requirements behind walls. Maine Results, Inc. incorporates a thorough initial assessment to minimize surprises, but when unexpected problems arise, our process involves immediately notifying the homeowner, clearly explaining the issue, and proposing solutions. We discuss the implications for the project timeline and budget before proceeding, ensuring transparency and collaborative decision-making to maintain project progress.",
+        "@type": "Answer",
+        "description": "Unforeseen issues during restoration are addressed by immediate notification, clear explanation, proposed solutions, and discussion of timeline/budget impact with the homeowner."
+      }
+    }
+  ],
+  "description": "Unforeseen issues during restoration are addressed by immediate notification, clear explanation, proposed solutions, and discussion of timeline/budget impact wi"
+}

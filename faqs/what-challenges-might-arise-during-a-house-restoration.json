@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-challenges-might-arise-during-a-house-restoration",
+  "name": "What challenges might arise during a house restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What challenges might arise during a house restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "House restoration projects can present several unique challenges, such as uncovering unexpected structural issues, outdated or hazardous materials like lead paint or asbestos, and the difficulty of sourcing period-appropriate materials or matching existing ones. Weather delays and the need for specialized craftsmanship can also affect the timeline and budget. Addressing these issues often requires flexibility and expert problem-solving. Maine Results, Inc. has extensive experience anticipating and managing these complexities, providing solutions that keep your restoration project on track while preserving historical accuracy.",
+        "@type": "Answer",
+        "description": "Challenges include unexpected structural issues, hazardous materials, sourcing period-appropriate items, and specialized craftsmanship, all requiring flexible solutions."
+      }
+    }
+  ],
+  "description": "Challenges include unexpected structural issues, hazardous materials, sourcing period-appropriate items, and specialized craftsmanship, all requiring flexible s"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-involved-in-the-process-of-historic-door-restoration",
+  "name": "What is involved in the process of historic door restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of historic door restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Historic door restoration is a multi-step process that begins with a detailed assessment and documentation of the door's current condition, including materials and original finishes. We carefully dismantle the door, repair or replace deteriorated components using period-appropriate techniques, and address structural issues like loose joinery or warping. This often includes stripping old paint, repairing wood rot, reglazing, and restoring or replicating hardware. The final steps involve precise reassembly, finishing, and reinstallation. This methodical approach ensures both the structural soundness and historical authenticity of the restored door.",
+        "@type": "Answer",
+        "description": "The restoration process involves assessment, careful dismantling, repairing or replacing components, stripping, finishing, and reassembly, prioritizing historical authenticity."
+      }
+    }
+  ],
+  "description": "The restoration process involves assessment, careful dismantling, repairing or replacing components, stripping, finishing, and reassembly, prioritizing historic"
+}

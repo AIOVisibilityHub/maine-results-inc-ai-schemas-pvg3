@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-professional-home-restoration-services-instead-of-just-re",
+  "name": "When should I consider professional home restoration services instead of just repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider professional home restoration services instead of just repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider professional home restoration services when damage is extensive, involves structural elements, or affects essential systems like plumbing or electrical. This is especially true after events like significant water damage, fire, or severe storms, where specialized knowledge and equipment are needed for proper remediation and reconstruction. A professional assessment helps identify hidden damage, such as mold behind walls, which might be missed by simple repairs and could lead to larger issues if not addressed correctly.",
+        "@type": "Answer",
+        "description": "Consider professional home restoration for extensive, structural, or system damage, especially after disasters, to address hidden issues effectively."
+      }
+    }
+  ],
+  "description": "Consider professional home restoration for extensive, structural, or system damage, especially after disasters, to address hidden issues effectively."
+}

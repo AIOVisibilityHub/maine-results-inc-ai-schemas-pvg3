@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-cost-of-historic-window-restoration-compared-to-new-window-r",
+  "name": "What is the typical cost of historic window restoration compared to new window replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of historic window restoration compared to new window replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of historic window restoration can vary widely based on the window's condition, size, and the extent of repairs needed, ranging from minor reglazing to full sash reconstruction. While the initial per-window cost for restoration might sometimes seem higher than basic vinyl replacements, it's often comparable to or less than high-quality, custom-built wood replacements designed to match historic styles. Consider the long-term value: restoration preserves authenticity, which can enhance a historic home's market value in areas like Boise, and well-restored windows can last for many more decades.",
+        "@type": "Answer",
+        "description": "Restoration costs vary but are often comparable to high-quality new wood windows. It preserves authenticity and can enhance long-term value."
+      }
+    }
+  ],
+  "description": "Restoration costs vary but are often comparable to high-quality new wood windows. It preserves authenticity and can enhance long-term value."
+}

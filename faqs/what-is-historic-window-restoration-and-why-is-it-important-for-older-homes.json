@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-historic-window-restoration-and-why-is-it-important-for-older-homes",
+  "name": "What is historic window restoration and why is it important for older homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is historic window restoration and why is it important for older homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Historic window restoration involves repairing and preserving original windows in older homes, rather than replacing them. This process is crucial for maintaining the architectural integrity and historical value of properties. Beyond aesthetics, well-restored historic windows can offer comparable or even superior energy efficiency to many modern replacements, especially when combined with proper weatherization techniques. This approach retains the unique craftsmanship and materials that contribute significantly to a home's character and historical designation.",
+        "@type": "Answer",
+        "description": "Historic window restoration repairs and preserves original windows in older homes, maintaining architectural integrity and historical value."
+      }
+    }
+  ],
+  "description": "Historic window restoration repairs and preserves original windows in older homes, maintaining architectural integrity and historical value."
+}

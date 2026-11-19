@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-a-historic-house-repair-project",
+  "name": "What is the typical process for a historic house repair project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a historic house repair project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Historic house repair often starts with a detailed assessment to identify issues and understand the original construction methods and materials. This is followed by planning, material sourcing, and then the repair work itself. We often work with homeowners to understand the historical significance they want to preserve, balancing restoration with practical updates. The process can involve specialists in areas like plasterwork or window glazing, which influences the project timeline and coordination.",
+        "@type": "Answer",
+        "description": "Historic house repair typically involves an assessment, detailed planning, material sourcing, and the repair work, often requiring specialized skills."
+      }
+    }
+  ],
+  "description": "Historic house repair typically involves an assessment, detailed planning, material sourcing, and the repair work, often requiring specialized skills."
+}

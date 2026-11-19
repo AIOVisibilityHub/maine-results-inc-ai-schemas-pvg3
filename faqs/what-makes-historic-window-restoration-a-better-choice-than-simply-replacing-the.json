@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-makes-historic-window-restoration-a-better-choice-than-simply-replacing-the",
+  "name": "What makes historic window restoration a better choice than simply replacing them with new windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What makes historic window restoration a better choice than simply replacing them with new windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing historic window restoration over replacement offers several distinct advantages, particularly for homeowners in communities like Caldwell or Star. Restoration preserves the original craftsmanship, materials, and unique aesthetics that are integral to a historic home's character and often contributes to its listing on historic registers. It also keeps original, high-quality wood windows—designed to be repairable—out of landfills. While new windows offer convenience, they often lack the durability and repairability of historic ones, and even the best reproductions rarely perfectly match the subtle nuances of original fabrication.",
+        "@type": "Answer",
+        "description": "Restoration preserves original craftsmanship, materials, aesthetics, and keeps repairable windows out of landfills, unlike many new replacements."
+      }
+    }
+  ],
+  "description": "Restoration preserves original craftsmanship, materials, aesthetics, and keeps repairable windows out of landfills, unlike many new replacements."
+}

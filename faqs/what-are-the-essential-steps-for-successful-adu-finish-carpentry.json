@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-essential-steps-for-successful-adu-finish-carpentry",
+  "name": "What are the essential steps for successful ADU finish carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the essential steps for successful ADU finish carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Successful ADU finish carpentry follows a clear sequence. First, the framing, electrical, and plumbing rough-ins must be completed and inspected. Next, drywall is installed and finished. Then, our team measures precisely for trim, doors, and any built-ins. Installation follows, beginning with door and window casings, then baseboards and crown molding, and finally custom elements. It's important that clients have their paint colors and flooring selections finalized before we begin finish work, as these elements often influence or are influenced by the carpentry details.",
+        "@type": "Answer",
+        "description": "Key steps include rough-in completion, drywall, precise measurement, and installation of trim, doors, and built-ins. Finalizing paint and flooring beforehand is crucial."
+      }
+    }
+  ],
+  "description": "Key steps include rough-in completion, drywall, precise measurement, and installation of trim, doors, and built-ins. Finalizing paint and flooring beforehand is"
+}

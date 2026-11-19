@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-rental-property-renovation-take",
+  "name": "How long does a typical rental property renovation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical rental property renovation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a rental property renovation varies greatly based on the project's complexity and scope. A cosmetic refresh, involving painting and minor updates, might take a few weeks. A more extensive renovation, including kitchen or bathroom remodels or reconfiguring layouts, could take several months. Factors like material availability, permit approvals, and unforeseen issues can also affect the timeline. When planning, consider discussing your project with us at Maine Results, Inc. We can provide a more accurate timeline estimate based on the specifics of your property and our experience with similar projects in areas such as Star or Nampa.",
+        "@type": "Answer",
+        "description": "Renovation timelines vary; cosmetic updates take weeks, while major remodels can take months. Factors like material availability and permits influence the duration, so consult with a contractor for an estimate."
+      }
+    }
+  ],
+  "description": "Renovation timelines vary; cosmetic updates take weeks, while major remodels can take months. Factors like material availability and permits influence the durat"
+}

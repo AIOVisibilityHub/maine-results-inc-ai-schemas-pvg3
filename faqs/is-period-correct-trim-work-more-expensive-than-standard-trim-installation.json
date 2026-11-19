@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/is-period-correct-trim-work-more-expensive-than-standard-trim-installation",
+  "name": "Is period correct trim work more expensive than standard trim installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is period correct trim work more expensive than standard trim installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Period correct trim work can often be more expensive than standard trim installation due to several factors. It often requires custom-milled profiles to match historical designs, which increases material and labor costs. Additionally, the installation itself can be more intricate, demanding specialized skills and a keen eye for historical detail. The cost also depends on the type of wood chosen and the overall scope of the project. While it may involve a higher initial investment, the long-term value added to your home's authenticity and aesthetic appeal can be substantial.",
+        "@type": "Answer",
+        "description": "Yes, it can be more expensive due to custom milling, specialized materials, and intricate installation, but it adds significant value."
+      }
+    }
+  ],
+  "description": "Yes, it can be more expensive due to custom milling, specialized materials, and intricate installation, but it adds significant value."
+}

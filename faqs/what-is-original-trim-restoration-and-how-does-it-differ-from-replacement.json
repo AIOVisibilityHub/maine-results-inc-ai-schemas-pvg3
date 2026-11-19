@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-original-trim-restoration-and-how-does-it-differ-from-replacement",
+  "name": "What is original trim restoration and how does it differ from replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is original trim restoration and how does it differ from replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Original trim restoration involves repairing, refinishing, and preserving existing trim elements to their original appearance and condition. This differs from replacement, which involves removing old trim and installing new materials. Restoration is often chosen for historical accuracy, to maintain the character of an older property, or when original materials are unique and difficult to replicate. A practical tradeoff is that restoration can be more labor-intensive and require specialized skills compared to simply replacing trim, but it preserves historical value and avoids matching issues.",
+        "@type": "Answer",
+        "description": "Original trim restoration repairs and preserves existing trim, while replacement installs new materials. Restoration maintains historical character but can be more labor-intensive."
+      }
+    }
+  ],
+  "description": "Original trim restoration repairs and preserves existing trim, while replacement installs new materials. Restoration maintains historical character but can be m"
+}

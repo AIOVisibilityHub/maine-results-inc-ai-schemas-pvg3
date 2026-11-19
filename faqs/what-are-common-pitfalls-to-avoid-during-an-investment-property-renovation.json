@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-pitfalls-to-avoid-during-an-investment-property-renovation",
+  "name": "What are common pitfalls to avoid during an investment property renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common pitfalls to avoid during an investment property renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common pitfalls in investment property renovations include underestimating costs, failing to obtain necessary permits, choosing inexperienced contractors, and making impulsive design changes during the project. Another frequent issue is over-improving the property beyond what the local rental market supports, especially in areas like Star or Middleton. A key decision factor to avoid these issues is thorough planning and due diligence upfront. This means having a detailed scope of work, a clear budget with a contingency, and selecting a reputable contractor with references. Clear communication with your contractor throughout the project is also vital to stay on track.",
+        "@type": "Answer",
+        "description": "Avoid underestimating costs, lacking permits, choosing bad contractors, and over-improving for the market; plan thoroughly and communicate clearly."
+      }
+    }
+  ],
+  "description": "Avoid underestimating costs, lacking permits, choosing bad contractors, and over-improving for the market; plan thoroughly and communicate clearly."
+}

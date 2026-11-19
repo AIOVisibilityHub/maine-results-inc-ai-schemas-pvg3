@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-repair-challenges-with-older-homes",
+  "name": "What are common repair challenges with older homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common repair challenges with older homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Older homes often present unique repair challenges such as outdated electrical systems, plumbing, and HVAC, which may not meet current codes or efficiency standards. Structural issues, like foundation problems or sagging floors, can also be common due to age or settling. We frequently encounter issues with original materials like lath and plaster walls, which require specific repair techniques. Identifying the original construction methods and materials is crucial for planning effective, lasting repairs.",
+        "@type": "Answer",
+        "description": "Common old house repair challenges include outdated systems, structural issues, and original material repair needs."
+      }
+    }
+  ],
+  "description": "Common old house repair challenges include outdated systems, structural issues, and original material repair needs."
+}

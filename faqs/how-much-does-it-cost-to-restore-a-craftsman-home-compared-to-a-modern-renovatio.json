@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-it-cost-to-restore-a-craftsman-home-compared-to-a-modern-renovatio",
+  "name": "How much does it cost to restore a Craftsman home compared to a modern renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to restore a Craftsman home compared to a modern renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of restoring a Craftsman home can vary significantly compared to a modern renovation due to the emphasis on historical accuracy and specialized craftsmanship. Restoration often involves higher labor costs for detailed work and potentially more expensive period-specific materials. A modern renovation might allow for more standardized, less costly options. The overall cost depends on the scope of work, condition of the home, and the level of historical authenticity desired. We provide transparent estimates to help you understand the investment.",
+        "@type": "Answer",
+        "description": "Craftsman restoration can be more expensive than modern renovation due to specialized labor and period-specific materials; costs vary by scope and desired authenticity."
+      }
+    }
+  ],
+  "description": "Craftsman restoration can be more expensive than modern renovation due to specialized labor and period-specific materials; costs vary by scope and desired authe"
+}

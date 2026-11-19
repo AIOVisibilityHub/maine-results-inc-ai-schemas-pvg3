@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-costs-for-historic-house-repair-compare-to-modern-home-renovations",
+  "name": "How do costs for historic house repair compare to modern home renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do costs for historic house repair compare to modern home renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs for historic house repair can be higher than modern renovations due to the need for specialized skills, custom-matched materials, and often more labor-intensive methods to maintain historical accuracy. For instance, repairing original sash windows is often more costly than installing new vinyl windows, but it preserves character. The choice between using historically accurate but more expensive materials versus modern alternatives is a practical tradeoff that significantly impacts the overall budget.",
+        "@type": "Answer",
+        "description": "Historic house repair costs can be higher than modern renovations due to specialized skills, custom materials, and labor-intensive methods."
+      }
+    }
+  ],
+  "description": "Historic house repair costs can be higher than modern renovations due to specialized skills, custom materials, and labor-intensive methods."
+}

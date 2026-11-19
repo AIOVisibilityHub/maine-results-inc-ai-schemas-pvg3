@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-a-full-vintage-home-restoration-versus-partial-updates",
+  "name": "When should I consider a full vintage home restoration versus partial updates?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a full vintage home restoration versus partial updates?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a full vintage home restoration if your home has significant structural issues, outdated systems (electrical, plumbing), or if you aim to preserve its historical character entirely. Partial updates are more suitable if the home is in good structural condition and you primarily want to refresh certain areas or add modern conveniences without altering its core historical elements. A full restoration often ensures longevity and can increase historical property value, while partial updates address immediate needs. Maine Results, Inc. can help assess your home's condition to determine the most effective approach based on your goals and budget.",
+        "@type": "Answer",
+        "description": "Consider full restoration for significant structural issues or complete historical preservation; opt for partial updates for cosmetic refreshes or modern additions to sound structures."
+      }
+    }
+  ],
+  "description": "Consider full restoration for significant structural issues or complete historical preservation; opt for partial updates for cosmetic refreshes or modern additi"
+}

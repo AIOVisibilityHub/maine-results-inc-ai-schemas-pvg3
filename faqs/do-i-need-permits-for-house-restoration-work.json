@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-permits-for-house-restoration-work",
+  "name": "Do I need permits for house restoration work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for house restoration work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, most house restoration projects, especially those involving structural changes, significant system upgrades (electrical, plumbing), or exterior modifications, will require permits from your local city or county building department. The specific permits needed depend on the scope of work and local regulations in areas like Garden City, Meridian, or Eagle. Neglecting to obtain proper permits can lead to delays, fines, and potentially requiring demolition of unapproved work. Maine Results, Inc. assists clients in understanding and securing the necessary permits, ensuring your project complies with all local building codes.",
+        "@type": "Answer",
+        "description": "Most house restoration projects require permits for structural, system, or exterior changes, depending on local regulations and the scope of work."
+      }
+    }
+  ],
+  "description": "Most house restoration projects require permits for structural, system, or exterior changes, depending on local regulations and the scope of work."
+}

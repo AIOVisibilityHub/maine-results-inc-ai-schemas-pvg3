@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-a-contractor-for-historic-home-repair",
+  "name": "How do I choose a contractor for historic home repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a contractor for historic home repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for historic home repair, look for experience with older properties, a portfolio of relevant projects, and a clear understanding of preservation principles. It's beneficial to ask about their approach to material sourcing and how they plan to balance historical accuracy with modern functionality. A good contractor should be able to clearly explain their process and provide references from other historic homeowners. Our first-party insight is that we believe open communication about preservation goals from the start is vital for a successful outcome.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience in older properties, a clear understanding of preservation principles, and a good communication style."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience in older properties, a clear understanding of preservation principles, and a good communication style."
+}

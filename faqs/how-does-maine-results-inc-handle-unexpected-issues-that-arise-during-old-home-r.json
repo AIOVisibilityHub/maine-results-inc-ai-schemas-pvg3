@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-does-maine-results-inc-handle-unexpected-issues-that-arise-during-old-home-r",
+  "name": "How does Maine Results, Inc. handle unexpected issues that arise during old home renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Maine Results, Inc. handle unexpected issues that arise during old home renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Unexpected issues are common in old home renovations, such as discovering outdated wiring, plumbing leaks, or structural deficiencies once walls are opened. Our process involves regular communication with you, immediately informing you of any discoveries. We assess the issue, provide clear explanations of the problem, and present viable solutions with associated cost and timeline impacts. Our experience in areas like Meridian and Kuna helps us anticipate common problems and respond efficiently to keep your project moving forward while ensuring quality and safety.",
+        "@type": "Answer",
+        "description": "We handle unexpected issues by immediately informing you, explaining the problem, and presenting solutions with cost and timeline impacts to keep your project on track."
+      }
+    }
+  ],
+  "description": "We handle unexpected issues by immediately informing you, explaining the problem, and presenting solutions with cost and timeline impacts to keep your project o"
+}

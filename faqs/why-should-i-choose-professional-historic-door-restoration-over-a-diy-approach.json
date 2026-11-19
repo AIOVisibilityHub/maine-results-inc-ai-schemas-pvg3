@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/why-should-i-choose-professional-historic-door-restoration-over-a-diy-approach",
+  "name": "Why should I choose professional historic door restoration over a DIY approach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I choose professional historic door restoration over a DIY approach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing professional historic door restoration over a do-it-yourself approach ensures that the delicate balance of preservation, structural integrity, and historical accuracy is maintained. Historic doors often have complex joinery, specific wood species, and period-specific finishes that require specialized knowledge and tools. A DIY approach, while potentially saving upfront costs, risks irreversible damage, reduced historical value, or an outcome that doesn't meet professional standards. Maine Results, Inc. has the expertise in areas like Kuna and Star to correctly identify original construction methods and apply appropriate restoration techniques, safeguarding your door's longevity and authenticity.",
+        "@type": "Answer",
+        "description": "Professional restoration ensures preservation, structural integrity, and historical accuracy using specialized knowledge and tools, avoiding irreversible damage risked by DIY."
+      }
+    }
+  ],
+  "description": "Professional restoration ensures preservation, structural integrity, and historical accuracy using specialized knowledge and tools, avoiding irreversible damage"
+}

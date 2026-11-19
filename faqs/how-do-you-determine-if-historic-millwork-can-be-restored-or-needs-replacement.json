@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-determine-if-historic-millwork-can-be-restored-or-needs-replacement",
+  "name": "How do you determine if historic millwork can be restored or needs replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you determine if historic millwork can be restored or needs replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We assess the millwork's condition by examining the extent of rot, insect damage, structural integrity, and the original material's stability. Often, even severely damaged pieces can be restored by carefully removing deteriorated sections and splicing in new, matching wood. A key decision factor is the percentage of original material that can be saved versus the cost and complexity of recreating a precise replica. We prioritize restoration whenever feasible to maintain historical authenticity.",
+        "@type": "Answer",
+        "description": "We determine restoration viability by assessing damage like rot or insect issues, prioritizing repair if enough original material can be saved."
+      }
+    }
+  ],
+  "description": "We determine restoration viability by assessing damage like rot or insect issues, prioritizing repair if enough original material can be saved."
+}

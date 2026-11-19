@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-period-correct-trim-and-modern-trim",
+  "name": "What is the difference between period correct trim and modern trim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between period correct trim and modern trim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in design, scale, and detailing. Period correct trim often features more complex profiles, greater depth, and specific architectural styles unique to its era, such as Federal, Victorian, or Craftsman. Modern trim, by contrast, typically favors simpler, cleaner lines and less ornamentation. Choosing between the two depends on your home's architectural style and your aesthetic preferences. While modern trim can be cost-effective, period correct trim preserves or enhances the historical character of a home, which is a key consideration for many homeowners.",
+        "@type": "Answer",
+        "description": "Period correct trim features complex, historically specific designs, while modern trim has simpler, cleaner lines."
+      }
+    }
+  ],
+  "description": "Period correct trim features complex, historically specific designs, while modern trim has simpler, cleaner lines."
+}

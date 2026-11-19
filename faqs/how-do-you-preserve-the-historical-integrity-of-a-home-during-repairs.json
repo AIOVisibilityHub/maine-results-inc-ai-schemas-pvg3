@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-preserve-the-historical-integrity-of-a-home-during-repairs",
+  "name": "How do you preserve the historical integrity of a home during repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you preserve the historical integrity of a home during repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preserving historical integrity involves using appropriate materials and techniques that match the original construction as closely as possible. This often means sourcing period-correct lumber, matching existing trim profiles, or repairing rather than replacing original features like windows or doors. A key consideration is the balance between maintaining historic character and ensuring modern functionality, which might involve integrating discreet updates for energy efficiency or structural stability while minimizing visual impact.",
+        "@type": "Answer",
+        "description": "We preserve historical integrity by using period-appropriate materials and techniques, often repairing original features rather than replacing them."
+      }
+    }
+  ],
+  "description": "We preserve historical integrity by using period-appropriate materials and techniques, often repairing original features rather than replacing them."
+}

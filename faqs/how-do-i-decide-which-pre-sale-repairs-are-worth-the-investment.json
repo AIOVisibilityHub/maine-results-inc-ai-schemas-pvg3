@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-decide-which-pre-sale-repairs-are-worth-the-investment",
+  "name": "How do I decide which pre-sale repairs are worth the investment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I decide which pre-sale repairs are worth the investment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To decide which pre-sale repairs are worthwhile, consider factors like the potential return on investment, the current market conditions, and the expected buyer demographic. A pre-listing home inspection can identify critical issues that might deter buyers or cause problems during escrow. Generally, repairs that ensure the home is safe, functional, and aesthetically appealing to a broad audience tend to offer the best value. Weighing the cost of a repair against its potential to increase sale price or prevent a deal from falling through is a practical tradeoff to consider.",
+        "@type": "Answer",
+        "description": "Evaluate repairs by considering ROI, market conditions, and buyer expectations, often with a pre-listing inspection to identify critical issues."
+      }
+    }
+  ],
+  "description": "Evaluate repairs by considering ROI, market conditions, and buyer expectations, often with a pre-listing inspection to identify critical issues."
+}

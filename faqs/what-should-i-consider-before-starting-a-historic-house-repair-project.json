@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-before-starting-a-historic-house-repair-project",
+  "name": "What should I consider before starting a historic house repair project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before starting a historic house repair project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting a historic house repair, consider the original period of your home and any unique architectural features you wish to retain. Researching your home's history can inform repair choices. It's also helpful to determine your budget and timeline, as historic repairs can sometimes uncover unforeseen issues. Understanding what specific elements you prioritize for preservation versus those that might need modernization will help us plan effectively.",
+        "@type": "Answer",
+        "description": "Before starting, consider your home's original period, unique features, budget, timeline, and which elements you prioritize for preservation."
+      }
+    }
+  ],
+  "description": "Before starting, consider your home's original period, unique features, budget, timeline, and which elements you prioritize for preservation."
+}

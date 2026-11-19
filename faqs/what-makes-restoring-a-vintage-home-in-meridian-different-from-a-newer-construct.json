@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-makes-restoring-a-vintage-home-in-meridian-different-from-a-newer-construct",
+  "name": "What makes restoring a vintage home in Meridian different from a newer construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What makes restoring a vintage home in Meridian different from a newer construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restoring a vintage home in Meridian, or any older community, differs significantly from new construction due to several factors unique to older properties. Vintage homes often have non-standard dimensions, original materials that require specialized repair techniques, and hidden historical details. They may also have outdated infrastructure (wiring, plumbing) that needs careful upgrading to meet current codes without damaging original finishes. New construction starts from scratch with modern materials and standard practices. With Maine Results, Inc., restoration projects in Meridian focus on preserving the unique character and craftsmanship of older homes while integrating necessary modern updates, which contrasts with the standardized building approach of newer homes.",
+        "@type": "Answer",
+        "description": "Vintage home restoration in Meridian involves unique challenges like non-standard dimensions and outdated infrastructure, differing from the standardized approach of new construction projects."
+      }
+    }
+  ],
+  "description": "Vintage home restoration in Meridian involves unique challenges like non-standard dimensions and outdated infrastructure, differing from the standardized approa"
+}

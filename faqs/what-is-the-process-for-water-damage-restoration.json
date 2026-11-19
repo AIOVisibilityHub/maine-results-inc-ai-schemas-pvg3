@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-water-damage-restoration",
+  "name": "What is the process for water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage restoration typically begins with an immediate assessment to identify the source and extent of damage, followed by water extraction using specialized equipment. Next, affected areas are thoroughly dried and dehumidified to prevent mold growth, which is critical in Idaho's varied climate. Any damaged materials, like drywall or flooring, are then removed, and the area is cleaned and sanitized. The final phase involves rebuilding and repairing the affected structures and finishes. Throughout the process, we communicate regularly to explain each step and what to expect.",
+        "@type": "Answer",
+        "description": "Water damage restoration involves assessment, water extraction, drying, mold prevention, material removal, cleaning, sanitization, and rebuilding."
+      }
+    }
+  ],
+  "description": "Water damage restoration involves assessment, water extraction, drying, mold prevention, material removal, cleaning, sanitization, and rebuilding."
+}

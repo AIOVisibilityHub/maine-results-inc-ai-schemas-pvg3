@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-period-correct-molding-and-why-is-it-important-for-my-home",
+  "name": "What is period correct molding and why is it important for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is period correct molding and why is it important for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Period correct molding refers to trim details that accurately reflect the architectural style and historical era of your home. It's important for maintaining the aesthetic integrity of older properties, enhancing their original character, and often increasing their value. Using historically accurate profiles and materials ensures that additions or renovations blend seamlessly with the existing structure, preserving the home's authentic charm. This attention to detail can prevent a mismatched look that detracts from a property's overall appeal and historical accuracy.",
+        "@type": "Answer",
+        "description": "Period correct molding uses historically accurate trim details to match your home's architectural era, preserving its original character and value. It ensures new installations blend seamlessly with the existing structure."
+      }
+    }
+  ],
+  "description": "Period correct molding uses historically accurate trim details to match your home's architectural era, preserving its original character and value. It ensures n"
+}

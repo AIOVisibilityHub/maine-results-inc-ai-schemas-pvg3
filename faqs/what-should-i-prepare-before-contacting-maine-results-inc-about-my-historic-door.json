@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-contacting-maine-results-inc-about-my-historic-door",
+  "name": "What should I prepare before contacting Maine Results, Inc. about my historic door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting Maine Results, Inc. about my historic door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting us about your historic door, it's helpful to gather some basic information and prepare the door for our assessment. Take clear photos of the door, highlighting any areas of concern like rot, cracks, or missing pieces. Note the approximate age of the door and any known historical significance of your property in areas like Garden City or Meridian. Also, consider any specific goals you have for the restoration, such as improving security or maintaining a specific finish. This preparation allows us to provide a more accurate initial consultation and understand the scope of work.",
+        "@type": "Answer",
+        "description": "Prepare by taking photos, noting the door's age and historical significance, and considering your restoration goals before contacting us."
+      }
+    }
+  ],
+  "description": "Prepare by taking photos, noting the door's age and historical significance, and considering your restoration goals before contacting us."
+}

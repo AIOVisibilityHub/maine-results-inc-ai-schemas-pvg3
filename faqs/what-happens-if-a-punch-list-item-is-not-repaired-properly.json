@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-happens-if-a-punch-list-item-is-not-repaired-properly",
+  "name": "What happens if a punch list item is not repaired properly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if a punch list item is not repaired properly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a punch list item is not repaired to the agreed-upon standard, it remains an open item on the list. The contractor is generally obligated to rectify it until it meets the project specifications and client satisfaction. Maine Results, Inc. conducts follow-up inspections to verify repairs and works directly with clients in Meridian, Kuna, or Star to ensure all fixes are completed correctly before final acceptance.",
+        "@type": "Answer",
+        "description": "If a punch list item is not repaired properly, it remains open and the contractor must rectify it to satisfaction."
+      }
+    }
+  ],
+  "description": "If a punch list item is not repaired properly, it remains open and the contractor must rectify it to satisfaction."
+}

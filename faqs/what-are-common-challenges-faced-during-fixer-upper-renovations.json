@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-challenges-faced-during-fixer-upper-renovations",
+  "name": "What are common challenges faced during fixer-upper renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common challenges faced during fixer-upper renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges during fixer-upper renovations include discovering unforeseen structural issues, outdated electrical or plumbing systems, or hazardous materials like asbestos or lead paint in older homes. These discoveries can lead to unexpected costs and project delays. Sourcing specific materials, managing permit approvals, and coordinating different trades can also be complex. Working with an experienced contractor from a company like Maine Results, Inc., which serves the Garden City, Meridian, Eagle, Kuna, and Star areas, can help manage these challenges through proactive planning and effective communication.",
+        "@type": "Answer",
+        "description": "Challenges include unforeseen structural issues, outdated systems, hazardous materials, and permit delays. An experienced contractor can help manage these."
+      }
+    }
+  ],
+  "description": "Challenges include unforeseen structural issues, outdated systems, hazardous materials, and permit delays. An experienced contractor can help manage these."
+}

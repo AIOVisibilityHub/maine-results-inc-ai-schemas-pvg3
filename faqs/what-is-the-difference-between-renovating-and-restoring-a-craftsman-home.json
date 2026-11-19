@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-renovating-and-restoring-a-craftsman-home",
+  "name": "What is the difference between renovating and restoring a Craftsman home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between renovating and restoring a Craftsman home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Renovating a Craftsman home often involves updating or changing its style to suit current tastes, which may include altering original features. Restoration, however, focuses on bringing the home back to its original or a historically significant period, meticulously repairing or replicating its authentic architectural elements and finishes. A key decision factor in choosing between renovation and restoration is whether the goal is to modernize the home's aesthetic or preserve its historical integrity.",
+        "@type": "Answer",
+        "description": "Renovation updates a home's style, while restoration meticulously brings it back to a historically significant period, preserving authentic architectural elements."
+      }
+    }
+  ],
+  "description": "Renovation updates a home's style, while restoration meticulously brings it back to a historically significant period, preserving authentic architectural elemen"
+}

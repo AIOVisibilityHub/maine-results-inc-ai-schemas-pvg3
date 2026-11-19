@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-maine-results-inc-match-existing-period-molding-or-replicate-historical-desi",
+  "name": "Can Maine Results, Inc. match existing period molding or replicate historical designs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Maine Results, Inc. match existing period molding or replicate historical designs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. specializes in matching existing period molding and replicating historical designs to maintain architectural authenticity. This often involves careful measurement and profiling of your current trim, or working from historical photographs and architectural drawings. We have the capability to source or custom mill profiles that precisely replicate original details, ensuring new installations are indistinguishable from the old. Our commitment is to preserve the historical character of homes in areas like Eagle and Kuna, where many properties boast unique heritage features. We work to ensure seamless integration, whether repairing a section or adding new molding.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. can match existing period molding or replicate historical designs using careful profiling, custom milling, or historical references. We specialize in preserving the authentic character of homes."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. can match existing period molding or replicate historical designs using careful profiling, custom milling, or historical references. We"
+}

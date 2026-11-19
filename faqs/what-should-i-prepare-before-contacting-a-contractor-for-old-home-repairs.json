@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-contacting-a-contractor-for-old-home-repairs",
+  "name": "What should I prepare before contacting a contractor for old home repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting a contractor for old home repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting a contractor for old home repairs, gather any available information about your home's history, previous renovations, or existing issues. Consider your budget and define your project goals, including what problems you want to solve and your desired outcome. Taking photos of problem areas and making a list of questions will also help. This preparation allows us to provide more accurate initial assessments and proposals tailored to your specific needs.",
+        "@type": "Answer",
+        "description": "Before contacting a contractor, prepare your home's history, budget, project goals, and photos of problem areas for a better initial assessment."
+      }
+    }
+  ],
+  "description": "Before contacting a contractor, prepare your home's history, budget, project goals, and photos of problem areas for a better initial assessment."
+}

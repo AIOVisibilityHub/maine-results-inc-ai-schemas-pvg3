@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-investment-property-renovation-take",
+  "name": "How long does a typical investment property renovation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical investment property renovation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an investment property renovation varies significantly based on the scope and existing conditions of the property. A light cosmetic refresh could take a few weeks, while a full gut renovation might span several months. For projects in areas like Garden City or Meridian, factors such as permitting processes, material availability, and the specific trades involved can all affect the timeline. Process clarity is achieved by establishing a detailed project schedule from the outset, including milestones for each phase like demolition, framing, electrical, plumbing, drywall, and finishing work. Unexpected issues discovered during demolition can also extend the timeline.",
+        "@type": "Answer",
+        "description": "Renovation timelines vary; a cosmetic refresh can take weeks, while a full renovation might take months, depending on scope and local factors."
+      }
+    }
+  ],
+  "description": "Renovation timelines vary; a cosmetic refresh can take weeks, while a full renovation might take months, depending on scope and local factors."
+}

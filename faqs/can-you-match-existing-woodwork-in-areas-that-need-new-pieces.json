@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-match-existing-woodwork-in-areas-that-need-new-pieces",
+  "name": "Can you match existing woodwork in areas that need new pieces?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match existing woodwork in areas that need new pieces?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, matching existing woodwork is a critical part of maintaining historical accuracy in restoration projects. When sections of wood are too damaged to repair, we carefully source new wood that closely matches the original in species, grain, and cut. For complex profiles, our skilled craftsmen can custom-mill new pieces to replicate the intricate details of your existing trim or architectural elements, ensuring a seamless and cohesive appearance throughout your property.",
+        "@type": "Answer",
+        "description": "Yes, we source matching wood and can custom-mill new pieces to replicate existing intricate details for seamless integration."
+      }
+    }
+  ],
+  "description": "Yes, we source matching wood and can custom-mill new pieces to replicate existing intricate details for seamless integration."
+}

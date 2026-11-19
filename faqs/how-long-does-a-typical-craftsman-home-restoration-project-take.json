@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-craftsman-home-restoration-project-take",
+  "name": "How long does a typical Craftsman home restoration project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical Craftsman home restoration project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a Craftsman home restoration project varies greatly based on the scope, the home's current condition, and unforeseen discoveries. Smaller projects focusing on specific rooms might take a few months, while whole-house restorations could extend for a year or more. The process can be affected by factors like material lead times for custom or specialty items, and the need for careful, hand-crafted work. We provide a detailed timeline upfront and keep you informed of any adjustments.",
+        "@type": "Answer",
+        "description": "Project duration varies by scope, condition, and discoveries; smaller projects take months, whole-house restorations a year or more, affected by material lead times."
+      }
+    }
+  ],
+  "description": "Project duration varies by scope, condition, and discoveries; smaller projects take months, whole-house restorations a year or more, affected by material lead t"
+}

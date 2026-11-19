@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-cost-factors-for-historic-millwork-restoration",
+  "name": "What are the cost factors for historic millwork restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the cost factors for historic millwork restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of historic millwork restoration is influenced by several factors, including the type and amount of millwork, the extent of damage, the complexity of the profiles, and the type of finish desired. Intricate carvings or the need for custom-milled replication of unique profiles will increase costs. We provide detailed estimates after an on-site evaluation in your Garden City or Meridian property, allowing us to accurately assess the scope of work and necessary materials.",
+        "@type": "Answer",
+        "description": "Cost factors for historic millwork restoration include type, amount, damage, complexity, and finish, with custom profiles increasing costs."
+      }
+    }
+  ],
+  "description": "Cost factors for historic millwork restoration include type, amount, damage, complexity, and finish, with custom profiles increasing costs."
+}

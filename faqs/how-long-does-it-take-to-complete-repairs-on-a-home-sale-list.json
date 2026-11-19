@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-complete-repairs-on-a-home-sale-list",
+  "name": "How long does it take to complete repairs on a home sale list?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete repairs on a home sale list?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for completing repairs varies significantly based on the number, type, and complexity of the issues identified. Small cosmetic fixes might take a few days, while major repairs like roofing, foundation work, or significant electrical upgrades could extend to several weeks. Working with a general contractor like Maine Results, Inc. can streamline the process, as we manage various trades and can provide a more accurate estimate for your specific repair list. Our team in areas like Garden City and Meridian can often mobilize quickly to meet closing deadlines.",
+        "@type": "Answer",
+        "description": "Repair timelines depend on the complexity and number of issues, ranging from days for minor fixes to weeks for major structural work."
+      }
+    }
+  ],
+  "description": "Repair timelines depend on the complexity and number of issues, ranging from days for minor fixes to weeks for major structural work."
+}

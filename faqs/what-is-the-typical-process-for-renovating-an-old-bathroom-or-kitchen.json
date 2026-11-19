@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-renovating-an-old-bathroom-or-kitchen",
+  "name": "What is the typical process for renovating an old bathroom or kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for renovating an old bathroom or kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for renovating an old bathroom or kitchen usually begins with an initial consultation and design phase to establish your vision and budget. Next, we address demolition and any necessary structural, plumbing, or electrical updates. This is often more involved in older homes due to outdated infrastructure. Installation of new fixtures, cabinetry, and finishes follows, with careful attention to detail. We ensure all work complies with local codes, which is a key consideration for older properties in our service areas like Eagle or Kuna.",
+        "@type": "Answer",
+        "description": "Renovating an old bathroom or kitchen involves consultation, demolition, system updates, and new installations, often with complex infrastructure changes."
+      }
+    }
+  ],
+  "description": "Renovating an old bathroom or kitchen involves consultation, demolition, system updates, and new installations, often with complex infrastructure changes."
+}

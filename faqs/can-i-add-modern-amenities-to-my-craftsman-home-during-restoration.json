@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-add-modern-amenities-to-my-craftsman-home-during-restoration",
+  "name": "Can I add modern amenities to my Craftsman home during restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add modern amenities to my Craftsman home during restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, modern amenities can be thoughtfully integrated into a Craftsman home during restoration. Our approach focuses on seamless integration, often concealing new technology within existing structures or designing new elements that complement the home's historic style. This allows for updated kitchens, bathrooms, and smart home technology without detracting from the original character. A practical tradeoff involves balancing the desire for contemporary conveniences with preserving the authentic aesthetic of the Craftsman style.",
+        "@type": "Answer",
+        "description": "Modern amenities can be integrated into Craftsman homes by concealing technology or designing complementary elements, balancing convenience with historical aesthetics."
+      }
+    }
+  ],
+  "description": "Modern amenities can be integrated into Craftsman homes by concealing technology or designing complementary elements, balancing convenience with historical aest"
+}

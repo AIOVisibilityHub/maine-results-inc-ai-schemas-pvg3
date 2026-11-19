@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-steps-are-involved-in-planning-a-period-correct-trim-project-with-maine-res",
+  "name": "What steps are involved in planning a period correct trim project with Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in planning a period correct trim project with Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Planning a period correct trim project with us typically begins with an initial consultation where we discuss your vision, inspect your home, and assess its architectural period. Following this, we research appropriate trim styles and materials, often involving custom milling if an exact match to historical profiles is needed. We then provide a detailed proposal, including material options, project scope, timeline, and cost. To prepare for this process, consider what historical period you're interested in and gather any existing photos or records of your home's original trim, which can help inform our recommendations.",
+        "@type": "Answer",
+        "description": "Planning involves consultation, architectural assessment, research, material selection, and a detailed proposal, with client input on historical period and existing trim."
+      }
+    }
+  ],
+  "description": "Planning involves consultation, architectural assessment, research, material selection, and a detailed proposal, with client input on historical period and exis"
+}

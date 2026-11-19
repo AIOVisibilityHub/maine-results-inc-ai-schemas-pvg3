@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/why-choose-a-local-contractor-for-house-restoration-in-the-boise-area",
+  "name": "Why choose a local contractor for house restoration in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why choose a local contractor for house restoration in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a local contractor like Maine Results, Inc. for house restoration in the Boise area, including Garden City, Meridian, Eagle, and Kuna, offers several advantages. Local contractors are familiar with the specific architectural styles and common building practices of the region, as well as local permitting requirements and historic preservation guidelines. This regional knowledge can streamline the process and help identify suitable local suppliers for specialized materials. Our team's understanding of the local environment ensures that your restoration is not only historically accurate but also compliant with community standards and conditions.",
+        "@type": "Answer",
+        "description": "Local contractors understand regional architectural styles, permitting, and preservation guidelines, which streamlines the process and ensures compliance."
+      }
+    }
+  ],
+  "description": "Local contractors understand regional architectural styles, permitting, and preservation guidelines, which streamlines the process and ensures compliance."
+}

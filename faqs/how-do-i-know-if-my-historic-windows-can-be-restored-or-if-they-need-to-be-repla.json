@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-historic-windows-can-be-restored-or-if-they-need-to-be-repla",
+  "name": "How do I know if my historic windows can be restored or if they need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my historic windows can be restored or if they need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most historic wood windows can be restored, even if they appear severely damaged. Key factors determining restorability include the extent of wood rot, the condition of the glass, and the structural integrity of the sash. Our assessment in areas like Garden City or Meridian will carefully evaluate these elements, often finding that sashes can be rebuilt, glass can be reglazed, and hardware repaired. We prioritize restoration to preserve original materials whenever feasible, as this often proves more cost-effective and authentic than full replacement.",
+        "@type": "Answer",
+        "description": "Most historic wood windows can be restored. An assessment will determine if wood rot, glass condition, and sash integrity allow for restoration."
+      }
+    }
+  ],
+  "description": "Most historic wood windows can be restored. An assessment will determine if wood rot, glass condition, and sash integrity allow for restoration."
+}

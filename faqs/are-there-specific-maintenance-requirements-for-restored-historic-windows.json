@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/are-there-specific-maintenance-requirements-for-restored-historic-windows",
+  "name": "Are there specific maintenance requirements for restored historic windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific maintenance requirements for restored historic windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restored historic windows, particularly those made of wood, benefit from regular maintenance to ensure their longevity. This typically involves inspecting the paint and caulk every few years and addressing any chipping or cracking promptly to prevent moisture intrusion. Cleaning the glass and ensuring the sashes operate smoothly are also part of routine care. We recommend using high-quality exterior paints and sealants to provide lasting protection against the elements, common practice for homes throughout Meridian and Nampa.",
+        "@type": "Answer",
+        "description": "Restored historic windows require regular maintenance like inspecting paint and caulk, cleaning, and ensuring smooth operation to ensure longevity."
+      }
+    }
+  ],
+  "description": "Restored historic windows require regular maintenance like inspecting paint and caulk, cleaning, and ensuring smooth operation to ensure longevity."
+}

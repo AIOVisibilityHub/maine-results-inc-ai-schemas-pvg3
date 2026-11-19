@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-permits-or-approvals-are-needed-for-historic-home-restoration-in-garden-cit",
+  "name": "What permits or approvals are needed for historic home restoration in Garden City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits or approvals are needed for historic home restoration in Garden City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For historic home restoration projects in Garden City, you may need specific permits from the city's planning department, especially if your property is within a designated historic district or has a historic overlay. These permits ensure that any alterations comply with local preservation ordinances designed to maintain the area's historical character. Understanding the specific regulations and application process before starting work is crucial, as requirements can vary based on the scope and location of the project.",
+        "@type": "Answer",
+        "description": "Historic home restoration in Garden City may require specific permits from the planning department, especially in designated historic districts, to ensure compliance with local preservation ordinances."
+      }
+    }
+  ],
+  "description": "Historic home restoration in Garden City may require specific permits from the planning department, especially in designated historic districts, to ensure compl"
+}

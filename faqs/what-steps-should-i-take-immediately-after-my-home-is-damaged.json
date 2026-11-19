@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-steps-should-i-take-immediately-after-my-home-is-damaged",
+  "name": "What steps should I take immediately after my home is damaged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps should I take immediately after my home is damaged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after your home is damaged, ensure everyone's safety and contact emergency services if needed. Then, take steps to prevent further damage, such as turning off the main water supply for leaks or covering broken windows. Document the damage thoroughly with photos and videos, and contact your insurance provider as soon as possible to report the incident. Contacting a professional restoration company like Maine Results, Inc. early can help in quickly assessing the situation and mitigating further losses.",
+        "@type": "Answer",
+        "description": "After home damage, prioritize safety, prevent further issues, document damage, contact your insurer, and call a professional restoration company."
+      }
+    }
+  ],
+  "description": "After home damage, prioritize safety, prevent further issues, document damage, contact your insurer, and call a professional restoration company."
+}

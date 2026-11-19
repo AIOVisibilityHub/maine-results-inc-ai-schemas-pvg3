@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-timeline-for-an-old-home-renovation-project",
+  "name": "What is the typical timeline for an old home renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for an old home renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for an old home renovation project varies significantly based on the scope of work, the age of the home, and unexpected discoveries. Minor updates, like a single room refresh, might take a few weeks. More extensive renovations, such as whole-house remodels or structural changes, can span several months to a year or more. It's crucial to account for potential delays due to unforeseen issues common in older homes, such as outdated electrical systems, plumbing, or structural wear. We help you understand these variables during the planning phase to set realistic expectations.",
+        "@type": "Answer",
+        "description": "Timelines vary from weeks for minor updates to over a year for extensive renovations, depending on project scope and unexpected issues."
+      }
+    }
+  ],
+  "description": "Timelines vary from weeks for minor updates to over a year for extensive renovations, depending on project scope and unexpected issues."
+}

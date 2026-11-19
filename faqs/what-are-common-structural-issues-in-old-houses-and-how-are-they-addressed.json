@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-structural-issues-in-old-houses-and-how-are-they-addressed",
+  "name": "What are common structural issues in old houses and how are they addressed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common structural issues in old houses and how are they addressed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common structural issues in old houses include sagging floors, bowing walls, and foundation cracks, often resulting from age, settling, or moisture. Addressing these can involve reinforcing joists, installing support beams, or foundation repair methods like piering or crack injection. We begin with a thorough inspection to diagnose the root cause and then propose the most effective, lasting solution. Our approach focuses on stabilizing the home and ensuring its long-term integrity, which is a key part of our service across the Boise metro area.",
+        "@type": "Answer",
+        "description": "Common structural issues like sagging floors or bowing walls are addressed by reinforcing joists, adding beams, or foundation repair after a thorough inspection."
+      }
+    }
+  ],
+  "description": "Common structural issues like sagging floors or bowing walls are addressed by reinforcing joists, adding beams, or foundation repair after a thorough inspection"
+}

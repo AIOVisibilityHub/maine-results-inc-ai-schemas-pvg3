@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-home-renovation-and-home-restoration",
+  "name": "What is the difference between home renovation and home restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between home renovation and home restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home renovation updates a home by improving or repairing its structure, often incorporating modern styles and materials. Home restoration, on the other hand, focuses on returning a vintage home to its original or historically accurate condition. This often involves repairing and preserving existing architectural features, using period-appropriate materials, and researching the home's original design. Understanding this difference helps determine the project's scope and budget. For instance, restoring original trim work might involve custom milling, a process Maine Results, Inc. can manage to match existing profiles, which differs from simply replacing it with new, standard trim during a renovation.",
+        "@type": "Answer",
+        "description": "Renovation updates a home, while restoration returns a vintage home to its original historical condition by preserving its unique features and using period-appropriate materials."
+      }
+    }
+  ],
+  "description": "Renovation updates a home, while restoration returns a vintage home to its original historical condition by preserving its unique features and using period-appr"
+}

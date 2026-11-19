@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-home-restoration-project-take",
+  "name": "How long does a typical home restoration project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical home restoration project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a home restoration project varies significantly depending on the extent of the damage, the size of the property, and the specific services required. Minor repairs might take a few weeks, while extensive structural rebuilds could span several months. Factors like insurance approvals, material availability, and the complexity of custom finishes also influence the timeline. We work to provide a realistic project schedule early in the process, keeping homeowners informed of key milestones and potential adjustments.",
+        "@type": "Answer",
+        "description": "Project duration depends on damage extent, property size, and services needed; minor repairs take weeks, extensive rebuilds months."
+      }
+    }
+  ],
+  "description": "Project duration depends on damage extent, property size, and services needed; minor repairs take weeks, extensive rebuilds months."
+}

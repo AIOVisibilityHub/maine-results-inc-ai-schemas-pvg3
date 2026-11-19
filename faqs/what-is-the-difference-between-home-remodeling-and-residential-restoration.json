@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-home-remodeling-and-residential-restoration",
+  "name": "What is the difference between home remodeling and residential restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between home remodeling and residential restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home remodeling involves improving or updating your home, often for aesthetic or functional upgrades, like adding a new bathroom or updating a kitchen. Residential restoration, conversely, focuses on repairing and returning a damaged home to its pre-loss condition, addressing issues like structural damage, water damage, or fire damage. While restoration might include some new finishes, its primary goal is repair and safety, not enhancement. Sometimes, a restoration project might transition into a remodeling phase if homeowners decide to upgrade beyond the original condition.",
+        "@type": "Answer",
+        "description": "Remodeling improves or updates a home; restoration repairs damage to return it to its previous state. Restoration prioritizes repair and safety."
+      }
+    }
+  ],
+  "description": "Remodeling improves or updates a home; restoration repairs damage to return it to its previous state. Restoration prioritizes repair and safety."
+}

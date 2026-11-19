@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/will-my-homeowner-s-insurance-cover-residential-restoration-costs",
+  "name": "Will my homeowner's insurance cover residential restoration costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover residential restoration costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance typically covers restoration costs for sudden and accidental damage, such as from fires, storms, or burst pipes, depending on your policy. However, damage from issues like neglect or gradual deterioration, or certain types of flooding, may not be covered. You'll need to understand your deductible and policy limits. We can help document the damage and provide the necessary estimates to your insurance adjuster to support your claim process.",
+        "@type": "Answer",
+        "description": "Insurance often covers sudden damage from fires or storms, but not always neglect or certain floods. We can help with documentation for claims."
+      }
+    }
+  ],
+  "description": "Insurance often covers sudden damage from fires or storms, but not always neglect or certain floods. We can help with documentation for claims."
+}

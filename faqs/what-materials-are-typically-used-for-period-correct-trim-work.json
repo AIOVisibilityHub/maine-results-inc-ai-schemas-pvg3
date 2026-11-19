@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-materials-are-typically-used-for-period-correct-trim-work",
+  "name": "What materials are typically used for period correct trim work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are typically used for period correct trim work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Period correct trim work primarily uses solid wood, often specific species that were common during the desired historical period, such as Douglas fir, oak, or poplar. For intricate designs, plaster or composite materials that mimic the original can also be used, especially when replicating complex profiles that are difficult to mill from solid wood today. The choice of material impacts durability, finish quality, and cost. It's important to weigh these factors to select materials that not only look authentic but also suit your home's environmental conditions and budget.",
+        "@type": "Answer",
+        "description": "Solid wood, plaster, or composite materials are typically used, depending on the historical period and desired replication."
+      }
+    }
+  ],
+  "description": "Solid wood, plaster, or composite materials are typically used, depending on the historical period and desired replication."
+}

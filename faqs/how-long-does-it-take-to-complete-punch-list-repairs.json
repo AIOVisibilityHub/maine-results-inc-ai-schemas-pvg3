@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-complete-punch-list-repairs",
+  "name": "How long does it take to complete punch list repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete punch list repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required to complete punch list repairs varies significantly based on the number and complexity of items. Simple fixes might take a few days, while more involved repairs could extend to weeks. Factors like material availability and subcontractor scheduling also play a role. Maine Results, Inc. aims for efficient completion, providing an estimated timeline after the initial punch list review to manage client expectations.",
+        "@type": "Answer",
+        "description": "Completion time for punch list repairs depends on item complexity and quantity, typically ranging from a few days to several weeks."
+      }
+    }
+  ],
+  "description": "Completion time for punch list repairs depends on item complexity and quantity, typically ranging from a few days to several weeks."
+}

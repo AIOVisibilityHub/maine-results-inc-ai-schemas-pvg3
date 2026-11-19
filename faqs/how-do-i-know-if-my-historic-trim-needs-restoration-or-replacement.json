@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-historic-trim-needs-restoration-or-replacement",
+  "name": "How do I know if my historic trim needs restoration or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my historic trim needs restoration or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining whether to restore or replace historic trim depends on the extent of the damage, the trim's material, and its historical significance. Minor issues like peeling paint, small cracks, or surface wear typically indicate a need for restoration. If the trim exhibits extensive dry rot, significant structural damage, or is missing large sections, replacement might be necessary, often using historically accurate materials and profiles. When assessing your trim, consider the long-term value of preserving original elements versus the cost and effort of replication. Maine Results, Inc. can help evaluate your specific situation.",
+        "@type": "Answer",
+        "description": "Assess trim damage: minor issues mean restoration, extensive rot or missing sections might require replacement. Consider historical significance and material integrity to decide."
+      }
+    }
+  ],
+  "description": "Assess trim damage: minor issues mean restoration, extensive rot or missing sections might require replacement. Consider historical significance and material in"
+}

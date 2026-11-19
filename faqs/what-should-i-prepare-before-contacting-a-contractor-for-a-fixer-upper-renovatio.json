@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-contacting-a-contractor-for-a-fixer-upper-renovatio",
+  "name": "What should I prepare before contacting a contractor for a fixer-upper renovation consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting a contractor for a fixer-upper renovation consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting a contractor for a fixer-upper renovation consultation, it's beneficial to have a clear understanding of your goals, desired scope of work, and budget range. Gather any existing architectural plans, photos of the current space, and inspiration images of what you envision. Knowing the property's age and any known issues can also be helpful. This preparation allows the contractor to provide a more accurate initial assessment and discuss realistic possibilities, accelerating the planning process for your project in areas like Star or Kuna.",
+        "@type": "Answer",
+        "description": "Before contacting a contractor, prepare your renovation goals, scope, budget, existing plans, photos, and inspiration images for a more accurate consultation."
+      }
+    }
+  ],
+  "description": "Before contacting a contractor, prepare your renovation goals, scope, budget, existing plans, photos, and inspiration images for a more accurate consultation."
+}

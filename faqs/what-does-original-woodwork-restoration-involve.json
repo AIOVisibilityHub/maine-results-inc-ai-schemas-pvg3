@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-does-original-woodwork-restoration-involve",
+  "name": "What does original woodwork restoration involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does original woodwork restoration involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Original woodwork restoration involves carefully bringing existing wood features back to their original beauty and structural integrity. This can include stripping old finishes, repairing damage like cracks or missing pieces, sanding, and applying new stains or protective coatings. The process aims to preserve the historical character and material of the wood rather than replacing it, often increasing the value and aesthetic appeal of your property in areas like Garden City or Meridian.",
+        "@type": "Answer",
+        "description": "Original woodwork restoration involves stripping old finishes, repairing damage, and applying new coatings to preserve existing wood features' historical character."
+      }
+    }
+  ],
+  "description": "Original woodwork restoration involves stripping old finishes, repairing damage, and applying new coatings to preserve existing wood features' historical charac"
+}

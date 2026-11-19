@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-old-house-needs-foundation-repair",
+  "name": "How do I know if my old house needs foundation repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my old house needs foundation repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs that your old house might need foundation repair include cracks in interior or exterior walls, uneven or sloped floors, sticking doors or windows, and visible cracks in the foundation itself. Water intrusion in the basement or crawl space can also indicate foundation issues. Early assessment helps prevent more extensive damage. Our team can inspect your property in areas like Garden City or Meridian to determine the extent of any foundation concerns and recommend appropriate solutions.",
+        "@type": "Answer",
+        "description": "Look for wall cracks, uneven floors, sticking doors, or visible foundation cracks. A professional assessment can confirm the need for repair."
+      }
+    }
+  ],
+  "description": "Look for wall cracks, uneven floors, sticking doors, or visible foundation cracks. A professional assessment can confirm the need for repair."
+}

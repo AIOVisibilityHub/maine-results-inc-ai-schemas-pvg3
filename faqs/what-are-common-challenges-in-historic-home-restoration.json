@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-challenges-in-historic-home-restoration",
+  "name": "What are common challenges in historic home restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common challenges in historic home restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges in historic home restoration include uncovering unexpected structural issues, dealing with outdated or hazardous materials like lead paint or asbestos, and sourcing authentic period-specific components. Additionally, ensuring modern systems (electrical, plumbing) can be integrated without compromising the home's historical integrity poses a frequent challenge. A first-party insight we've observed is that thorough pre-restoration inspections are critical to identify these issues early and plan effective, safe solutions, which ultimately contributes to a smoother project.",
+        "@type": "Answer",
+        "description": "Challenges in historic home restoration include unexpected structural issues, hazardous materials, sourcing authentic components, and integrating modern systems. Thorough pre-restoration inspections help identify and resolve these early."
+      }
+    }
+  ],
+  "description": "Challenges in historic home restoration include unexpected structural issues, hazardous materials, sourcing authentic components, and integrating modern systems"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-house-restoration-and-renovation",
+  "name": "What is the difference between house restoration and renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between house restoration and renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "House restoration aims to return a home to a historically accurate period, preserving its original character, materials, and techniques. It often involves meticulous research and repair of existing features. Renovation, on the other hand, focuses on updating and modernizing a home, often changing its layout, finishes, and functionality to suit contemporary tastes or needs. While renovation might improve comfort, restoration prioritizes historical authenticity. The choice between restoration and renovation depends on whether your primary goal is historical preservation or modern upgrades and how these goals align with the property's existing features.",
+        "@type": "Answer",
+        "description": "Restoration returns a home to a historically accurate period, preserving original character. Renovation updates and modernizes for contemporary needs and tastes."
+      }
+    }
+  ],
+  "description": "Restoration returns a home to a historically accurate period, preserving original character. Renovation updates and modernizes for contemporary needs and tastes"
+}

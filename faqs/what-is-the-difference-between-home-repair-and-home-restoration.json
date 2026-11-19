@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-home-repair-and-home-restoration",
+  "name": "What is the difference between home repair and home restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between home repair and home restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home repair typically addresses minor issues or cosmetic fixes, such as patching a small hole in a wall or replacing a few shingles. Home restoration, however, involves a more comprehensive process of bringing a property back to its pre-loss condition after significant damage from events like floods, fires, or major storms. It often includes specialized cleaning, structural drying, and extensive reconstruction. Maine Results, Inc. provides full-scale restoration services, ensuring a complete and safe return to normalcy rather than just surface-level fixes.",
+        "@type": "Answer",
+        "description": "Home repair fixes minor issues, while home restoration comprehensively returns a property to its pre-loss condition after significant damage."
+      }
+    }
+  ],
+  "description": "Home repair fixes minor issues, while home restoration comprehensively returns a property to its pre-loss condition after significant damage."
+}

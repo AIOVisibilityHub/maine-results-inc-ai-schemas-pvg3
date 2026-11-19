@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-look-for-when-reviewing-the-punch-list-with-my-contractor",
+  "name": "What should I look for when reviewing the punch list with my contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when reviewing the punch list with my contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When reviewing the punch list, focus on both aesthetic details and functional aspects, systematically checking every room and exterior area. Look for incomplete tasks, damages, installations that don't match plans, and any operational issues. Maine Results, Inc. advises clients to bring a copy of the project plans and specifications during the walkthrough to ensure all elements meet the original design and quality expectations.",
+        "@type": "Answer",
+        "description": "When reviewing a punch list, check for aesthetic details, functional issues, incomplete tasks, and compliance with plans."
+      }
+    }
+  ],
+  "description": "When reviewing a punch list, check for aesthetic details, functional issues, incomplete tasks, and compliance with plans."
+}

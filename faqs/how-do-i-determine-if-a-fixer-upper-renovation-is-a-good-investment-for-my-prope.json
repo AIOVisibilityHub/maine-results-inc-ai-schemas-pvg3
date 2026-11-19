@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-determine-if-a-fixer-upper-renovation-is-a-good-investment-for-my-prope",
+  "name": "How do I determine if a fixer-upper renovation is a good investment for my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I determine if a fixer-upper renovation is a good investment for my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To determine if a fixer-upper renovation is a good investment, consider the property's purchase price, the estimated renovation costs, and its potential resale value or long-term utility after improvements. Research comparable renovated properties in areas like Garden City or Meridian to understand the market value. A general contractor can provide an initial cost estimate for the renovation, which is crucial for assessing if the total investment aligns with your budget and expected returns. Factor in potential unexpected repairs, as older homes often reveal hidden issues.",
+        "@type": "Answer",
+        "description": "Assess a fixer-upper renovation's investment potential by comparing purchase price, renovation costs, and potential resale value in your local market."
+      }
+    }
+  ],
+  "description": "Assess a fixer-upper renovation's investment potential by comparing purchase price, renovation costs, and potential resale value in your local market."
+}

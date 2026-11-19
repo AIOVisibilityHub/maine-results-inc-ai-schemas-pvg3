@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/will-pre-sale-repairs-increase-my-home-s-appraisal-value",
+  "name": "Will pre-sale repairs increase my home's appraisal value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will pre-sale repairs increase my home's appraisal value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Well-executed pre-sale repairs can positively influence your home's appraisal value by improving its condition and overall appeal. Appraisers consider the condition of the property, including recent upgrades and the absence of deferred maintenance, when determining value. While not every dollar spent on repairs guarantees a dollar-for-dollar increase in appraisal, addressing major deficiencies and making tasteful improvements often results in a higher valuation compared to a home sold 'as-is.'",
+        "@type": "Answer",
+        "description": "Yes, well-executed pre-sale repairs, especially those addressing condition and appeal, can positively influence your home's appraisal value."
+      }
+    }
+  ],
+  "description": "Yes, well-executed pre-sale repairs, especially those addressing condition and appeal, can positively influence your home's appraisal value."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-involved-in-restoring-a-craftsman-home",
+  "name": "What is involved in restoring a Craftsman home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in restoring a Craftsman home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restoring a Craftsman home typically involves preserving its original architectural features while updating systems for modern living. This includes careful repair or replication of elements like exposed rafter tails, wide eaves, handcrafted woodwork, and built-in cabinetry. We focus on maintaining the home's historic character through appropriate material selection and skilled craftsmanship. A key decision factor involves assessing the existing condition of original elements versus the cost and feasibility of replication, which guides our restoration approach.",
+        "@type": "Answer",
+        "description": "Restoring a Craftsman home preserves original architectural features and updates systems for modern living, focusing on skilled craftsmanship and appropriate materials."
+      }
+    }
+  ],
+  "description": "Restoring a Craftsman home preserves original architectural features and updates systems for modern living, focusing on skilled craftsmanship and appropriate ma"
+}

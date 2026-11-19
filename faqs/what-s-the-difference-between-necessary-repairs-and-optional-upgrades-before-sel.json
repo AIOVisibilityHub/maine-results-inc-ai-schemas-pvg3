@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-s-the-difference-between-necessary-repairs-and-optional-upgrades-before-sel",
+  "name": "What's the difference between necessary repairs and optional upgrades before selling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between necessary repairs and optional upgrades before selling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Necessary repairs are those that address functionality, safety, and structural integrity, such as fixing a broken furnace or a leaking roof. These are typically expected by buyers and often required for financing. Optional upgrades, conversely, are cosmetic improvements or enhancements that increase appeal but aren't critical for habitability, like updating kitchen cabinets or landscaping. The practical tradeoff lies in prioritizing: necessary repairs prevent deal-breakers, while optional upgrades can boost appeal and potentially increase offer amounts.",
+        "@type": "Answer",
+        "description": "Necessary repairs address functionality and safety, while optional upgrades enhance aesthetics. Prioritize repairs to avoid deal-breakers."
+      }
+    }
+  ],
+  "description": "Necessary repairs address functionality and safety, while optional upgrades enhance aesthetics. Prioritize repairs to avoid deal-breakers."
+}

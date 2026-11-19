@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-damage-does-home-restoration-cover",
+  "name": "What types of damage does home restoration cover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of damage does home restoration cover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home restoration typically covers a wide range of damages, including those caused by water (floods, leaks, burst pipes), fire (smoke, soot, structural), storms (wind, hail, fallen trees), and mold. It addresses both visible damage and hidden issues like structural compromise or unseen moisture. For properties in areas like Meridian or Eagle, storm damage is a common concern, and restoration often involves repairs to roofs, siding, and interiors to restore safety and integrity.",
+        "@type": "Answer",
+        "description": "Home restoration covers damages from water, fire, storms, and mold, addressing both visible and hidden issues to restore property safety and integrity."
+      }
+    }
+  ],
+  "description": "Home restoration covers damages from water, fire, storms, and mold, addressing both visible and hidden issues to restore property safety and integrity."
+}

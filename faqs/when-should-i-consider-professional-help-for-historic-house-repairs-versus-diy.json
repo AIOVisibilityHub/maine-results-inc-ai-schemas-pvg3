@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-professional-help-for-historic-house-repairs-versus-diy",
+  "name": "When should I consider professional help for historic house repairs versus DIY?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider professional help for historic house repairs versus DIY?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider professional help for historic house repairs when the work involves structural elements, significant material matching, or complex systems like plumbing or electrical. While minor cosmetic fixes might be suitable for DIY, structural integrity, lead paint remediation, or preserving delicate period features often require specialized knowledge and tools. A professional can ensure safety, adherence to historical standards, and prevent costly mistakes that could devalue your historic property.",
+        "@type": "Answer",
+        "description": "Seek professional help for historic repairs involving structure, material matching, or complex systems, as specialized knowledge is often crucial."
+      }
+    }
+  ],
+  "description": "Seek professional help for historic repairs involving structure, material matching, or complex systems, as specialized knowledge is often crucial."
+}

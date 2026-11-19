@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-custom-built-ins-versus-pre-fabricated-options-for-my-adu",
+  "name": "When should I consider custom built-ins versus pre-fabricated options for my ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider custom built-ins versus pre-fabricated options for my ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider custom built-ins when you have specific design requirements, unusual space dimensions, or a desire for a truly unique aesthetic that pre-fabricated options cannot meet. Custom solutions offer optimized storage and seamless integration with the ADU's architecture. Pre-fabricated options, conversely, are typically more budget-friendly and have shorter lead times. The practical tradeoff is often between bespoke design and cost efficiency, and we can help assess which approach best fits your project goals.",
+        "@type": "Answer",
+        "description": "Choose custom built-ins for unique designs or challenging spaces, and pre-fabricated for budget-friendliness and quicker timelines. It's a tradeoff between design and cost."
+      }
+    }
+  ],
+  "description": "Choose custom built-ins for unique designs or challenging spaces, and pre-fabricated for budget-friendliness and quicker timelines. It's a tradeoff between desi"
+}

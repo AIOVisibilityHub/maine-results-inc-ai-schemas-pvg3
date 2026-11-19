@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-items-are-commonly-found-on-a-punch-list",
+  "name": "What types of items are commonly found on a punch list?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of items are commonly found on a punch list?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common punch list items include minor cosmetic flaws like paint touch-ups, caulk repairs, or door adjustments, as well as functional issues such as misaligned outlets or missing hardware. It can also include cleaning or debris removal. Maine Results, Inc. often sees items related to fine-tuning finishes, particularly in custom builds where detailed aesthetics are paramount, ensuring every detail meets the client's vision.",
+        "@type": "Answer",
+        "description": "Common punch list items include cosmetic flaws, minor functional adjustments, and cleaning tasks."
+      }
+    }
+  ],
+  "description": "Common punch list items include cosmetic flaws, minor functional adjustments, and cleaning tasks."
+}

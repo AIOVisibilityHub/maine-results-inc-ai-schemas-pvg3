@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-historic-millwork-restoration-and-general-carpent",
+  "name": "What is the difference between historic millwork restoration and general carpentry repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between historic millwork restoration and general carpentry repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Historic millwork restoration focuses on preserving original materials and craftsmanship, often requiring specialized techniques like dutchman repairs or epoxy consolidation, and matching period-specific profiles and finishes. General carpentry repair might involve more straightforward replacements with modern materials or techniques. A key distinction is the emphasis on maintaining historical authenticity and value in restoration, which often involves more time-intensive, artisan-level work compared to standard repairs.",
+        "@type": "Answer",
+        "description": "Historic millwork restoration preserves original materials and craftsmanship with specialized techniques, unlike general carpentry repair that may use modern methods."
+      }
+    }
+  ],
+  "description": "Historic millwork restoration preserves original materials and craftsmanship with specialized techniques, unlike general carpentry repair that may use modern me"
+}

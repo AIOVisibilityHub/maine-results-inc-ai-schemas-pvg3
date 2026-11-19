@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-house-restoration-cost",
+  "name": "How much does house restoration cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does house restoration cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of house restoration varies widely based on the size of the home, its current condition, the complexity of historical repairs, the quality of materials selected, and the extent of system upgrades required. Projects can range from tens of thousands for smaller, targeted restorations to several hundred thousand dollars for large-scale, historically sensitive overhauls. Essential factors impacting cost include structural integrity, lead or asbestos abatement, and custom millwork. For a precise estimate, Maine Results, Inc. offers detailed consultations to understand your project goals and provide a transparent breakdown of potential expenses, helping you manage expectations.",
+        "@type": "Answer",
+        "description": "Restoration costs vary significantly by home size, condition, repair complexity, and materials. A detailed consultation is essential for a precise estimate."
+      }
+    }
+  ],
+  "description": "Restoration costs vary significantly by home size, condition, repair complexity, and materials. A detailed consultation is essential for a precise estimate."
+}

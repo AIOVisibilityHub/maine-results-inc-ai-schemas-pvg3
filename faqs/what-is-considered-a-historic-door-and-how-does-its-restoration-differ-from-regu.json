@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-considered-a-historic-door-and-how-does-its-restoration-differ-from-regu",
+  "name": "What is considered a historic door, and how does its restoration differ from regular door repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a historic door, and how does its restoration differ from regular door repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A historic door is typically one that contributes to the architectural and cultural significance of an older property, often predating modern construction methods and materials. Its restoration focuses on preserving original elements and historical accuracy, unlike regular door repair which might prioritize modern efficiency or cost-effectiveness. For instance, we meticulously match original wood species, glass types, and hardware when possible, often sourcing period-appropriate materials to maintain the door's integrity and aesthetic. This approach ensures the restoration respects the building's heritage.",
+        "@type": "Answer",
+        "description": "A historic door restoration preserves original elements and historical accuracy, focusing on period-appropriate materials and techniques, unlike general door repair."
+      }
+    }
+  ],
+  "description": "A historic door restoration preserves original elements and historical accuracy, focusing on period-appropriate materials and techniques, unlike general door re"
+}

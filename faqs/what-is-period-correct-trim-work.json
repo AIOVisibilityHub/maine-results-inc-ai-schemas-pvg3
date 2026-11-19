@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-period-correct-trim-work",
+  "name": "What is 'period correct trim work'?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is 'period correct trim work'?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Period correct trim work involves replicating or restoring architectural moldings and decorative elements to match a specific historical era of a building. This can include baseboards, crown molding, door and window casings, and chair rails designed to reflect the styles prevalent during the home's original construction or a desired historical period. Understanding the original style helps maintain the property's architectural integrity and value. When considering this for your home, our team can help identify the architectural period based on existing features and provide options that align with your property's history, even if located in areas like Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "Period correct trim work replicates or restores architectural moldings to match a building's specific historical era."
+      }
+    }
+  ],
+  "description": "Period correct trim work replicates or restores architectural moldings to match a building's specific historical era."
+}

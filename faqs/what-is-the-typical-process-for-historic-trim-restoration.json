@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-historic-trim-restoration",
+  "name": "What is the typical process for historic trim restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for historic trim restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The restoration process usually begins with a detailed assessment of the existing trim to identify materials, damage, and original profiles. Next, the trim is carefully prepared, which may involve lead paint abatement, cleaning, and gentle removal of old finishes. Damaged sections are repaired using traditional joinery, epoxies, or by splicing in new wood that matches the original. Finally, the trim is sanded, primed, and painted or stained with historically appropriate finishes. Customers can prepare by providing any historical photos or architectural plans of their home that show the original trim details.",
+        "@type": "Answer",
+        "description": "The process involves assessment, preparation (cleaning, old finish removal), repair of damaged sections, and finishing with historically appropriate paints or stains. Providing historical photos can assist the process."
+      }
+    }
+  ],
+  "description": "The process involves assessment, preparation (cleaning, old finish removal), repair of damaged sections, and finishing with historically appropriate paints or s"
+}

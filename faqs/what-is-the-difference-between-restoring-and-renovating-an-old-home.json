@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-restoring-and-renovating-an-old-home",
+  "name": "What is the difference between restoring and renovating an old home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between restoring and renovating an old home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restoring an old home focuses on preserving its original character and historical accuracy, often using period-appropriate materials and techniques to return it to a specific historical state. Renovation, conversely, updates a home for modern living, which might include significant structural changes, new layouts, and contemporary finishes. The choice often depends on your goals: do you want to honor the past or create a modern space? We work with clients to understand these distinctions and help them choose the best approach for their property.",
+        "@type": "Answer",
+        "description": "Restoration aims for historical accuracy, while renovation updates for modern living, impacting material and design choices."
+      }
+    }
+  ],
+  "description": "Restoration aims for historical accuracy, while renovation updates for modern living, impacting material and design choices."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-common-challenges-in-craftsman-home-restoration",
+  "name": "What are common challenges in Craftsman home restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common challenges in Craftsman home restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges in Craftsman home restoration include sourcing period-appropriate materials, addressing outdated electrical or plumbing systems without compromising historic fabric, and matching original woodwork or finishes. Another challenge is dealing with unexpected structural issues that become apparent during demolition or repair. A practical tradeoff often involves balancing historical accuracy with modern building codes and energy efficiency standards.",
+        "@type": "Answer",
+        "description": "Challenges include sourcing period-appropriate materials, updating systems discreetly, matching original finishes, and addressing unexpected structural issues."
+      }
+    }
+  ],
+  "description": "Challenges include sourcing period-appropriate materials, updating systems discreetly, matching original finishes, and addressing unexpected structural issues."
+}

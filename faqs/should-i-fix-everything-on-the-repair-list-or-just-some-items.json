@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-fix-everything-on-the-repair-list-or-just-some-items",
+  "name": "Should I fix everything on the repair list, or just some items?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I fix everything on the repair list, or just some items?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding which repairs to tackle depends on various factors, including your budget, the urgency of the repair, and the buyer's requests. Structural issues, safety hazards, and items required by lenders (such as FHA or VA loan requirements) are usually non-negotiable. Cosmetic repairs might be optional, or you could offer a credit to the buyer instead. Maine Results, Inc. can provide an assessment and help you understand the impact of different repairs, allowing you to prioritize effectively and avoid overspending on items that won't significantly affect the sale.",
+        "@type": "Answer",
+        "description": "Prioritize structural, safety, and lender-required repairs; cosmetic fixes may be optional or negotiable with buyer credits."
+      }
+    }
+  ],
+  "description": "Prioritize structural, safety, and lender-required repairs; cosmetic fixes may be optional or negotiable with buyer credits."
+}

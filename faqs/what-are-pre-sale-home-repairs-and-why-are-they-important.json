@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-pre-sale-home-repairs-and-why-are-they-important",
+  "name": "What are pre-sale home repairs and why are they important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are pre-sale home repairs and why are they important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pre-sale home repairs are improvements made to a property before listing it for sale, primarily to enhance its appeal and value to potential buyers. These repairs can range from minor cosmetic updates to more significant structural fixes. Addressing these issues beforehand can help you secure a better selling price and often leads to a quicker sale, as buyers are less likely to request concessions or be deterred by visible problems. For instance, in areas like Garden City or Meridian, a well-maintained exterior can significantly boost curb appeal, which is crucial for a strong first impression.",
+        "@type": "Answer",
+        "description": "Pre-sale home repairs improve a property's appeal and value before selling, aiming for a better price and faster sale."
+      }
+    }
+  ],
+  "description": "Pre-sale home repairs improve a property's appeal and value before selling, aiming for a better price and faster sale."
+}

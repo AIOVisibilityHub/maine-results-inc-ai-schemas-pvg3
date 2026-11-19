@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-complete-period-correct-trim-work",
+  "name": "How long does it take to complete period correct trim work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete period correct trim work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for period correct trim work varies significantly based on the project's scope, complexity, and the availability of specialized materials or custom milling. A small project, like a single room, might take a few days, while a whole-house restoration could span several weeks or even months. Factors such as the need for custom profiles, lead times for specific wood species, and the level of detail required can all affect the schedule. We provide a detailed project timeline after an initial consultation, outlining the estimated duration for your specific project.",
+        "@type": "Answer",
+        "description": "Project timelines vary widely based on scope, complexity, and material availability, from days for a single room to months for whole-house restoration."
+      }
+    }
+  ],
+  "description": "Project timelines vary widely based on scope, complexity, and material availability, from days for a single room to months for whole-house restoration."
+}

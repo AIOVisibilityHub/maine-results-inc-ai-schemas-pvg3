@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-the-right-contractor-for-an-old-home-renovation-project",
+  "name": "How do I choose the right contractor for an old home renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for an old home renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor for an old home renovation project involves looking for experience specifically with older properties, a strong portfolio, and transparent communication. It's beneficial to select a contractor who understands the unique challenges and potential discoveries associated with aged structures. Ask for references, review their past work, and ensure they are properly licensed and insured in your area, such as Garden City or Meridian. Maine Results, Inc. emphasizes clear project planning and communication to help you feel confident in your choice.",
+        "@type": "Answer",
+        "description": "Choose a contractor with specific experience in older homes, a strong portfolio, transparent communication, and proper licensing and insurance. Ask for references and review past work."
+      }
+    }
+  ],
+  "description": "Choose a contractor with specific experience in older homes, a strong portfolio, transparent communication, and proper licensing and insurance. Ask for referenc"
+}

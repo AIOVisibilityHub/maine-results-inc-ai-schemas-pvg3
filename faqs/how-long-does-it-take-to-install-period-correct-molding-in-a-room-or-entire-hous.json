@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-install-period-correct-molding-in-a-room-or-entire-hous",
+  "name": "How long does it take to install period correct molding in a room or entire house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install period correct molding in a room or entire house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for installing period correct molding depends on the scope of the project, including the number of rooms, the total linear footage, the complexity of the molding profiles, and whether custom milling is required. A single room with straightforward profiles might take a few days, while an entire house with intricate, multi-piece molding could extend to several weeks. Preparation work, such as surface leveling or old molding removal, also adds to the duration. During our initial assessment, we can provide a more precise timeline based on your specific project details, helping you plan for the installation process.",
+        "@type": "Answer",
+        "description": "Installation time for period correct molding varies from days for a single room to weeks for an entire house, depending on project scope, molding complexity, and custom milling. We provide a precise timeline after assessment."
+      }
+    }
+  ],
+  "description": "Installation time for period correct molding varies from days for a single room to weeks for an entire house, depending on project scope, molding complexity, an"
+}

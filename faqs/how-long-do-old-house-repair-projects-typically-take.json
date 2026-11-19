@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-do-old-house-repair-projects-typically-take",
+  "name": "How long do old house repair projects typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do old house repair projects typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of old house repair projects varies significantly based on their scope and the home's condition. Minor repairs might take a few days or weeks, while extensive renovations or structural work could extend to several months. Unforeseen issues, common in older homes, can also impact timelines. We prioritize clear communication and provide realistic timelines upfront, including potential contingencies for unexpected discoveries, ensuring you're informed throughout the process.",
+        "@type": "Answer",
+        "description": "Old house repair times vary greatly by project scope; minor repairs take weeks, major renovations can take months, with potential for unexpected delays."
+      }
+    }
+  ],
+  "description": "Old house repair times vary greatly by project scope; minor repairs take weeks, major renovations can take months, with potential for unexpected delays."
+}

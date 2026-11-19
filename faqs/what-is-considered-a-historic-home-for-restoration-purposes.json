@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-considered-a-historic-home-for-restoration-purposes",
+  "name": "What is considered a historic home for restoration purposes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a historic home for restoration purposes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, a historic home for restoration is a property with architectural significance, age (often 50 years or older), and a connection to local heritage. These homes may have unique period-specific details or construction methods that require specialized attention to maintain their original character and integrity. When you consider restoration, preparing existing documentation or a preliminary assessment of the home's features and history can help determine if it qualifies for specific historical designations or preservation guidelines.",
+        "@type": "Answer",
+        "description": "A historic home for restoration typically has architectural significance, is often 50+ years old, and holds local heritage value, requiring specialized attention to preserve its original character."
+      }
+    }
+  ],
+  "description": "A historic home for restoration typically has architectural significance, is often 50+ years old, and holds local heritage value, requiring specialized attentio"
+}

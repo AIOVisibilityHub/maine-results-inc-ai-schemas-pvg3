@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-historic-homes-does-maine-results-inc-specialize-in-repairing",
+  "name": "What types of historic homes does Maine Results, Inc. specialize in repairing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of historic homes does Maine Results, Inc. specialize in repairing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. has experience with a range of historic homes, focusing on properties built with traditional construction methods and materials commonly found in our service areas like Garden City or Kuna. We specialize in addressing issues common to older structures, such as original framing, plaster, and period exterior finishes. Our First-Party Insight is that we often encounter issues with original wood siding, window sashes, and foundations that require careful, skilled repair to maintain the home's character and integrity.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. specializes in repairing homes with traditional construction and materials, often addressing issues with original wood siding, windows, and foundations."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. specializes in repairing homes with traditional construction and materials, often addressing issues with original wood siding, windows, and"
+}

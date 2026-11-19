@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-much-does-original-trim-restoration-cost-compared-to-new-trim-installation",
+  "name": "How much does original trim restoration cost compared to new trim installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does original trim restoration cost compared to new trim installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of original trim restoration can be comparable to, or sometimes even exceed, the cost of installing new trim, especially if the original trim requires extensive repairs or intricate hand-finishing. However, restoration preserves unique architectural details and avoids the cost of sourcing rare or custom-milled replacements. A practical tradeoff is that while replacement might seem cheaper initially, it often leads to additional costs like disposal of old materials and potential for mismatched styles or materials that devalue a historic home.",
+        "@type": "Answer",
+        "description": "Restoration cost can be similar to new trim, especially for complex repairs. It preserves unique details, avoiding replacement costs and potential style mismatches."
+      }
+    }
+  ],
+  "description": "Restoration cost can be similar to new trim, especially for complex repairs. It preserves unique details, avoiding replacement costs and potential style mismatc"
+}

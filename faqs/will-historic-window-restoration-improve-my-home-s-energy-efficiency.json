@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/will-historic-window-restoration-improve-my-home-s-energy-efficiency",
+  "name": "Will historic window restoration improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will historic window restoration improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, historic window restoration, when done properly, can significantly improve a home's energy efficiency. Much of the energy loss from old windows comes from deteriorated seals, drafts, and poor weatherstripping, not just the single pane of glass. Our restoration process includes meticulous re-puttying, sealing gaps, repairing sashes for a tight fit, and adding new weatherstripping. These improvements, often combined with a high-quality storm window, can reduce drafts and heat loss effectively, making restored windows comparable to or better than many modern double-pane units.",
+        "@type": "Answer",
+        "description": "Proper historic window restoration, with new weatherstripping and sealing, greatly improves energy efficiency by reducing drafts and heat loss."
+      }
+    }
+  ],
+  "description": "Proper historic window restoration, with new weatherstripping and sealing, greatly improves energy efficiency by reducing drafts and heat loss."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-costs-for-victorian-home-restoration-compare-to-modern-home-renovations",
+  "name": "How do costs for Victorian home restoration compare to modern home renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do costs for Victorian home restoration compare to modern home renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Victorian home restoration generally incurs higher costs than modern home renovations due to several factors. Restoring original features often requires specialized craftsmanship, custom-milled materials, and adherence to historical accuracy, which are more expensive than contemporary standard replacements. For example, matching period-specific windows or intricate wood trim is more costly than installing off-the-shelf modern alternatives. The initial assessment of structural integrity, especially in older homes in areas like Eagle or Kuna, can also reveal significant hidden costs for necessary foundational or system upgrades.",
+        "@type": "Answer",
+        "description": "Victorian home restoration typically costs more than modern renovations due to specialized craftsmanship, custom materials, and historical accuracy requirements."
+      }
+    }
+  ],
+  "description": "Victorian home restoration typically costs more than modern renovations due to specialized craftsmanship, custom materials, and historical accuracy requirements"
+}

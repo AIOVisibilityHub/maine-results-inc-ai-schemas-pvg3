@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/are-there-specific-finish-carpentry-considerations-for-an-adu-in-boise-s-climate",
+  "name": "Are there specific finish carpentry considerations for an ADU in Boise's climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific finish carpentry considerations for an ADU in Boise's climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While general finish carpentry principles apply everywhere, for an ADU in the Boise area, material selection can benefit from considering local climate factors like seasonal humidity changes. Materials with good dimensional stability, or proper acclimation before installation, can help prevent issues like warping or cracking over time. We select and install materials with an understanding of these conditions to ensure the longevity and performance of your ADU's interior finishes, whether in downtown Boise or the foothills.",
+        "@type": "Answer",
+        "description": "In Boise's climate, consider materials with good dimensional stability or proper acclimation to prevent warping due to humidity changes, ensuring longevity of finishes."
+      }
+    }
+  ],
+  "description": "In Boise's climate, consider materials with good dimensional stability or proper acclimation to prevent warping due to humidity changes, ensuring longevity of f"
+}

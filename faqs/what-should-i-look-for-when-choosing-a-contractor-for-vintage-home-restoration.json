@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-look-for-when-choosing-a-contractor-for-vintage-home-restoration",
+  "name": "What should I look for when choosing a contractor for vintage home restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a contractor for vintage home restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for vintage home restoration, prioritize experience with period properties and a proven track record in preservation. Look for contractors who understand historical building techniques, material sourcing for authentic replacements, and the specific challenges vintage homes present. It's important that they can demonstrate examples of similar past projects. Maine Results, Inc. advises you to request references, review their portfolio, and ensure they have a clear process for assessing and planning restoration work to align with your home's unique character and your expectations.",
+        "@type": "Answer",
+        "description": "Choose a contractor with proven experience in historical preservation, an understanding of period building techniques, and a clear process for assessing and planning restoration projects."
+      }
+    }
+  ],
+  "description": "Choose a contractor with proven experience in historical preservation, an understanding of period building techniques, and a clear process for assessing and pla"
+}

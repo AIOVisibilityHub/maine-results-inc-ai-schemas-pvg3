@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-match-existing-historic-trim-profiles-if-parts-are-missing-or-severely-d",
+  "name": "Can you match existing historic trim profiles if parts are missing or severely damaged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you match existing historic trim profiles if parts are missing or severely damaged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, matching existing historic trim profiles is a core part of restoration, even if sections are missing or severely damaged. Our team uses various techniques, including detailed measurements, historical photographs, and existing intact sections, to accurately replicate the original design. This often involves custom milling new wood to precisely match the unique curves, depths, and overall profile of the historic trim. This meticulous approach ensures that any new or repaired sections seamlessly integrate with the home's original architectural style, a common need for homes in Star and Nampa.",
+        "@type": "Answer",
+        "description": "Yes, we can match existing historic trim profiles using measurements, historical photos, and custom milling to recreate missing or damaged sections accurately."
+      }
+    }
+  ],
+  "description": "Yes, we can match existing historic trim profiles using measurements, historical photos, and custom milling to recreate missing or damaged sections accurately."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-starting-a-house-restoration-project",
+  "name": "What should I prepare before starting a house restoration project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before starting a house restoration project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting a house restoration project, it's beneficial to gather any historical documents, photos, or blueprints related to your home, as these can guide the restoration process. Consider what aspects of the home's original character are most important to you and your budget. Understanding your goals for historical accuracy versus modern functionality is key. Having these details ready helps our team at Maine Results, Inc. create a more accurate and personalized restoration plan for your property in areas like Eagle or Kuna, ensuring we align with your vision from the outset.",
+        "@type": "Answer",
+        "description": "Gather historical documents and photos of your home, and clarify your goals regarding historical accuracy versus modern functionality."
+      }
+    }
+  ],
+  "description": "Gather historical documents and photos of your home, and clarify your goals regarding historical accuracy versus modern functionality."
+}

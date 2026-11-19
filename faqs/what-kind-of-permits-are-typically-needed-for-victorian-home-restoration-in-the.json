@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-permits-are-typically-needed-for-victorian-home-restoration-in-the",
+  "name": "What kind of permits are typically needed for Victorian home restoration in the Meridian area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of permits are typically needed for Victorian home restoration in the Meridian area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For Victorian home restoration in the Meridian area, you will typically need permits for significant structural changes, electrical work, plumbing upgrades, and often exterior alterations if they change the building footprint or facade. While interior cosmetic updates may not always require permits, major renovations almost always do. Checking with the City of Meridian's planning and zoning department early in your project is a crucial preparation step, as permit requirements can vary and affect your project timeline and budget.",
+        "@type": "Answer",
+        "description": "Permits are typically needed for structural, electrical, plumbing, and significant exterior changes in Meridian; check with the city's planning department."
+      }
+    }
+  ],
+  "description": "Permits are typically needed for structural, electrical, plumbing, and significant exterior changes in Meridian; check with the city's planning department."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-repairs-typically-appear-on-a-home-sale-repair-list",
+  "name": "What kind of repairs typically appear on a home sale repair list?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of repairs typically appear on a home sale repair list?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common repairs on a home sale list often include issues related to roofing, plumbing leaks, electrical problems, HVAC system defects, and structural concerns. Minor cosmetic issues like a fresh coat of paint or minor drywall patches might also be requested to enhance curb appeal. Maine Results, Inc. specializes in a wide range of these repairs, from foundational fixes to general renovations, ensuring your property meets inspection standards. We focus on necessary repairs that provide the best return on investment for sellers.",
+        "@type": "Answer",
+        "description": "Typical home sale repairs include roofing, plumbing, electrical, HVAC, and structural issues, as well as some cosmetic updates."
+      }
+    }
+  ],
+  "description": "Typical home sale repairs include roofing, plumbing, electrical, HVAC, and structural issues, as well as some cosmetic updates."
+}

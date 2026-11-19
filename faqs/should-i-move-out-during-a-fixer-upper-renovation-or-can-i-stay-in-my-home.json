@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/should-i-move-out-during-a-fixer-upper-renovation-or-can-i-stay-in-my-home",
+  "name": "Should I move out during a fixer-upper renovation, or can I stay in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I move out during a fixer-upper renovation, or can I stay in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to move out during a fixer-upper renovation depends on the project's extent and the impact on your living space. If the renovation involves major structural work, plumbing shutdowns, significant dust, or impacts essential areas like the kitchen and main bathroom, moving out can be more practical and safer. For smaller, more isolated projects, staying might be feasible, though you should prepare for noise, dust, and limited access to certain areas. Your contractor can advise on the project's potential disruption and whether temporary relocation is recommended for your specific renovation.",
+        "@type": "Answer",
+        "description": "Whether to move out during renovation depends on the project's scope; major work often necessitates temporary relocation due to disruption and safety."
+      }
+    }
+  ],
+  "description": "Whether to move out during renovation depends on the project's scope; major work often necessitates temporary relocation due to disruption and safety."
+}

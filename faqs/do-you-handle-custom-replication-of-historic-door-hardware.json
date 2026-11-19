@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-handle-custom-replication-of-historic-door-hardware",
+  "name": "Do you handle custom replication of historic door hardware?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you handle custom replication of historic door hardware?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we do handle custom replication of historic door hardware when original pieces are missing, irreparable, or simply cannot be sourced. This often involves working with skilled artisans to recreate hinges, latches, doorknobs, or escutcheon plates that precisely match the period and style of your door. The process typically begins with detailed photographs or existing fragments of the original hardware, which serve as models for fabrication. We prioritize authentic materials and finishes to ensure the replicated hardware seamlessly integrates with the restored door and maintains its historical accuracy.",
+        "@type": "Answer",
+        "description": "Yes, we custom replicate historic door hardware using skilled artisans and authentic materials when original pieces are missing or beyond repair."
+      }
+    }
+  ],
+  "description": "Yes, we custom replicate historic door hardware using skilled artisans and authentic materials when original pieces are missing or beyond repair."
+}

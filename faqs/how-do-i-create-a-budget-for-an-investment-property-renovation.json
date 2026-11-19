@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-create-a-budget-for-an-investment-property-renovation",
+  "name": "How do I create a budget for an investment property renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I create a budget for an investment property renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To create a renovation budget, start by detailing every planned improvement and obtaining at least three quotes from qualified contractors for each significant task. Include a contingency fund of 10-20% for unforeseen issues, as unexpected expenses are common in renovations. For properties in Eagle or Kuna, factor in potential costs for specific local material availability or specialized labor. This preparation involves not only estimating direct construction costs but also considering soft costs like permits, architectural fees, and temporary housing or lost rental income during the renovation period. A thorough budget helps avoid overspending and ensures financial viability.",
+        "@type": "Answer",
+        "description": "Create a detailed budget by listing all improvements, getting multiple quotes, and including a 10-20% contingency fund for unexpected issues."
+      }
+    }
+  ],
+  "description": "Create a detailed budget by listing all improvements, getting multiple quotes, and including a 10-20% contingency fund for unexpected issues."
+}

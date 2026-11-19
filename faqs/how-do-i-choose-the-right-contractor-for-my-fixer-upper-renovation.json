@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-the-right-contractor-for-my-fixer-upper-renovation",
+  "name": "How do I choose the right contractor for my fixer-upper renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my fixer-upper renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor for your fixer-upper renovation involves researching their experience with similar projects, checking references, and reviewing their portfolio. Look for contractors licensed and insured to operate in your specific area, such as Garden City, Meridian, or Eagle. Obtain detailed bids from several companies and ensure they clearly outline the scope of work, timeline, and payment schedule. A good contractor should also communicate effectively and be transparent about potential challenges. Maine Results, Inc., for example, offers detailed consultations to discuss your renovation goals.",
+        "@type": "Answer",
+        "description": "Choose a contractor by checking experience, references, and licensing. Get detailed bids and ensure clear communication and transparency."
+      }
+    }
+  ],
+  "description": "Choose a contractor by checking experience, references, and licensing. Get detailed bids and ensure clear communication and transparency."
+}

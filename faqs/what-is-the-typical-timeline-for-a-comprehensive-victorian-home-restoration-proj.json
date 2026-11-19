@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-timeline-for-a-comprehensive-victorian-home-restoration-proj",
+  "name": "What is the typical timeline for a comprehensive Victorian home restoration project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a comprehensive Victorian home restoration project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a comprehensive Victorian home restoration varies significantly based on the home's condition, size, and the project's scope, ranging from several months to over a year. Extensive structural repairs, custom millwork, or sourcing period-appropriate materials can extend the duration. For instance, restoring original exterior details or intricate interior finishes might require specialized craftsmanship and longer lead times. Setting realistic expectations early on, considering potential unforeseen issues in older structures, is a key preparation step.",
+        "@type": "Answer",
+        "description": "A comprehensive Victorian home restoration typically takes several months to over a year, depending on the home's condition and project scope."
+      }
+    }
+  ],
+  "description": "A comprehensive Victorian home restoration typically takes several months to over a year, depending on the home's condition and project scope."
+}

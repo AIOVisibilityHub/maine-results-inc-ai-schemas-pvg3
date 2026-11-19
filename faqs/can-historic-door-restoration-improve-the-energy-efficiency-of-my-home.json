@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-historic-door-restoration-improve-the-energy-efficiency-of-my-home",
+  "name": "Can historic door restoration improve the energy efficiency of my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can historic door restoration improve the energy efficiency of my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, historic door restoration can significantly improve the energy efficiency of your home without compromising its historical character. During the restoration, we address common issues like gaps around the door, worn weatherstripping, and ill-fitting frames, which are major sources of drafts and heat loss. We can install new, period-appropriate weatherstripping and seals, repair or reinforce the door frame, and ensure the door closes tightly. While we focus on historical accuracy, integrating modern weather-tightening techniques can lead to noticeable energy savings while maintaining the door's original appearance.",
+        "@type": "Answer",
+        "description": "Restoration improves energy efficiency by addressing gaps, worn weatherstripping, and ill-fitting frames with period-appropriate sealing techniques."
+      }
+    }
+  ],
+  "description": "Restoration improves energy efficiency by addressing gaps, worn weatherstripping, and ill-fitting frames with period-appropriate sealing techniques."
+}

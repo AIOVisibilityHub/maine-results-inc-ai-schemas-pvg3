@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-is-the-best-time-of-year-to-schedule-historic-millwork-restoration-in-idaho",
+  "name": "When is the best time of year to schedule historic millwork restoration in Idaho?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time of year to schedule historic millwork restoration in Idaho?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For exterior historic millwork restoration in areas like Eagle, Kuna, or Star, the most favorable time is typically during the drier, milder months from late spring through early fall. This allows for optimal conditions for paint and finish curing and reduces the risk of weather-related delays. Interior millwork projects have more flexibility, but scheduling during less busy construction periods can sometimes offer more availability.",
+        "@type": "Answer",
+        "description": "Late spring through early fall is best for exterior historic millwork restoration in Idaho due to drier, milder weather for curing."
+      }
+    }
+  ],
+  "description": "Late spring through early fall is best for exterior historic millwork restoration in Idaho due to drier, milder weather for curing."
+}

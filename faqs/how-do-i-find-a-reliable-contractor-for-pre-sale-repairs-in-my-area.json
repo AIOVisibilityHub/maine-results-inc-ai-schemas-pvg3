@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-find-a-reliable-contractor-for-pre-sale-repairs-in-my-area",
+  "name": "How do I find a reliable contractor for pre-sale repairs in my area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I find a reliable contractor for pre-sale repairs in my area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To find a reliable contractor for pre-sale repairs, start by seeking recommendations from real estate agents, friends, or neighbors who have recently completed similar projects in your area, such as Eagle or Meridian. Check online reviews and ensure contractors are licensed and insured. Obtain multiple bids for comparison, and always ask for references. A reputable contractor will provide a clear, written estimate and a timeline for the work.",
+        "@type": "Answer",
+        "description": "Find a reliable contractor through recommendations from local real estate agents or neighbors, checking licenses, and comparing multiple written bids."
+      }
+    }
+  ],
+  "description": "Find a reliable contractor through recommendations from local real estate agents or neighbors, checking licenses, and comparing multiple written bids."
+}

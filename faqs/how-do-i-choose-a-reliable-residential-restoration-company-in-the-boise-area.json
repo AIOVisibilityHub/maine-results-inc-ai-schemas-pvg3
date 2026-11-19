@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-a-reliable-residential-restoration-company-in-the-boise-area",
+  "name": "How do I choose a reliable residential restoration company in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable residential restoration company in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a residential restoration company, look for experience with similar types of damage and confirm they serve your specific area, such as Garden City, Meridian, Eagle, Kuna, or Star. It's beneficial to check their licensing and insurance. A good company will provide a clear, detailed estimate of the work needed and the associated costs, helping you compare options effectively. Ask about their communication process and how they coordinate with insurance companies.",
+        "@type": "Answer",
+        "description": "Choose a company with relevant experience, proper licensing, insurance, and clear estimates. Confirm they serve your specific location like Meridian or Eagle."
+      }
+    }
+  ],
+  "description": "Choose a company with relevant experience, proper licensing, insurance, and clear estimates. Confirm they serve your specific location like Meridian or Eagle."
+}

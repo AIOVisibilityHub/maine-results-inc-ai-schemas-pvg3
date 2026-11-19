@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-design-considerations-are-important-when-renovating-a-historic-or-character",
+  "name": "What design considerations are important when renovating a historic or character home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What design considerations are important when renovating a historic or character home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When renovating a historic or character home, it's important to consider preserving its original architectural style and unique features while integrating modern functionality. This often involves careful selection of materials, colors, and finishes that complement the home's era. Decision factors include whether to restore original elements, replicate period details, or blend contemporary design thoughtfully. We specialize in balancing these aspects, ensuring your renovation respects the home's heritage while meeting your current lifestyle needs in areas like North End or East End.",
+        "@type": "Answer",
+        "description": "Key design considerations include preserving architectural style and original features, carefully selecting period-appropriate materials, and blending modern functionality thoughtfully."
+      }
+    }
+  ],
+  "description": "Key design considerations include preserving architectural style and original features, carefully selecting period-appropriate materials, and blending modern fu"
+}

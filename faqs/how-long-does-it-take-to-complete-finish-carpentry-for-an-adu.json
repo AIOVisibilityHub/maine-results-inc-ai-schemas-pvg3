@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-it-take-to-complete-finish-carpentry-for-an-adu",
+  "name": "How long does it take to complete finish carpentry for an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete finish carpentry for an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for ADU finish carpentry depends on the unit's size, the scope of work, and the level of detail involved. A smaller ADU with standard finishes might take a few weeks, while a larger unit with extensive custom cabinetry and intricate trim could take longer. We typically provide a project schedule after understanding the full design plan. Factors such as material lead times for custom pieces can also affect the overall duration, so early selection of finishes is beneficial.",
+        "@type": "Answer",
+        "description": "Timing depends on ADU size, work scope, and detail, ranging from weeks for standard finishes to longer for custom projects."
+      }
+    }
+  ],
+  "description": "Timing depends on ADU size, work scope, and detail, ranging from weeks for standard finishes to longer for custom projects."
+}

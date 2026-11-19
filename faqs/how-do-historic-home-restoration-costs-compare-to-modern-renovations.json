@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-historic-home-restoration-costs-compare-to-modern-renovations",
+  "name": "How do historic home restoration costs compare to modern renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do historic home restoration costs compare to modern renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Historic home restoration can often be more expensive than modern renovations due to several factors. Sourcing historically accurate materials, employing specialized craftsmen familiar with traditional techniques, and adhering to preservation guidelines can increase project complexity and costs. A practical tradeoff is balancing the desire for original authenticity with the availability and expense of period-specific materials; sometimes, suitable alternatives can offer a cost-effective solution while maintaining the home's aesthetic.",
+        "@type": "Answer",
+        "description": "Historic home restoration can be costlier than modern renovations due to specialized materials, craftsmanship, and preservation guidelines. Balancing authenticity with material costs is a practical consideration."
+      }
+    }
+  ],
+  "description": "Historic home restoration can be costlier than modern renovations due to specialized materials, craftsmanship, and preservation guidelines. Balancing authentici"
+}

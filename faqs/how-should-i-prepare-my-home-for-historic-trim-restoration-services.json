@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-should-i-prepare-my-home-for-historic-trim-restoration-services",
+  "name": "How should I prepare my home for historic trim restoration services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I prepare my home for historic trim restoration services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for historic trim restoration, clear the work areas by moving furniture, wall hangings, and fragile items away from the trim. If possible, remove drapes or blinds. It's also helpful to gather any historical documentation you might have about your home, such as original blueprints, old photographs, or previous renovation records, which can aid in accurate restoration. We will cover and protect your floors and remaining furnishings, but preparing the space beforehand helps streamline the process and protects your belongings. Inform us of any special considerations for pets or children in the work zones.",
+        "@type": "Answer",
+        "description": "Prepare by clearing work areas, moving furniture, and gathering historical documentation like photos or blueprints. This streamlines the process and protects belongings."
+      }
+    }
+  ],
+  "description": "Prepare by clearing work areas, moving furniture, and gathering historical documentation like photos or blueprints. This streamlines the process and protects be"
+}

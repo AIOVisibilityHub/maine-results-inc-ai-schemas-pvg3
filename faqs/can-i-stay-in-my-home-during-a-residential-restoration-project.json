@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-i-stay-in-my-home-during-a-residential-restoration-project",
+  "name": "Can I stay in my home during a residential restoration project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during a residential restoration project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can stay in your home during restoration depends entirely on the extent and nature of the damage. If there's significant structural damage, air quality issues (like severe mold), or essential utilities are compromised, it might not be safe or comfortable to remain. For smaller, contained projects, staying might be feasible. Your restoration contractor can advise you on the safety and practicality of living on-site, helping you decide if temporary relocation is necessary for your well-being and the project's efficiency.",
+        "@type": "Answer",
+        "description": "Staying home depends on damage extent, safety, and utility access. Your contractor will advise if temporary relocation is needed for safety or project efficiency."
+      }
+    }
+  ],
+  "description": "Staying home depends on damage extent, safety, and utility access. Your contractor will advise if temporary relocation is needed for safety or project efficienc"
+}

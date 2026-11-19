@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-permits-are-typically-required-for-fixer-upper-renovations-in-boise-area-ci",
+  "name": "What permits are typically required for fixer-upper renovations in Boise area cities?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are typically required for fixer-upper renovations in Boise area cities?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for fixer-upper renovations vary by city and project scope within the Boise area, including Garden City, Meridian, Eagle, Kuna, and Star. Generally, permits are needed for structural changes, electrical work, plumbing, HVAC installations, and any additions or significant modifications to the building's exterior. Cosmetic updates like painting or new flooring usually do not require permits. Your contractor will help identify and secure all necessary permits, ensuring compliance with local building codes. Starting work without proper permits can lead to delays and fines.",
+        "@type": "Answer",
+        "description": "Permits are needed for structural, electrical, plumbing, and HVAC changes in Boise area cities; cosmetic updates typically don't require them."
+      }
+    }
+  ],
+  "description": "Permits are needed for structural, electrical, plumbing, and HVAC changes in Boise area cities; cosmetic updates typically don't require them."
+}

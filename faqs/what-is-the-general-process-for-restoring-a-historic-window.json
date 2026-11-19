@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-general-process-for-restoring-a-historic-window",
+  "name": "What is the general process for restoring a historic window?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the general process for restoring a historic window?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our restoration process typically begins with carefully removing the sashes from their frames. We then strip away old paint, remove loose glazing putty, and inspect the wood for rot or damage. Any decayed wood is carefully repaired or replaced with matching species. Glass panes are cleaned or replaced if broken, and new glazing putty is applied. Finally, the sashes are primed, painted, and reinstalled, often with new weatherstripping to improve efficiency. This meticulous approach ensures the window's original character and function are maintained.",
+        "@type": "Answer",
+        "description": "The restoration process involves sash removal, paint stripping, wood repair, glass work, reglazing, priming, painting, and reinstallation."
+      }
+    }
+  ],
+  "description": "The restoration process involves sash removal, paint stripping, wood repair, glass work, reglazing, priming, painting, and reinstallation."
+}

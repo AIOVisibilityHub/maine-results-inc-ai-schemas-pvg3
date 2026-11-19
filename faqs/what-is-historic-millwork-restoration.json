@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-historic-millwork-restoration",
+  "name": "What is historic millwork restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is historic millwork restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Historic millwork restoration involves repairing, replicating, or refinishing original wooden architectural elements found in older buildings. This can include trim, doors, windows, and built-in cabinetry. The goal is to preserve the original character and integrity of these features using techniques and materials appropriate to the period. The specific approach often depends on the extent of damage and the historical significance of the millwork.",
+        "@type": "Answer",
+        "description": "Historic millwork restoration repairs or replicates original wooden architectural elements in older buildings to preserve their character."
+      }
+    }
+  ],
+  "description": "Historic millwork restoration repairs or replicates original wooden architectural elements in older buildings to preserve their character."
+}

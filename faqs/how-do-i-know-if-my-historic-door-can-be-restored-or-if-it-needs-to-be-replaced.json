@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-historic-door-can-be-restored-or-if-it-needs-to-be-replaced",
+  "name": "How do I know if my historic door can be restored or if it needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my historic door can be restored or if it needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining whether a historic door can be restored or requires replacement depends on its structural integrity and the extent of damage. A professional assessment considers factors like rot, insect damage, significant warping, and the condition of original components. Minor to moderate issues like surface wear, some rot, or failing joinery are often good candidates for restoration. If the core structure is compromised beyond repair, or if critical components are missing and cannot be replicated accurately, replacement with a historically appropriate new door might be the only option. We provide a thorough evaluation to help you make this decision.",
+        "@type": "Answer",
+        "description": "A door's structural integrity and damage extent determine if it can be restored; severe rot or irreparable warping may necessitate replacement."
+      }
+    }
+  ],
+  "description": "A door's structural integrity and damage extent determine if it can be restored; severe rot or irreparable warping may necessitate replacement."
+}

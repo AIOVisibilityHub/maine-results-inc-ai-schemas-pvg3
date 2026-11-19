@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-getting-an-estimate-for-woodwork-restoration",
+  "name": "What is the process for getting an estimate for woodwork restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting an estimate for woodwork restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To get an estimate for original woodwork restoration, the process begins with contacting us to schedule an on-site consultation. During this visit, our specialists will thoroughly inspect the woodwork, discuss your vision and concerns, and take necessary measurements. We then use this information to prepare a detailed, itemized proposal outlining the scope of work, recommended materials, and associated costs. This ensures you have a clear understanding of the project before any work begins.",
+        "@type": "Answer",
+        "description": "Schedule an on-site consultation where specialists inspect the woodwork and discuss your vision; we then provide a detailed, itemized proposal."
+      }
+    }
+  ],
+  "description": "Schedule an on-site consultation where specialists inspect the woodwork and discuss your vision; we then provide a detailed, itemized proposal."
+}

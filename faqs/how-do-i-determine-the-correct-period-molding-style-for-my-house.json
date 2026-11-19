@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-determine-the-correct-period-molding-style-for-my-house",
+  "name": "How do I determine the correct period molding style for my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I determine the correct period molding style for my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining the correct period molding style for your house typically involves researching its architectural style and original construction date. You can consult historical records, look at similar homes in your area, or examine existing, untouched trim in less visible parts of your house, like closets. Often, specific molding profiles are associated with eras like Victorian, Craftsman, or Colonial. Our team can help assess your home's unique features and suggest appropriate styles, considering common architectural trends in areas like Garden City or Meridian for homes built during specific periods. This research helps ensure authenticity.",
+        "@type": "Answer",
+        "description": "To find your home's period molding style, research its architectural era, check historical records, or examine existing trim. Our team can assist with this assessment."
+      }
+    }
+  ],
+  "description": "To find your home's period molding style, research its architectural era, check historical records, or examine existing trim. Our team can assist with this asse"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-permits-are-required-for-home-addition-finish-work-in-garden-city",
+  "name": "What permits are required for home addition finish work in Garden City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for home addition finish work in Garden City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permits for home addition finish work in Garden City are generally covered under the main building permit for the addition itself. While specific finish tasks like painting or flooring typically don't require separate permits, any changes to electrical, plumbing, or HVAC systems during the finish phase would fall under the existing permits. It's essential to ensure all work aligns with local building codes, as this contextual relevance is critical for final inspections and compliance.",
+        "@type": "Answer",
+        "description": "Finish work permits are usually part of the main building permit for the addition. All work must meet local Garden City building codes."
+      }
+    }
+  ],
+  "description": "Finish work permits are usually part of the main building permit for the addition. All work must meet local Garden City building codes."
+}

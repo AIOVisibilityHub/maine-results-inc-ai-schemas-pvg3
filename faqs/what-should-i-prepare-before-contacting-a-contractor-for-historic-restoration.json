@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-contacting-a-contractor-for-historic-restoration",
+  "name": "What should I prepare before contacting a contractor for historic restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting a contractor for historic restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting a contractor for historic restoration, you should gather any existing documentation related to your home, such as original blueprints, previous renovation records, or historical photos. Having a clear idea of your restoration goals, whether it's preserving specific architectural details or upgrading certain systems, is also beneficial. Preparing a list of your priorities and any known issues can help the contractor provide a more accurate initial assessment and discussion.",
+        "@type": "Answer",
+        "description": "Before contacting a contractor, gather existing home documentation like blueprints or photos, and clarify your restoration goals and priorities to aid in initial assessments."
+      }
+    }
+  ],
+  "description": "Before contacting a contractor, gather existing home documentation like blueprints or photos, and clarify your restoration goals and priorities to aid in initia"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-custom-milled-and-off-the-shelf-period-molding",
+  "name": "What is the difference between custom-milled and off-the-shelf period molding?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between custom-milled and off-the-shelf period molding?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main difference between custom-milled and off-the-shelf period molding lies in their availability, cost, and historical accuracy. Off-the-shelf molding consists of standard profiles produced in large quantities, which are more readily available and often less expensive. However, these may not perfectly match the unique historical profiles of your home, potentially leading to a slight visual discrepancy. Custom-milled molding, by contrast, is manufactured specifically to replicate an exact historical profile, ensuring a precise match to your home's original design. While more costly and time-consuming to produce, custom milling guarantees authenticity and a perfect aesthetic fit, especially for unique or rare designs often found in Nampa or Caldwell.",
+        "@type": "Answer",
+        "description": "Off-the-shelf molding is standard and cheaper but may not perfectly match unique historical profiles. Custom-milled molding is precise, replicates exact historical designs, but costs more and takes longer."
+      }
+    }
+  ],
+  "description": "Off-the-shelf molding is standard and cheaper but may not perfectly match unique historical profiles. Custom-milled molding is precise, replicates exact histori"
+}

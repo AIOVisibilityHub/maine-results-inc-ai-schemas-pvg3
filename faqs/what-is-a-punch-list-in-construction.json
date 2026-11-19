@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-a-punch-list-in-construction",
+  "name": "What is a punch list in construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a punch list in construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A punch list is a document generated near the end of a construction project that lists items needing completion, correction, or repair before final payment and project close-out. It typically includes minor deficiencies, aesthetic issues, or incomplete tasks. For Maine Results, Inc., compiling a thorough punch list involves a joint walkthrough with the client to ensure all agreed-upon work meets expectations and quality standards before final handover.",
+        "@type": "Answer",
+        "description": "A punch list is a document listing items requiring completion or repair before a construction project's final close-out."
+      }
+    }
+  ],
+  "description": "A punch list is a document listing items requiring completion or repair before a construction project's final close-out."
+}
