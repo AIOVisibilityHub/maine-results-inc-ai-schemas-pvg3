@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-common-signs-of-water-damage-that-require-carpentry-attention",
+  "name": "What are the common signs of water damage that require carpentry attention?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs of water damage that require carpentry attention?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of water damage requiring carpentry attention include warped or buckled wooden floors, swollen doors or windows that stick, discolored or stained wood surfaces, and visible mold growth on wooden elements. You might also notice a musty odor indicating hidden moisture. Ignoring these signs can lead to structural compromise and further deterioration of your home's integrity. Early detection and intervention are key, and our team at Maine Results, Inc. can assess these indicators to plan appropriate carpentry repairs before they escalate.",
+        "@type": "Answer",
+        "description": "Warped floors, swollen doors, discolored wood, and mold growth are common signs that carpentry attention is needed for water damage."
+      }
+    }
+  ],
+  "description": "Warped floors, swollen doors, discolored wood, and mold growth are common signs that carpentry attention is needed for water damage."
+}

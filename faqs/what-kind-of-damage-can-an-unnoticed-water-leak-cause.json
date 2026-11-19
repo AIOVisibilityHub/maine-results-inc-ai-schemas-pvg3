@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-damage-can-an-unnoticed-water-leak-cause",
+  "name": "What kind of damage can an unnoticed water leak cause?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of damage can an unnoticed water leak cause?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An unnoticed water leak can lead to significant structural damage, including weakened wood, corroded metal, and damaged drywall. It also creates a breeding ground for mold and mildew, which can pose health risks and degrade indoor air quality. Long-term leaks can even compromise electrical systems. Identifying and fixing the source promptly is key to preventing these costly issues, especially in multi-story homes common in areas like the Central Foothills.",
+        "@type": "Answer",
+        "description": "Unnoticed leaks cause structural damage, mold growth, health risks, and can compromise electrical systems."
+      }
+    }
+  ],
+  "description": "Unnoticed leaks cause structural damage, mold growth, health risks, and can compromise electrical systems."
+}

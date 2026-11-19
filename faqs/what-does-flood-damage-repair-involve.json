@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-does-flood-damage-repair-involve",
+  "name": "What does flood damage repair involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does flood damage repair involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flood damage repair typically begins with water extraction and drying to prevent further damage and mold growth. This is followed by cleaning, sanitizing, and repairing or replacing damaged materials like drywall, flooring, and insulation. The specific steps depend on the water source, contamination level, and the extent of structural compromise. Maine Results, Inc. assesses each situation to develop a tailored plan, ensuring all affected areas are addressed. Early intervention helps mitigate long-term issues and reduces overall restoration costs.",
+        "@type": "Answer",
+        "description": "Flood damage repair involves water extraction, drying, cleaning, sanitizing, and repairing or replacing damaged materials."
+      }
+    }
+  ],
+  "description": "Flood damage repair involves water extraction, drying, cleaning, sanitizing, and repairing or replacing damaged materials."
+}

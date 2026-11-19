@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-s-the-difference-between-refinishing-and-restoration",
+  "name": "What's the difference between refinishing and restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between refinishing and restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Refinishing primarily involves stripping the old finish and applying a new one, often to refresh the appearance. Restoration, however, is a more comprehensive process that includes structural repairs, addressing deep damage, and meticulous work to return a piece to its original or improved condition, beyond just the surface. While refinishing can be part of a restoration, restoration covers a broader scope of work. Choosing between the two depends on the item's condition and your goals for its appearance and longevity.",
+        "@type": "Answer",
+        "description": "Refinishing refreshes a surface, while restoration is a comprehensive process that includes repairs and returning a piece to its original condition."
+      }
+    }
+  ],
+  "description": "Refinishing refreshes a surface, while restoration is a comprehensive process that includes repairs and returning a piece to its original condition."
+}

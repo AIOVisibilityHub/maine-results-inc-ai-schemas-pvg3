@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-maintain-my-restored-wooden-furniture",
+  "name": "How can I maintain my restored wooden furniture?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I maintain my restored wooden furniture?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After restoration, maintaining your wooden furniture involves regular dusting with a soft cloth, avoiding direct sunlight and extreme temperature changes, and promptly wiping up spills. Use coasters under drinks and felt pads under objects to prevent scratches. Avoid abrasive cleaners or silicone-based polishes, as these can damage the finish over time. Understanding these care guidelines can significantly extend the life and beauty of your restored pieces. Maine Results, Inc. can provide specific care instructions tailored to the finishes used.",
+        "@type": "Answer",
+        "description": "Maintain restored furniture by regular dusting, avoiding direct sunlight and spills, and using appropriate cleaners to protect the finish."
+      }
+    }
+  ],
+  "description": "Maintain restored furniture by regular dusting, avoiding direct sunlight and spills, and using appropriate cleaners to protect the finish."
+}

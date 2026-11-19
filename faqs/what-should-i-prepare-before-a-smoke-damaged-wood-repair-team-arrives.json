@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-a-smoke-damaged-wood-repair-team-arrives",
+  "name": "What should I prepare before a smoke-damaged wood repair team arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a smoke-damaged wood repair team arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a smoke-damaged wood repair team arrives, you should ensure the affected areas are clear of personal belongings, if safe to do so. Documenting the damage with photos for insurance purposes is also helpful. Our team from Maine Results, Inc. appreciates it if you can provide any details about the fire's origin and the types of materials that burned, as this can inform our approach to odor removal and cleaning. This preparation can help streamline our initial assessment and work.",
+        "@type": "Answer",
+        "description": "Before a repair team arrives, clear personal items from damaged areas, take photos for insurance, and gather details about the fire's origin."
+      }
+    }
+  ],
+  "description": "Before a repair team arrives, clear personal items from damaged areas, take photos for insurance, and gather details about the fire's origin."
+}

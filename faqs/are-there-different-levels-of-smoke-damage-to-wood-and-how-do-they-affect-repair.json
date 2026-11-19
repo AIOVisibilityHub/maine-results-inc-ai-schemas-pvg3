@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/are-there-different-levels-of-smoke-damage-to-wood-and-how-do-they-affect-repair",
+  "name": "Are there different levels of smoke damage to wood, and how do they affect repair costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different levels of smoke damage to wood, and how do they affect repair costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there are different levels of smoke damage to wood, ranging from light surface discoloration and odor to deep soot penetration, charring, and structural compromise. These levels significantly impact repair costs. Light damage typically requires only cleaning and sealing, which is less expensive. Moderate damage may involve more intensive odor removal and surface refinishing, increasing costs. Severe damage, necessitating replacement of sections or entire structures, will be the most costly. Maine Results, Inc. provides a detailed estimate based on the specific level of damage identified during our inspection.",
+        "@type": "Answer",
+        "description": "Levels of smoke damage range from light to severe, impacting repair costs from simple cleaning to extensive replacement."
+      }
+    }
+  ],
+  "description": "Levels of smoke damage range from light to severe, impacting repair costs from simple cleaning to extensive replacement."
+}

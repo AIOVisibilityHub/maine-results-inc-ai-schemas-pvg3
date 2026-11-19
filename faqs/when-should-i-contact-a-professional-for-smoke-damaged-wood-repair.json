@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-contact-a-professional-for-smoke-damaged-wood-repair",
+  "name": "When should I contact a professional for smoke-damaged wood repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact a professional for smoke-damaged wood repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a professional for smoke-damaged wood repair as soon as possible after the fire has been extinguished and the property is safe to enter. Delaying the process can allow soot and acidic residues to cause further corrosion and staining, making restoration more complex and costly. Early intervention helps prevent deeper penetration of odors and discoloration. Maine Results, Inc. can assess the damage promptly and begin mitigation to preserve more of your property.",
+        "@type": "Answer",
+        "description": "Contact a professional for smoke-damaged wood repair immediately after a fire to prevent further damage and make restoration easier."
+      }
+    }
+  ],
+  "description": "Contact a professional for smoke-damaged wood repair immediately after a fire to prevent further damage and make restoration easier."
+}

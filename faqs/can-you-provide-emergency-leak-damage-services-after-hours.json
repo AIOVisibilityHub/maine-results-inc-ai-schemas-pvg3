@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-provide-emergency-leak-damage-services-after-hours",
+  "name": "Can you provide emergency leak damage services after hours?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you provide emergency leak damage services after hours?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. offers emergency leak damage services to address urgent situations outside of regular business hours. Swift action is often critical to minimize damage and prevent further complications. Our team is equipped to respond quickly, especially in our primary service areas including Garden City, Meridian, Eagle, and Kuna, to assess and begin the mitigation process immediately.",
+        "@type": "Answer",
+        "description": "Yes, we provide emergency leak damage services after hours for urgent situations in our service areas."
+      }
+    }
+  ],
+  "description": "Yes, we provide emergency leak damage services after hours for urgent situations in our service areas."
+}

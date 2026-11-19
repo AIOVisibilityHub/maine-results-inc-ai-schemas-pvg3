@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-woodwork-repair-take",
+  "name": "How long does a typical woodwork repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical woodwork repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a woodwork repair project varies significantly based on the extent and complexity of the damage. Minor repairs, like small dents or scratches, might be completed within a few hours. More extensive projects, such as repairing significant rot or structural damage to a deck or large custom piece, could take several days or even weeks. During our initial assessment, Maine Results will provide a clear estimate of the project timeline tailored to your specific repair needs, allowing you to plan accordingly.",
+        "@type": "Answer",
+        "description": "The duration depends on damage extent and complexity. Minor repairs might be hours, while extensive projects could take days or weeks. We provide a timeline during assessment."
+      }
+    }
+  ],
+  "description": "The duration depends on damage extent and complexity. Minor repairs might be hours, while extensive projects could take days or weeks. We provide a timeline dur"
+}

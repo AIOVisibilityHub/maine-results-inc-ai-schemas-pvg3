@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-s-the-difference-between-water-damage-repair-and-general-carpentry-services",
+  "name": "What's the difference between water damage repair and general carpentry services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between water damage repair and general carpentry services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in the initial assessment and specialized treatment required due to moisture. General carpentry focuses on new installations or repairs where water is not a factor. Water damage carpentry, however, involves first ensuring that the affected area is completely dry and free of mold to prevent recurrence. This often includes expertise in identifying hidden moisture, treating for mold, and selecting materials that can withstand potential future moisture challenges. At Maine Results, Inc., our team handles both the specialized water-related challenges and the subsequent carpentry, ensuring a comprehensive solution.",
+        "@type": "Answer",
+        "description": "Water damage carpentry involves specialized drying and mold treatment before repairs, unlike general carpentry, which doesn't address moisture issues."
+      }
+    }
+  ],
+  "description": "Water damage carpentry involves specialized drying and mold treatment before repairs, unlike general carpentry, which doesn't address moisture issues."
+}

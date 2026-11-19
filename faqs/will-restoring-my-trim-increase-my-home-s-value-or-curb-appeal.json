@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/will-restoring-my-trim-increase-my-home-s-value-or-curb-appeal",
+  "name": "Will restoring my trim increase my home's value or curb appeal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will restoring my trim increase my home's value or curb appeal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, restoring original trim can significantly enhance your home's value and curb appeal, particularly for properties with architectural significance or those in established neighborhoods like the East End or Borah area. Well-maintained original features are highly sought after and contribute to a home's character and historical integrity. This type of preservation demonstrates meticulous care for the property. First-party insight from our experience suggests that buyers often value the craftsmanship and unique elements that original trim provides over generic modern replacements.",
+        "@type": "Answer",
+        "description": "Restoring original trim enhances home value and curb appeal, especially in architecturally significant properties. Well-maintained original features are highly valued by buyers."
+      }
+    }
+  ],
+  "description": "Restoring original trim enhances home value and curb appeal, especially in architecturally significant properties. Well-maintained original features are highly"
+}

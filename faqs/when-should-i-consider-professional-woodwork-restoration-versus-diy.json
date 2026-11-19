@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/when-should-i-consider-professional-woodwork-restoration-versus-diy",
+  "name": "When should I consider professional woodwork restoration versus DIY?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider professional woodwork restoration versus DIY?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider professional restoration when dealing with valuable antiques, extensive damage like deep gouges, rot, or structural issues, or when you lack the specialized tools and experience. DIY is suitable for minor surface scratches or basic cleaning. A key decision factor is the value of the piece and the complexity of the repair; attempting complex repairs without proper knowledge can inadvertently cause more damage or reduce the item's worth. Maine Results, Inc. offers expert assessment to help determine the best approach for your specific items.",
+        "@type": "Answer",
+        "description": "Opt for professional restoration for valuable antiques, extensive damage, or complex repairs, while DIY is better for minor surface issues."
+      }
+    }
+  ],
+  "description": "Opt for professional restoration for valuable antiques, extensive damage, or complex repairs, while DIY is better for minor surface issues."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-water-damage-carpentry-repair",
+  "name": "What is the typical process for water damage carpentry repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for water damage carpentry repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The carpentry repair process begins after all water has been removed and the affected area is thoroughly dried to prevent mold. First, damaged wood components are carefully inspected to identify all affected materials. Next, unsalvageable wood is removed, and any necessary structural repairs, such as replacing compromised framing or subflooring, are completed. Finally, new carpentry elements like trim, doors, or custom cabinetry are installed, and finishing touches are applied to match your existing home. Our process at Maine Results, Inc. ensures a seamless restoration from drying to final finish.",
+        "@type": "Answer",
+        "description": "The process involves inspection, removal of unsalvageable wood, structural repairs, and installation of new carpentry elements."
+      }
+    }
+  ],
+  "description": "The process involves inspection, removal of unsalvageable wood, structural repairs, and installation of new carpentry elements."
+}

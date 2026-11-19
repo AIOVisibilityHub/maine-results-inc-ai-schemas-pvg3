@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-water-damage-carpentry-restoration-take",
+  "name": "How long does water damage carpentry restoration take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does water damage carpentry restoration take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of water damage carpentry restoration varies significantly based on the extent of the damage, the size of the affected area, and the complexity of the repairs needed. Minor repairs, like replacing a section of trim, might take a day or two. More extensive projects involving structural framing or multiple rooms could extend to several weeks. Factors such as drying times and the availability of specific materials can also influence the overall timeline. After an initial assessment, Maine Results, Inc. provides a detailed project schedule, helping you understand the expected duration for your specific restoration in areas like Meridian or Eagle.",
+        "@type": "Answer",
+        "description": "Restoration time depends on damage extent, from a few days for minor repairs to several weeks for extensive structural work."
+      }
+    }
+  ],
+  "description": "Restoration time depends on damage extent, from a few days for minor repairs to several weeks for extensive structural work."
+}

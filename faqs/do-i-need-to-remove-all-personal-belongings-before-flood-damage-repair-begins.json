@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-remove-all-personal-belongings-before-flood-damage-repair-begins",
+  "name": "Do I need to remove all personal belongings before flood damage repair begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove all personal belongings before flood damage repair begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not always required for every item, it is highly recommended to remove as many salvageable personal belongings as possible from the affected areas. This protects items from further damage during the drying and repair process and allows restoration crews unobstructed access. Our team can help identify items that need to be removed or documented for insurance purposes. Preparing by moving items to an unaffected area can streamline the entire restoration timeline.",
+        "@type": "Answer",
+        "description": "Remove salvageable personal belongings from affected areas to protect them and give crews clear access."
+      }
+    }
+  ],
+  "description": "Remove salvageable personal belongings from affected areas to protect them and give crews clear access."
+}

@@ -1,0 +1,1430 @@
+{
+  "version": 1,
+  "approved": [],
+  "noindex": [
+    {
+      "path": "webpages/finish-carpentry-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-finish-carpentry-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/residential-finish-carpentry-services-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/high-end-finish-carpentry-contractor-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-finish-carpentry-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-finish-carpentry-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-trim-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-trim-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-trim-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/decorative-trim-work-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/architectural-millwork-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-millwork-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/finish-trim-carpentry-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wood-trim-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-woodwork-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/fine-woodworking-services-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/carpentry-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/residential-carpenter-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/finish-carpenter-near-me-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/trim-carpenter-near-me-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-carpenter-boise-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-door-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-door-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/front-door-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/entry-door-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-door-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/prehung-door-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-door-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-door-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/front-door-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-frame-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-jamb-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-casing-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-trim-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-trim-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-threshold-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-sill-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-sweep-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-weatherstripping-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-alignment-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-adjustment-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sticking-door-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sagging-door-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-hinge-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-hardware-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-lock-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-handle-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/deadbolt-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-restoration-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wood-door-restoration-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/historic-door-restoration-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/water-damaged-door-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/rotten-door-frame-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/rotten-door-jamb-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/rotten-exterior-door-trim-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-rot-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/baseboard-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/baseboard-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/baseboard-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-baseboards-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/crown-molding-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/crown-molding-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-crown-molding-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/ceiling-trim-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/ceiling-molding-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-casing-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-casing-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-casing-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-trim-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-trim-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-window-trim-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-window-trim-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-window-trim-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-window-trim-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wainscoting-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wainscoting-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/board-and-batten-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/board-and-batten-wall-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/board-and-batten-exterior-siding-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/chair-rail-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/picture-rail-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wall-molding-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/decorative-wall-molding-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/panel-molding-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/box-molding-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wall-paneling-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/beadboard-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/shiplap-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/coffered-ceiling-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/ceiling-beam-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/faux-beam-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-ceiling-beams-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/cove-molding-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/quarter-round-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/shoe-molding-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-stop-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wood-transition-strip-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/stair-trim-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-cabinet-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/cabinet-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/cabinet-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/cabinet-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/cabinet-refacing-carpentry-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-cabinet-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-vanity-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-cabinet-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/laundry-room-cabinet-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/garage-cabinet-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/built-in-cabinet-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-built-ins-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/built-in-shelving-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-shelving-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bookcase-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/built-in-bookcase-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/entertainment-center-built-in-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/media-wall-built-in-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/mantel-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-fireplace-mantel-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/mantel-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-seat-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/banquette-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/mudroom-built-ins-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/entryway-built-ins-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/closet-built-ins-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-closet-shelving-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/pantry-shelving-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/floating-shelf-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-floating-shelves-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/home-repair-carpenter-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-home-repairs-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/residential-repair-services-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wood-repair-services-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/dry-rot-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wood-rot-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/rotten-wood-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/water-damaged-wood-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/water-damaged-trim-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/water-damaged-baseboard-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/water-damaged-window-trim-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/water-damaged-wall-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/water-damaged-ceiling-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/ice-dam-damage-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/storm-damage-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wind-damage-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/leak-damage-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/ceiling-leak-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wall-leak-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/roof-leak-interior-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-leak-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-leak-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/damaged-drywall-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/drywall-patch-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/drywall-hole-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/drywall-water-damage-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/drywall-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/drywall-finishing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/drywall-texture-matching-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-painting-preparation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wall-repair-before-painting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/ceiling-repair-before-painting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/cracked-trim-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/split-wood-trim-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/loose-trim-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/trim-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/damaged-molding-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-woodwork-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-home-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-carpentry-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-trim-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-wood-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-wood-rot-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/rotten-siding-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wood-siding-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/siding-trim-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/fascia-board-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/fascia-board-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/soffit-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/soffit-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/eave-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/rake-board-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/roof-trim-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/gable-trim-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-sill-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-window-sill-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-frame-rot-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-door-frame-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/front-door-frame-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/garage-door-trim-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/garage-door-frame-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/porch-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/porch-railing-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/porch-column-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/porch-post-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/deck-trim-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/deck-fascia-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/deck-board-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/fence-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wood-fence-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/gate-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-stair-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wood-stair-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/handrail-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-handrail-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/rotten-wood-removal-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/dry-rot-removal-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/weather-damaged-wood-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-window-trim-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-window-trim-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-casing-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-frame-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wood-window-frame-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-sill-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-window-sill-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/rotten-window-sill-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-stool-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-apron-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-jamb-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-extension-jamb-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-flashing-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/historic-window-trim-restoration-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-trim-painting-preparation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/home-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/residential-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/house-remodeling-contractor-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/whole-house-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/partial-home-remodel-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/home-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/living-room-remodel-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/family-room-remodel-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bedroom-remodel-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/home-office-remodel-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/dining-room-remodel-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/hallway-remodel-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/entryway-remodel-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/mudroom-remodel-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/laundry-room-remodel-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-remodel-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-trim-carpentry-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-backsplash-preparation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-island-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-remodel-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-trim-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/basement-remodel-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/basement-finishing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/garage-remodel-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/garage-conversion-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/attic-remodel-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/attic-finishing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/closet-remodel-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/pantry-remodel-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/home-addition-finish-work-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/adu-finish-carpentry-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/rental-property-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/investment-property-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/fixer-upper-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/pre-sale-home-repairs-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/home-sale-repair-list-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/punch-list-repairs-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/home-restoration-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/residential-restoration-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/house-restoration-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/historic-home-restoration-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/historic-house-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/historic-trim-restoration-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/historic-millwork-restoration-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/historic-window-restoration-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/old-house-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/old-home-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/vintage-home-restoration-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/craftsman-home-restoration-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/victorian-home-restoration-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/period-correct-trim-work-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/period-correct-molding-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/original-woodwork-restoration-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/original-trim-restoration-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/woodwork-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/woodwork-restoration-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/antique-door-restoration-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/antique-trim-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/water-damage-restoration-carpentry-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/flood-damage-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/leak-damage-restoration-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/storm-damage-restoration-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/fire-damage-repair-carpentry-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/smoke-damaged-wood-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/ice-damage-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/snow-damage-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/emergency-carpentry-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/emergency-home-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/property-damage-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/insurance-restoration-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/insurance-claim-repair-contractor-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/non-structural-framing-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wall-framing-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-opening-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-opening-reframing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-opening-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-opening-reframing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-wall-modification-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/non-load-bearing-wall-removal-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-partition-wall-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wall-blocking-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/backing-installation-for-cabinets-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/backing-installation-for-grab-bars-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/backing-installation-for-wall-mounted-tv-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/backing-installation-for-shelving-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/subfloor-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/subfloor-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/floor-squeak-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/floor-transition-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/stair-framing-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/stair-tread-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/stair-riser-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/stair-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-stair-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/stair-nosing-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/stair-skirt-board-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/stair-stringer-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/handrail-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wood-handrail-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/stair-railing-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/stair-railing-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/baluster-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/baluster-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/newel-post-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/newel-post-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-stair-trim-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/rental-property-repairs-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/rental-turnover-repairs-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/landlord-repair-services-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/property-management-repairs-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/tenant-damage-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/move-out-repairs-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/move-in-repairs-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/home-maintenance-carpentry-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/seasonal-home-repairs-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/deferred-maintenance-repairs-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/home-inspection-repair-list-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/real-estate-repair-list-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/buyer-repair-requests-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/seller-repair-requests-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/pre-listing-repairs-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/pre-closing-repairs-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/punch-list-carpentry-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/builder-punch-list-repairs-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/new-construction-punch-list-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/warranty-repair-carpentry-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/commercial-tenant-improvement-carpentry-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/office-trim-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/office-door-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/office-remodel-carpentry-hub.html",
+      "status": "needs_review"
+    }
+  ]
+}

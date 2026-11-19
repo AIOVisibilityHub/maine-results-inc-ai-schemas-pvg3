@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-on-site-antique-door-restoration-services-or-do-i-need-to-bring-the",
+  "name": "Do you offer on-site antique door restoration services, or do I need to bring the door to your workshop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer on-site antique door restoration services, or do I need to bring the door to your workshop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most antique door restoration projects, especially those involving extensive stripping, structural repairs, or specialized finishing, are best completed at our workshop. This allows us access to the necessary tools, controlled environments, and dedicated space for detailed work. However, minor repairs or touch-ups can sometimes be performed on-site. We will discuss the most appropriate approach for your specific door during the initial consultation, considering logistical factors in your area like Eagle or Kuna.",
+        "@type": "Answer",
+        "description": "Extensive restoration is best done in our workshop, but minor repairs can sometimes be on-site. We determine the best approach during consultation."
+      }
+    }
+  ],
+  "description": "Extensive restoration is best done in our workshop, but minor repairs can sometimes be on-site. We determine the best approach during consultation."
+}

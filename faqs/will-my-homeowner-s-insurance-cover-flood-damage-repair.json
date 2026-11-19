@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/will-my-homeowner-s-insurance-cover-flood-damage-repair",
+  "name": "Will my homeowner's insurance cover flood damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover flood damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowner's insurance policies often distinguish between water damage and flood damage. Typically, standard policies cover damage from sudden internal events like a burst pipe, but not damage from natural flooding. Flood insurance is a separate policy, usually purchased through the National Flood Insurance Program (NFIP). Reviewing your policy or contacting your agent is essential to understand your coverage. We can assist by providing detailed documentation of damage and repairs for your insurance claim process.",
+        "@type": "Answer",
+        "description": "Standard homeowner's insurance typically doesn't cover natural flood damage; separate flood insurance is usually required."
+      }
+    }
+  ],
+  "description": "Standard homeowner's insurance typically doesn't cover natural flood damage; separate flood insurance is usually required."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-antique-trim-repair-usually-take",
+  "name": "How long does antique trim repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does antique trim repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of antique trim repair depends on the project's scope and complexity. Small repairs might be completed within a day, while larger projects involving extensive restoration, custom milling, or multiple rooms could take several days or even weeks. Factors like the drying time for specialized fillers and paints, and the availability of specific materials, can also influence the timeline. We will provide an estimated project timeline during our initial consultation.",
+        "@type": "Answer",
+        "description": "Repair time varies from a day for small jobs to weeks for large projects, depending on scope, complexity, materials, and drying times. We provide an estimated timeline."
+      }
+    }
+  ],
+  "description": "Repair time varies from a day for small jobs to weeks for large projects, depending on scope, complexity, materials, and drying times. We provide an estimated t"
+}

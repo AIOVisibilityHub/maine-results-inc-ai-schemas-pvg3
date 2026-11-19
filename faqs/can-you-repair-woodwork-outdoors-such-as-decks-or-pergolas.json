@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-repair-woodwork-outdoors-such-as-decks-or-pergolas",
+  "name": "Can you repair woodwork outdoors, such as decks or pergolas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair woodwork outdoors, such as decks or pergolas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results specializes in both interior and exterior woodwork repair, including structures like decks, pergolas, fences, and outdoor trim. Outdoor wood is particularly susceptible to weather damage, rot, and pest issues. Our team is equipped to address these specific challenges, using durable materials and protective finishes suitable for the climate in areas like Meridian or Eagle. We focus on restoring both the structural integrity and aesthetic appeal of your outdoor wooden features.",
+        "@type": "Answer",
+        "description": "Yes, we repair exterior woodwork like decks, pergolas, and fences, addressing weather damage and rot with durable materials suitable for our service areas."
+      }
+    }
+  ],
+  "description": "Yes, we repair exterior woodwork like decks, pergolas, and fences, addressing weather damage and rot with durable materials suitable for our service areas."
+}

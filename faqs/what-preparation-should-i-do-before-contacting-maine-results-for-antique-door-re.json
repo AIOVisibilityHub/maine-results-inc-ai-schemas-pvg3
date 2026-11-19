@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-should-i-do-before-contacting-maine-results-for-antique-door-re",
+  "name": "What preparation should I do before contacting Maine Results for antique door restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation should I do before contacting Maine Results for antique door restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting us, it's helpful to have clear photographs of your antique door, focusing on any areas of damage or unique features. Note the approximate dimensions and the type of wood if known. Also, consider what you hope to achieve with the restoration—for example, preserving its historical look, making it more secure, or improving its insulation. This information helps us provide a more accurate initial assessment.",
+        "@type": "Answer",
+        "description": "Before contacting us, prepare photos of the door, note its dimensions and wood type, and consider your restoration goals to aid initial assessment."
+      }
+    }
+  ],
+  "description": "Before contacting us, prepare photos of the door, note its dimensions and wood type, and consider your restoration goals to aid initial assessment."
+}

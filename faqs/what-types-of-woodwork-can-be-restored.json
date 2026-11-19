@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-woodwork-can-be-restored",
+  "name": "What types of woodwork can be restored?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of woodwork can be restored?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Woodwork restoration can address a wide range of items, including antique furniture, cabinetry, architectural features like moldings and staircases, and even exterior elements such as doors and window frames. The restorability often depends on the extent of damage and the type of wood. Maine Results, Inc. specializes in restoring various wood types found in homes across Garden City, Meridian, Eagle, Kuna, and Star, focusing on bringing aged or damaged pieces back to life.",
+        "@type": "Answer",
+        "description": "Woodwork restoration can cover antique furniture, cabinetry, architectural features, and exterior elements, depending on the damage and wood type."
+      }
+    }
+  ],
+  "description": "Woodwork restoration can cover antique furniture, cabinetry, architectural features, and exterior elements, depending on the damage and wood type."
+}

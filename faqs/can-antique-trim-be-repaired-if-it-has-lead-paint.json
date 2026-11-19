@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-antique-trim-be-repaired-if-it-has-lead-paint",
+  "name": "Can antique trim be repaired if it has lead paint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can antique trim be repaired if it has lead paint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, antique trim with lead paint can be repaired, but it requires specialized handling to ensure safety and compliance with lead-safe work practices. Maine Results, Inc. employs techniques and uses equipment designed to manage lead-based paint hazards during renovation, repair, and painting activities. This may involve containment, proper personal protective equipment, and meticulous cleanup to prevent lead exposure. It's crucial to disclose if you suspect lead paint is present so we can plan accordingly.",
+        "@type": "Answer",
+        "description": "Yes, antique trim with lead paint can be repaired using specialized, lead-safe work practices including containment and meticulous cleanup to prevent exposure. Disclose if lead paint is suspected."
+      }
+    }
+  ],
+  "description": "Yes, antique trim with lead paint can be repaired using specialized, lead-safe work practices including containment and meticulous cleanup to prevent exposure."
+}

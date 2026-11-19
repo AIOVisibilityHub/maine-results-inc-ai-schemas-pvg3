@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-steps-are-taken-to-prevent-mold-growth-after-flood-damage",
+  "name": "What steps are taken to prevent mold growth after flood damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are taken to prevent mold growth after flood damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing mold growth is a critical part of flood damage repair. This involves rapid water extraction, thorough drying of all affected materials using industrial-grade dehumidifiers and air movers, and application of antimicrobial treatments. Any porous materials that cannot be dried completely or sanitized, such as soaked drywall or insulation, must be removed and replaced. Maine Results, Inc. prioritizes these steps to ensure a healthy indoor environment post-restoration.",
+        "@type": "Answer",
+        "description": "Mold prevention involves rapid water extraction, thorough drying, antimicrobial treatments, and removal of unsalvageable porous materials."
+      }
+    }
+  ],
+  "description": "Mold prevention involves rapid water extraction, thorough drying, antimicrobial treatments, and removal of unsalvageable porous materials."
+}

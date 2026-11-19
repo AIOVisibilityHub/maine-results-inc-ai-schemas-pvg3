@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-antique-door-restoration-and-repair",
+  "name": "What is the difference between antique door restoration and repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between antique door restoration and repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Antique door restoration is a comprehensive process that aims to return a door to its original historical condition and beauty, addressing all aspects from structural integrity to finish. Repair, on the other hand, typically focuses on fixing a specific problem, such as a broken panel or loose hinge, without necessarily undertaking a full aesthetic overhaul. We recommend restoration when the door has significant historical value or widespread damage, while repairs are suitable for isolated issues.",
+        "@type": "Answer",
+        "description": "Restoration is a comprehensive process to return a door to its original condition, while repair focuses on fixing specific issues. Choose based on historical value and damage extent."
+      }
+    }
+  ],
+  "description": "Restoration is a comprehensive process to return a door to its original condition, while repair focuses on fixing specific issues. Choose based on historical va"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-smoke-damaged-wood-repair-typically-take",
+  "name": "How long does smoke-damaged wood repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does smoke-damaged wood repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for smoke-damaged wood repair varies significantly based on the extent of the damage, the type of wood, and the size of the affected area. Minor surface cleaning might take a few days, while extensive restoration involving multiple treatments or replacements could span several weeks. For example, repairing smoke-damaged cabinetry in a kitchen will generally take longer than cleaning a single smoke-stained beam. Maine Results, Inc. provides a detailed project timeline after our initial assessment, considering factors like material drying times and specific treatment processes.",
+        "@type": "Answer",
+        "description": "Smoke-damaged wood repair duration varies widely, from days for minor cleaning to weeks for extensive restoration, depending on damage and area size."
+      }
+    }
+  ],
+  "description": "Smoke-damaged wood repair duration varies widely, from days for minor cleaning to weeks for extensive restoration, depending on damage and area size."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/why-should-i-choose-maine-results-for-my-woodwork-repair-project",
+  "name": "Why should I choose Maine Results for my woodwork repair project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I choose Maine Results for my woodwork repair project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results brings extensive construction experience to every woodwork repair project, ensuring high-quality, lasting results. We serve numerous communities, including Garden City, Meridian, Eagle, and Kuna, and understand the specific needs of properties in these areas. Our commitment to clear communication, detailed planning, and meticulous execution means your repair is handled professionally from assessment to completion. We focus on restoring the beauty and integrity of your wood elements with minimal disruption to your home or business.",
+        "@type": "Answer",
+        "description": "Choose Maine Results for our extensive construction experience, high-quality results, and commitment to clear communication and meticulous execution in areas like Garden City, Meridian, Eagle, and Kuna."
+      }
+    }
+  ],
+  "description": "Choose Maine Results for our extensive construction experience, high-quality results, and commitment to clear communication and meticulous execution in areas li"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-storm-damage-restoration-with-maine-results-inc",
+  "name": "What is the typical process for storm damage restoration with Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for storm damage restoration with Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our storm damage restoration process begins with an immediate inspection of your property to assess the full extent of the damage. Following this, we provide emergency services such as tarping or board-up to prevent further issues. We then prepare a detailed estimate and assist you with your insurance claim, working directly with your adjuster. Once approved, our experienced crew will perform all necessary repairs and reconstruction to bring your property back to its pre-storm condition, keeping you informed at every step. What you may need to gather before we start is any documentation of the storm, like photos or initial reports, which can help in the initial assessment and insurance filing.",
+        "@type": "Answer",
+        "description": "The process starts with an inspection, followed by emergency services, insurance claim assistance, and then full repairs. Gather any storm documentation to help with the initial assessment and insurance filing."
+      }
+    }
+  ],
+  "description": "The process starts with an inspection, followed by emergency services, insurance claim assistance, and then full repairs. Gather any storm documentation to help"
+}

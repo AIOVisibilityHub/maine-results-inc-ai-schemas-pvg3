@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-a-woodwork-repair-project",
+  "name": "What is the typical process for a woodwork repair project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a woodwork repair project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our woodwork repair process typically begins with an on-site evaluation to assess the damage and discuss your specific needs. Following this, we provide a detailed proposal outlining the scope of work, materials, and estimated timeline. Once approved, our team carefully prepares the area, performs the necessary repairs—which might include cleaning, sanding, filling, patching, or replacing damaged sections—and finishes with appropriate sealing, staining, or painting to match existing woodwork. The process concludes with a final inspection to ensure your satisfaction.",
+        "@type": "Answer",
+        "description": "The process involves an on-site evaluation, detailed proposal, repair execution including preparation, repair, and finishing, followed by a final inspection."
+      }
+    }
+  ],
+  "description": "The process involves an on-site evaluation, detailed proposal, repair execution including preparation, repair, and finishing, followed by a final inspection."
+}

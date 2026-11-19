@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparations-should-i-make-before-your-team-arrives-for-woodwork-repair",
+  "name": "What preparations should I make before your team arrives for woodwork repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparations should I make before your team arrives for woodwork repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before our team arrives for woodwork repair, please clear the immediate work area of any furniture, decorations, or personal items to allow easy access to the damaged wood. If the repair is in an active living or working space, consider protecting nearby surfaces with drop cloths, although our team will also take precautions. For exterior repairs, ensure the path to the repair site is clear. Providing information about the wood type or any previous treatments can also be helpful during our assessment.",
+        "@type": "Answer",
+        "description": "Clear the work area of furniture and personal items, and consider protecting nearby surfaces. For exterior repairs, ensure a clear path. Information about wood type is also helpful."
+      }
+    }
+  ],
+  "description": "Clear the work area of furniture and personal items, and consider protecting nearby surfaces. For exterior repairs, ensure a clear path. Information about wood"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-cost-for-antique-trim-repair-services",
+  "name": "What is the typical cost for antique trim repair services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for antique trim repair services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for antique trim repair varies significantly based on several factors, including the type of trim, the extent of the damage, the materials required for restoration, and the complexity of matching existing profiles. Minor repairs, such as filling small cracks or reattaching loose pieces, will be less costly than extensive work involving custom-milled wood or intricate detail replication. We provide a detailed estimate after an on-site evaluation, ensuring transparency about the scope of work and associated costs.",
+        "@type": "Answer",
+        "description": "Cost varies based on trim type, damage extent, materials, and complexity. Minor repairs are less costly than extensive work, and we provide an estimate after evaluation."
+      }
+    }
+  ],
+  "description": "Cost varies based on trim type, damage extent, materials, and complexity. Minor repairs are less costly than extensive work, and we provide an estimate after ev"
+}

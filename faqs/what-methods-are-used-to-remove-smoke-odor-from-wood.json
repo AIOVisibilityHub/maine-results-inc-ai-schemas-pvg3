@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-methods-are-used-to-remove-smoke-odor-from-wood",
+  "name": "What methods are used to remove smoke odor from wood?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What methods are used to remove smoke odor from wood?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing smoke odor from wood often involves specialized cleaning agents, sealing, and ozone treatments, depending on the severity. First, surfaces are thoroughly cleaned to remove soot and residue. Then, sealants are applied to encapsulate any remaining odor-causing particles, preventing them from off-gassing. For stubborn odors, ozone generators may be used to neutralize smoke molecules within the wood's pores. The effectiveness of these methods can vary based on how quickly the damage was addressed, as odors set deeper over time.",
+        "@type": "Answer",
+        "description": "Smoke odor removal from wood uses specialized cleaning, sealing, and sometimes ozone treatments, with success depending on damage severity and response time."
+      }
+    }
+  ],
+  "description": "Smoke odor removal from wood uses specialized cleaning, sealing, and sometimes ozone treatments, with success depending on damage severity and response time."
+}

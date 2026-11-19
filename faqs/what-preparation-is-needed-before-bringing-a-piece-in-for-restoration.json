@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-preparation-is-needed-before-bringing-a-piece-in-for-restoration",
+  "name": "What preparation is needed before bringing a piece in for restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before bringing a piece in for restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before bringing a piece in for restoration, it's helpful to clear it of any personal items, dust it lightly, and take a few clear photos from different angles to document its current condition. If you have any historical information about the piece or specific preferences for its restoration, such as desired finish or color, gathering this information will be beneficial. This preparation helps Maine Results, Inc. provide a more accurate initial assessment and estimate for your project.",
+        "@type": "Answer",
+        "description": "Before bringing a piece, clear personal items, dust it, take photos, and gather any historical information or restoration preferences."
+      }
+    }
+  ],
+  "description": "Before bringing a piece, clear personal items, dust it, take photos, and gather any historical information or restoration preferences."
+}

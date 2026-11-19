@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-prepare-my-home-for-antique-trim-repair-work",
+  "name": "How can I prepare my home for antique trim repair work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for antique trim repair work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your home for antique trim repair, start by clearing the work area of furniture, decor, and personal items. If items cannot be moved, cover them with dust sheets to protect them from dust and debris. Ensure easy access to the trim being repaired and provide clear pathways for our team and their equipment. Inform us of any specific concerns or delicate items in the vicinity. This preparation helps ensure a smooth and efficient repair process.",
+        "@type": "Answer",
+        "description": "Prepare your home by clearing and covering furniture, ensuring clear access to the trim, and informing us of any concerns to ensure a smooth repair process."
+      }
+    }
+  ],
+  "description": "Prepare your home by clearing and covering furniture, ensuring clear access to the trim, and informing us of any concerns to ensure a smooth repair process."
+}

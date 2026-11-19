@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-flood-damage-repair-with-maine-results-inc",
+  "name": "What is the process for flood damage repair with Maine Results, Inc.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for flood damage repair with Maine Results, Inc.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our flood damage repair process begins with an initial inspection and damage assessment to determine the scope of work. Next, we focus on water extraction and thorough drying using specialized equipment. This is followed by cleaning, sanitization, and debris removal. Finally, our team rebuilds and restores your property, repairing or replacing damaged structures and finishes. Throughout the process, we communicate with you, providing updates and addressing any concerns, particularly for complex restorations in areas like Kuna and Star.",
+        "@type": "Answer",
+        "description": "The process involves inspection, water extraction, drying, cleaning, and rebuilding to restore your property."
+      }
+    }
+  ],
+  "description": "The process involves inspection, water extraction, drying, cleaning, and rebuilding to restore your property."
+}

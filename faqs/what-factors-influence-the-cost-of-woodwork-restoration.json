@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-woodwork-restoration",
+  "name": "What factors influence the cost of woodwork restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of woodwork restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of woodwork restoration is influenced by several factors, including the type and rarity of the wood, the size and complexity of the item, the extent of the damage, and the desired finish. For example, extensive structural repairs or intricate carvings will cost more than simple refinishing. Customers should prepare to provide detailed information or photos of the piece during the initial consultation to receive a more accurate estimate. Maine Results, Inc. provides transparent quotes based on a thorough evaluation of your specific project.",
+        "@type": "Answer",
+        "description": "Cost is influenced by wood type, item size, damage extent, and desired finish. Provide details for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Cost is influenced by wood type, item size, damage extent, and desired finish. Provide details for an accurate estimate."
+}

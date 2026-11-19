@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-water-damage-restoration-carpentry",
+  "name": "What is water damage restoration carpentry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is water damage restoration carpentry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage restoration carpentry involves repairing or replacing wooden structures in your home that have been affected by water. This can include anything from framing and subflooring to cabinets, trim, and doors. The process often starts after water has been extracted and the area dried, focusing on restoring the structural integrity and aesthetic appeal of your property. Our team assesses the extent of the damage to determine if wood can be salvaged through drying and repair or if it requires complete replacement.",
+        "@type": "Answer",
+        "description": "Water damage restoration carpentry repairs or replaces wooden structures damaged by water, like framing, subflooring, cabinets, and trim."
+      }
+    }
+  ],
+  "description": "Water damage restoration carpentry repairs or replaces wooden structures damaged by water, like framing, subflooring, cabinets, and trim."
+}

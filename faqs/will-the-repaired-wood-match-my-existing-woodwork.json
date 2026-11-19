@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/will-the-repaired-wood-match-my-existing-woodwork",
+  "name": "Will the repaired wood match my existing woodwork?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will the repaired wood match my existing woodwork?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a key objective of professional woodwork repair is to seamlessly blend the repaired area with your existing woodwork. Maine Results uses careful material selection, precise craftsmanship, and expert finishing techniques, including matching stains, paints, and textures. We strive for an unnoticeable repair, ensuring aesthetic consistency across your home or business. Factors like the age and condition of the existing wood can influence the exact match, but our goal is always to achieve the closest possible integration.",
+        "@type": "Answer",
+        "description": "Yes, we aim to seamlessly blend repairs by matching materials, stains, paints, and textures for aesthetic consistency. The age of existing wood can influence the exact match."
+      }
+    }
+  ],
+  "description": "Yes, we aim to seamlessly blend repairs by matching materials, stains, paints, and textures for aesthetic consistency. The age of existing wood can influence th"
+}

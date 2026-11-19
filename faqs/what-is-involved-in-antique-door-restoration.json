@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-involved-in-antique-door-restoration",
+  "name": "What is involved in antique door restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in antique door restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Antique door restoration involves repairing and preserving the original character of an old door. This can include stripping old paint, repairing wood damage like rot or cracks, re-gluing loose joints, replacing missing hardware, and reapplying a suitable finish. The process aims to maintain historical accuracy while ensuring the door is functional and durable for many more years. We often assess the door's current condition and your goals to determine the best approach, whether it's a full restoration or a more targeted repair.",
+        "@type": "Answer",
+        "description": "Antique door restoration involves repairing damage, preserving original features, and reapplying finishes to maintain historical accuracy and functionality."
+      }
+    }
+  ],
+  "description": "Antique door restoration involves repairing damage, preserving original features, and reapplying finishes to maintain historical accuracy and functionality."
+}

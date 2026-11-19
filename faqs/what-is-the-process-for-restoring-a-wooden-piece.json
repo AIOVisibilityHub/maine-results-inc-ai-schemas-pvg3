@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-process-for-restoring-a-wooden-piece",
+  "name": "What is the process for restoring a wooden piece?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for restoring a wooden piece?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The restoration process typically begins with an assessment of the piece and its damage, followed by cleaning and disassembling if necessary. Repairs then involve structural mending, filling gaps, and replacing damaged sections. This is followed by sanding, staining or painting, and finally, applying a protective finish. During this process, clients can expect regular updates, and their preferences for finish and color are carefully considered to ensure the final result aligns with their vision. Maine Results, Inc. ensures each step is communicated clearly.",
+        "@type": "Answer",
+        "description": "The process involves assessment, cleaning, repair, sanding, staining, and finishing, with client input at key stages."
+      }
+    }
+  ],
+  "description": "The process involves assessment, cleaning, repair, sanding, staining, and finishing, with client input at key stages."
+}

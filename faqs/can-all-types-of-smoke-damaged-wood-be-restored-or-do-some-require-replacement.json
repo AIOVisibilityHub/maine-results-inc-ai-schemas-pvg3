@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-all-types-of-smoke-damaged-wood-be-restored-or-do-some-require-replacement",
+  "name": "Can all types of smoke-damaged wood be restored, or do some require replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can all types of smoke-damaged wood be restored, or do some require replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not all smoke-damaged wood can be fully restored; some damage necessitates replacement, particularly if it's deeply charred or structurally compromised. The decision depends on the type of wood, the severity of the heat and smoke exposure, and the extent of embedded odor. For instance, heavily porous woods like pine might absorb more odor and soot than denser hardwoods. Our restoration specialists at Maine Results, Inc. will explain these practical tradeoffs, helping you weigh the costs and benefits of restoration versus replacement based on the specific damage.",
+        "@type": "Answer",
+        "description": "Some smoke-damaged wood can be restored, while severe damage or deep charring often requires replacement, depending on wood type and damage extent."
+      }
+    }
+  ],
+  "description": "Some smoke-damaged wood can be restored, while severe damage or deep charring often requires replacement, depending on wood type and damage extent."
+}

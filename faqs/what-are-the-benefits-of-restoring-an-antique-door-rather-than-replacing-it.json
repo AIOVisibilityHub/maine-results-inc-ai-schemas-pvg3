@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-benefits-of-restoring-an-antique-door-rather-than-replacing-it",
+  "name": "What are the benefits of restoring an antique door rather than replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of restoring an antique door rather than replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restoring an antique door preserves its unique character, craftsmanship, and historical value, which often cannot be replicated by new doors. It's an environmentally friendly choice, extending the life of existing materials and reducing waste. Restored doors can also enhance the curb appeal and value of your property, offering a sense of authenticity that modern replacements lack. For many homes in areas like Star, maintaining original features like antique doors contributes significantly to the home's charm and architectural integrity.",
+        "@type": "Answer",
+        "description": "Restoring an antique door preserves its unique character, historical value, and craftsmanship, enhances property appeal, and is an eco-friendly alternative to replacement."
+      }
+    }
+  ],
+  "description": "Restoring an antique door preserves its unique character, historical value, and craftsmanship, enhances property appeal, and is an eco-friendly alternative to r"
+}

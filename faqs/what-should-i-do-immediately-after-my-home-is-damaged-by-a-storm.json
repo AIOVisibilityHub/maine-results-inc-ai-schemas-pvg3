@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-do-immediately-after-my-home-is-damaged-by-a-storm",
+  "name": "What should I do immediately after my home is damaged by a storm?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after my home is damaged by a storm?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately after your home is damaged by a storm, prioritize safety by ensuring everyone is out of harm's way and avoiding downed power lines or gas leaks. Once it is safe, take photos or videos of all damaged areas before any cleanup. This documentation is critical for your insurance claim. You should also take temporary measures to prevent further damage, like covering a broken window or tarping a compromised roof, if you can do so safely. Then, contact Maine Results, Inc. for a professional assessment and to begin the restoration process.",
+        "@type": "Answer",
+        "description": "After storm damage, ensure safety, document all damage with photos, and take safe temporary measures to prevent further issues. Then, contact Maine Results, Inc. for professional assessment."
+      }
+    }
+  ],
+  "description": "After storm damage, ensure safety, document all damage with photos, and take safe temporary measures to prevent further issues. Then, contact Maine Results, Inc"
+}

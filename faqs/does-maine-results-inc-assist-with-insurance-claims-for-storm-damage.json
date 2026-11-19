@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/does-maine-results-inc-assist-with-insurance-claims-for-storm-damage",
+  "name": "Does Maine Results, Inc. assist with insurance claims for storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does Maine Results, Inc. assist with insurance claims for storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. actively assists clients with their insurance claims for storm damage. We understand that dealing with insurance companies can be complex during a stressful time. Our team works directly with your insurance adjuster, providing detailed documentation, estimates, and scope of work to ensure that all covered damages are accounted for. This assistance helps streamline the claim process, allowing you to focus on your recovery while we handle the necessary paperwork and negotiations. We aim to ensure you receive a fair settlement for your repairs.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. assists with insurance claims by working directly with your adjuster, providing detailed documentation and estimates. This streamlines the claim process for a fair settlement."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. assists with insurance claims by working directly with your adjuster, providing detailed documentation and estimates. This streamlines"
+}

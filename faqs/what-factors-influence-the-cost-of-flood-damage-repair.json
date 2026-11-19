@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-flood-damage-repair",
+  "name": "What factors influence the cost of flood damage repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of flood damage repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of flood damage repair is influenced by several factors: the category of water (clean, gray, or black water), the extent of water intrusion, the type of materials damaged, and the size of the affected area. Structural damage, mold remediation needs, and the duration of water exposure also play a significant role. A detailed assessment provides the most accurate estimate. Maine Results, Inc. provides transparent quotes based on a thorough inspection of your property.",
+        "@type": "Answer",
+        "description": "Cost factors include water category, damage extent, material types, affected area size, and any structural or mold issues."
+      }
+    }
+  ],
+  "description": "Cost factors include water category, damage extent, material types, affected area size, and any structural or mold issues."
+}

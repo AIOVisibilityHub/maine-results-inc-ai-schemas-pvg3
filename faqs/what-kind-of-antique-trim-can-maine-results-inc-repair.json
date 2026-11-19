@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-antique-trim-can-maine-results-inc-repair",
+  "name": "What kind of antique trim can Maine Results, Inc. repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of antique trim can Maine Results, Inc. repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. specializes in repairing a variety of antique trim types commonly found in homes across Garden City, Meridian, Eagle, Kuna, and Star. This includes delicate Victorian-era moldings, Craftsman-style casings, and period-specific baseboards. We often encounter original wood trim that has suffered from water damage, age-related cracking, or impact. Our approach focuses on restoring the original character and integrity of the architectural details.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. repairs various antique trim types like Victorian moldings, Craftsman casings, and period baseboards, focusing on restoring original character."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. repairs various antique trim types like Victorian moldings, Craftsman casings, and period baseboards, focusing on restoring original charact"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-ensure-smoke-odors-don-t-return-to-repaired-wood-surfaces",
+  "name": "How do you ensure smoke odors don't return to repaired wood surfaces?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure smoke odors don't return to repaired wood surfaces?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To ensure smoke odors don't return to repaired wood surfaces, we employ a multi-step process including thorough cleaning, sealing, and sometimes advanced odor neutralization techniques. After removing all visible soot and residue, we apply specialized odor-blocking primers and sealants that encapsulate microscopic odor particles, preventing their release. In some cases, we use ozone treatments for deep odor penetration. Our process for Maine Results, Inc. is designed to address the root cause of the odor, which can affect the long-term success of the repair.",
+        "@type": "Answer",
+        "description": "We prevent smoke odors from returning by thorough cleaning, applying odor-blocking sealants, and sometimes using advanced neutralization techniques."
+      }
+    }
+  ],
+  "description": "We prevent smoke odors from returning by thorough cleaning, applying odor-blocking sealants, and sometimes using advanced neutralization techniques."
+}

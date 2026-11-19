@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-are-the-signs-of-a-hidden-water-leak-in-my-home",
+  "name": "What are the signs of a hidden water leak in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of a hidden water leak in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of a hidden water leak include musty odors, visible water stains on walls or ceilings that grow over time, peeling paint or wallpaper, unexplained increases in your water bill, and warped or bubbling flooring. If you suspect a hidden leak, it's best to contact professionals for a thorough inspection. Early detection can prevent more extensive damage and costly repairs, particularly for older homes with concealed plumbing in areas like the East End.",
+        "@type": "Answer",
+        "description": "Look for musty smells, growing water stains, peeling paint, high water bills, or warped flooring."
+      }
+    }
+  ],
+  "description": "Look for musty smells, growing water stains, peeling paint, high water bills, or warped flooring."
+}

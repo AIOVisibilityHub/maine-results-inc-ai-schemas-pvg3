@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-flood-damage-repair-typically-take-for-a-home-in-garden-city",
+  "name": "How long does flood damage repair typically take for a home in Garden City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does flood damage repair typically take for a home in Garden City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of flood damage repair for a home in Garden City can vary significantly based on the severity of the damage, the size of the affected area, and the type of materials involved. Minor water intrusion might take a few days for drying and sanitization, while extensive structural damage and rebuilding could extend to several weeks or even months. Our team provides an estimated timeline after the initial assessment, ensuring clear expectations for the restoration project.",
+        "@type": "Answer",
+        "description": "Repair time varies based on damage severity, affected area size, and materials, from days for minor issues to weeks for extensive damage."
+      }
+    }
+  ],
+  "description": "Repair time varies based on damage severity, affected area size, and materials, from days for minor issues to weeks for extensive damage."
+}

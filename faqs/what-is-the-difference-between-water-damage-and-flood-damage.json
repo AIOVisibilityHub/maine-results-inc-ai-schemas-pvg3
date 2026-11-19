@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-water-damage-and-flood-damage",
+  "name": "What is the difference between water damage and flood damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between water damage and flood damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Water damage generally refers to incidents caused by internal sources, such as a burst pipe, leaking appliance, or overflowing sink. Flood damage specifically refers to damage caused by external natural events, like heavy rainfall leading to overflowing rivers, storm surges, or surface water runoff entering your home. Understanding this distinction is crucial because insurance coverage typically differs between the two. Maine Results, Inc. has expertise in addressing both types of water-related property damage.",
+        "@type": "Answer",
+        "description": "Water damage is from internal sources (e.g., burst pipe), while flood damage is from external natural events (e.g., river overflow)."
+      }
+    }
+  ],
+  "description": "Water damage is from internal sources (e.g., burst pipe), while flood damage is from external natural events (e.g., river overflow)."
+}

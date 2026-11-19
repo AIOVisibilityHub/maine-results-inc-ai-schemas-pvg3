@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-consider-before-hiring-someone-for-antique-trim-repair",
+  "name": "What should I consider before hiring someone for antique trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before hiring someone for antique trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before hiring for antique trim repair, consider the contractor's experience with historical homes and period architectural details. Look for a company that can demonstrate an understanding of different wood types, joinery techniques, and finishing methods common to antique trim. Also, ensure they can either match existing profiles or replicate them accurately. Ask about their approach to preserving historical integrity and their process for managing potential issues like lead paint, which is common in older homes in areas like Garden City or Meridian.",
+        "@type": "Answer",
+        "description": "Consider a contractor's experience with historical homes, their understanding of wood types and finishing methods, and their ability to match or replicate trim. Ask about their preservation approach and lead paint management."
+      }
+    }
+  ],
+  "description": "Consider a contractor's experience with historical homes, their understanding of wood types and finishing methods, and their ability to match or replicate trim."
+}

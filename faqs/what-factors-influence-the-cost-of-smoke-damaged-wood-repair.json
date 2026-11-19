@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-smoke-damaged-wood-repair",
+  "name": "What factors influence the cost of smoke-damaged wood repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of smoke-damaged wood repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the cost of smoke-damaged wood repair, including the type and porosity of the wood, the extent of soot and odor penetration, and the size of the affected area. For example, repairing detailed antique wood trim will cost more than treating a simple plywood subfloor due to the labor and specialized techniques required. The choice between cleaning, refinishing, or full replacement also significantly impacts the overall expense. Maine Results, Inc. provides a transparent estimate after assessing these variables.",
+        "@type": "Answer",
+        "description": "Cost factors for smoke-damaged wood repair include wood type, damage extent, and the repair method chosen (cleaning, refinishing, or replacement)."
+      }
+    }
+  ],
+  "description": "Cost factors for smoke-damaged wood repair include wood type, damage extent, and the repair method chosen (cleaning, refinishing, or replacement)."
+}

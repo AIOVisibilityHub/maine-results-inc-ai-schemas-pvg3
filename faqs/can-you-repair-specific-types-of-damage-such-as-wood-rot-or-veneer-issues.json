@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-repair-specific-types-of-damage-such-as-wood-rot-or-veneer-issues",
+  "name": "Can you repair specific types of damage, such as wood rot or veneer issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair specific types of damage, such as wood rot or veneer issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we regularly address specific types of damage commonly found in antique doors, including wood rot, insect damage, cracks, warping, and veneer lifting. For wood rot, we carefully remove compromised material and use matching wood or epoxy fillers to rebuild the area, ensuring structural integrity. Veneer issues are meticulously re-glued or replaced with historically appropriate materials. We specialize in techniques that preserve the door's original look and feel.",
+        "@type": "Answer",
+        "description": "We repair common antique door damages like wood rot, insect damage, cracks, warping, and veneer lifting, using techniques to preserve original features."
+      }
+    }
+  ],
+  "description": "We repair common antique door damages like wood rot, insect damage, cracks, warping, and veneer lifting, using techniques to preserve original features."
+}

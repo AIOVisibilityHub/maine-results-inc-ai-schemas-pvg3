@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-choose-the-right-flood-damage-repair-company",
+  "name": "How can I choose the right flood damage repair company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I choose the right flood damage repair company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a flood damage repair company, look for licensed and insured professionals with experience in water mitigation and restoration. Check for certifications from organizations like the IICRC (Institute of Inspection, Cleaning and Restoration Certification). A reputable company should offer clear communication, provide detailed estimates, and be available for emergency services. Maine Results, Inc. serves communities like Eagle with certified professionals, focusing on transparent processes and quality restoration work.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured company with restoration experience, certifications, clear communication, and detailed estimates."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured company with restoration experience, certifications, clear communication, and detailed estimates."
+}

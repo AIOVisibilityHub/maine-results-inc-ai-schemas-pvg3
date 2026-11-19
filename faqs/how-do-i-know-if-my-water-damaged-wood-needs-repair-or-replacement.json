@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-water-damaged-wood-needs-repair-or-replacement",
+  "name": "How do I know if my water-damaged wood needs repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my water-damaged wood needs repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining whether water-damaged wood needs repair or replacement depends on the severity and duration of water exposure, as well as the type of wood and its structural purpose. Wood that is soft, crumbling, or shows significant signs of mold growth typically requires replacement to ensure safety and prevent further issues. Minor damage, such as surface swelling or discoloration, might be repairable after thorough drying. Our technicians at Maine Results, Inc. will conduct a detailed inspection to assess the integrity of the wood and recommend the most effective and durable solution for your property.",
+        "@type": "Answer",
+        "description": "Wood needs replacement if it's soft, crumbling, or heavily molded. Minor damage may be repairable after drying."
+      }
+    }
+  ],
+  "description": "Wood needs replacement if it's soft, crumbling, or heavily molded. Minor damage may be repairable after drying."
+}

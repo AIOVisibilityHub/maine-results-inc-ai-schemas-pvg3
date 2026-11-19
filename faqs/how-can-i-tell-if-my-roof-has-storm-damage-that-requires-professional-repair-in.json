@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-can-i-tell-if-my-roof-has-storm-damage-that-requires-professional-repair-in",
+  "name": "How can I tell if my roof has storm damage that requires professional repair in Meridian?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my roof has storm damage that requires professional repair in Meridian?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can often identify roof storm damage by looking for missing or cracked shingles, dents on soft metals like gutters or vents, or granules in your gutters, especially after a hail or wind storm in Meridian. Interior signs like water spots on ceilings also indicate a problem. While some damage is visible, a professional inspection by Maine Results, Inc. is crucial because hail or wind damage can be subtle and not immediately apparent from the ground. Our experts can safely assess the full extent of the damage, including issues that may not be obvious, to ensure proper repairs are made.",
+        "@type": "Answer",
+        "description": "Look for missing shingles, dents on metal, or granules in gutters after a storm. A professional inspection by Maine Results, Inc. in Meridian is crucial to detect subtle or hidden roof damage."
+      }
+    }
+  ],
+  "description": "Look for missing shingles, dents on metal, or granules in gutters after a storm. A professional inspection by Maine Results, Inc. in Meridian is crucial to dete"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-does-maine-results-inc-ensure-quality-in-storm-damage-repairs",
+  "name": "How does Maine Results, Inc. ensure quality in storm damage repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Maine Results, Inc. ensure quality in storm damage repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. ensures quality in storm damage repairs through our commitment to using high-grade materials and employing experienced, skilled craftsmen. Our team adheres to industry best practices and local building codes, conducting thorough inspections throughout the repair process. We maintain clear communication with our clients, providing updates and addressing any concerns promptly. What you may gain from choosing our services is peace of mind, knowing that your repairs are performed to exacting standards that aim to restore your property’s integrity and appearance, backed by our local reputation in areas like Garden City and Eagle.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. ensures quality with high-grade materials, skilled craftsmen, adherence to codes, and clear client communication. You gain peace of mind from repairs done to exacting standards."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. ensures quality with high-grade materials, skilled craftsmen, adherence to codes, and clear client communication. You gain peace of mind fro"
+}

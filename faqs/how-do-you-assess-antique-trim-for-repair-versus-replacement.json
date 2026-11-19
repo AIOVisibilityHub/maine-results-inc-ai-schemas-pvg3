@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-assess-antique-trim-for-repair-versus-replacement",
+  "name": "How do you assess antique trim for repair versus replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you assess antique trim for repair versus replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our assessment process begins with a detailed inspection of the trim's condition, identifying areas of damage such as rot, cracks, or missing sections. We evaluate the feasibility of repair by considering the extent of the damage and the trim's historical value. If the damage is extensive or the trim is too deteriorated to safely repair, we will discuss replication options to match the original profile and material. We prioritize repair whenever possible to preserve the home's original features and character.",
+        "@type": "Answer",
+        "description": "We assess antique trim by inspecting damage like rot or cracks, determining if repair is feasible based on damage extent and historical value. Repair is prioritized to preserve original features."
+      }
+    }
+  ],
+  "description": "We assess antique trim by inspecting damage like rot or cracks, determining if repair is feasible based on damage extent and historical value. Repair is priorit"
+}

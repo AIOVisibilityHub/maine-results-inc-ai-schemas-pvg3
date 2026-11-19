@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-a-typical-woodwork-restoration-project-take",
+  "name": "How long does a typical woodwork restoration project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical woodwork restoration project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a woodwork restoration project varies significantly based on the item's size, the extent of damage, the type of wood, and the desired finish. Minor repairs might take a few days, while extensive structural restoration or intricate finishing could take several weeks. To provide an accurate estimate, Maine Results, Inc. conducts an initial assessment of the piece and the specific restoration requirements, allowing us to clarify the expected timeline and manage expectations effectively.",
+        "@type": "Answer",
+        "description": "Project duration depends on item size, damage extent, wood type, and finish; it can range from days to weeks."
+      }
+    }
+  ],
+  "description": "Project duration depends on item size, damage extent, wood type, and finish; it can range from days to weeks."
+}

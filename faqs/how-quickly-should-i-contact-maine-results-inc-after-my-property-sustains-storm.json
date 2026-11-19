@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-quickly-should-i-contact-maine-results-inc-after-my-property-sustains-storm",
+  "name": "How quickly should I contact Maine Results, Inc. after my property sustains storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly should I contact Maine Results, Inc. after my property sustains storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact Maine Results, Inc. as soon as it is safe to do so after your property sustains storm damage. Prompt action is crucial because delays can worsen existing damage and complicate insurance claims. For example, a compromised roof can lead to water intrusion and mold growth if not addressed quickly. Our team prioritizes rapid response to assess the damage, secure your property with emergency measures like board-ups or tarping, and initiate the restoration process efficiently.",
+        "@type": "Answer",
+        "description": "Contact Maine Results, Inc. immediately after storm damage, once it's safe. Prompt action prevents worsening damage and helps with insurance claims, with our team prioritizing rapid response and emergency measures."
+      }
+    }
+  ],
+  "description": "Contact Maine Results, Inc. immediately after storm damage, once it's safe. Prompt action prevents worsening damage and helps with insurance claims, with our te"
+}

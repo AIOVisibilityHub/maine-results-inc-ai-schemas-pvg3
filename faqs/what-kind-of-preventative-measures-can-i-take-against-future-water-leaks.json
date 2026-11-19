@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-kind-of-preventative-measures-can-i-take-against-future-water-leaks",
+  "name": "What kind of preventative measures can I take against future water leaks?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of preventative measures can I take against future water leaks?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future water leaks, regularly inspect plumbing for drips or corrosion, check appliance hoses, and maintain your roof and gutters. Consider installing leak detection systems for early warnings. Insulating pipes in unheated areas can prevent freezing bursts during cold weather. Simple routine checks can save significant repair costs down the line, a particularly useful practice for properties in colder pockets of the service area like Caldwell.",
+        "@type": "Answer",
+        "description": "Regularly inspect plumbing and appliances, maintain your roof, and consider leak detection systems to prevent future leaks."
+      }
+    }
+  ],
+  "description": "Regularly inspect plumbing and appliances, maintain your roof, and consider leak detection systems to prevent future leaks."
+}

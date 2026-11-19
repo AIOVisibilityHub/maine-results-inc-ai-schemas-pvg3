@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-the-right-contractor-for-original-trim-restoration-in-garden-cit",
+  "name": "How do I choose the right contractor for original trim restoration in Garden City?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for original trim restoration in Garden City?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor for original trim restoration in Garden City involves looking for experience specifically with historical preservation and attention to detail. Inquire about their portfolio of past restoration projects, ask for references, and ensure they understand the specific materials and architectural style of your home. A decision factor is to consider if the contractor provides a clear, itemized estimate and a detailed plan for how they will approach your project, including timelines and finishing options. Our team at Maine Results, Inc. provides comprehensive consultations.",
+        "@type": "Answer",
+        "description": "Choose a contractor for trim restoration in Garden City by checking their experience in historical preservation, portfolio, and references, ensuring they provide a detailed plan and estimate."
+      }
+    }
+  ],
+  "description": "Choose a contractor for trim restoration in Garden City by checking their experience in historical preservation, portfolio, and references, ensuring they provid"
+}

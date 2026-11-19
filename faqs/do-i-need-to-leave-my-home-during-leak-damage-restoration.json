@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-i-need-to-leave-my-home-during-leak-damage-restoration",
+  "name": "Do I need to leave my home during leak damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to leave my home during leak damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to leave your home during restoration depends on the extent of the damage, the type of water involved, and the specific restoration methods. For extensive water damage or cases involving contaminated water, temporary relocation might be recommended for safety and health reasons. Our team will advise you based on the assessment results and the scope of work, helping you plan for any necessary temporary adjustments, especially if specialized equipment needs to run continuously in your property in Star.",
+        "@type": "Answer",
+        "description": "You might need to leave your home depending on damage extent, water type, and restoration methods used."
+      }
+    }
+  ],
+  "description": "You might need to leave your home depending on damage extent, water type, and restoration methods used."
+}

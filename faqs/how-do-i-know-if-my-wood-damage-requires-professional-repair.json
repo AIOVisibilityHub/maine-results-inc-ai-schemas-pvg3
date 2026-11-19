@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-wood-damage-requires-professional-repair",
+  "name": "How do I know if my wood damage requires professional repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my wood damage requires professional repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider professional wood repair if the damage affects the structural integrity of the wood, such as deep cracks in support beams or extensive rot. Another indicator is if the damage is widespread, impacting a large area or multiple pieces of woodwork, making DIY fixes impractical. A professional assessment from Maine Results can help you understand the severity and recommend the most effective, long-lasting solution, preventing further deterioration and costly future repairs.",
+        "@type": "Answer",
+        "description": "Consider professional repair for structural damage, extensive rot, or widespread damage too large for DIY fixes. A professional assessment clarifies severity and effective solutions."
+      }
+    }
+  ],
+  "description": "Consider professional repair for structural damage, extensive rot, or widespread damage too large for DIY fixes. A professional assessment clarifies severity an"
+}

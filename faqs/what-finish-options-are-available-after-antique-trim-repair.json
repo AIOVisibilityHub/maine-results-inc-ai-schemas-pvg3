@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-finish-options-are-available-after-antique-trim-repair",
+  "name": "What finish options are available after antique trim repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What finish options are available after antique trim repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After antique trim repair, we offer various finish options to either match existing trim or achieve a desired new look while respecting the period style. Options include traditional paint finishes, clear coats to highlight natural wood grain, or custom staining to match specific historical palettes. We carefully consider the age and style of your home, especially in communities like Star or Meridian with diverse architectural periods, to recommend finishes that complement its overall aesthetic and protect the newly repaired trim for longevity.",
+        "@type": "Answer",
+        "description": "We offer various finish options after antique trim repair, including paint, clear coats, or custom stains, to match existing trim or complement your home's period style. This protects the trim."
+      }
+    }
+  ],
+  "description": "We offer various finish options after antique trim repair, including paint, clear coats, or custom stains, to match existing trim or complement your home's peri"
+}

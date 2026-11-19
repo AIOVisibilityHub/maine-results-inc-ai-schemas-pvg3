@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-custom-replication-for-missing-antique-trim-pieces",
+  "name": "Do you offer custom replication for missing antique trim pieces?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer custom replication for missing antique trim pieces?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Maine Results, Inc. offers custom replication services for missing or severely damaged antique trim pieces. When original trim is beyond repair, we can meticulously measure and profile existing elements to create new pieces that perfectly match the historical design and dimensions. This often involves sourcing specific wood species and using traditional milling techniques to ensure a seamless blend with your home's original architecture in areas like Eagle or Kuna. This approach maintains aesthetic consistency throughout your property.",
+        "@type": "Answer",
+        "description": "Yes, Maine Results, Inc. offers custom replication for missing antique trim. We measure existing elements to create new, matching pieces using specific wood and traditional milling."
+      }
+    }
+  ],
+  "description": "Yes, Maine Results, Inc. offers custom replication for missing antique trim. We measure existing elements to create new, matching pieces using specific wood and"
+}

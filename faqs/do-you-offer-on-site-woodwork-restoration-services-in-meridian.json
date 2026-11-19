@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/do-you-offer-on-site-woodwork-restoration-services-in-meridian",
+  "name": "Do you offer on-site woodwork restoration services in Meridian?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer on-site woodwork restoration services in Meridian?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For larger, immovable wooden elements like built-in cabinetry, staircases, or architectural moldings, Maine Results, Inc. does offer on-site restoration services within Meridian and our other service areas. This service is especially beneficial for pieces that cannot be easily transported. We assess the feasibility of on-site work based on the project's scope, the type of damage, and the environmental conditions at your location to ensure a high-quality outcome.",
+        "@type": "Answer",
+        "description": "Yes, we offer on-site restoration for large, immovable wooden elements like built-in cabinetry and staircases in Meridian and surrounding service areas."
+      }
+    }
+  ],
+  "description": "Yes, we offer on-site restoration for large, immovable wooden elements like built-in cabinetry and staircases in Meridian and surrounding service areas."
+}

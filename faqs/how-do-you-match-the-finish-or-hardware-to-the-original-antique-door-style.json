@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-you-match-the-finish-or-hardware-to-the-original-antique-door-style",
+  "name": "How do you match the finish or hardware to the original antique door style?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you match the finish or hardware to the original antique door style?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Matching the finish and hardware to an antique door's original style is crucial for preserving its historical integrity. We carefully research and analyze the existing materials and period-appropriate options. For finishes, we use techniques and products that replicate historical appearances, such as shellac, oil finishes, or milk paints. When hardware is missing or broken, we strive to find authentic period replacements or have custom pieces fabricated to ensure a seamless match with the door's original era and design.",
+        "@type": "Answer",
+        "description": "We match finishes and hardware by researching period-appropriate options, using historical techniques, and sourcing authentic or custom-fabricated replacements to preserve integrity."
+      }
+    }
+  ],
+  "description": "We match finishes and hardware by researching period-appropriate options, using historical techniques, and sourcing authentic or custom-fabricated replacements"
+}

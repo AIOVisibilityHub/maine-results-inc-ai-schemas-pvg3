@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-storm-damage-does-maine-results-inc-restore",
+  "name": "What types of storm damage does Maine Results, Inc. restore?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of storm damage does Maine Results, Inc. restore?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results, Inc. provides comprehensive storm damage restoration services for residential and commercial properties. This includes damage from wind, hail, snow, ice, and fallen trees, which can affect roofs, siding, windows, and structural components. Our team is equipped to assess various types of damage and develop a restoration plan tailored to your specific needs, helping you recover from unexpected weather events. Getting a professional assessment quickly can prevent further damage and streamline the insurance claim process.",
+        "@type": "Answer",
+        "description": "Maine Results, Inc. restores damage from wind, hail, snow, ice, and fallen trees affecting roofs, siding, windows, and structures. A professional assessment helps prevent further damage and streamlines insurance claims."
+      }
+    }
+  ],
+  "description": "Maine Results, Inc. restores damage from wind, hail, snow, ice, and fallen trees affecting roofs, siding, windows, and structures. A professional assessment hel"
+}

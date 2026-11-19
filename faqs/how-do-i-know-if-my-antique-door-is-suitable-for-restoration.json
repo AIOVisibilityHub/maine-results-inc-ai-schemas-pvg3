@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-know-if-my-antique-door-is-suitable-for-restoration",
+  "name": "How do I know if my antique door is suitable for restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my antique door is suitable for restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most antique doors with a sound structure, even if damaged, can be restored. We look for doors that retain their original architectural style and components. Factors like extensive rot, irreversible structural damage, or missing significant historical elements might make restoration more challenging or costly than replacement. A preliminary assessment helps determine if your door in areas like Garden City or Meridian is a good candidate for restoration, considering both its condition and your budget.",
+        "@type": "Answer",
+        "description": "Many antique doors are suitable for restoration if they have a sound structure and original architectural style. An assessment helps confirm suitability based on damage extent and cost."
+      }
+    }
+  ],
+  "description": "Many antique doors are suitable for restoration if they have a sound structure and original architectural style. An assessment helps confirm suitability based o"
+}

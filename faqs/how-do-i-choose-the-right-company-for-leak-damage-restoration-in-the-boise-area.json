@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-do-i-choose-the-right-company-for-leak-damage-restoration-in-the-boise-area",
+  "name": "How do I choose the right company for leak damage restoration in the Boise area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right company for leak damage restoration in the Boise area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a restoration company, look for local experience, proper certifications (like IICRC), and a proven track record. Ensure they offer comprehensive services from water extraction to reconstruction. Requesting multiple estimates and checking references are good steps. Maine Results, Inc. serves the Boise area, including places like Downtown Boise and the North End, bringing local expertise to each project.",
+        "@type": "Answer",
+        "description": "Choose a company with local experience, certifications, comprehensive services, and good references."
+      }
+    }
+  ],
+  "description": "Choose a company with local experience, certifications, comprehensive services, and good references."
+}

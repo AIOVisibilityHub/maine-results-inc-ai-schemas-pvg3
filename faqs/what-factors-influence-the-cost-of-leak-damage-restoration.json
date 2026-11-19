@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-factors-influence-the-cost-of-leak-damage-restoration",
+  "name": "What factors influence the cost of leak damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of leak damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of leak damage restoration is influenced by several factors: the extent of water saturation, the type of water (clean, gray, or black water), the materials affected, and the scope of repairs or reconstruction needed. Our initial assessment considers all these elements to provide an accurate estimate. For example, damage to specialized flooring or built-in cabinetry in homes in Eagle might incur different costs than simpler repairs in a Garden City property.",
+        "@type": "Answer",
+        "description": "Costs depend on water extent, type of water, affected materials, and needed repairs or reconstruction."
+      }
+    }
+  ],
+  "description": "Costs depend on water extent, type of water, affected materials, and needed repairs or reconstruction."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-types-of-wood-damage-can-maine-results-repair",
+  "name": "What types of wood damage can Maine Results repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wood damage can Maine Results repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maine Results can repair a wide range of wood damage, including scratches, dents, cracks, rot, and water damage. We address issues with interior and exterior wooden elements, such as trim, doors, cabinets, decks, and structural components. Our assessment will determine the extent of the damage and the most effective repair methods, whether it involves patching, structural reinforcement, or material replacement to restore integrity and appearance.",
+        "@type": "Answer",
+        "description": "Maine Results repairs scratches, dents, cracks, rot, and water damage to various wooden elements, both interior and exterior."
+      }
+    }
+  ],
+  "description": "Maine Results repairs scratches, dents, cracks, rot, and water damage to various wooden elements, both interior and exterior."
+}

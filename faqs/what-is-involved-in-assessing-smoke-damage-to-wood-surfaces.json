@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-involved-in-assessing-smoke-damage-to-wood-surfaces",
+  "name": "What is involved in assessing smoke damage to wood surfaces?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in assessing smoke damage to wood surfaces?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Assessing smoke damage to wood involves a thorough inspection to determine the extent of soot penetration, odor absorption, and structural integrity. Our team at Maine Results, Inc. checks for surface discoloration, deep staining, and charring. We also evaluate how porous the wood is, as this affects how deeply smoke residues and odors can penetrate. This initial assessment helps us decide between cleaning, restoration, or replacement of the affected wood.",
+        "@type": "Answer",
+        "description": "Assessing smoke damage to wood involves inspecting for soot, odor, and structural issues to determine the best repair method."
+      }
+    }
+  ],
+  "description": "Assessing smoke damage to wood involves inspecting for soot, odor, and structural issues to determine the best repair method."
+}

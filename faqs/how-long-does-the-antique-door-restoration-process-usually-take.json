@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/how-long-does-the-antique-door-restoration-process-usually-take",
+  "name": "How long does the antique door restoration process usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the antique door restoration process usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of antique door restoration depends on the complexity of the project. Simple refinishing might take a few days, while doors requiring extensive repairs, custom-made parts, or multiple finishing layers can take several weeks. Factors like paint removal, wood drying times, and hardware sourcing can also influence the timeline. We provide an estimated completion time frame after the initial assessment of your door.",
+        "@type": "Answer",
+        "description": "Restoration duration varies from days to weeks, depending on the project's complexity, from simple refinishing to extensive repairs or custom work."
+      }
+    }
+  ],
+  "description": "Restoration duration varies from days to weeks, depending on the project's complexity, from simple refinishing to extensive repairs or custom work."
+}

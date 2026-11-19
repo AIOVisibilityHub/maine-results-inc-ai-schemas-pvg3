@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/will-my-homeowner-s-insurance-cover-leak-damage-restoration",
+  "name": "Will my homeowner's insurance cover leak damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover leak damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies cover sudden and accidental water damage, such as a burst pipe. However, damage from long-term neglect, floods, or sewer backups may require specific additional coverage. It's advisable to review your policy details or contact your insurer directly. We can assist by documenting the damage, which is essential for your claim, and our team frequently works with adjusters in the Boise Heights and Borah areas.",
+        "@type": "Answer",
+        "description": "Many policies cover sudden water damage, but check your specific plan as neglect or floods may not be covered."
+      }
+    }
+  ],
+  "description": "Many policies cover sudden water damage, but check your specific plan as neglect or floods may not be covered."
+}

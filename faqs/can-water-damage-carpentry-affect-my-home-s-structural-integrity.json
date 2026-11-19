@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-water-damage-carpentry-affect-my-home-s-structural-integrity",
+  "name": "Can water damage carpentry affect my home's structural integrity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can water damage carpentry affect my home's structural integrity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, significant water damage to structural wood components, such as floor joists, wall studs, or roof trusses, can absolutely compromise your home's structural integrity. Prolonged exposure to moisture can weaken wood, leading to rot, reduced load-bearing capacity, and even collapse in severe cases. Prompt and thorough water damage carpentry restoration is crucial to addressing these issues and reinforcing compromised structures. Our team at Maine Results, Inc. prioritizes structural safety, ensuring that all repairs meet or exceed building standards to secure your home in areas like Kuna and Nampa.",
+        "@type": "Answer",
+        "description": "Yes, water damage to structural wood can compromise home integrity, leading to rot and reduced load-bearing capacity."
+      }
+    }
+  ],
+  "description": "Yes, water damage to structural wood can compromise home integrity, leading to rot and reduced load-bearing capacity."
+}

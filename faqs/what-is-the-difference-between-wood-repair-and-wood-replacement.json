@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-difference-between-wood-repair-and-wood-replacement",
+  "name": "What is the difference between wood repair and wood replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between wood repair and wood replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wood repair focuses on restoring damaged sections of existing wood using techniques like patching, filling, or structural reinforcement, preserving as much of the original material as possible. Wood replacement involves removing the damaged section entirely and installing new wood. The choice between repair and replacement depends on the extent of the damage, the type of wood, and the structural implications. Maine Results will evaluate your specific situation to recommend the most cost-effective and durable solution, balancing preservation with long-term integrity.",
+        "@type": "Answer",
+        "description": "Wood repair restores damaged sections, while replacement involves installing new wood. The choice depends on damage extent, wood type, and structural implications; we recommend the best solution."
+      }
+    }
+  ],
+  "description": "Wood repair restores damaged sections, while replacement involves installing new wood. The choice depends on damage extent, wood type, and structural implicatio"
+}

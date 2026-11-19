@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-cost-range-for-antique-door-restoration-services",
+  "name": "What is the typical cost range for antique door restoration services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for antique door restoration services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of antique door restoration varies significantly depending on the door's condition, size, wood type, and the extent of damage. Minor repairs and refinishing will be less expensive than extensive repairs involving structural work, replication of custom trim, or specialized hardware. We provide a detailed estimate after evaluating your specific door, taking into account the labor and materials needed to return it to its original beauty and function.",
+        "@type": "Answer",
+        "description": "Costs for antique door restoration vary based on the door's condition, size, wood type, and extent of damage. A detailed estimate is provided after evaluation."
+      }
+    }
+  ],
+  "description": "Costs for antique door restoration vary based on the door's condition, size, wood type, and extent of damage. A detailed estimate is provided after evaluation."
+}

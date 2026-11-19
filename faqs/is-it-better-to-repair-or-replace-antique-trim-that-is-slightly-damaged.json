@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/is-it-better-to-repair-or-replace-antique-trim-that-is-slightly-damaged",
+  "name": "Is it better to repair or replace antique trim that is slightly damaged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to repair or replace antique trim that is slightly damaged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For slightly damaged antique trim, repair is almost always the better option. Repairing preserves the original material and craftsmanship, maintaining the historical value and unique character of your home. Replacement, even with custom-milled trim, can rarely perfectly replicate the patina and aged aesthetic of original pieces. Maine Results, Inc. prioritizes skilled repair techniques to seamlessly integrate new work with existing elements, ensuring the historical integrity of your property.",
+        "@type": "Answer",
+        "description": "Repair is almost always better for slightly damaged antique trim, as it preserves original material, craftsmanship, and historical value. Replacement rarely matches the original patina."
+      }
+    }
+  ],
+  "description": "Repair is almost always better for slightly damaged antique trim, as it preserves original material, craftsmanship, and historical value. Replacement rarely mat"
+}

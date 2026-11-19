@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-is-the-typical-process-for-leak-damage-restoration",
+  "name": "What is the typical process for leak damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for leak damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Leak damage restoration typically begins with an assessment to identify the water source, type, and extent of damage. After securing the area, our team will extract standing water and then implement industrial-grade drying and dehumidification equipment. Once dry, we clean, sanitize, and perform necessary repairs or reconstruction. Understanding the full process helps set expectations for project duration and resource needs, particularly for properties in areas like Meridian or Boise which may have specific humidity challenges.",
+        "@type": "Answer",
+        "description": "The process involves assessment, water extraction, drying, cleaning, and repair to restore the affected area."
+      }
+    }
+  ],
+  "description": "The process involves assessment, water extraction, drying, cleaning, and repair to restore the affected area."
+}

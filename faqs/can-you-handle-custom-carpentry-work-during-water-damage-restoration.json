@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/can-you-handle-custom-carpentry-work-during-water-damage-restoration",
+  "name": "Can you handle custom carpentry work during water damage restoration?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you handle custom carpentry work during water damage restoration?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we can handle custom carpentry work as part of our water damage restoration services. Whether it's matching existing custom trim, recreating unique cabinetry, or rebuilding specific architectural elements, our skilled carpenters have the expertise to address your needs. We understand the importance of restoring your home's original aesthetic and functionality. When providing your scope of work, clearly specifying any custom carpentry requirements will help us ensure we accurately plan for materials and labor, delivering results that seamlessly integrate with your home's design.",
+        "@type": "Answer",
+        "description": "Yes, we can perform custom carpentry work during restoration, including matching trim, recreating cabinetry, or rebuilding unique architectural elements."
+      }
+    }
+  ],
+  "description": "Yes, we can perform custom carpentry work during restoration, including matching trim, recreating cabinetry, or rebuilding unique architectural elements."
+}

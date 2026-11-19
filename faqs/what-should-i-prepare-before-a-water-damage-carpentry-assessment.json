@@ -1,0 +1,27 @@
+{
+  "url": "https://maineresults.com/faq/what-should-i-prepare-before-a-water-damage-carpentry-assessment",
+  "name": "What should I prepare before a water damage carpentry assessment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before a water damage carpentry assessment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your water damage carpentry assessment, it's helpful to clear the affected areas of personal belongings and furniture as much as possible to allow our team unobstructed access. Documenting the visible damage with photos and noting down when the water incident occurred and how long the area was wet can also be valuable. Providing any historical information about your home's structure or previous repairs can further assist our assessment. This preparation allows our team at Maine Results, Inc. to efficiently identify all areas needing repair and provide an accurate scope of work.",
+        "@type": "Answer",
+        "description": "Before assessment, clear affected areas, take photos of damage, note when the incident occurred, and gather any relevant home history."
+      }
+    }
+  ],
+  "description": "Before assessment, clear affected areas, take photos of damage, note when the incident occurred, and gather any relevant home history."
+}
